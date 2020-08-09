@@ -1,0 +1,7 @@
+Pong Worz is another variation of classic pong game.
+
+This pong game introduces many new features into classic pong concept and offers several game modes.
+
+You have 4 game modes to play including classic pong mode.
+In Pong Worz you"ll be able to use weapons,control different type of paddles,play with two balls,pickup powerups and experience other interesting features like paddles moving with acceleration and inertia.
+

@@ -1,0 +1,5 @@
+Christmas Matchup is a Christian-themed Concentration game about the Bible. The cards are images relating to stories of the Bible, which the game attempts to educate the player about.
+
+The game is identical to traditional forms of the Concentration game. 1 to 3 players take turns turning over cards and trying to find matching pairs. The winner is the player with the most matches at the end of the game.
+
+The Windows version adds additional features, such as card descriptions and information on how to become a Christian.

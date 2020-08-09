@@ -1,0 +1,5 @@
+RAMSAK is a game similar to Pac-Man, but completely rendered in ASCII art. The player (a white smiling face) travels on a field, trying to collect all dots and symbols and escaping evil Red Faces. There are also destructible (light-blue) and indestructible (dark blue) blocks on field.
+
+There is only one playing field, but it is randomly generated: there is random block placement, in-field bonus symbols randomly restocked after each death, and, moreover, each Red Face can remove or place any symbol on board (including indestructible blocks).
+
+There are no different levels and the game plays on the same board until the player loses all lives.

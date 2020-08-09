@@ -1,0 +1,5 @@
+This game is based on the pen & paper RPG Tunnels and Trolls.
+
+After a 400 year long war, humans and monsters finally signed a peace treaty, and harmony returned to the Dragon Land... but not for long. The leader of the monsters, the mysterious Lerotra"hh, declared the peace contract was invalid. Monsters began to attack human settlements once again. The only one who can save the humans is the mighty wizard Khazan. Unfortunately, Khazan was imprisoned in his exile. This is where you, a group of brave adventurers, enter the picture - rescue Khazan and defeat the evil!
+
+You explore the world of Crusaders of Khazan from a top-down perspective, roaming wilderness areas, visiting towns, talking to people, receiving quests, and descending into dungeons. Battles take place on a top-down battle screen, on which you can move freely and attack enemies in turn-based style. The game features point-and-click interface with multiple windows.

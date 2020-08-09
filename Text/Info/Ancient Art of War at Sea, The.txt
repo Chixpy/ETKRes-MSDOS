@@ -1,0 +1,24 @@
+The Ancient Art of War at Sea is the sequel to the Ancient Art of War, where the battle campaigns now takes place in the vast oceans of naval combat.
+
+The game is a top-down semi real-time strategy game. The game has different speed/time settings (slower to faster), hence the player may  manage strategies while remaining in real-time mode. As its predecessor, the game comes with different difficulty settings, symbolized by several famous naval commanders and also comes with a game editor.
+
+Ship Types
+As its predecessor, the game introduces three different types of units in the game:
+
+- The frigate, small but fastest ship in the fleet.
+
+- The ship-of-the-line, the primary battleship in the fleet.
+
+- The flagship, well armed but slow. Flagships are the moving strategic flags that need to be captured in order to win the game.
+
+The aim of the game is to capture all the enemy flagships while protecting flagships under the player"s control. As added difficulty, new ships cannot be built, however enemy ships may be captured by boarding them.
+
+Main Map
+The main map provides information regarding friendly and enemy unit location, ports, and certain waters that may cause damage to ships that cross it. Reparations and supplies may be obtained in the many ports provided on the main map. Whether or not supplies or reparations may take place depend on the options or rules provided on the scenario setting.
+
+Certain types of waters may be dangerous for ships to sail across. There are two different types of waters: shallow waters and dangerous waters. The larger the ship, usually the more damage they take when they cross those seas. This however also depends on the options or rules provided on the scenario setting.
+
+Combat
+Sea combat enters a top down tactical map, where the player can control several ships at once. During sea combat, the aim of the game is to sink the opposing fleet by firing cannons or by boarding and capturing the ship.
+
+When to ships collide with each other, the combat screen enters the boarding screen. There are two different units provided when boarding:  swordsmen (pirates with cutlasses, for melee) and musketeers (ranged combat). The winner is the last man standing. Certain ports provide different type of pirate units, however this is not explicitly mentioned within the game.

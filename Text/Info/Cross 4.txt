@@ -1,0 +1,2 @@
+Cross4 is a two-player game similar to "Connect four". The purpose of the game is to cross four tokens of the same color in any direction.  To move a token, use the arrow keys, and to drop it, the space bar.  You can press the ESC key at any moment to quit the game.
+

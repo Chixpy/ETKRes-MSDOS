@@ -1,0 +1,5 @@
+"DISGO (Discover the Great Ones) is a new type of trivia game. The user is shown up to 7 clues that relate to the answer. After each clue, a letter is exposed in the answer. This is followed by a true/false question that relates to the clue. If the answer is not solved by the end of the seventh clue, the user may then try to solve it by guessing letters.
+
+Points are awarded for correct answers on the true/false questions as well as guessing the answer. The sooner the answer is solved, the more points you receive.
+
+This shareware version includes questions relating to presidents. Registered versions could be purchased which included country stars, baseball, movies, and states."

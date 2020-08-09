@@ -1,0 +1,2 @@
+Connect Four played against the computer.
+

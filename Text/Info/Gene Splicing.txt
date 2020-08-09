@@ -1,0 +1,13 @@
+A futuristic role playing game (RPG) located on the Moon Base, and you have been called in to investigate because an alarm has been sounded at the Skycorp Research Facility. DOS, requires 386/33MHz & VGA video card, plus mouse & sound card recommended.
+
+Gene Splicing is a futuristic role playing game (RPG) located on the Moon Base. As a member of the Space Security Agency, you have been called in to investigate because an alarm has been sounded at the Skycorp Research Facility.
+
+The author says: "The Space Security Agency has been created in an attempt to help monitor the ever increasing off world activity. However many costly problems have plagued the development of this new agency. And now with several political groups calling for its termination, the SSA"s future has come into jeopardy. In this game, you are the latest inductee into this agency. What perfect timing... Standing in your way are androids, warmachines, and an army of genetically engineered creatures!"
+
+Suitable for Windows (up to and including XP), Gene Splicing is a semi-graphical, semi-text, adventure game.
+
+It has all the usual features of an RPG \u2013 puzzles to solve, powerups, etc to obtain, bad guys to fight, etc \u2013 but offers a nice interface which even Windows-only users will find acceptable.
+
+Graphics are still very 16-color VGA, and you should not expect smooth animation, but these are some of the joys of using DOS-based programs.
+
+We liked Gene Splicing and found it an enjoyable way to waste an hour or three (or lots more!).

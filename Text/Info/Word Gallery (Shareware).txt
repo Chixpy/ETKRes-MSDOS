@@ -1,0 +1,5 @@
+"Welcome to WORD GALLERY, an educational program for children of age 3 and up. Even adults who are studying English as a second language could make use of WORD GALLERY as a learning tool.
+
+WORD GALLERY is an educational program designed to help children associate the printed word with the object it describes. It provides a set of colorful word/object flashcards. These flashcards are used to play a variety of games. Children will enjoy watching the screen fill with color as they use WORD GALLERY.
+
+Version 2.0 consists of five separate ""GAMES"". The new games will appeal to an older child. In addition, the old games have a fresh new look. Individual games are ""color-coded"" so children can easily select the one they want. The options can be changed directly from each game. New options allow keeping score and placing a time limit on the responses. An included utility program allows you to set the options to initial values and also to select which words you want WORD GALLERY to use. The EGA version of the pictures are colored from a larger set of dithered screen colors. Most importantly, the commercial version now includes 150 words/pictures!"

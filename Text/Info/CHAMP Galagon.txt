@@ -1,0 +1,8 @@
+CHAMP Galagon is a DOS shareware remake of Namco"s classic 1980 Galaga arcade shooter. Like the other games in CHAMProgramming"s series of arcade remakes, it closely emulates the original with two game modes, the original "Classic" and the enhanced "Champ" mode.
+
+The "Classic" mode plays and feels like the arcade machine, with very similar graphics, sound and gameplay: You play a spaceship, moving horizontally at the bottom of the screen, and shooting up at a bunch of Space Invaders-like aliens, which attack you in waves becoming harder and harder with the game. Every third level is a bonus round, where you may shoot at will for extra points.
+
+The "Champ" mode is an upgraded version of the classic game, featuring new graphics and gameplay elements. For example, you can increase your firepower by rescuing former comrades captured in enemy formations. There also is a new device called G-Bomb, used by the alien flagships, which you can get by destroying him and use against the enemy.
+
+Finally, the game features a variety of options -- one or two player modes, three difficulty settings, adjustable game speed, input by keyboard, mouse or joystick (Champ even released a "Champ cable" that allowed you to play the game with digital joysticks), and a high score table to round it all off. 
+

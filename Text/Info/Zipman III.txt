@@ -1,0 +1,1 @@
+Zipman III is a fairly simple platform game. The player controls a tiny red creature, whose objective is to get through each of the levels by running and jumping while avoiding various enemies and obstacles. The protagonist is defenseless and has to escape from enemies, unable to engage them in combat.

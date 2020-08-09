@@ -1,0 +1,3 @@
+SWIV 3D is a 3D remake of the original SWIV. It features a voxel-based 3D engine and mission-based play, as well as a myriad of new enemies and completely new style of gameplay.
+
+It plays a lot like a typical 3D shooter: you control a helicopter which you must navigate through landscapes, all the while shooting at buildings, vehicles and other planes or helicopters and fullfilling your mission goals.

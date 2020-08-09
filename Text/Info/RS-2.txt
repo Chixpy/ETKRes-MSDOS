@@ -1,0 +1,11 @@
+RS-2 is a side scrolling shooter, single player, with power-ups and large end-level bosses. Each level (or "act" as the game calls them) starts with a picture foreshadowing the end-boss ship.
+
+Power-ups come in the form of yellow balls with a letter in them, which appear when the player shoots jukebox-shaped enemies. The letter K is halve moons, B is target-seeking fireballs, S is scatter shot and L is laser beams (plaid laser beams).
+
+At the start of the game, the first two power-ups will equip the player"s ship with two pods, after that the player can get the different weapons. Picking up a power-up changes weapons of the dual pods. Unlike other shooter games, picking up more of the same power-up type does not make the player"s weapon stronger.
+
+There are no extra lives or continues, the player only has one health bar making it a difficult game to beat. Flying through enemies or geting hit by bullets decreases health, and when all health is gone the player"s ship crashes and it"s game over.
+
+The game is mainly a matter of remembering enemy patterns and memorizing when and where the enemies will appear. The movement patterns of the end bosses seem to be deliberately designed to deceive the player the first time he encounters them. For example, at one point the first boss will move up in a way that the player thinks he has to fly underneath it, at which point the boss will suddenly stomp down.
+
+NOTA: Pulsar F11 en la pantalla de la contraseña.

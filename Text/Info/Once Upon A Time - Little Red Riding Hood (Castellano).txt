@@ -1,0 +1,17 @@
+Based on Charles Perrault"s tale, the game is an interactive book for kids and another part in the Once Upon A Time series.
+
+The player can take the role of both Little Red Riding Hood and the Wolf. Depending on this choice, the game has different objectives.
+
+As Little Red Riding Hood, the player should:
+
+gather all items necessary to bring the cake to your Grandmother or find the houses of lost animals in a first-person perspective point-and-click view
+travel through the forest catching butterflies, or collect the nuts brought by friends, and avoid the wasps in a third-person perspective side view
+interact with the Wolf and knock him out with a stick in first-person perspective point-and-click view
+
+As the Wolf, the player should:
+
+gather all items necessary to go hunting or chase the animals out of their houses in a first-person perspective point-and-click view
+travel through the forest catching birds or squirrels to eat, and avoid his old foe Raven in a third-person perspective side view
+interact with Little Red Riding Hood and knock her out with his claws in a first-person perspective point-and-click view
+
+Three difficulty levels are available. After finishing the game, the player can replay the game starting from one of five "checkpoints".

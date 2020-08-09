@@ -1,0 +1,1 @@
+In Tank Wars you try to shoot the other tank at the other end of the hill. To do this you have to get the angle and the amount of force to put into the shot right. You can play single player against the computer or have two players.

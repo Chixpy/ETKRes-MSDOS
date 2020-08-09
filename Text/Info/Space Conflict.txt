@@ -1,0 +1,2 @@
+Space ship dueling. Supports up to 4 ships with one being computer controlled.
+

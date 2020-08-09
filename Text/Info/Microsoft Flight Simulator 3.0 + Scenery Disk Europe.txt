@@ -1,0 +1,1 @@
+A flight simulator featuring three different planes, over 100 different airports and maps for major U.S. cities.  Microsoft Flight Simulator also includes formation flying, a NAV system and a few other bells and whistles.

@@ -1,0 +1,7 @@
+This is the original release of Battlecruiser 3000AD. An updated version was released in 1998 as Battlecruiser 3000AD v2.0.
+
+In this space simulation game, the player takes the role of a Galactic Command officer and has command over a giant space ship, a Battlecruiser, and can control everything that happens on this ship. The year is 3000AD and Gammulan Empire is on its way to conquer the galaxy. This isn"t seen lightly by the Galcom who sends out their best commander (the player) to stop the threatening empire.
+
+The game is mostly played from the bridge, where the player has access to all the ship"s functions. There is three modes in the game: Free Flight, Advanced Campaign Mode and Xtreme Carnage Combat Simulator. The Free Flight mode lets new player explore the world and learn the game without having to fear being attacked. The Advanced Campaign Mode is dynamic and features a number of alien civilizations that influences what happens in the world. The Xtreme Carnage Combat Simulator mode allows players to train their combat performance.
+
+NOTA: Este perfil utiliza la versión de DOSBox de ykhwong.

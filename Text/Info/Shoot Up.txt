@@ -1,0 +1,4 @@
+Two player only. Attempt to shoot the other player.
+
+Botón derecho y seleccionat SHOOTE.EXE para el editor.
+

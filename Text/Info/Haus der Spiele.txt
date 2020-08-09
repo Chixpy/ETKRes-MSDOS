@@ -1,0 +1,17 @@
+Das Haus der Spiele is a collection of different games.
+
+- DUELL (checkers) 
+- MEMORY (think game)
+- H\u00d6HER STICHT (card play game)
+- PATIENCE (card play game)
+- PUZZLE (think game)
+- COLORS (think game)
+- SCHEITERHAUFEN (game at dice)
+- LOGIKA (4 little think games)
+- TREFFER (game od reaction)  
+- HASENLAUF (checkers)
+
+But you are not alone in the house. Also other players try its luck, finally you play about money.
+Try to reach the first place in the Highscore list and to get the money from the other players.
+
+Para que haya sonido, entrar a la nota musical, desactivar el sonido, y volverlo a activar.

@@ -1,0 +1,4 @@
+"Push Your Luck is a fast, straightforward dice game, in which players try to use a little strategy and a lot of luck in order to run up the highest score.
+
+Based on an old dice game with the lovely name of ""Drop Dead"", Push Your Luck includes a few twists which I think add to the fun."
+

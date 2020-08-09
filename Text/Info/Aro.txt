@@ -1,0 +1,7 @@
+Aro is a platform game in which the player controls the titular character, a small red creature, who must traverse stages primarily by running and jumping, at the same time trying not to get killed by the enemies. Aro has no means of defending himself; he cannot fight at all, and has to avoid any contact with the enemies. Three kinds of potions are scattered around the levels and can be collected to make Aro"s task a bit easier: the blue potion allows him to fly for a short while; the red potion enhances his jumping skills; finally, the green potion reverses the gravity of the level. There are no "lives" or time limits of any kind in the game.
+
+The registered version of Aro comes with 30 levels and a level editor, which allows players to create their own levels.
+
+Botón derecho y ejecuta Aroed para el editior de niveles...
+
+

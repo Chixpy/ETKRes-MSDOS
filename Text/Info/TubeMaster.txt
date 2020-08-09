@@ -1,0 +1,3 @@
+Arrange the pipes so the water reaches the faucet.
+
+NOTA: Este perfil utiliza la versión de DOSBox de ykhwong.

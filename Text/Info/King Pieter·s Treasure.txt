@@ -1,0 +1,1 @@
+This is an interesting local text-adventure, the aim of the game: to find the king"s treasure. 

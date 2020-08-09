@@ -1,0 +1,1 @@
+A mostly average VGA Tetris clone. The added feature of this one is that there is a large variety of different block shapes available (including as few as one block in each formation), or you can play using the normal shapes.

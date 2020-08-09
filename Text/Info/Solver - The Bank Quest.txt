@@ -1,0 +1,5 @@
+This is a board/puzzle game, which also has a background story. You are a money collector whose task is to escort money bags to banks. However, something went wrong, and you lost all your bags in different parts of the city. Now you have to collect them again and to deliver them safely to the banks. But you also have to do it quickly, for thieves and robbers will use any opportunity to take the money in their possession - and that"s why the game has a time limit.
+
+Different levels of the game represent different city districts. You have to "push" the bags in order to get them closer to a bank, but if you push them too far away, there"s no way of recovering them again. Agility isn"t very important here, it"s the strategy that matters! 
+
+The game is text-only, using the ASCII characters. Dollar-signs are used to represent the money bags.

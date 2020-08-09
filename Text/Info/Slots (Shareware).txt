@@ -1,0 +1,3 @@
+"This program is a slot machine, there are 8 areas to type your bet into, the default is 1 or what ever the last digit you placed in the box.
+
+If you get 3 cherries 13 times you get the bonus, or if you get 3 bells 7 times you get the bonus. The bonus goes up by 10 every time a seven or triple seven ends in the center box."

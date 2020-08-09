@@ -1,0 +1,6 @@
+CHAMP Ms. Pac-em is a DOS shareware remake of the classic Ms. Pac Man arcade machine. Like the other games in CHAMProgramming"s series of arcade remakes, it emulates the original with two different game modes, the original "Classic" mode and an enhanced "Champ" mode, and even a maze editor for making your own levels.
+
+The "Classic" mode plays and feels much like the arcade machine, with very similar graphics, sound and gameplay. You know what to do: Run through the labyrinth, munch dots and avoid those naughty ghosts. Some fruit hops around now and then, get it for bonus points! Ms. Pac-em even has the "cut-scenes" between some levels of the original arcade.
+
+The "Champ" mode has the same game play, but features more and different bonuses and levels. The maze editor provided is entirely mouse controlled, but somewhat difficult to handle. Finally, the game features a variety of options -- one or two player modes, three difficulty levels, adjustable game speed, input by keyboard, mouse or joystick (Champ even released a "Champ cable" that allowed you to play the game with digital joysticks), and a high score table to round it all off. 
+

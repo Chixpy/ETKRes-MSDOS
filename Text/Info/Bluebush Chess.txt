@@ -1,0 +1,5 @@
+Bluebush Chess is one of the first computer chess programs for personal PC computers and has large graphics where the chess board covers nearly the whole screen.  There are seven skill levels available plus postal chess.  
+
+You can play black or white pieces and control them by selecting them through keyboard cursor movement.  The computer can play either side or both for a demonstration game.  You can set up and start play from any board position. The computer can also select the best move for you anytime. When the computer is thinking out its move, the cross on the King"s crown flashes and the internal speaker sound is used to signify when each move is made along with the piece flashing before and after the move.
+
+The move list can be displayed on the screen, and you can also take back unwanted moves. The game has thousands of book opening moves and allows "en passant" pawn captures. All moves are checked for legality. The game is controlled via a menu system and you can change the play level, board setup, board color (15 different sets) and players color. In-game help info is also available.

@@ -1,0 +1,2 @@
+Roulette Version 2.0 is a game program that simulates the popular betting game just like Las Vegas. VGA Roulette is another shareware program from the VGA Fun Pak collection from JSSJ Software. If you do not have the VGA Fun Pak, it should be available on your BBS. As indicated by its name VGA Roulette requires a VGA Display.
+

@@ -1,0 +1,5 @@
+"KDPokAnl is actually two programs in one:
+
+1. The PLAY mode emulates those extremely popular (and addictive) video poker machines found all over the place in legal gambling areas.
+
+2. The ANALYSIS mode allows you to set up any hand and draw to that hand repeatedly to help you determine the best strategies while playing these video poker machines."

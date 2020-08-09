@@ -1,0 +1,11 @@
+The Alcor Trivia Pro Classic Star Trek (Star-Log I) is the first of ten Star Trek trivia games by The Alcor Group, Inc.. Each of them offers 150 questions about a special topic of the Star Trek universe. This one is about the adventures of the first Enterprise crew around Captain Kirk.
+
+The objective of the game, which can be played by up to ten players, is to answer as many questions as fast as possible to beat your opponents and to enter the hall of fame. For every question you have to choose the correct one out of four answers. A timer counts down and the faster you answer the more points you earn. Having answered correctly, additional facts and trivia are displayed.
+
+The game is completely adjustable. It offers changing all colours used in the game, deciding to use e.g. the timer or the hall of fame or not, setting how many questions should be played and how many can be answered incorrectly before the game is over for a player. Furthermore, there can be chosen between three different play modes: 
+
+The Number of Questions Game, which ends when the player has answered a set number of questions.
+
+The Number of Misses Game, which ends when the player has missed a set number of questions or has answered all questions correctly.
+
+The Casino Style Game in which a set number of questions has to be answered. The speciality of this game mode is that the player has to place a particular amount of his points before the question shows up. The game ends when all questions are answered or the player runs out of points.

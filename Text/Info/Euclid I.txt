@@ -1,0 +1,5 @@
+EUCLID is a series of three dimensional spatial strategy games. There are four games in total in the series. Each successive game is independent from the previous one, and each has its own unique features.
+
+EUCLID I: EUCLID I is the first of the series which builds on the idea of forming straight lines in 3-D space. Planes can be rotated to change the configuration of the lines, therefore changing the score.  
+
+Machine intelligence is build-in to bring the ultimate challenge of battling against a learning machine.

@@ -1,0 +1,7 @@
+Eres un detective que recibe un extraño encargo. Tu cliente acaba de comprar una casa encantada y es amenazado por el espíritu que habita en ella. Debes encargarte de resolver el caso, para lo que cuentas con la ayuda de tu compañero Raúl.
+
+Cuenta con gráficos realizados en 3D, de una calidad media, música AdLib inspirada en la famosa melodía de Expediente X y algunos pequeños fallos ortográficos (en su mayoría, falta de acentos).
+
+El parser es muy completo, contando con teclas-atajo para realizar un montón de acciones, y en tu inventario dispones de un mapa (del que deberás deshacerte cuando acumules demasiados objetos, aunque en los tiempos que corren siempre podrás capturar la imagen y tenerla disponible todo el rato).
+
+En cuanto al desarrollo, es un poco frustrante que, ya en la primera pantalla, abrir la puerta que da acceso a la mansión sea todo un desafío, pero...

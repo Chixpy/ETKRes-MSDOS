@@ -1,0 +1,6 @@
+America"s favorite purple dinosaur is about to be kidnapped by alien spaceships.  Your mission (should you choose to accept) is to stop the aliens and save the dinosaur.  To aid you in this, you are armed with a cannon which can fire weapons to shoot down the ships.  It can also launch rescue balloons to catch the dinosaur, in case he falls from a ship you shoot down.  For each ship you shoot, you are awarded 50 points. 
+
+For saving the dinosaur, you get 100 points.  If you should "accidently" forget to catch the dinosaur, you lose 100 points.  If you "accidently" press the wrong button and shoot him by mistake, you lose 50 points.  And if somehow, by some terrible mistake you should shoot the rescue balloon and drop him safely onto the train tracks... well, that could cost you many, many points.  
+
+To help you improve your game, the program keeps track of the five highest positive (and negative) scores.
+

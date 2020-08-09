@@ -1,0 +1,2 @@
+Walls Of Rome is a strategy title that involves real-time combat between the Roman Empire and their enemies, the Carthaginians and the Celts. The game can be played as either single battles, or as a string of related battles in a campaign. Units and locations are historical, with the foot soldiers, and artillery of the times. The game can be paused at any time to give orders, and time flow can be adjusted. The game has a built in editor, in which you can edit either the battle forces, or the map the battle will be played on, allowing for extended replay value.
+

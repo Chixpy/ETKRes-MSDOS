@@ -1,0 +1,3 @@
+Guide your train to safety through the mazes and passageway of TrainBall. Playing somewhat like a pinball game, you control your train with keyboard controls and must use bumpers switches and tunnels to pass the level. Bumpers and switches naturally will change your direction so you must think ahead and dangerous bombs must by avoided at all costs.
+
+Utilizing ASCII graphics, TrainBall also includes a map and train creation tool where you can choose their layouts and colours.

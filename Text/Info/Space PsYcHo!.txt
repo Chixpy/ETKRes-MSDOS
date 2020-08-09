@@ -1,0 +1,39 @@
+Platformer
+
+"Space PsYcHo!  (A cheap game by Hacksoft.)
+"Requirements:
+"386+
+"2 MB RAM (I think)
+"VGA
+
+"Stuff:
+
+"We are on the internet, with other wicked QBasic games like this!
+
+"http://members.aol.com/jeffereys/index.htm
+"
+"Hacksoft is not responsible for any damage that this program
+"may do to your computer.  We have tested this program constantly and no
+"problems have occured on ours.
+"
+"Info for people that post Q-Basic games: Feel free to post this game and
+"distribute it and stuff under one condition, it remains unedited.
+"
+"For those of you out there that want to use parts of the code, feel free,
+"whether it be the "moving" subs or the graphics, but put in a word that
+"the code was from Hacksoft.
+"
+"WHEW!  With that said, play this game.  It"s pretty fun, and the graphics
+"are better than some we"ve seen from other Q-Basic games.  There are three
+"levels, and it"s not the "same thing again just tougher"-type gameplay.
+"Space Psycho comes with built-in instructions, a weak story, and three
+"levels.  This game is kind of a twist between gore and humor.  Level 1 puts
+"you in the heart of the police headquarters and you use your shotgun to
+"blast your way out, taking civilians and other cyber-cops.  Level 2 takes
+"you onto the streets of Washington D.C., to continue the onslaught.  And
+"level 3, there you get to hunt down the president, and you"ll be
+"surprised to find out who the 24th century president is!  One of this
+"game"s cool features is that you can shoot up enemies again and again,
+"blasting off body parts after each shot.  (If you"re looking for a way
+"to relieve your anxiety or not always be the "good guy" in a game, then
+"give this one a try!)

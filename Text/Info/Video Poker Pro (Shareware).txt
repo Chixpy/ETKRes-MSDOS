@@ -1,0 +1,11 @@
+"Video Poker Pro emulates the newer video poker machines in Las Vegas. It contains features such as DEAL(hitting Return or Enter key when betting), DISCARD(F1-F5), STAND/DRAW(F10) and CANCEL(F9).
+
+Should you wish to place the same bet(from 1 to 10) just press the Return or Enter key when bet is asked for. A standard 52 card deck is used, and is shuffled after each hand(as in the casino).
+
+The display in the upper right hand corner shows the pay-off table. This pay-off table is standard in most casinos in Las Vegas, however slight differences do occur in older machines and in some casinos. In Atlantic City the pay-off varies more noticeably.
+
+Your running standing(how much you"ve won or lost) is displayed. The newer machines use CREDIT, which is displayed in the upper left hand corner of the screen and is unfortunately not a good indication of how you are doing. 
+
+If you win, the result is highlighted in the pay-off chart. If there is no highlight, you lost. Using a strategy table correctly will result in a 99.5 percent return. 
+
+Send in your $10, and RWM will provide you with the strategy table plus a disk which will allow you to alter the pay-off."

@@ -1,0 +1,8 @@
+This is an arcade style game for the IBM PC family of compatible computers.  It requires an EGA/VGA compatible display adapter (with a minimum of 128K of RAM on the display adapter; early IBM EGA cards will not work).  It will NOT work on CGA, MDA, or Hercules display adapters.
+
+This game was originally written in early 1988 and released in the spring of that year as freeware.  It was not finished at that time, due to lack of time, but was usable.  Snarf release 2.0 has been completely re-written from top to bottom, a welcome/demo screen added, and the game has been made easily extensible by non-programmers.
+        
+Anyone can add new "levels" to the game.  The game is structured to accept up to a maximum of 999 levels.  Should be sufficient.
+
+Snarf 2.0 allows the user to create new levels for the game.  If you create new levels that you would like to share with other registered users, send them to the author (on 5 1/4 or 3 1/2 disk).  If they"re sufficiently different and challenging, they"ll be included on future distributions to registered users.  Acceptance of at least three new levels for inclusion on the registered distribution will win the submitter a free update.  (This offer is valid ONLY to registered users.)  Previously registered users may get an update at any time for $5.
+

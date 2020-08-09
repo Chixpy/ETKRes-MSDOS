@@ -1,0 +1,4 @@
+Delvion Star Interceptor is a classical horizontal shooter where you must guide your small spaceship thorough diverse places in the space, meet asteroids, shoot at synchronized columns of enemies to get power-ups, enter spatial cities, etc.
+
+You will be able to select from 4 difficulty levels, and to choose your spaceship from 3 available (each one varying in speed and/or resistance). In-game there"s the possibility to select alternative shoots to the default one (and shields too, by the way), for which you would have a Gradius-like system of accumulating power-ups and just activating them if you wish. Also, at the end of each level you can buy weapons with the points you have obtained from killing enemies.
+

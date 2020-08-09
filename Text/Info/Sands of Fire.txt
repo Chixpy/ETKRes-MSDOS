@@ -1,0 +1,16 @@
+Sands of Fire takes you to the scorching deserts of Northern Africa, where you drive one of the available Allied tanks against the German forces of Erwin Rommel during the events of World War II. 
+
+The scenarios include:
+1) Training Course; 
+2) Two for U.S. tanks (Stuart, Sherman): 
+ - Kasserine Pass,
+ - Tunis & Bizerte;
+3) Four for British Tanks (Matilda, Crusader): 
+ - Taking of Tobruk, 
+ - Operation Crusader, 
+ - The Fall of Tobruk, 
+ - El Alamein.
+
+Before the simulation starts, you examine the map of the battle area and your current orders for the scenario and adjust your formation and supplies. During the simulation, you take control of the lead tank in a battalion of up to five tanks. You control your own tank via three first person views (Driver, Commander, and Gunner), and also dictate the formation and tactics of your team mates.
+
+Statistics and points achieved will be shown at the end of each scenario and will be saved for progress of your career.

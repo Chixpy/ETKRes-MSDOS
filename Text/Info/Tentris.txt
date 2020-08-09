@@ -1,0 +1,1 @@
+This is a Tetris kind of game. You will get 100 points for every full line that gets removed. You will also get points for every new stone from 1 to 5. The game speed increases every level till level 10. The game ends when no new stone can put at the top of the play field because there is no space left.

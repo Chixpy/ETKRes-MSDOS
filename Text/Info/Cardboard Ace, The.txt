@@ -1,0 +1,1 @@
+En realidad esto no es un juego, sino un programa que permite crerar bases de datos con nuestras colecciones de cromos deportivos :-)

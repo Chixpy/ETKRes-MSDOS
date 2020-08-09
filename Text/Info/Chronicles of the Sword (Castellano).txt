@@ -1,0 +1,9 @@
+Point and click adventure taking place in the England of King Arthur. You"re Gawain, a knight who has to save the kingom of the evil witch Morganna. 
+
+The game also features some fighting scenes, which you can do yourself or let the computer do for you.
+
+The graphics are pre-rendered, as well your character.
+
+NOTAS: Apretar CTRL+F4 cada vez que el juego pida insertar un nuevo CD-ROM.
+
+Este juego requiere emplear la versión de DOSBox de Ykhwong para solucionar un problema con las voces.

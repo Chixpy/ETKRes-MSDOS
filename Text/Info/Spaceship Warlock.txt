@@ -1,0 +1,5 @@
+The Terran Empire no longer rules the galaxy. After a pan-galactic battle that lasted a thousand years, mankind lost the war against the powerful Kroll Imperium, as well as their planet. The Kroll moved the planet from its orbit and hid it deep in Krollian space.
+
+You start your adventure in Stambul, a world dominated by the Kroll Imperium. You manage to leave this ugly world and board the spaceship Belshazzar, which is attacked by the pirate ship Warlock. You are captured and taken aboard the pirate vessel, where you will embark on a journey across the galaxy to search for Terra, your stolen planet. 
+
+Spaceship Warlock is a science fiction game with a 3rd-person perspective and simple mouse control. The player can pick up things one by one, and collected items are shown in the right bottom corner (the game doesn\u2019t have an inventory). Space Warlock was originally published for the Macintosh in 1990 and ported for the PC in 1994. Despite its age it includes music, voices and lots of animations, and it even runs on Windows XP.

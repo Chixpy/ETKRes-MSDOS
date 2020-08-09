@@ -1,0 +1,3 @@
+This third installment in the series inherits all the style of two previous games enhancing them with VGA graphics, voice-overs, more player stats, and longer league play. As previous games, it deals with both coaching and playing efforts with AI reacting reasonably to player"s tactics. The league play offers longer play value, and the game can be integrated with Hockey League Simulator 2, a simulation package for statistical-oriented minds.
+
+The gameplay may be adjusted for 3/4 or top-down view of the rink as well as for automatic/manual play/coach, showing/hiding animation sequences, controllers selection, etc.

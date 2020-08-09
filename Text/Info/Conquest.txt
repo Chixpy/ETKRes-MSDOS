@@ -1,0 +1,3 @@
+Conquest is a Risk clone which uses the same game rules as the original game. The player places his/her army on the given map and must conquer the majority of the lands to win. Attacks can be made to  adjacent lands and are made in turns. Once a battle is won the winning player can move their armies into the territory they just won.  Eight people can play via modem or shared keyboard or other players can be assigned to the computer"s AI. 
+
+One variation on the theme this game presents are two unique maps, one very geometric map and one map representing Australia where the entire game is played out in territories of Australia.

@@ -1,0 +1,3 @@
+"Mirror Maze is a game of planning ahead. You are a beam of light traveling through a grid. At each intersection of the grid lies a mirror, a gate, a pellet, or nothing.
+
+A mirror is represented by a diagonal line. Both sides of the mirrors are shiny. If you hit a mirror, you will bounce in the direction light would bounce."

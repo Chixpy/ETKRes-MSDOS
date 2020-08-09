@@ -1,0 +1,13 @@
+Charlie II is the successor of Charlie the Duck. Once again, you playing the duck Charlie across many different levels in this platformer.
+
+The game contains 18 levels, with different worlds. Some levels are hidden, and can only be accessed through a secret exit. After the end of 6 levels, you must face a boss.
+
+You begin your adventure by choosing the difficulty level you want to play (easy, normal, and hard). The difficulty level will affect how much treasure you must find in the level. If you exit the level earlier than finding the percentage needed, you have to replay the level, as long as you not succeed in finding enough treasure. In easy you must find 55%, in normal it"s 65%, and in hard it"s 75% of all coins & diamonds in the game. Some are visible, some are hidden.
+
+In a level, you have no weapons to defeat an enemy. However, you can jump on top of them, or using a shield to defeat them. Charlie has both health and lives, if you get hit by an enemy, you loose one of your hearts (the health). If you loose all of them, you loose a life. If you jump or fall on top of spikes, you immediately die. The initial number of hearts depends on the difficulty.
+
+Charlie can not only run and jump, he can only dive. This is needed to find hidden areas in the level.
+
+On his adventure, Charlie can find a lot of Power-Ups, mostly hidden in crates, which shatters if you jump on top of them.
+
+The following Power-Ups can you find: Heart (will increase Charlie"s health by filling up hearts), Super Heart (will give an extra heart; means when you had 2, you now have 3), Egg (will provide Charlie with an extra life), Letters (there are an A, a C, an E, a H, an I, a L, and a R in a level; if you find them, they will form his name and when you will have them all, you get an extra life), Shield (will make Charlie invulnerable for a moment).

@@ -1,0 +1,3 @@
+"Jigsaw Mania is played by moving pieces of a puzzle around a playing area until you"ve completed a picture. The game comes with a set of 12 pictures to choose from. The ShareWare version only contains 2 pictures.
+
+The user selects the size of the pieces used in the puzzle. A total of 9 sizes are available and range from a 12 piece puzzle to one that will contain 108 pieces."

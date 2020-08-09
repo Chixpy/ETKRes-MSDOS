@@ -1,0 +1,4 @@
+3D, real-time, World War II flight combat game. Based on the actual missions flown by the 357th squadron (the Yoxford Boys) and their P-51 Mustangs. The action takes place in skies over France, and Germany as the player flies from England on strike, combat, escort, and special missions. 
+
+Animated strafing `walks bullets" to ground targets. Includes campaign or Tour of Duty option as well as practice, and single mission modes.
+

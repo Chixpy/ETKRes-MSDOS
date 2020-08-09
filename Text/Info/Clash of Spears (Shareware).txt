@@ -1,0 +1,7 @@
+"Clash of Spears is a battle simulation. It is not a ""shoot everything that moves"" game; rather, you use cunning and military logic to outwit your opponent. As such, it is important that you understand the basics of game play.
+
+The game is made up of what are known as ""turns."" Each turn is a length of time (about 1 month). Players alternate turns so as to give the illusion of everything happening at the same time.
+
+In your turn you have total control of your armies. You can move your armies, recruit new members, invest in town commodities, change some tax rates, etc.. Your turn can last as long as you like.
+
+The game continues like this, with each player taking turns, until only one player is left alive (still has a castle). Obviously, the object of the game is to take over the other player"s castles, while defending your own at all costs."

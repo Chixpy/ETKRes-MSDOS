@@ -1,0 +1,9 @@
+"Well, this is a very simple game to play. The game is broken down into 10 rounds. Each round consists of 1 turn for you and 1 turn for the computer. During each round, the following happens:
+
+- The player up is give a RANDOM ""Death Number"" between 2 and 12.
+
+- Then the 2 random numbers between 1 and 6 are chosen. These two numbers are then added together and their sum is compared to the player"s ""Death Number."" If the two are different, the player is given the option of continuing the round. If the two are the same, then that player has ""died"" for that round and gains no points for it.
+
+- With each set of random numbers chosen, the score for that round increases by 5. If the player decides not to continue that round, they get the score for that round added to their game score (their overall score).
+
+The game continues until the 10 rounds are completed, and the winner is the player who has the highest score overall for the game! Pretty simple to follow, eh?"

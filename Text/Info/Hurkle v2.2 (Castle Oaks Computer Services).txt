@@ -1,0 +1,1 @@
+This is a game in which the object is to find a "HURKLE", a mythical beast, that is hiding in a 15 by 15 grid.  You are allowed 4 guesses to find it.

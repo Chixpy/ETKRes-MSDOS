@@ -1,0 +1,3 @@
+Ring Cycle is a sequel to Lords of Midnight III by Mike Singleton, using a modified engine from the previous game. The story and game world are based on Wagner"s opera "Der Ring des Nibelungen". The player plays the role of Siegmund, the son of Volsung on a quest to find nine magical objects and slay a dragon.
+
+Much like the other Lords of Midnight games, Ring Cycle is a hybrid game with elements of strategy and role-playing. It features a large world to explore, RPG elements, and open-ended gameplay. Multiple paths leading to the end game exist in addition to the possibility to enter buildings, explore dungeons, engage on multiple missions simultaneously and interact with characters and give orders to NPC followers.

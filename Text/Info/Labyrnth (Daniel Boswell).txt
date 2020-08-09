@@ -1,0 +1,2 @@
+A maze game which is littered with objects and obstacles.
+

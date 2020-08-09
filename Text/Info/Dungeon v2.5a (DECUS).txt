@@ -1,0 +1,3 @@
+This is the original Dungeon game, converted for the PC. Is a direct translation of the RT-11 version distributed in 1980 by DECUS.
+
+Commercial use is strictly prohibited. The commercial version is called Zork and comes in three parts, with added puzzles not present here.

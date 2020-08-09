@@ -1,0 +1,2 @@
+Find as many words as possible from 16 random lettered cubes. Features SVGA 640x480x256 screens, 3D-rendered graphics, digital sound effects, computer opponent, user dictionary, and more!
+

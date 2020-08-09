@@ -1,0 +1,3 @@
+SPELL GAMES is a game to help you practice spelling.  The game displays a word on the screen for an instant, then you must spell the word by typing it on the keyboard. 
+                                                                       
+The game pits your country against an opponent.  Each time you spell a word correctly, your team wins a point.  If you make a mistake, your opponent gains a point.  A board containing nine flags must be filled for one team to win.

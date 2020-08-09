@@ -1,0 +1,5 @@
+Pumpkins from all over the planet stole Earth"s candles to their home planet. Now, as an axe yielding maniac, you must destroy them and collect the candles back.
+
+This is a simple 2D action game where you must travel through mazes, kill pumpkins and collect candles. Its fame  comes from a newsgroup running joke about a (at the time non-existing) game that would be a Doom killer, but could not generate enough hype due to its horrible sounding name. Reportedly, the developers wrote it in 48 hours to capitalize on the joke.
+
+Smashing Pumpkins into Small Piles of Putrid Debris has the distinction of sharing the title for longest/weirdest game name with the game "Invasion of the Mutant Space Bats of Doom" (no relation other than name-weirdness). It is an interesting blend of action/arcade and puzzle elements, as you attempt to collect candles and, um, smash pumpkins. (No relation to Billy Corgan either heheh). Supposedly this game was written in 48hrs as a joke that started on a Usenet newsgroup (read more at the official Jumal Software webpage, or Mobygames).

@@ -1,0 +1,3 @@
+"Logical Deduction is a code breaking game in the classic style. A secret sequence is generated, and you must figure it out through logical process. You make a guess at the code, and receive information as to the accuracy of your guess. Based on this feedback, the solution can be logically deduced. The game will be familiar to many people, who have played both traditional table top and computerized version of this game. If you like Master Mind, you will LOVE Logical Deduction!
+
+Logical Deduction is the ultimate code breaking game. It has many configuration options and extras not found in other such packages."

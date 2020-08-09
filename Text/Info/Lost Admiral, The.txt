@@ -1,0 +1,3 @@
+A turn-based naval strategy game, take various ships with different capabilities and defeat the enemy fleet. Includes resource system, units from PT boats up to battleships and carriers, good AI (multiple levels), player history, and more. 
+
+

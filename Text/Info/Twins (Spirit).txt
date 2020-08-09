@@ -1,0 +1,1 @@
+Port de la recreativa del mismo nombre, emulada por MAME. Es probable que no se terminara jamás, porque no tiene sonido.

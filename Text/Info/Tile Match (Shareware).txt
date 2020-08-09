@@ -1,0 +1,2 @@
+Colorful EGA/VGA game based on concentration solitaire. Allows play with 1,2,3 or 4 players or a computer opponent. Many game options including different board sizes and scoring rules. Uses the same tiles as Mah Jongg solitaire.
+

@@ -1,0 +1,11 @@
+If this is your first encounter with a Cliff Diver text adventure, welcome.
+  If you"ve "read" Cliff"s first adventure, Crime To The Ninth Power, welcome
+  back. It"s a pleasure to have you here ... and/or see you again (?).
+
+               Section 1: Introductions are definitely in order
+
+  Hello, I"m Patrick Farley, computerized writer. This is my second attempt at
+  interactive fiction; an adventure novel entitled, Purchased Sight Unseen. In
+  this adventure, you"ll be introduced to Cliff Diver; a private investigator
+  living and working in San Francisco. I hope you and your friends enjoy play-
+  ing this as much as I enjoyed writing it. Thank you.

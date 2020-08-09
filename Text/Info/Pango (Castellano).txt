@@ -1,0 +1,5 @@
+Pango is a clone of the arcade game Pengo. The player controls Pango, a penguin like character, in a maze made of ice blocks which can be moved around or destroyed. Also in the maze are bees which chase the player and will cause a life to be lost if caught. 
+
+The goal is to clear all of the bees from the playfield in one minute by either squashing them with ice blocks or shocking them by pushing the walls at the edges of the screen. When a level begins, not all of the bees will be on the screen; some will be in egg form hidden in the ice blocks. Whenever a bee is destroyed, one of the eggs will hatch into a new bee. 
+
+The player can prevent eggs from hatching by destroying the ice blocks containing them. In addition to the normal ice blocks and those containing eggs, there are also three diamond blocks. These cannot be destroyed, however if all three of them are lined up then bonus points are earned. Lining up the diamond blocks in the middle of the playfield will earn more points than lining them up against the wall.

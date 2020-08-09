@@ -1,0 +1,9 @@
+Jisaeneun Dal is an interesting action platform game by Pantech, who usually published games by Mirinae Software. While the setting in medieval Korea is quite uncommon, the plot is just the typical damsel in distress fare: The hero Dusu"s village is attacked, and his girlfriend is kidnapped by some rich snob who wants to marry her. Dusu has to fight through six stages to get to the villain"s residence.
+
+Dusu fights with a wooden stick, which unfortunately doesn"t have a very wide range, but at least it can be used to block attacks by pressing the down arrow. There is also a limited supply of hatchets that are used as throwing weapons. At some points in the levels, it"s also possible to collect magic spells that are very destructive, but also take some charging time, which might put the hero in danger.
+
+Unfortunately the game"s mechanics are not that polished. The controls are responsive enough, but the hit detection is merciless, making it often next to impossible to avoid getting hit by enemies. Dusu also easily falls off the borders of platforms, rendering many jumps more annoying than they should be. The game also has some bugs, most importantly that only the fastest speed setting really works without problems (at least in DOSBox), but the fast speed also makes the game really hard.
+
+The graphics and music are quite nice and really drive home the oriental atmosphere. Technologically, the graphics are about the level you"d expect from a SNES game. Since Jisaeneun Dal is so much inspired by console games, it also only offers passwords to resume the game at a previously reached stage.
+
+NOTA: Este perfil necesita la versión de DOSBox de Ykhwong.

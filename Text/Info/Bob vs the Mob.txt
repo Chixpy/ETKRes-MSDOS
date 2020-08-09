@@ -1,0 +1,3 @@
+Essentially a limited Robotron clone (firing only in the direction of forward movement), Bob vs. the Mob sees your protagonist, a little stickman, running around a forested environment attempting to mow down the most assailants (more stickmen, apparently members of the criminal underworld) while expending the least ammunition, using a machine gun (for sharpshooters) and grenades (where a more ham-fisted approach is called for.)
+
+

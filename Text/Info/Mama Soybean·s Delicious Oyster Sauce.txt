@@ -1,0 +1,10 @@
+Mama Soybean"s Delicious Oyster Sauce is a small puzzle game for MS-DOS. It has 16 levels, stupid background story and clumsy DOS-era gameplay with eye-hurting CGA graphics.
+
+The game was written in C using OpenWatcom compiler.
+
+Controls:
+
+Arrow keys: Move
+Enter/Space: Select in menu
+R: Restart
+Escape: Quit stage

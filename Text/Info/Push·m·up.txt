@@ -1,0 +1,2 @@
+El juego Push"m"Up es un juego mezcla de arcade y estrategia. El objetivo del juego es llevar al personaje protagonista hasta la salida que se encuentra en  cada  pantalla. Para ello deber  colocar las piedras que van cayendo desde la  parte  superior de la pantalla. Solamente se pueden empujar piedras que se desplacen  a  un hueco libre y que no tengan piedras encima. El personaje sólo puede  subir  un nivel de piedras. El personaje también tiene bombas que puede usar  para destruir piedras que le molesten. Las bombas deben tener una piedra debajo para no caer.
+

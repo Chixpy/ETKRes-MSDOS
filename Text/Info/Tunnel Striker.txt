@@ -1,0 +1,4 @@
+3D vector graphics shooting game
+
+NOTA: Este perfil utiliza la versión de DOSBox de ykhwong.
+

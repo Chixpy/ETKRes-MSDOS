@@ -1,0 +1,7 @@
+Calamari Cubes is a single player freeware platform game featuring Nigel the Squid, aka "The Eight Armed Arnie" because he"s so tough.
+
+The story behind the game is one of two contrasting planets, Kreedo and Psico. Kreedo was a wonderful place whereas Psico was not. This made the inhabitants of Psico jealous and nasty so they hopped over to Kreedo and nicked all their food and belongings. Only Nigel the Squid is brave enough to travel to Psico and retrieve the stolen goods.
+
+The object of the game is to search the game area, leaping from platform to platform, looking for crates to collect and send home, which he does by picking them up and dropping them into a teleportation device. There are bad guys to avoid, power up items to collect, bombs, and other special items. Once completed each level generates a pass code which can be used when the game is restarted so that the player does not have to replay the early levels.
+
+The game is entirely keyboard controlled. It records high scores and has sound effects and a music.

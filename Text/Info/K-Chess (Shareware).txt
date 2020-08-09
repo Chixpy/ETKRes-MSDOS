@@ -1,0 +1,2 @@
+K-Chess for DOS v2.2 - An instructional chess program which shows it"s own calculations on screen as it works, helping you to play better. Includes various types of hints, one or two player or autoplay modes, multi level undo and redo, save and restore games, and print game listings. Full keyboard and mouse control, and online help. Hard to beat!
+

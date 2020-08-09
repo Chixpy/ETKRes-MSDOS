@@ -1,0 +1,1 @@
+This is an unreleased partially finished game by Diana Gruber. It is being distributed with source code for the benefit of game programmers and Fastgraph users. It features a recursive maze algorithm SVGA support EMS/XMS logical pages and constricted mouse support. Source code is in C and may be linked with Fastgraph or Fastgraph/Light.

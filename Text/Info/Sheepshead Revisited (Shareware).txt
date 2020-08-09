@@ -1,0 +1,18 @@
+The game of Sheepshead is a fast paced gambling card game, originally from Germany (where it is called "Shafskopf").
+
+There are several variations of the game.
+
+For example:  in northern Wisconsin it is common for clubs to be used as trump, but diamonds are usually trump.  Also, some persons play that the one who has the Jack of Diamonds is the Partner to the Picker,  while others play that the one who has the Called Ace is the Partner.  Some allow the calling of an Unknown card.  It is played variously as  3,4, or 5 handed, and is sometimes played with 32, 48, or 64 card decks.  Some play for
+Leasters, when everybody passes, others make the next game a Doubler.
+
+
+THIS VERSION
+
+--  is 5 handed.  You and 4 computer controlled players.
+
+--  32 cards (2 through 6 removed) with Diamonds, Jacks, and Queens as Trump
+
+--  Leasters are not played,  instead, automatic doubling of the next hand
+    occurs when all players pass.
+
+--  You may play Alone, or Call an Ace, Ten, Unknown for a Partner

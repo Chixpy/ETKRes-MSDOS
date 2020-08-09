@@ -1,0 +1,3 @@
+Pesten is a Dutch card game, I am told it is known in the rest of the world as UNO, but slightly different. 
+The object of the game is to get rid of all your cards, while the computer also attempts to do this. The game is over when a player has no cards left, so he/she wins, or the player has more than 22 cards. This is actually a rule made by myself, due to lack of cards space... (and my programming capabilities :-) but it is unusual to happen, so 22 cards should be enough. Maybe the game is not according to the rules how it should be played, but I just forgot them, and nobody can recall the real rules, so I "invented" them myself.
+

@@ -1,0 +1,2 @@
+Deathball Incarnate is an arcade/puzzle game from Nathan Fouts that has VGA graphics and no sound support. In this game you control a ball. You move it around a level running over guys to kill them. Then you have to draw their souls into the ball with the Soul Torch. Two player games are supported with both people using the keyboard. One player controls the ball, and the other one controls the men.
+

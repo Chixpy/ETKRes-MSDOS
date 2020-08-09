@@ -1,0 +1,5 @@
+The classic text adventure game structure involves a treasure hunt of sorts, collecting exceptional or valuable objects and amassing them in some central repository.  This is a game in much the same fashion, except that instead of objects, you recruit party members.  Oh yes, and did I mention: it"s 28 AD, your name is "Jesus", and your party members are the apostles?
+
+You will roam near and far over the hills and under the caves of Roman Judea running mundane errands, retrieving everyday items and completing missions to satisfy your would-be apostles.  There are no walking-on-water shortcuts and in fact, no instances of miraculous behaviour whatsoever.  Should you die in combat (a nasty, do-or-die piece of work, often producing apparently random results), do not expect resurrection.
+
+Combat?  That"s right -- despite some scriptural inspiration, a generous helping of Biblical diction and a conversational style heavily influenced by parables, completion of the game demands some distinctly un-Christian behavior: closer to The Last Temptation than to The Passion, the creed of WWJD will be insufficient to successfully guide the player through this game.

@@ -1,0 +1,3 @@
+Based off of the 80s game show of the same name, Press Your Luck allows you to play as one of three contestants in both a quiz round, and a shot at the "big board." Correct answers in the quiz round give spins for the board round. Spins give you the power to dictate whether you will use them yourself, to increase your total prize money, or force them on others in the hopes they will land on a Whammy. One Whammy will erase a contestant"s score, and four will remove them from the game.
+
+This represents the only "home game" version of the show commercially released, and follows the format of the show loyally. Its CGA graphics make it less flashy than the TV version, but the suspense of "pressing your luck" on the board rounds remain intact.

@@ -1,0 +1,3 @@
+There are two different Game modes, in Story Mode there are cut scenes and when you beat a level it becomes unlocked.
+
+Then there is Arcade mode, and in this mode you play for the best high score on the list. There are NO cutscenes in between levels.

@@ -1,0 +1,4 @@
+"Modem Battleship was a program I originally received through the AQ Bulletin Board that was supposed to run on the Commodore 64 computer. Well I tried it, and it didn"t work for me, so I went into it and rewrote much of the code. Now there is a new version of that Modem Battleship available for the Commodore 64 that has many improvements made to it. An IBM version of Modem Battleship seemed like another interesting project to work on.
+
+The neat advantage to this program is that only one person needs to be running the actual Modem Battleship program. Your opponent need only run a terminal program (like Telix, Procomm, or Q-Modem for example). You can also play Battleship with just about any computer at the other end. I have used this program with a Commodore 64 and a Commodore 128 with no problems at all!"
+

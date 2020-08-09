@@ -1,0 +1,4 @@
+Pixel Snake Gem Hunt! (PSGH!) is a revamped version of the ol" QB favorite "Nibbles" with fantastic graphics [by Qbasic standards] and Windows XP-compatible sound effects. Its a 5 level [primarily 2 player versus] romp in which you must outlast your opponant and collect as many gems/power-ups as possible. See in-game help for more information.
+
+Botón derecho y seleccionar PSGHNS.EXE para jugar sin sonido.
+

@@ -1,0 +1,3 @@
+"The goal in Sky Bombers is to destroy all enemies and their weapons. Once accomplished, you will enter the next level.
+
+You have three lives which must last through the entire game. When your health goes down to 0% you will lose a life, and your health will be restored to 100%, you will also have 100 bullets and fuel of 100%."

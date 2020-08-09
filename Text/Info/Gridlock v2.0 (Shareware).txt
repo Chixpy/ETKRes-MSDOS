@@ -1,0 +1,2 @@
+GRIDLOCK (ver 2.0) lets you control traffic in a section of a city. You can decide what kinds of lights or stop signs to use and set the timing of the lights. The computer provides the traffic. You can program 2 test cars. See if you can avoid gridlock !!!!!!!! For IBM or compatibles with 512K, EGA or VGA graphics, DOS over 3.2. No mouse or joystick required. Speed must be over 10 MHz and should be at least 16 MHz for best results.
+

@@ -1,0 +1,1 @@
+Paul Tidwell wrote this Dr. Mario clone while working for Ericsson in Sweden.

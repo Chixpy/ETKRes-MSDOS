@@ -1,0 +1,1 @@
+Kill the robots in this DOS 2D side-scrolling action platform game; features 6 levels, 256 colors, save/restore game (only at the start of a level), sound effects, etc. Requires VGA card & Pentium 100 CPU and must be run in pure DOS (not under Windows).

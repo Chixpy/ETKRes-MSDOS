@@ -1,0 +1,16 @@
+Popcorn is a  Breakout-style game. Your goal is to destroy bricks with a ball that bounces off a paddle you control. The layout of the bricks is different in each level. Some bricks are indestructible, forming areas that can "trap" your ball or force it to bounce off in a sharp movement, making it more difficult to hit it with your paddle. Other bricks take several hits to break. There are also enemies which float around the bricks and will deliberately bounce off your ball and disturb you. You have a certain amount of "lives"; each time you let the ball fall down the screen, you lose a life.
+
+There is a variety of upgrades (letters that fall down when you break certain bricks) to use in this game. Those upgrades are:
+
+Your paddle becomes longer
+Your paddle can shoot lasers at bricks and enemies
+The ball is glued to your paddle whenever it falls on it
+Three balls appear instead of one
+You gain an extra life
+The speed of the ball decreases
+All the enemies stop their movement
+A floor appears that prevents your ball from falling
+Your ball is sent into the opposite direction
+You are immediately transported to the next level
+
+An editor is included which allows you to create your own levels.

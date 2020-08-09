@@ -1,0 +1,3 @@
+"Spectrum Sorcery is a game of strategy.
+
+Two wizards are competing on a multi-colored playing field. Each of them is attempting to change the entire field to his own color by moving around the field and casting various spells. With each section of the field that they change to their own color they feel their own strength increase while their opponent"s weakens. But they must always carefully weigh their choices between improving their own position and weakening their opponent"s, lest their opponent grow strong enough to once again challenge them. The battle is not over until the last section of the board has been claimed."

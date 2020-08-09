@@ -1,0 +1,3 @@
+CASTLE OF KROZ is a game of exploration and survival.  The journey will take you through 20 dangerous chambers riddled with diabolical traps and hideous creatures.  Hidden in the deepest dungeon lies the priceless Crown of Kroz - your quest.  Use the numeric keypad to move the player in eight different directions.
+
+The chambers contain treasures, spells, traps, and other dangers.  The object of CASTLE OF KROZ is to collect as much treasure as possible while advancing to the highest levels.  Touching an object for the first time will reveal a little of its identity (a description is displayed at the bottom of the screen), but you must decide how best to use or avoid an object.

@@ -1,0 +1,2 @@
+KDpoker is designed to emulate those extremely popular (and addictive) video poker machines found all over the place in legal gambling areas.
+

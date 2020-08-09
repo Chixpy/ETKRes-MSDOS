@@ -1,0 +1,8 @@
+"Zart is a variation on the "pillbox" and "bombard" games of yore.
+
+Zart requires two players for regular play, or just one player for practice. There is no computer-controlled player during practice.
+
+Zart features real time "head-to-head" play. The controls are very simple yet will take even the most seasoned video game player a few minutes to get used to."
+
+In 2007 the author made this game freeware (was previously shareware).
+

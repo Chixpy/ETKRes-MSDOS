@@ -1,0 +1,4 @@
+The year is 2005. Mortal Coil is the code name of a covert agency of crack undercover mercenaries funded by first world governments. Its role: to investigate a series of sabotages and terrorist attacks on key research installations. Their brief: find the terrorists and terminate.
+
+The game itself is a team-based first person shooter with a real-time waypointing system allowing players to give missions to his/her teammates, strategical commands like breaching rooms from different situations like doors, corners, t-junctions and open areas. The AI of the teammates allows them to react to enemy movements and other targets. With an arsenal of 11 weapons and other equipment, you have to eliminate 18 different types of enemies in 7 different and long missions.
+

@@ -1,0 +1,9 @@
+"The Game of ACluSl (A Clues Solution)
+
+Thank you for taking the time to look at this game. I am sure that you will find it easy to play but at the same time, challenging. This game is best described as a cross-breed. It is somewhat like Wheel of Fortune, somewhat like Jeopardy, and also like Trivial Pursuit (and probably a couple of others that I didn"t name).
+
+The goal is simple. Solve a puzzle by guessing the letters that comprise it (Ala Wheel of Fortune). However, each puzzle consists of 2 parts: a set of related clues; and a solution category (Ala Jeopardy). The clues identify the solution with each clue making it more obvious (usually). It helps to have a good memory and know a bit of trivia (Ala Trivial Pursuit).
+
+Up to 4 players can play against each other and statistics are maintained for number of games, number of puzzles solved, number of clues solved, maximum and minimum number of misses, and misses in the current puzzle. These statistics are reset at the beginning of each game or if the number of players is changed in the middle of the game. A future version may save these statistics to disk for posterity.
+
+The game is distributed with 4 puzzle files. Registered users can also get additional puzzles (see registration section). Puzzles created by others may also be available to you via bulletin boards or shareware services (how you can create your own puzzle files is also covered in the registration section)."

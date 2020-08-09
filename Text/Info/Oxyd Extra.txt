@@ -1,0 +1,3 @@
+The gameplay is very simple: you control a small black ball with your mouse, you have to bounce it against blocks which display a symbol. Now you have to find the matching symbol. The game can be seen as a mixture of Marble Madness and good old Memory. The levels get more and more complex later.
+
+The 2007 Windows release was released through the combined efforts of Dongleware, Mad Data and the programmer Jens Duttke. An updated release, it adds 10 new single player landscapes and 20 two-player landscapes to the game.

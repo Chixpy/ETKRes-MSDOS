@@ -1,0 +1,2 @@
+This revision of Orion Odyssey is a graphical arcade style game which involves a space flier (Wally, as he has become to be known) who flies around using a jetpack strapped to his back and tries to accumulate as many points as possible while destroying alien beings, finding and using artifacts, and monitoring his life status, fuel consumption, ammo etc.
+

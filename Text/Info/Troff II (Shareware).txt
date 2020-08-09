@@ -1,0 +1,17 @@
+Have You ever played TROFF ?  If not,  see PsL July  1990 Games disk #2. But here is the latest version of this game - TROFF - 2 which gives You some new rules,  more  sophisticated EGA 256k graphics and excellent BOSS key (pause for laugh - don"t use it often !) and, of course, more challenge.
+     
+Someone can ask me:
+
+- This is merely old SNAKE game from ISKRA-226 -the best of IBM-noncompatible computers... (why not?)
+     
+or:
+
+- This is BLOCKADE from ATARI-800XL computer... (maybe)
+
+or:
+
+- Hell only knows what it is !!!  (you"re right!)
+
+But I"m not sure that it"s so bad.  Because it is known, that simple games are often very playable. You can notice that the game environment is much better than the  game  itself.  I will agree  with  You,  because TROFF - 2 is a good example of some features of excellent  Turbo  Pascal  graphics  with  the combination of the weak sense of humour.
+     
+Thus, give up your work, turn your TV and VCR off and run TROFF.EXE!

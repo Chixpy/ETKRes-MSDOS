@@ -1,0 +1,11 @@
+Boxer Rebellion is a puzzle game with a bit of action. The game is played on a board with several boxes defined by lines. You control a character that can only walk on those lines. The objective is to travel completely around each box.
+
+The problem here - and what brings some action to the game - is that you have opposition. Another character is also moving along the lines and you"ll lose if it touches you.
+
+The game features 9 levels. In the first 5 you have to avoid only one enemy. The last 4 are harder, as there are two enemy characters moving around trying to get you.
+
+Besides simply running away from them, there are two other ways to escape, but you"ll lose points if you use them. First, you can jump to another place in the board. Second, you can cut temporarily the line behind you, making it impossible for your enemies to catch you from that direction.
+
+Each box has a number inside. Those are the points you win when that box is "captured". You also gain points by completing levels depending on the time you took. The faster you are, the more you win.
+
+You can play Boxer Rebellion with the keyboard or the joystick - one of the first games supporting the latter.

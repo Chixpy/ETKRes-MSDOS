@@ -1,0 +1,3 @@
+Kicks is a French Qix clone. As in Qix the player must "catch" a percentage of the game screen (70% in this case) to pass to the next level. Of course, the player must avoid, or capture, all the enemies that go through the game zone. There are three enemy types along the game: "Rollers", "Kicks" and "Suiveurs".
+
+NOTA: El juego se controla con las teclas I-J-K-L.

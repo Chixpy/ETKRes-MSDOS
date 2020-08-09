@@ -1,0 +1,1 @@
+A turn-based aim and shoot game like Scorched Earth but in 3D. Well, pseudo 3D. The battleground is displayed with a side and top view port. The game can be played only against another human opponent. I found aiming a very tedious thing to do. The game screen is too confusing and poorly designed. Simple graphics and no sound.

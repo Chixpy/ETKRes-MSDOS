@@ -1,0 +1,11 @@
+This is a Super Mario Bros. clone with six levels, written in Turbo Pascal. I wrote this game to practice VGA programming. My goal was to create a PC game with parallax scrolling layers that would run smoothly on my 486 computer (25 MHz). I didn"t plan to release this Mario game, instead use the engine to make more original games.
+
+However, an old beta version of this Mario game (with only four levels, unfinished) somehow ended up being spread around. I was very surprised to find someone selling disks with my Mario clone at a computer fair years later! I bought one to examine the contents at home. What I saw made me really furious: someone had actually changed the game into shareware, modified the executable, added some doc files and even a registration form, asking people to send $15!
+
+Seeing other people make money from my games like this took away my motivation for games programming for a while. I kept finding this hacked version on shareware CD-ROMs and Internet sites.ly, I decided to release the complete source code of this game, so people can at least learn from it.
+
+The game was originally written in Borland Turbo Pascal 6.0, which supports inline assembly. Because some people don"t have TP 6.0, I have also made a version of the source code for TP 5.5, which is available for free at Borland"s Museum.
+
+- Mike Wiering -
+
+Controles: Flechas: Movimiento Control: Corre Alt: Salto Barra espaciadora: Fuego

@@ -1,0 +1,1 @@
+In this game, you don"t manoeuvre the blocks (which are here arrays of spheres), instead you rotate your fortress. Complete rings will vanish.

@@ -1,0 +1,7 @@
+Snoopy"s Game Club is a small collection (3 in total) of mini games for kids:
+
+SNOOPY"s Animated Puzzles - are jigsaw-puzzles of animated pictures featuring Snoopy and the gang.  You can choose how many pieces to break the picture in (from 4 - 64 pieces) and when completed, you will get to see a short little cut-scene.
+
+CHARLIE BROWN"s Picture Pairs - concentration-like card game where players flip over cards that are placed face down and try to make as many matches as possible.  You have a choice of choosing between picture cards (cards that have Peanut characters  on it), or alphabet cards. You can choose to play by yourself, against a friend or against the computer.
+
+WOODSTOCK"s Look-Alikes - a matching game where many similar but not quite-the-same objects are displayed and you have to match the two that are exactly alike.  You can select the number of objects displayed (18, 16 or 12).  

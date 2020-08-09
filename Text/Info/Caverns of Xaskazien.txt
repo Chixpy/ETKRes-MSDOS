@@ -1,0 +1,5 @@
+A one player hack and slash role-playing game, this one depicts an adventurers struggle through thirty levels of randomly generated dungeons to confront the arch-demon, Xaskazien.
+
+This fun little retro, turn-based, tiled RPG was written by Jeff Sinasac for Little Devils Incorporated. The original platform was DOS and it relies heavily on Borland libraries (Borland Graphics Interface = BGI).
+
+The original DOS-based version is Freeware and was put up on MobyGames, The UnderDogs and other similar sites, but no longer seems to be available for download. I have put together my own download of the DOS-based version that will probably work except for sound (I didn"t include the required DOS sound drivers...). If you want to see the original DOS game, click the below button:

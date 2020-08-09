@@ -1,0 +1,1 @@
+Choose a character and then repeat what color squares he appears on.

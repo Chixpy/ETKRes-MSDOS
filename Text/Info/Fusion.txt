@@ -1,0 +1,3 @@
+Fusion is a game of falling multicolor bricks. Connect blocks of the same color to make them disappear. Critical mass is level plus two. So on level one, you need three blocks to make them disappear. On level two, you need four. On level nine you need eleven blocks. Big piles are worth more points than several smaller piles. Connections may be horizontal, vertical or diagonal.
+
+On level two and above a special chain reaction rule is in effect. The energy created by a fusion reaction lowers the threshold for any blocks remaining. For example, on level three when you fuse a pile of five blocks, all piles of four also fuse. If a pile of four goes, the program checks for piles of three. Piles of two are never set off.

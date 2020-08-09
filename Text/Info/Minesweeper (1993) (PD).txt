@@ -1,0 +1,2 @@
+Minesweeper for DOS! The DOS version of the popular Windows game of mind-bending logic. EGA/VGA, Pascal source code included.
+

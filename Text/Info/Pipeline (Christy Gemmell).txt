@@ -1,0 +1,2 @@
+Connect houses with a pipeline in a limited amount of time, while avoiding "earthquake areas"
+

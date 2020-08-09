@@ -1,0 +1,3 @@
+Puzzle presentado al concurso X2 Game Programming Contest 1995, ganador del premio al mejor juego nuevo de un solo creador.
+
+NOTA: Necesita la versión de DOSBox de Ykhwong.

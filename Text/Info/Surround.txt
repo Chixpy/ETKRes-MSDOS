@@ -1,0 +1,3 @@
+Surround is a simple game in which the goal is to survive for the longest period of time without crashing your wall into another.  The walls which you may crash into include those of the surrounding playfield, those of your opponent, or those of your own.  You must have EGA graphics or better to run this program!
+     
+There are two options for choice of opponent: play against another player or play against the computer.  The computer provides a relatively good strategy, although there are several loopholes designed to make the game more playable.

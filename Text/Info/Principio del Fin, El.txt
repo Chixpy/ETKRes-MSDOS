@@ -1,0 +1,5 @@
+"El principio del fin" is a Spanish old amateur adventure game where you are Alfredo, a loser wandering through the streets as a beggar. One day "Ricardina" his fairy godmother appeared and gave to him his most wanted wish: Going back to school and rearrange his life as a successful student.You will have to use all kinds of methods to pass all the exams (stealing exams, fooling other students, and a long list...)
+
+The game is 1st person perspective and played by mouse. The interface is a common adventure game one, with all the typical actions listed (Look, get, talk, and so on).
+
+The game was only released in Spanish.

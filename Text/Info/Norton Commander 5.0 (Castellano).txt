@@ -1,0 +1,1 @@
+Norton Commander is a MS-DOS based file shell that was widely popular due to it"s two column design. You could easily copy and move files between one folder or another, execute DOS commands and more. It competed against many other file managers including Gazelle Q-DOS and Xtree

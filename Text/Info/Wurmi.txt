@@ -1,0 +1,1 @@
+An ASCII puzzle/action game on German with some similarities in gameplay to Nibbles. Not all the levels play the same. The game plays too jerky and it"s rather discouraging. If you die you have to start the level all over. PC Speaker sound effects.

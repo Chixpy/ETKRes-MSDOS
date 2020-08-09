@@ -1,0 +1,3 @@
+"Munch Man is our version of the arcade classic game but with a twist! Munch the dots and avoid the ghosts but this time one of the ghosts can be controlled by another player! Features include: head-to-head gameplay, numerous mazes and super cheats!
+
+To speed up or slow down the game, use the "+" and "-" keys located on the keypad. To put the game into CHEAT MODE, press "ALT-I-A" at the same time. You may then press "F1" for free men, "F11" for Invincibility, "F12" to cancel Invincibility, and ENTER to warp to the next level. "

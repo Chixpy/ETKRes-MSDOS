@@ -1,0 +1,3 @@
+A traditional space shooter involving 42 rounds of battle against invading alien ships (hence the name).  Each round of aliens has different movement and firing patterns.  
+
+Against such odds, you are provided with two weapons:  An auto-fire cannon, and a single-fire targeting laser.  Extra ships and shots for the targeting laser are earned one per successful completion of a round (the auto-fire cannon has unlimited ammo).

@@ -1,0 +1,3 @@
+In a free literary adaptation of Shakespeare"s Hamlet, this game offers the opportunity to explore the namesake castle from the play to collect as much treasure as possible and deposit it at the town hall of the nearby village.
+
+As with the other Temple Software games, this is a simple text adventure, with most puzzles simply consisting of giving the right item to the right person. Two-word commands are entered to navigate through the world that contains lots of purely decorative rooms.

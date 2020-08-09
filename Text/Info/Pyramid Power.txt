@@ -1,0 +1,1 @@
+This simplistic clone of Q*Bert features familiar gameplay -- the player must move around on a pyramid changing the color of blocks by stepping on them while avoiding monsters and falling rocks.  There are even teleport disks on each side of the pyramid which can transport the player back to the top in an emergency.

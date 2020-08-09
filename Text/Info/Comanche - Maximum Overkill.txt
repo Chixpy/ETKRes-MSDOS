@@ -1,0 +1,7 @@
+Comanche: Maximum Overkill is the first helicopter simulator to showcase NovaLogic"s Voxel engine, which renders organic and lifelike terrain and realistic looking objects that no other game using polygons could match.  It features the Army"s experimental RAH-66 Comanche light attack helicopter (LHX).
+
+The game features a simple flight model and allows the player"s helicopter to take much more damage than it could in reality.  Additionally, weapons on the Comanche feature deadly accuracy and power.  
+
+There are over 20 scripted campaign missions, similar to all other NovaLogic simulations.
+
+

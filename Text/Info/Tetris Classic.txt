@@ -1,0 +1,7 @@
+An enhanced remake of the classic puzzle game Tetris in which you control the position and rotation of falling blocks and try to assemble and clear lines of blocks as they fall before the play area gets flooded.
+
+The release doesn"t make any changes to the original formula, but instead brings the game up to date technology-wise and features completely new VGA graphics and full digitized sound, with new backgrounds and tunes based on Russian mythology and folk tales.
+
+Additionally the game features 2-player simultaneous gameplay, with both competitive (in two separate play areas) or cooperative (with two sets of falling pieces in an extra-large play area) modes.
+
+Nota: Al arrancar, escoger tarjeta gráfica VGA y sonido Sound Blaster.

@@ -1,0 +1,7 @@
+AM"s Mini Golf 3D is a shareware crazy golf program written for DOS for up to 9 players.
+
+After each hole is complete the game shows the shots per hole and the cumulative total of shots taken thus far.
+
+The shareware version consists of 9 holes of increasing complexity. A thin blue line shows the direction the putt will take, at the start of each stroke this always points to the hole. The power of the shot is controlled by holding down the space bar, a white column on the left of the screen indicates how much power is being used. Once the column reaches maximum power the stroke is played.The game also features sound effects, bees randomly buzz, planes and helicopters randomly fly overhead and birds occasionally twitter.
+
+The full, registered version, consists of an 18 hole course, hole and course designer software capable of building a course of up to 99 holes, and options to play any hole on any course developed by anyone using a registered version of the game.

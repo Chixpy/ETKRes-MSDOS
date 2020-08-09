@@ -1,0 +1,1 @@
+Colour Match is a game/program where you have to match the colour of the background area of the screen with the circle in the middle. It is fun and challenging, and constantly varies with it"s random choice of colours from a palette of over 250,000.

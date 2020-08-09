@@ -1,0 +1,4 @@
+Your mission is to lead pac in his adventure along the fifteen default stages where it is needed to be very patient and clever to clean all them of balls. Pac-Man clone.
+
+NOTA: Botón derecho y seleccionar edimix.exe para el editor.
+

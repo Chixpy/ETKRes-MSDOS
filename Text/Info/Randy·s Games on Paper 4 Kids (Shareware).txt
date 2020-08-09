@@ -1,0 +1,11 @@
+"The Maze Module
+
+This module is designed to create mazes of varying degrees of difficulty. The maze algorithm is a function of steps in random directions.
+
+The Word Search Module
+
+This module is designed to create letter arrays with a random appearance. Inside this array are words positioned horizontally, vertically, and diagonally. Along with these random directions the words can also be in reverse, if allowed. The words are supplied by the user in the Words List.
+
+The Cross Word Module
+
+This module is designed to create Cross Word puzzles based on the - pairs input by the user (see Word & Description below). The algorithm tries many of the word crossing combinations, depending on the Cluster Size."

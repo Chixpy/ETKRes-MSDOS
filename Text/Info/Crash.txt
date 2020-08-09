@@ -1,0 +1,5 @@
+Crash is a Tron-like game distributed according to the freeware (for the DOS version) and shareware concepts (for the Windows version).
+
+Depending on these versions, human players can be up to two (DOS) or four (Windows), against up to ten (DOS & Windows) computer-controlled players.
+
+The year is 2234 and the government invented crash races to control the people, according to the story of this game. Futuristic cars are equipped with rockets and turbos and all you have to do is to stay alive until the end of the race, since there will be only one winner, that will take all the money offered by the United Planet Federation (UPF).

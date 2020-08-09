@@ -1,0 +1,3 @@
+Flynn Sprint is a fast-paced action puzzle platform game. You have to race trough mazes of different shapes and collect all green jewels to find the exit. The mazes are full of creatures that try to steal your jewels and harm you on contact. You have to kill these creatures to regain the stolen jewels.
+
+The game is quite similar to Lode Runner, but with a new twist. It has a science-fiction theme and includes puzzles with teleporters, switches and doors, and some other enhancements.

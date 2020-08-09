@@ -1,0 +1,1 @@
+DoubleSpyGuy, due to its nature as a text-mode sidescrolling jumping game, features limited graphics, sounds, and gameplay. The object is to collect all of the boxes (ASCII char #254 if you"re interested) on each level while avoiding (jumping over) the enemies. It does play relatively well for an ASCII jumping game, and also includes a level editor to create your own levels.

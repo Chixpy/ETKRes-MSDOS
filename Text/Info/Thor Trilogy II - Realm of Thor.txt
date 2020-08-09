@@ -1,0 +1,13 @@
+You find yourself trapped deep within Thor"s domain. Your mission is to locate three missing items that are scattered throughout the place. The missing items are the Female-item, the Heart-item and the Male-item.
+
+The player controls a smiley face through an ASCII-based world. There are many enemies in that world that you have to shoot during your adventure. And you can collect other items like potions, food, coins, shields and keys to sustain your existence .
+
+One of the game"s features is the freedom of movement: you are allowed to reenter any level. You may find yourself going back up a level from a newly discovered location, and winding up in a completely new area.
+
+The trilogy is divided into three episodes, the first of which was originally available as shareware and the subsequent ones upon the payment of a registration fee (all now available as freeware):
+
+1 - Caves of Thor,
+2 - Realm of Thor, and
+3 - Thor"s Revenge.
+
+

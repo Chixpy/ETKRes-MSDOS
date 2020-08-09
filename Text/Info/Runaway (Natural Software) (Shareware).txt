@@ -1,0 +1,3 @@
+The Runaway program is a simple, fun program for children between 3 and 8 years old. Runaway is educational in that it encourages children to learn the location of the keys on the PC keyboard.
+
+Runaway simply displays the alphabet across the top the the screen. Then letters at random begin falling to the bottom of the screen. If one of the letters piles up to the top of the screen, "You Lose". By hitting the correct key for a falling letter, that letter is highlighted and removed from play. If all the letters of the alphabet are correctly "caught" before any one piles up to the top, "You Win". 

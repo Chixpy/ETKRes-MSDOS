@@ -1,0 +1,17 @@
+Crazy Cows is a turn-based action/strategy game much similiar to the turn-based combat modes introduced by games like Jagged Alliance or X-Com although less complex.
+
+The game itself is only one big battleground where two teams: the Grey Cows, and the Brown Cows (Yes, the heroes are cows).
+
+Each team must battle each other for victory until the last person...uh....cow wins. Each team (or in this case - herd...dry humor there...) has a number of cows that will fight for the cause. There is no advantages or disadvantages of each team, just difference of color (like chess).
+
+The battleground map, other than the two herds, also consist of scattered weapons: a katana sword or a shotgun and various terrain. However, the battleground map also introduced fog of war, where both team players must search the grey areas in order to achieve line of sight. Once they grey area"s are explored, it stays that way. 
+
+The game play is divided into 2 major sequences:Movement, andCombat.
+Movement consists of moving your cow in accordance to the Movement Points (MUs...nice coincidence, eh?). While moving, your cow can usually do 3 things: 
+
+Search and explore the battleground to find enemies and weapons;Pick up weapons, this is done automatically by moving to the square, where the weapon is allocated. A cow picking up a katana (melee) automatically becomes a Ninja Cow in a neat Ninja outfit. A cow picking up a shotgun because a Mean Cow Punk with black shades (ranged);Move into strategic squares for defence or offence.
+
+
+Combat depends on what weapon your cow wields. If the cow is a ninja, eventually she (cows are she"s, right?) has to come within range of the enemy cow - adjacent square to the enemy cow. Shotgun cows can attack enemies cows at range within line of sight.
+
+Basically it"s a fun game...for cows. Moo.

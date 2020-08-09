@@ -1,0 +1,1 @@
+A very small and simplistic Boulderdash clone in ASCII. So the objects are ASCII characters. The game was written in Assembler. The number of required gems (here: dollar signs) are displayed in hexadecimal.

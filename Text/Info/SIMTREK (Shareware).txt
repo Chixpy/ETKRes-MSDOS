@@ -1,0 +1,2 @@
+SIMTREK simulates a tour of duty as the Captain of a Star Trek type starship. The objective is to become one of Starfleet"s finest by successfully completing as many missions as possible before your tour of duty is over. Your tour of duty ends when your ship is destroyed, or when you fail 3 missions (and get reassigned to shore duty).
+

@@ -1,0 +1,1 @@
+The A-Train Construction Set add-on for Maxis\u2019 railroad management simulation A-Train is a map editor that allows modification of existing savegames and creation of new landscapes from scratch. The editor comes with six sample scenarios. Apart from that, it adds no new content to the game.

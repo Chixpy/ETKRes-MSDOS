@@ -1,0 +1,10 @@
+WARGAMES is a strategic game, played on a map of the world, divided up into more than 180 nations and over 300 cities. It has a full graphic user interface (286+VGA+mouse required). 
+
+The contestants play against each other by modem. Conquering of course is one aspect, "cooperating" is at least as important.
+
+Much more than the "board & dice games", WARGAMES resembles geographical/logistic and economic reality, without making itmore complex to play, as the computer processes the dull data.
+
+WARGAMES also simulates "international politics" better, as there is no direct personal contact with other players, so there is more time to think over propositions, it is possible to negociate with several players at the same time (discretely), and opponents cannot see your satisfied grin or hear your nervous tapping.
+
+Because communication is vital in controlling conflicts, depending on how much of your identity you want to reveal, you can either choose to contact others: anonymously, by playername
+or by countryname. Furthermore each player may comment on the world affairs, using the news service.

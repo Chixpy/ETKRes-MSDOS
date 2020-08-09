@@ -1,0 +1,3 @@
+Una especie de "simulador de vida", con una interfaz parecida al "Monopoly".
+
+NOTA: En la primera pantalla, introducir el número de jugadores (1-8) para activar el ratón.

@@ -1,0 +1,1 @@
+It is a collection of ten classical board games. Each of them runs from a common menu. These games are Draughts, Go, Renju, 4-in-a-line, Othello, Gomoku, Backgammon, Chinese Chess, Chess, and Bridge.

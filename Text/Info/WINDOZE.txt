@@ -1,0 +1,5 @@
+"Use the J, K, L and I keys to maneuver the falling icons. The idea is to get three or more of the same icons in a row, either vertically, horizontally or diagonally. The spacebar drops them into place. The farther they fall, (you guessed it) the more the points.
+
+Every 1000 points, ""???"" icons fall. These match anything they hit, and ALL matching icons are zapped. Zapping icons tends to cause interesting chain reactions that provide even more points. 
+
+Some unscrupulous individuals have been known to cheat using the Pause key. Not that you would stoop to such a practice, but if your keyboard doesn"t have a Pause key, try Ctrl + Num Lock."

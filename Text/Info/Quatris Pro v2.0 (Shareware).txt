@@ -1,0 +1,4 @@
+This is a banner-ware version of Quatris Pro. Levels are
+limited to only 1-3 in this version.  Please obtain a
+commercial version of this program for full capabilities
+of the game.

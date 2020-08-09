@@ -1,0 +1,1 @@
+If you want the old Commodore 64 fun back, this is the ultimate game! This is a very direct clone of Boulder Dash that lets revive the past. Jeddeloh even has a C64 loading screen for the classic feeling! The music is different, but it fits very well.  It was written for a 32k competition. Jeddeloh is also known as "Boulder Dash PC", but Jeddeloh is its original name.

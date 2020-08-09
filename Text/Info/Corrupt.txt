@@ -1,0 +1,11 @@
+A primera vista, Corrupt parece una buena aventura. Argumento que promete, gráficos buenos, e interface correcto (en sus distintas versiones)... pero... toda buena impresión desaparece al ponerse a jugar.
+
+Tengo que reconocer que me puse a jugar antes de haber leído la review de MegaOcio, donde viene el listado del vocabulario completo que entiende el parser (Ver pestaña "Trucos")... y fui incapaz de hacer nada. Si observáis dicho vocabulario con un poco de detenimiento, veréis que para EXAMINAR, no es válido el típico EX, o la versión larga EXAMINAR, sino EXAM... y como este ejemplo, encontraréis varios más.
+
+Un vocabulario exiguo, que hace del juego el paradigma de la búsqueda de la palabra exacta.
+
+Además, está plagado de errores de todo tipo: Tipográficos (sobre todo en la versión spectrum), ofreciendo salidas que en realidad no son permitidas (CPC y Atari ST), etcétera. Ya lo decían en la revisión de MegaOcio: Lo peor es la falta de depuración del juego en general, y es que es imposible desprenderse de la sensación de estar antre un producto incompleto y no probado por nadie externo a sus programadores, que conocían a fondo los entresijos del programa.
+
+Y da pena, sinceramente, porque seguro que sus autores le dedicaron un montón de horas de trabajo (más que nada, por las 5 partes de que se compone el juego) , y el resultado final, gráficos a parte, es bastante mediocre e injugable. Da la sensación que fue producto de una firme intención de comercializar un juego, más allá del aspecto creativo o lúdico del desarrollo de un videojuego: Es el dinero el que siempre ha movido el mundo.
+
+Yo hubiera preferido 1 sola parte bien hecha, que estas 5 injugables... ¿Y vosotr@s? 

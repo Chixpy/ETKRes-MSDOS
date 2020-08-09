@@ -1,0 +1,3 @@
+How far can you make it in this game of mazes?  The object of the game is to move your character through a maze from start to finish before your points (time) run out.  If you make it through, you get extra points (time) for the next level.
+
+The mazes start out very easy where you can see the path instantly and progress to more and more difficult mazes.  Even if you can complete the maze, will you be able to do so in the time you have remaining?

@@ -1,0 +1,5 @@
+One of the first realistic cricket games in the market, Cricket 96 wowed people with its options, commentary and video options.
+
+You can play either test or one-day matches with a choice of 8 teams, and you can set your field, bowlers and batsmen. It has a good control system and decent graphics for its time.
+
+NOTA: Este juego utiliza la versión de DOSBox de Ykhwong, y no funcionará con versiones oficiales.

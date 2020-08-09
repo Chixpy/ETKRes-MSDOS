@@ -1,0 +1,5 @@
+Aventura conversacional sin gráficos en la que debemos averiguar qué ha ocurrido con un amigo que ha desaparecido en extrañas circunstancias.
+
+Se trata de la segunda versión del juego, y está basada en la novela "Luna de invierno". También fue la segunda aventura de este grupo de programación, que posteriormente publicaría una segunda parte llamada "Claustrofobia".
+
+Carente de gráficos, las descripciones son bastante extensas y la machacona melodía hace que te sientas en todo momento dentro de la aventura, que cuenta con un argumento bastante interesante. 

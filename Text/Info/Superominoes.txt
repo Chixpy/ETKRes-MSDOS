@@ -1,0 +1,2 @@
+Superominoes is a solitare puzzle in which the player must arrange and turn a set of geometric pieces such that they all fit within a rectangular boundary.  The game may be played at two levels: the traditional Pentominoes, in which all pieces are composed of five squares, and the more difficult Superominoes, with six-square pieces.  The first set has 12 pieces, the second 35.
+

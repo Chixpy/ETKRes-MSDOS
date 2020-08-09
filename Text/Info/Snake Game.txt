@@ -1,0 +1,3 @@
+Snake Game is a nibbles-style game. As a snake, the player has to eat all the fruit on the level and avoid the skulls. 
+
+The game is a TSR; the player starts it and can press Ctrl+Alt+G anytime to play it.

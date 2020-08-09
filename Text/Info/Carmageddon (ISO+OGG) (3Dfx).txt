@@ -1,0 +1,8 @@
+Carmageddon es el primero de una serie de juegos de conducción violentos, inspirados en la película de culto de 1975 "Death Race 2000".  En Carmageddon, el jugador corre contra una serie de competidores de otro equipo en los más diversos ámbitos, incluyendo la ciudad, las minas y zonas industriales. El jugador tiene una cierta cantidad de tiempo para completar cada carrera, pero puede ganar más tiempo mediante la recopilación de los bonos, dañando los coches de los competidores o por atropellar a los peatones...
+
+El juego destacó por el morbo y la violencia que tenia, sufriendo por ello duras críticas que irónicamente lo llevaron a los primeros puestos de ventas. Debido a la censura que hubo tras la publicación del juego por ser sangriento y poco educativo, SCI decidió crear un Carmageddon censurado, esta vez, en vez de peatones de carne y hueso debemos atropellar zombies. En muchos países el juego sin censuras estaba prohibido por lo cual hacerse con el Carmageddon original no era nada fácil.
+
+La banda sonora del juego es una versión del album "Demanufacture" del grupo de rock industrial "Fear Factory", con la canción "Zero Signal" como tema principal del juego.
+
+NOTA: Este perfil utiliza la versión de DOSBox de Ykhwong y no funcionará con versiones oficiales de DOSBox.
+

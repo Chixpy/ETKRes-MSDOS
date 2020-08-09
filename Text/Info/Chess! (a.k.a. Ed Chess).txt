@@ -1,0 +1,1 @@
+A very basic chess game. Play against the AI, another person, or have the computer play itself.

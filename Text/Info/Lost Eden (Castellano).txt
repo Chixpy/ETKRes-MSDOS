@@ -1,0 +1,7 @@
+Lost Eden is an adventure game set on an eerie planet populated with dinosaurs.
+
+Your civilisation is menaced. Armies of Tyranns, led by Moorkus Rex, are gathering around your kingdom. Soon they will swarm in, destroy everything and kill your people. However, there is a single hope. There are legends telling that several hundreds of years ago, men and dinosaurs cooperated to build 5 mighty Citadels that were almost invulnerable to the Tyranns. Today, all the Citadels but one have been destroyed.
+
+You play as Adam of Mo, you must rediscover the secret of uniting men and dinosaurs, rebuild the Citadels, and finally defeat Morkus Rex and his armies.
+
+Lost Eden is a first-person adventure that utilizes  Myst-style navigation through pre-rendered backgrounds that represent locations. However, the gameplay is less heavy on environment-manipulating puzzle-solving than Myst, having more in common with traditional adventure games with their inventory-based puzzles.

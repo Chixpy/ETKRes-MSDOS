@@ -1,0 +1,3 @@
+Metal Rage: Defender of the Earth is a shooting game in which the player controls a tank inside city environments. The game is completely in 3D, and both an inside and an outside view are offered.
+
+The tank can carry multiple weapons (shells, missiles, mines, drones) which can be used against the various enemies like police cars, helicopters, assault tanks and turrets. It"s also necessary to collect items and key cards that deactivate force fields.

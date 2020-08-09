@@ -1,0 +1,2 @@
+Kings is a game about being the dominant civilization on a planet.  You control your civilization, build cities, control trade and production, and command your armies in battle.  I know a game of this nature is not new: Civilization and Empire come immediately to mind as others of this sort.  After seeing those games, I tried to make my own version with features of each that I liked and changing things I didn"t like about either one.
+

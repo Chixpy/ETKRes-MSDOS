@@ -1,0 +1,7 @@
+"Alien Alley is a vertically scrolling, fast action video game. The player controls a defending spaceship, flying though the cosmos. Advancing alien spaceships make difficult foes as they advance on the lone defender, firing plasma cannons at will. How long can the defender hold out until he is finally overrun? Only you can say...
+
+ABOUT ALIEN ALLEY
+=================
+Alien Alley was created as an example for the book PC Game Programming Explorer, by Dave Roberts. Alien Alley demonstrates many of the game programming concepts and techniques described in PC Game Programming Explorer, including joystick, mouse, and keyboard programming, fast page flipping animation, VGA palette effects, music and sound, and a scrolling background.
+
+PC Game Programming Explorer includes all the source code used to create Alien Alley as well as the source code for many other projects developed in the book."

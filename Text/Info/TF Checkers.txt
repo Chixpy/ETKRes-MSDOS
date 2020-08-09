@@ -1,0 +1,2 @@
+This game is not 100% complete. I had planned to make four levels of artificial intelligence for the computer (random, easy, medium, and hard). All I ever finished was random movement by the computer (which really isn"t intelligence). So when you select a computer difficulty... no matter what you choose the computer will still move randomly.
+

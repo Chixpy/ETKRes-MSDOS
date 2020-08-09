@@ -1,0 +1,2 @@
+Kosynka implements the solitaire card game which is known in Russia. Kosynka means Big Scarf, and the rules of this solitaire are rather analogous to the well-known game of solitaire called Klondike, but this variant uses a double pack (104 cards) which is arranged in 9 (or 10) columns.
+

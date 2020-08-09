@@ -1,0 +1,7 @@
+You can move ship by arrow-keys. YOU CANNOT SHOOT! he-he.... ;(
+You must fly to FINISH for minimal time. 
+
+Gray and brown stones - is your dead.
+Teapot - for acceleration.
+Red torus knot - makes your crazy.
+Blue module - advanced shield.

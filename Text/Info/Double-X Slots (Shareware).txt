@@ -1,0 +1,3 @@
+DOUBLE-X SLOTS is a home computer simulation of a casino slot machine.
+
+It can be played using your mouse, or if you prefer, just the keyboard. This game is intended for home entertainment only and is not to be used as a gambling device.

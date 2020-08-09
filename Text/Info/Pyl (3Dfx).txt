@@ -1,0 +1,3 @@
+This is a Polish shooter, done in the mood of Quake. As a captured soldier you fight on an intergalactic arena. It"s one of the first Polish titles realized in 3D technology. A core team of four people with an unbelievably tight budget led this title from its very beginning to the final effort on the shop shelves. The screenplay, graphics and engine were made from scratch. Although press opinions on the game were varied, even critics giving the game low scores always found something that seemed noteworthy to them and appeared to be revolutionary in some way. It"s a very tough game. It was written for DOS Glide driver.
+
+NOTA: Este perfil utiliza la versión de Ykhwong de DOSBox y no funcionará con versiones oficiales.

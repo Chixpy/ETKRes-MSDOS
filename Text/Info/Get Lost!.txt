@@ -1,0 +1,4 @@
+Get Lost is a maze exploration game. Don"t be fooled by its simple and minimalistic appearance-- Although each level requires you to navigate to the end in some fashion, sometimes there are goals other than finding the end square. In addition to this, each level has a secret to be found, which unlock secret levels once you collect enough. Secret levels also have secrets to find, but there are 5 of them and you must find all 5 at once before finishing or quitting the maze for it to count.
+
+A surprise also awaits anyone good enough to find the secrets and get the top score on all 55 levels...
+

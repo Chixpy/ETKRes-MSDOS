@@ -1,0 +1,5 @@
+Windows 95 fue un sistema operativo con interfaz gráfica de usuario híbrido de entre 16 y 32 bits. Fue lanzado al mercado el 24 de agosto de 1995 por la empresa de software Microsoft con notable éxito de ventas. Durante su desarrollo se conoció como Windows 4 o por el nombre clave Chicago.
+
+Sustituyó a MS-DOS como sistema operativo y a Windows 3.x como entorno gráfico. Se encuadra dentro de la familia de sistemas operativos de Microsoft denominada Windows 9x. En la versión OSR2 (OEM Service Release 2) incorporó el sistema de archivos FAT32, además del primer atisbo del entonces novedoso USB.
+
+NOTA: Este perfil emplea la versión de DOSBox de ykhwong, no funcionará con versiones oficiales de DOSBox.

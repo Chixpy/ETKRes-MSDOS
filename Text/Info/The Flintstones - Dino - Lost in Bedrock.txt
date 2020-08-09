@@ -1,0 +1,5 @@
+The Flintstones: Dino: Lost in Bedrock is a platform game based on the famous animated show. Fred Flintstone"s pet dinosaur, Dino is, well, lost in the city of Bedrock. Fred Flintstone and Barney Rubble try to find him. 
+
+The game is divided into several levels. You walk as either Fred or Barney through Bedrock, and you must avoid enemies such as crocodiles or turtles; should they catch you, you lose a life. You can pick up rocks to throw at them. 
+
+At the end of every level, you encounter a boss - always a big prehistoric creature. There is a time limit on every level, but you can get coconuts out of the trees for extra time. Sometimes, however, there are spiders instead of coconuts in the trees.

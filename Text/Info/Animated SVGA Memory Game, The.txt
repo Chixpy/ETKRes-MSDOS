@@ -1,0 +1,5 @@
+This shareware game tile matching game  offers the options of playing with 16, 24, 36 or 64 tiles. After registration a further 24 animations and 90 tiles are added.
+
+The game displays the tiles face down. When players select a tile it rotates revealing a picture on the other side. A second tile is then selected revealing the picture on the other side. If the pictures match the tiles remain face up. If they do not natch the tiles are returned to their face down position. The object of the game is to match all the tiles with a partner.
+
+Sounds are played when the tiles match / do not match, and a short animation is played whenever a match is achieved.

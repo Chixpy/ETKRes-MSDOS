@@ -1,0 +1,2 @@
+"Gladiators is a real-time game for 2-4 people. Each player has three keys that they use to control their light cycle (gladiator)."
+

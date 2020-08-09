@@ -1,0 +1,5 @@
+Greed is a shareware raycasting 3D shooter (a.k.a 2.5D shooter), featuring music by reknowned demoscene musician Andrew Sega (Necros), including his famous track "Point of Departure".
+
+Story-wise, it goes like this (taken from the intro): 
+It is the year 15432 during the third age of man. Scavenger hunts mean big money for the criminal elite. Covertly recruited by an enigmatic faction of the A.V.C. you are a member of the red hunter elite acquisition squad. Using your needling ship, the Red Hunter, it is your job to wrap through to unsuspecting fringe worlds... plummet from orbit in your drop ship, suppressing noncooperative entities (NOPs) as best you can in order to acquire your primary target items. The size and speed of the drop ship should be sufficient to drive noncooperatives from the drop zone upon impact. In short, if it"s moving around, kill it... and if it"s not nailed down, steal it. You"re a scavenger. You"ve got a gun. Let"s get some.
+

@@ -1,0 +1,1 @@
+Zottris is a deceptively simple arcade game requiring quick thinking for success. The object is simple: form lines of blocks that are all the same color by destroying blocks so that the right color pieces fall into a row.

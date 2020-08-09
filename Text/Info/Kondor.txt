@@ -1,0 +1,13 @@
+Action tank game in which your goal is to destroy enemy Vehicles, Airplanes, Turrets, Migs and Enemy Bases through 12 unique levels. Requires DOS 6 & P100 CPU.
+
+Kondor is an action tank game in which your goal is to destroy enemy Vehicles, Airplanes, Turrets, Migs and Enemy Bases through 12 unique levels.
+
+It is slightly clunky due to its DOS heritage though there is a special program supplied, called KONDOR-FAST.EXE, to assist if the game is running too slow or is too jerky. While we did find it a little jerky, it is extremely enjoyable and quite addictive once you get the feel of the controls.
+
+As all the keys are mapped separately, you will find that you can only use one of the Enter keys, which can be a right pain in the you-know-what if you are used to using the other one.
+
+There were no sounds available to us, even though it was mentioned in the options and we do have a genuine SoundBlaster card, but computer hardware can be flaky and you might find excellent sounds on your equipment.
+
+The graphics were quite good, in a DOS sort of way, and the animation a little jerky (as we mentioned above).
+
+Who cares! The game is fun and addictive, what more could you want?

@@ -1,0 +1,1 @@
+This game is much like the casino version. The object of the game is to win as much money as possible.  You win this money by placing a bet that you can win the hand.  You win the hand by getting one of nine combinations of cards.

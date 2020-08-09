@@ -1,0 +1,3 @@
+Screamer Rally is a follow-up to Screamer 2. Like its predecessor, it is a rally-style arcade racing game. The player can choose among four different rally cars (two front tractions and two 4x4), each with different parameters such as acceleration, braking, and weight. Handling, tire type and pressure, front and rear suspensions, and brakes can be customized in a garage. The game contains seven tracks located in different countries (such as China, Canada, Italy, etc.), pitting the player against five opponents. The tracks may contain obstacles and hazards such as holes on the roads, bumps, etc. The game also offers 3D acceleration support.
+
+NOTA: Este juego utiliza la versión de DOSBox de Ykhwong, y no funcionará con versiones oficiales.

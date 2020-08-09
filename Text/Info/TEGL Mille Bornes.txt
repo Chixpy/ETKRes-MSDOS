@@ -1,0 +1,10 @@
+MilleBornes is a French card game, sold by Parker Brothers, that simulates a car race of 700 kilometers.  
+
+This game, as it originates from France, is based on the small cement markers at regular intevals among the roads in Europe.  The French call these markers bornes kilometriques or as we know them as milestones.
+     
+These milestones usually shows the distance to the next town.
+
+Hence these markers gives this game its name:  MILLE BORNES pronounced as "MEEL BORN", meaning a thousand milestones.
+
+The card game is usually for 2 or more players.  Since your opponent is, of course, the computer, thereby restraining the game to two players; the number of milestones that you must complete is 700 kilometers, rather then the 1000 kilometers used with 4 or more players.
+

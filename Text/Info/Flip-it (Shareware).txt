@@ -1,0 +1,3 @@
+"Flip-It is an interesting variation of Reversi/Othello. You can select various
+grid patterns and sizes for the board. There is also an unusual play-to-lose
+mode. Function keys can provide help and rules or invoke an auto-play feature."

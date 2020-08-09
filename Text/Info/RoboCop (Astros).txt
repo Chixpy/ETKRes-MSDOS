@@ -1,0 +1,18 @@
+He aquí uno de esos casos extraños (aunque no es el único, recordemos, por ejemplo Arkanoid) en los que de un mismo juego se realizan dos versiones totalmente distintas casi al unísono, una para el mercado europeo, que fue la primera en editarse y que es la que nos ocupa, y otra para el resto del mundo, editada por Data East USA y la misma Ocean unos meses después, y mucho más conocida.
+
+Así mientras la edición europea se basaba en las versiones que Ocean había programado un año antes para los ordenadores de 8 bits, y que se centraba en plasmar el desarrollo de la película, la versión de Data East trataba de convertir a PC el desarrollo de la máquina recreativa.
+
+Como hemos mencionado, esta versión se basaba en las que previamente Ocean había programado para ordenadores como el Amstrad CPC o el ZX Spectrum.
+
+El juego se compone de 8 fases en total. Casi todas de acción en perspectiva lateral, salvo dos, la segunda, en la que, en perspectiva frontal hemos de eliminar a un matón que tiene atrapada a una rehén, sin hacer daño a esta, y la cuarta, en la que hemos de conseguir reconstruir un retrato robot en un tiempo limitado.
+
+En Amstrad el juego era más que notable, resultando muy entretenido, bien realizado a nivel técnico (incluía incluso voces digitalizadas), ágil y con una dificultad ajustada.
+
+En PC el resultado no fue tan alentador. Las fases son las mismas, pero el desarrollo de las mismas presenta pequeñas variaciones en la aparición de los adversarios, adversarios que en ocasiones no nos dejan reaccionar debido a la lamentable respuesta al teclado del protagonista, algo imperdonable en un juego de estas características.
+
+
+Por otro lado el apartado técnico en PC baja muchos enteros. Los gráficos CGA son aceptables, aunque sosos y con "bordes marcados" en los personajes. Por otra parte, la animación de estos resulta lenta, pero lo más exasperante, como hemos mencionado anteriormente, es la lenta respuesta del protagonista a nuestras órdenes.
+
+A nivel sonoro, el programa es extremadamente pobre. Lo único que podemos escuchar son unos cuantos crujidos, que "se supone" que son efectos sonoros.
+
+Jugablemente, aunque el programa retiene parte de la jugabilidad de las versiones de 8 bits, y sigue resultando muy fiel a su referente cinematográfico, no llega a cuajar, ya que el pobre apartado técnico, y sobre todo la lamentable respuesta al teclado, lastran al juego de manera definitiva. Aún así, con un poco de práctica, el juego es "acabable". [Agamenon3]

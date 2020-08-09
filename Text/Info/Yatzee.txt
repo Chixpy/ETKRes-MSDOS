@@ -1,0 +1,3 @@
+This is one of the older Yatzee games made for the computer as far as I know, developed and published by Danish RAM-SOFT.The interface is simple and the gameplay is flawless, and you can play with up to three friends and/or computer players. Nothing spectacular, but simple and functional, and certainly with a clever enough computer for when you"re lacking friends with which to play it. 
+
+The Instructions file is missing, but you don"t need it (everything is self-explanatory), and even if you don"t know how to play the game it"s very easy to learn.

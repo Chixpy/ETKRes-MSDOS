@@ -1,0 +1,23 @@
+A #cgajam MS-DOS game  (theme: history repeats itself) where you traverse a floating castle in Viana do Castelo to kill the demon Capiroto (again).
+
+How to play:
+
+z - Jump
+
+x - Shoot arrow
+
+c - Attack
+
+Up - Shoot arrow up/climb stairs
+
+Arrows - Move
+
+Esc - Quit
+
+Enter - Pause
+
+Credits:
+
+Daniel Monteiro - Programming, audio and some art
+
+Pedro Fernandes - Art

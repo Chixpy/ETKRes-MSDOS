@@ -1,0 +1,10 @@
+The sequel to Dark Woods starts in the ruined castle, where the original has ended. You, Eduin the fearless adventurer, must find your village that is located in the Dark Woods. You will not be alone. Evil creatures will try to stop you, and you will have to use your strength and mind to be successful.
+
+Dark Woods 2 is a top-down adventure game with graphics made entirely out of ASCII characters. The game world is divided into levels, which contain items that are needed to complete them, and enemies that have to be avoided or outsmarted. The game features 11 levels and the option to make/play custom levels.
+
+Dark Woods 2 is a ASCII-graphic-adventure-game. The product is developed unsing QB 4.5 (no libs or asm). I"ve used my Pentium II 233Mhz, 64 Mb RAM, with SoundBlaster 16 to develop Dark Woods 2.
+
+Dark Woods 2 includes 11 levels + option to make/play custom levels.
+
+Botón derecho y seleccionar DW2EDIT para el editor.
+

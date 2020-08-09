@@ -1,0 +1,7 @@
+Elite Plus is a VGA re-make of Bell and Braben"s classic 3D space trading flight simulator, Elite.
+
+It is an updated conversion of the original that features new graphics and sounds/music.
+
+Elite Plus included a different novella than the original Elite releases.
+
+Elite Plus included the story "Imprint" by Andy Redman, which formed the latter part of the manual while Elite included "The Dark Wheel" by Robert Holdstock as a separate book.

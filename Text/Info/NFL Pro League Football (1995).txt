@@ -1,0 +1,5 @@
+1995 edition of Dave Holt"s brainchild: NFL Pro League. This time published by IBM. 
+
+NFLPL is strictly a coaching simulator, so you call the plays, make substitutions, arrange the team, etc. but don"t get involved directly on the action and you view everything from the sidelines. You can play against the computer in exhibition games or league play, in which you can select any team from 1960 to 1995 complete with accurate uniforms and player roster, and with several trade and drafting options.The game also comes with a play creator to complement the 100 offensive and defensive plays included.
+
+Includes modem support for 2 players head-to-head coaching.

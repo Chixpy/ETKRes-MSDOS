@@ -1,0 +1,4 @@
+The original version of Gravity Wars was written by Sohrab Ismail-Beigi in 1989.
+
+This version was written in 1992.  It includes a different user interface and graphics, but maintains the same basic concept.
+

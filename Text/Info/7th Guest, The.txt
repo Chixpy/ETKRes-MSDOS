@@ -1,0 +1,9 @@
+The 7th Guest is a puzzle-adventure game which takes place inside an abandoned mansion. Venture into the 22 rooms of the spooky mansion, solve over 20 mind-bending puzzles to unravel a tale of revenge and horror that took place in the 1930s.
+
+The game is played in first person perspective with a point-and-click interface featuring horror-themed animated cursors (skeletons, bulging-eye skulls etc.). It is one of the first games to be released on the then-new CD-Rom media. The graphics are fully rendered in SVGA, and real actors and actresses bring the story to life during numerous full-motion video cut scenes. The visuals are accompanied by an original, orchestrated musical score.
+
+To finish the game, you must solve the puzzles in Stauf"s manor; each solved puzzle will unlock new rooms or new movie sequences to watch. The puzzles are quite varied; there"s the classic "eight queens puzzle", another puzzle where you need to compose a sentence by rearranging letters, and others. If you get stuck, you can visit the library; a book within will give you hints on the puzzle. If the hints aren"t enough, the puzzle will solve itself automatically once you consult the book enough times. 
+
+Some later, limited releases of the game came with a separate video that included a "behind the scenes" look at the making of the game and interviews with the developers.
+
+NOTA: Cuando el juego lo pida, cambia de CD con CTRL+F4.

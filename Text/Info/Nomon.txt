@@ -1,0 +1,4 @@
+Nomon is a simple adventure game written in ASL (Adventure System Language) during the 1989 Summer Ventures at East Carolina University under the auspices of Professor J. Wirth (a great guy).  He wrote ASL, and holds the copyright to the full version, but was generous enough to write a runtime version of it available for free.  The game of Nomon is my own and I have released it as freeware.  
+
+If you like adventures, this is a fun and simple one.  It was written in the lighthearted style of someone truly loving programming and who, besides, had little else to do on the ECU campus.  It"s been a year that this disk has languished on 360K floppies, since only last week did I get an IBM compatible computer to read them with.  I rediscovered this game, tested it again, and thought others might enjoy it.  So here it is, Nomon.  Verbs are few, nouns slightly more, but overall the vocabulary is small.  Look around at everything, clues are hidden everywhere.
+

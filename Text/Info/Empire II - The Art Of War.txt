@@ -1,0 +1,4 @@
+Empire II: The Art of War is a further update of the classic computer wargame. (See Empire Deluxe.) This version includes more terrains and more sighting and movement rules. A significant change is that land units can take damage in a skirmish instead of simply winning or losing (being destroyed). There are also added rules for unit morale. If a unit"s morale gets to low, they retreat, regardless of your orders. Other additions are allowing for reinforcements to appear on certain turns and weather factors.
+
+The scenario editor has been enhanced so that players cannot only create their own maps and scenarios, but their own custom units, including statistics and the graphics. So players can fight prehistoric, historical, fantasy, science fiction, or whatever battles they like.
+

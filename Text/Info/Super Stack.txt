@@ -1,0 +1,14 @@
+It is not so easy to explain the rules for this game without some demonstration, so there are 7 tutorial levels to help with that. But lets try anyways:
+
+The object of the game is to decrease the counter (which is located above the game wizard - at the bottom left of the screen) until it reaches zero - then you win.
+
+How? Its a simple task: All you have to do, is to "trap" stars between objects - each star trapped will decrease the counter by one.
+
+Every turn, a block falls from the sky (Tetris like) and you mask rotate it and move it to the place you want it to settle.
+
+Unlike Tetris, the blocks are always made from two pieces, each piece is one of the five different pieces of the game (each shall be explained later).
+
+Also unlike Tetris, once one of the blocks pieces touches the ground, the other pieces keeps on falling until it also reaches the ground (but you can"t control it).
+
+NOTA: Este perfil utiliza la versión de DOSBox de ykhwong.
+

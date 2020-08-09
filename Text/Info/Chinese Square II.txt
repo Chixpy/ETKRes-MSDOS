@@ -1,0 +1,18 @@
+This game was developed from the old game "Chinese square". And it was wrote under the environment of QuickBasic 4.5 
+
+The aim of this game is to gain as much score as you can without let any squares touch the top of the screen. The score will given base on the following
+
+i) The size of the squares
+
+ii) The speed of the falling squares
+(you can press arrow to speed up)
+
+iii) No. of times the arrow was pressed
+
+iv) The height of squares when arrows was pressed
+
+v) No. of squares were used
+
+vi) No. of bomb left when game over
+
+In order to gain a high score, you must press the arrow to speed up the falling velocity.

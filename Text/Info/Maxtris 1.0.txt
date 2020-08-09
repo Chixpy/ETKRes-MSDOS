@@ -1,0 +1,3 @@
+Maxim Shemanarev came across Hex Tetris, liked the game, but somehow it did not work correctly, so he coded it himself for DOS. This, in short, is the story of Maxtris.
+
+Maxtris is very well done. The interface is clean and clear, with character-coded buttons (possibly it supports mouse too, I have never played it with a mouse driver in memory). You can choose the graphic of the hexagons, exit the game, getting Russian and English credits that are not obnoxious. As an added gag the game will display the system time.

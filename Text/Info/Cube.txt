@@ -1,0 +1,1 @@
+This is a computerized version of the classic "Rubik"s Cube" puzzle game. As you might expect, it"s a bit more difficult to play on a computer screen, since the game requires frequent rotation of the cube. Download this if you"re looking for a real challenge and think the normal Rubik"s Cube is "too easy"! :)

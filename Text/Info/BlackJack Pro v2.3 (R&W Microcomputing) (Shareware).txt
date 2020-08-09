@@ -1,0 +1,13 @@
+BLACKJACK PRO is completely interactive, so follow the directions on the screen. John Archer"s master strategy system is incorporated into the program. John Archer was "favorably impressed" with BLACKJACK PRO.  
+
+You may choose to play blackjack in any of three modes. One mode is a regular blackjack game. A second is to enter Computer Play at the beginning of the game where you practice Archer"s system. A third mode is where you play regular blackjack AND Computer Play in the same session(standing and action accumulates). Be aware that when you enter Computer Play from the regular blackjack mode, the number of  decks default to one(1) and the deck is shuffled.
+
+All picture cards and the ten are -2 points, all other cards are +1 point.
+
+Bet more with higher point count. In a single deck system increase your bet when the point count is plus 4. Increase it further when the point count is plus 8, and increase it substantially at a plus 16 point count.
+
+Always revert to your original bet when the point count is below plus 4.
+
+When the number of aces used is low, compared to the number of cards left in the deck, bet higher. The shuffle point is fixed at 75%. A deck depletion display is located on the screen(each star represents 25%). 
+
+For multiple deck games(4 or more) increase your bet when the point count is plus 16...etc.

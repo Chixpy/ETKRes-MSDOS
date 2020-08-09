@@ -1,0 +1,5 @@
+This game lets you design and play turn-based strategic battles. You can create scenarios betwen years 1846 and 1905. You have complete control over all the units, and can customize their firepower, movement points, strength, aggressiveness, etc.
+
+Supports 1 or 2 players. Comes with pre-made scenarios and various campaigns (American civil war, Russo-Japanesse War, Franco-Prussian,...). 
+
+The graphics win the respect the first two WCS (I and Tanks!), and now you can view your troops in the field.

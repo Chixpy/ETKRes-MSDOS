@@ -1,0 +1,1 @@
+FUNDEE is a simple one-key game where your mission is to knock down as many stickmen as possible! The game plays a little like Duck Hunt: play is split into rounds, each containing ten turns. In each turn, you have three shots in which to tag your "prey". In this case, your objective is to schmack the dorky little stickman with a tomato!

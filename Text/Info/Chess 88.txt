@@ -1,0 +1,6 @@
+This has got to be one of the oldest PC Chess games ever written and probably one of the the most popular in those days.
+
+A standard chess game of human player vs computer player with up to 6 difficulty levels. The game only recognizes two keys: The "Del" key to select your chess piece and the "Ins" key to place your chess piece. 
+
+At higher levels, the computer tends to take a lot of time in its turn: it could take up to several minutes to even hours if situated in a tight spot.
+

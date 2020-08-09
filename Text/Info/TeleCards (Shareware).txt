@@ -1,0 +1,5 @@
+"With the gaining in popularity of telecommunications a need has risen for games to allow competition amongst fellow users. "TeleCards" was developed with this concept in mind.
+
+TeleCards is a set of 3 different card games that you can play either against the computer or a friend. To play another person all that is required are two IBM compatible PC"s that are linked together by modem or with a NULL modem serial cable.
+
+The three games included are: Crazy Eights, Cribbage, and Gin Rummy."

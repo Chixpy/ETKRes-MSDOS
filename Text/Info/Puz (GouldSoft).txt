@@ -1,0 +1,2 @@
+The goal of Puz is to align all the numbers on the board in order by roating any piece of the board in any direction.
+

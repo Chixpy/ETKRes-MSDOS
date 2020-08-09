@@ -1,0 +1,1 @@
+Blitz is a very strong game of checkers with many options. You can resize the checker board, alter the response time, show movable pieces, select two-player mode and more.

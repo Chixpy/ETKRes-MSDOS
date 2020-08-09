@@ -1,0 +1,5 @@
+Denarius Avaricius Sextus is a text-parser adventure game similar to adventure games such as King"s Quest. 
+
+The game is set in the Roman city of Pompeii in 79 A.D., where the player takes on the role of a wealthy Roman citizen Avaricius aka Avvy. The objective of the game is to escape Pompeii before the (historic) volcanic eruption destroys the city. In order to do so, the player must explore the city of Pompeii for an escape route and overcome puzzles and obstacles along the way.
+
+A built-in command menu is also available as a substitute for typing the text parser commands.

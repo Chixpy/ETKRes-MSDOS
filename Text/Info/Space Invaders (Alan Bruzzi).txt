@@ -1,0 +1,2 @@
+Space Invaders is a version of the famous arcade game Space Invaders. The object of the game is to shoot at 20 marching aliens with your space-ship. If they land on the ground or they shoot down three of your ships the game is over.
+

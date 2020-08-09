@@ -1,0 +1,1 @@
+An interesting take on Minesweeper. Instead of selecting any box you move around a character on the screen. As the character lands on a space it will either explode (bomb) or tell you how many bombs are touching that space. It"s quite difficult to move across the screen, and the number of bombs touching a space is only displayed when you are on that space.

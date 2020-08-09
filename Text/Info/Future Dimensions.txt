@@ -1,0 +1,4 @@
+Future Dimensions is an old-school shooter: Park your thumb on the first fire button to spray your shots and use the digipad or joystick to dodge the shots of your enemy and collect special symbols. With green symbols, you tune your four weapon types - but you can"t switch them yourself - they change when you pick up a corresponding symbol. Other symbols give you extras like homing rockets or small satellites which circle around your ship and protect you against damage. With a second fire button you can use smart bombs to clear the whole screen.
+
+Each of the six big levels consists of three stages: A 3D, a vertical and a horizontal shooter stage. The programmers didn"t skimp on the graphical effects: There is always something that explodes or presents something similar to the eye. Between the levels are rendered 3D cutscenes and bonus games which nod at classic games like Pac Man or Galaga.
+

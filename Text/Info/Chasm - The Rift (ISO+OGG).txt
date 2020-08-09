@@ -1,0 +1,11 @@
+Chasm: the Rift es un FPS desarrollado por Action Forms y publicado en 1997 por GT Interactive. En él, el jugador toma el papel de un marine sin nombre que es enviado a investigar una central nuclear. 
+
+Una vez allí descubriremos que unos monstruos llamados los Timestrikers están usando la central para crear rupturas en el espacio tiempo que les permitan viajar al pasado, para así invadir la Tierra en tres periodos distintos: el presente, el antiguo Egipto y la época medieval. Además los Timestrikers enviados al presente pretenden utilizar la central como forma de crear una arma que destruya la vida en la Tierra. 
+
+Durante 4 episodios y 16 misiones tendremos que abrirnos paso a tiro limpio a través de trampas, viajes en el tiempo y hordas de enemigos para destruir a los Timestrikers y salvar al mundo.
+
+Una de las características más notables del juego es el daño localizado, con la posibilidad de eliminar las extremidades de los enemigos. Otro aspecto de interés son los jefes, que no pueden ser eliminados por mera potencia de fuego, sino que se necesita el uso de tácticas especiales. El juego utiliza un motor capaz de efectos meteorológicos y sonidos ambientales, además de gráficos 3D.
+
+Además se incluye un addon oficial que incluye tres niveles más.
+
+NOTA: Versión CD parcheada a la v.1.04.

@@ -1,0 +1,3 @@
+This program has been written because much of the software on the market does not lead to simple use by small children.  Many of these software packages make requirements of the child that are beyond their abilities like requiring that a floppy be inserted a into drive "A" and booting the machine, or having to press the "ENTER" key after every question. It is difficult enough for a small child to relate to pressing the one key that is correct to make the program run correctly let alone being able to follow some kind of copy protection scheme. 
+
+

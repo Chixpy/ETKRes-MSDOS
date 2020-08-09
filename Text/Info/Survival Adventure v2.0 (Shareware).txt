@@ -1,0 +1,3 @@
+This is a small text adventure that is military oriented.  You must make your way thru 450 zones, repelling attacks that come your way.  You also have the option of talking your way thru something but that does not always work out in the best fashion.
+
+You may use the function keys of your PC to play the game easier, they are listed at the very bottom of the screen.  You will need a color monitor and at least 512K to play this version of Survival.

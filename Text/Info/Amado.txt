@@ -1,0 +1,3 @@
+Amado is a creative mind teasing game. It is not only challenging and stimulating, it exercises the brain as well.
+
+Each box of the pattern is red, blue, or yellow. You will be able to move the box cursor to the adjacent box either vertically or horizontally using arrow keys.

@@ -1,0 +1,4 @@
+Kronolog is a graphic adventure that is based on an alternate world, where the Nazis won world war two and proceeded towards world domination. The world as it is now is crumbling from excess pollution, enviromental problems, etc. and you play the part of Hoffman, a member of the government who is in search of his missing son. Gameplay is standard 2d-adventure with a series of icons you mouse-click with to achieve the desired actions.
+
+Uses vga graphics, and includes a series of voiceovers and digitized pictures for specific persons/conversations.
+

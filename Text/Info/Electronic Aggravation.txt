@@ -1,0 +1,3 @@
+Aggravation is a board game where the point is to bring your chips back to home base after going around the game board. 
+
+After rolling a six or one a player may place one of their four chips on to the game board and try to traverse it and head back home to a safe base. Landing on another player will mean that that player must take that chip back and restart with it by rolling a one or six. Rolling a six allows the player to roll again and players may not jump over other chips of their own. Therefore although named Aggravation this game, unlike the board game of the same name, plays and looks more like the board game Sorry.

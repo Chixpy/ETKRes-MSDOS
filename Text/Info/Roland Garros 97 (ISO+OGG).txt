@@ -1,0 +1,5 @@
+RG97 is a tennis game with 3D characters.  The game takes its name from a real famous French tennis tournament, but the characters in the game are made up.  You can choose from between 10 different males, 7 females, or 3 futuristic players.
+
+You can play on 5 grounds (two are hidden and need to be unlocked) which are Roland Garros (France), England, USA, Australia, and Power Dome (a futuristic one).
+
+You can play single or double matches, and you have the choice between 3 difficulty levels. The four different game modes include Single match, Network, Friendly match, and Tournament.You can also choose the camera angle to play with (look at the screenshots).

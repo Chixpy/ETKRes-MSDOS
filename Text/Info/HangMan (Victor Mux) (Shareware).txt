@@ -1,0 +1,1 @@
+Hangman is a computerized version of the well-known game of hangman. To play, you start with a word with all of its letters represented as underscores. As you guess the letters in the word they are filled in. Until you finally have guessed every letter in the word, or you have made 10 incorrect guesses.

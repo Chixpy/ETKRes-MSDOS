@@ -1,0 +1,1 @@
+Unlike the otherwise similar Pentix, all the blocks in this game are pentaminos. Pentis runs in 40-column text mode and is rather dependent on processor speed, you will have to crank down CPU cycles harshly in DOSBox to play it. Except for the small notice "\u00a9 M.T.M. "87" on the title screen, nothing is known about the author.

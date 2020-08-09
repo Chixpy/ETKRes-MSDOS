@@ -1,0 +1,21 @@
+Thank you for trying SimoneSystems "BATTLESHIP" version 2.3, the classic game of Battleship, with a twist.  BATTLESHIP provides an easy to use mouse interface, and VGA high resolution graphics.  The twist?  BATTLESHIP adds another level of strategy to the game with these special game features:
+
+Mines! With mines, you can get a head start on your opponent by exposing part of his navy without firing a shot. You can also help guard your ships from enemy attack.
+
+Islands! The virtually unlimited combination of screen layouts make each game different!
+
+Submerge Submarine! Just when the enemy starts aiming at your sub, give the order to dive!  Submerge your submarine to a depth even the computer can"t hit!
+
+Move Spy Ship! Secretly move your spy ship to a new location after the game has already started!  But watch out for those enemy mines!
+
+Minesweeping! Use your minesweeper to locate and destroy enemy mines!
+
+BATTLESHIP also includes these options:
+
+Edit Colors. You can change any or all of the screen colors.
+
+Set Mouse. You control the mouse speed by setting the  mouse sensitivity.
+
+Save Configuration. BATTLESHIP will automatically save the game options you select.
+
+Reset High Scores. The high scores can be reset from the Main Menu.

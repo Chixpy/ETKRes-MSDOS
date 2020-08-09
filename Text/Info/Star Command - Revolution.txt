@@ -1,0 +1,3 @@
+Real-time strategy in space. Play as one of four different races. Do the normal RTS thing; collect resources, build up a powerful military, and crush everyone else.
+
+

@@ -1,0 +1,5 @@
+Harp Vol. I is a remake of Harp: A Fantasy Adventure Book. This version has VGA graphics as opposed to the monochrome Hercules-only mode of the earlier release. The perspective is top-down rather than isometric, with a visual resemblance to Ultima VII. The story-book visual arrangement is gone as well, the playing area occupying the entire screen. Conversations with important characters are now displayed as large portraits superimposed on the screen.
+
+Major locations roughly correspond to that of the original game, to accommodate story progression; however, the actual layout is completely different. For example, the initial area has a sea shore and mountains, but no field paths as in the first version. Some scenes and conversations have been modified or enhanced.
+
+Gameplay-wise, the only notable change is the addition of random turn-based combat. Battle system is very simple and involves pressing a few keys to have Harp cast magic spells on the enemy. There are no experience points, money, equipment, or any other RPG elements in the game.

@@ -1,0 +1,8 @@
+Troika is a collection of three arcade style games: Rebel Planets, Ivan, and Metal Hearts, from Russian programmer Dima Pavlovsky.
+
+Rebel Planets is an arcade shooter where you control a small ship at the bottom of the screen and shoot a cylindrical projectile upwards. The goal is to destroy enemies on the screen with the projectile while making sure the projectile does not come into contact with various obstacles scattered around the screen. This plays like a cross between Space Invaders and Breakout.
+
+Ivan is a puzzle game in which the objective is to collect all the money on the game screen by wending your way through a maze in which you have to move blocks out of the way to open up passages, you have move these blocks in the correct order or else you trap yourself or seal yourself off from parts of the maze. This is very similar to the popular Japanese puzzle game Sokoban.
+
+In Metal Hearts you play the role of a plumber whose job it is to connect two water mains together using a changing series of elbow joints and straight sections. You are in a race against the clock as the water begins to flow down the pipe you are building from the input to the output. This is a clone of the game Pipe Dream.
+

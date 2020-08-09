@@ -1,0 +1,5 @@
+A lone chopper armed with machine guns and bombs must navigate through five missions in order to rescue people and destroy and alien missile factory.
+
+Striker is a side-scrolling shooter composed of five missions with different goals in each. The first mission will have you rescue your spies while the second will have to dropping off said spies. The third mission involves picking up cargo and the fourth stranded people. The final mission of the game is to attack the missile development factory and put an end to the alien threat.
+
+During your missions you will be attacked by targets on land such as guns and missile silos and target that fly in a preset pattern. You have unlimited amount of weaponry but will have to pick up fuel in later levels in order to avoid crashing. Fuel is picked up simply by destroying fuel tank on the tunnel base.

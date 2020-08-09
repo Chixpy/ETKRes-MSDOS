@@ -1,0 +1,13 @@
+"A Worm game with vast improvements. Two players (either a second person or computer) fight it out as worms snaking around the screen.
+
+While playing you can pick up gold which is then used to buy items in the technology shop. In the shop you can buy extra abilities to give you an advantage.
+
+The abilities you purchase in the shop are usually permanent, while abilities picked up during game play are lost when the level finishes.
+
+Abilities include increased speed, slower enemies, slowing down time, shorten enemies, jam hunters, divide flatworm, easier enemies, harder allies, worm repeller, make enemy dotty, extra life, extra armor, hyperspace, extra missile, homing missile, homing assassin, craze enemies, force field, make barricades, change border, start jabber, shoot laser, invincibility, auto turning, gold coin, steal gold, take control, steal human score, accelerator, do bad stuff, diagonal lines, lose diagonals, flatworm food, produce gold, and worm magnet.
+
+You cannot crash while you have armor or hyperspace units. Armor simply beats through the walls. Hyperspace will jump you to a random location. You can also shoot missiles at your enemies.
+
+There is also the standard food which you eat to make your worm longer.
+
+How"s that for a take on the game worm?"

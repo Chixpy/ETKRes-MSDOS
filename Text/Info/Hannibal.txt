@@ -1,0 +1,1 @@
+In this turn-based game you play a role of Carthagean warlord Hannibal in his struggle with Roman Empire. Managing resources derived from mines and rised by economy, you recruit armies (people, horses, elephants), siege cities, win the battles, and expand your influence from Africa to Europe. 

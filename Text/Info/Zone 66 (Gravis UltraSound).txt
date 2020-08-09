@@ -1,0 +1,4 @@
+A pilot is warned by a mysterious stranger that something terrible is about to happen in his town. Rushing home, the pilot discovers that his wife and baby daughter were murdered. The stranger who tried to warn the pilot is gravely wounded; however, before dying, he passes some information to him. The hero is back on his plane, determined to avenge the deaths of his beloved ones, alone against terrorist forces whose true goals are yet unknown...
+
+Zone 66 is a top-down shooter in which the player controls an aircraft, eliminating other planes as well as ground-based hostile units (tanks, etc.). The player-controlled aircraft is able to move in any direction, avoiding enemy fire or preparing a better angle for the next shot.
+

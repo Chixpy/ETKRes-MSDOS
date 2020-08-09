@@ -1,0 +1,5 @@
+Try to find the treasures someone has dropped down to the maze. There"s no enemies or any dangers in the game, so you can examine the maze as slowly and thoroughly as you want.
+
+Treasure hunt is a very simple maze game, but what makes it somewhat special is that it"s portrayed in first person perspective (remember that this game was published 1982). The maze is generated randomly everytime you start a new game, so there"s endless amount of mazes for a diehard player to conquer ;)
+
+

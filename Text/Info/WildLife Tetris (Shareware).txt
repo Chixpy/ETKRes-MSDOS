@@ -1,0 +1,4 @@
+Classic tetris type game in VGA 320x200 256 colours mode with WildLife pictures in the background.
+
+Botón derecho y seleccionar keycfg.com para la configuración del teclado...
+

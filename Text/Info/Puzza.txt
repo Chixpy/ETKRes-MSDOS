@@ -1,0 +1,1 @@
+Puzza is a simple 5x5 jigsaw puzzle game with a time limit. The player reveals a random piece of the puzzle on an empty field. Using the arrow keys an item can be moved to another space. The player can remove any item from the field, but it costs some time. Sometimes bonus items appear like an alarm clock or a coin that add time or points.

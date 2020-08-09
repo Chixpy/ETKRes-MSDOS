@@ -1,0 +1,15 @@
+Colossus X Draughts is a single-player, mouse/keyboard controlled DOS implementation of the popular board game. This game is from the developer of Colossus Draughts which won draughts championships in the early 1990"s.
+
+The game plays in CGA and EGA modes and has the following features:
+
+Games can be saved, loaded and replayed.
+Players can undo and redo moves - referred to in-game as "Backward-step" and "Forward-step".
+There is a Blindfold option where the player"s pieces, the AI opponent"s pieces, or both are hidden any of which makes for a really odd game.
+The player can play against the computer or they can play both sides.
+There are six types of game; tournament; equal time etc, game clocks, and three types of draughts piece.
+
+One of the strengths of the early Colossus Draughts game was its game book, a database of opening moves. This game also has a game book with a database of moves and the game contains a "Book Keeper" function which allows the player to alter the database - though the manual does stress very strongly that this is for expert users only
+
+The pieces are moved by either clicking on first the piece and then the destination, alternatively the player can click on a piece and drag-and-drop it or they can specify a move by typing, for example, g3h4 which specifies the start and end cell. 
+
+The game communicates with the player via a message area at the bottom of the screen and has an in-game option to change the language of these messages, the languages changed by entering English, Francais, Deutsch, Espanol or Italiano at the appropriate prompt.

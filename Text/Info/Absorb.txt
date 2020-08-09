@@ -1,0 +1,8 @@
+You"re An alien Spaceship and you use your Hyper Beam to collect and transport the items from earth to your ship.
+
+There are 4 levels (It"s a really small game, I know!-heh) Each level has a time limit in which you have to collect all the chosen items(The computer randomly chooses one of the three items you have to collect).
+If you fail to collect the chosen Items its Game over for you!!
+
+Each time you play a level the items are randomly spread across the level, some items appearing more then others, the item you must collect is also randomly chosen.
+
+So each time you play the game its a little different sometimes being harder and sometimes being easier.

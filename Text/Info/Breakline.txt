@@ -1,0 +1,5 @@
+Breakline is a Breakout variant. You have a paddle which bounces a ball up and down to break blocks on the game field.
+
+You can activate several special abilities, e.g. releasing several balls at once or a ball which cuts through solid blocks. The levels include gimmicks like teleporters or bumpers.
+
+There is also a training mode in which you can select the individual levels.

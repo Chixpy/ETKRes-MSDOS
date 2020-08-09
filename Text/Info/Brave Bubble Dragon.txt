@@ -1,0 +1,1 @@
+This is a Taiwan version of Bubble Bobble where players jump between platforms on a single screen and spit bubbles to wrap the enemy and after their collision, they are then eliminated. When all enemies are destroyed, a new screen is moved to. You can also collect dropped items such as fruit for bonus points.

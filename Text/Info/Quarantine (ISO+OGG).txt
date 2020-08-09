@@ -1,0 +1,11 @@
+Quarantine, desarrollado por Imagexcel, es un FPS en el que iremos montado en un taxi con el que tendremos que hacer distintas fechorias. Aunque el éxito del videojuego no fue arrollador, se terminaría convirtiendo en videojuego de culto por ser el gran inspirador del mítico Carmageddon.
+
+El argumento nos emplaza en una ciudad ficticia llamada KEMO, donde el crímen de la ciudad ha subido a cotas muy altas, con calles infestadas de criminales con "hovercars" armados hasta los dientes. La corporación Omnicorp se compromete a limpiar la ciudad, creando un muro alrededor de esta. No contentos con eso, prueban un producto químico que convierte a más de la mitad de los ciudadanos en asesinos despiadados. Tendremos que tomar el papel de Drake Edgewater, un taxista que lucha por salir de la ciudad, por lo que intenta acumular dinero gracias a su trabajo, para mejorar su vehículo y poder salir por la fuerza.
+
+En el juego manejaremos el taxi de Drake, con el que tendremos que ir rondando por la peligrosa ciudad. Cuando oigamos un silbido es que un cliente nos llama, si nos paramos junto a él se montará en el coche y nos indicará el lugar a donde quiere ir, sistema que recuerda mucho a Crazy Taxi. 
+
+La carrera será peligrosa, ya que muchos enemigos saldrán a nuestro paso. Completando carreras conseguiremos dinero con el que podremos ir a los talleres a conseguir nuevas y más potentes armas. Además, aparecerán otro tipo de misiones para conseguir pistas para saber como salir de ese infierno de ciudad.
+
+Los gráficos, más que por la calidad de su diseño, destacan por su estética cyberpunk y por un mapa bastante amplio. El apartado técnico se completa con una aceptable banda sonora a base de temas interpretados por bandas de rock alternativo australianas.
+
+NOTA: Para jugar en español (sin música) click derecho en el perfil y seleccionar "Espanol.BAT"

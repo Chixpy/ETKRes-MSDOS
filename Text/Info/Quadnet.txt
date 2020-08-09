@@ -1,0 +1,7 @@
+This is a fast and furious shoot-em-up inspired by retro arcade games like Tempest 2000 from Atari.
+
+You control a ship on a small square grid. Enemy robots are thrown onto the grid by a drone emitter. The robot drones are initially not too difficult to deal with as the only danger is in colliding with them. But as increasing numbers of drones start bouncing around the playing area it becomes increasingly difficult to keep your ship safe.
+
+You are aided in your attempts by the ships invaluable quad directional auto cannon. The game play is unique in that moving and firing is independently controlled by four keys each. This takes some getting used to, but results in intense action once mastered.
+
+The concept is simple. Kill more robots to score more points and earn a place in the high score list.

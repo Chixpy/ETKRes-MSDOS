@@ -1,0 +1,5 @@
+Reversi is a no-nonsense adaptation of the popular board game Othello. The player plays against the AI. There are multiple skill levels at which the game can be played.
+
+Player and AI take turn placing one of their tokens (red and blue) on the field. The token may only be placed adjacent to an existing token. If a horizontal, vertical or diagonal row of any number of same-color token is closed in by the other color, the row changes color. The player with most coverage when the board is filled wins the game.
+
+The game uses vector graphics that scale along with the size of the window it is played in.

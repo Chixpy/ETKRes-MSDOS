@@ -1,0 +1,3 @@
+Christmas Card 1990: The Seasoned Professional is the name to which Sierra"s third Christmas Card program is most commonly referred. Like the previous cards, it was distributed to stores by Sierra and was intended to showcase the color and sound capabilities of the computer for sale, and to showcase Sierra"s game engine. This time it was meant to showcase the 256 color capability of the SCI engine in VGA mode, although a 16 color EGA version was also available.
+
+It is a humourous program that depicts a stage audition for Christmas characters, but characters from other holidays keep showing up instead, resulting in the off-screen director to keep yelling CUT! Hopefully, the right character for the Christmas play will show up to the audition before the credits roll.

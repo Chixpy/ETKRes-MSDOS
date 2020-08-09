@@ -1,0 +1,20 @@
+Versión tremendamente sencilla del atemporal juego de mesa Othello (también conocido como Reversi o Yang) incluida, para más señas, dentro de la recopilación "40 programas de oro".
+
+Como en el resto de simuladores "Othellísticos" :) nuestro objetivo consiste en lograr acabar la partida con un mayor número de fichas propias que nuestro rival. 
+
+Para ello, en un tablero de 64 casillas (8*8), turno a turno, hemos de ir flanqueando las fichas de nuestro oponente, con el fin de capturar aquellas que se encuentren en el espacio intermedio. El flanqueo puede ser en horizontal, diagonal o vertical.
+
+Acaba la partida en el momento en el que todas las casillas quedan ocupadas.
+
+La forma de interactuar con el programa se basa en la introducción de la fila (identificada por números que van del 1 al 8) y la columna (representada por letras que van de la A a la H) de la casilla en donde queramos ubicar nuestra ficha.
+
+Cabe comentar que para introducir la letra que indica la fila, hemos de tener activadas la mayúsculas (como sucedía en las versiones PC de juegos como Don Quijote, el programa no reconoce las minúsculas).
+
+Entrando en cuestiones técnicas y estéticas debemos resaltar el espartano acabado general de Othello.
+
+Al igual que sucedía con otro programa del mismo autor llamado Memory (publicado dentro de la misma recopilación), Othello es un juego que parece completamente realizado en Basic. Además, para más inri, cuenta con unos gráficos muy pobres construidos en base a caracteres y con un apartado sonoro prácticamente inexistente (únicamente suena un "Beep" al llevar a cabo cada movimiento).
+
+Además en cuanto a cuestiones jugables, tampoco es que esta versión de Othello sea la panacea. Es cierto que resulta entretenida (como todas en general), pero carece de las opciones mínimas exigibles en un programa comercial. De hecho ni cuenta con opción para regular el nivel de dificultad (únicamente hay uno, y no muy complicado), ni con la posibilidad de competir contra otro jugador humano.....
+
+En fin..... Estamos ante una (muy) pobre versión de este interesante juego de mesa. Estéticamente resulta poco llamativo, sonoramente es simplemente nulo y aunque es cierto que en principio resulta entretenido (cosa no muy meritoria ya que el juego en que se basa también lo es), la falta de opciones de configuración en cuanto a dificultad hacen que la vida jugable de este programa termine siendo absolutamente fugaz...\u0009
+

@@ -1,0 +1,3 @@
+Custer"s Last Command is a hex and turn-based wargame recreating the Battle of the Little Bighorn taking place on June 25-26 during the Great Sioux War of 1876, which ended with decisive Native American victory over the U.S. Army.
+
+The battle can be played from Custer"s or Indians" side, with optional alternate set-ups (e.g.: Custer was offered backup of Gatling guns, which he refused).

@@ -1,0 +1,2 @@
+Double Blocks has a one-player and a two-player mode. To succeed in the game, you have to complete a great number of lines. In the one-player mode you have to complete levels. When you complete a level, you receive 100 points for each empty line left from the top. Then you"ll have to complete the next level and random blocks will appear at the bottom of the screen. In the two-player mode, you have to play until your friend has been flushed by the game. Only the winner gets points.
+

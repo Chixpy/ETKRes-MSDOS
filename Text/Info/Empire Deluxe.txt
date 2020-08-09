@@ -1,0 +1,12 @@
+An updated version of White Wolf"s earlier Empire game, which was based on a wargame dating back to early mainframe days. One to six players (human or computer with three levels of intelligence) compete to conquer the world using their ground, air, and sea units.
+
+There are three versions of the game available: basic, standard, and advanced. The basic game provides the minimal types of units, a completely viewable map, and basic production rules. The standard game adds some new units, forces you to explore the map to view it, and slightly modifies the production rules. Finally, the advanced game (for the true wargamer) adds even more types of units, terrain effects on movement and sighting, and slightly more complicated production rules.
+
+In addition to playing one or more people around the same computer, you could play via mail (by posting disks back and forth), e-mail, modem, network, or direct serial link.
+
+The game also came with some preset scenarios and maps for players to use. Additionally, there was an editor that let players create their own maps and scenarios.
+
+Copy protection was a compromise between security and player convenience. Rather than looking up a word in the manual every time the game was run, this was only required when running the separate executable that set game options. (Screen resolution, sound options, etc.) Naturally, you always had to run it before playing the first time.
+
+White Wolf and New World Computing also released a scenario disk for the game and later released the Windows version with the extra scenarios on CD-ROM.
+

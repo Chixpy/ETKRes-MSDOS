@@ -1,0 +1,7 @@
+Trek Trivia lets you test your knowledge of the Star Trek television series.
+
+There are hundred questions to test your knowledge, each with four possible answers to choose from. There are questions in different categories, including the crew of the Enterprise, aliens and enemies, episode names, technical data and dialogue.
+
+You start with twenty credits and earn an extra credit for every ten questions you get right.  The game ends when you lose all your credits.
+
+There are ten volumes of Trek Trivia. Each volume has 100 new questions. The first 7 volumes cover general Star Trek trivia, volume 8 is only dialogue, and volumes 9 and 10 are Masters Editions.

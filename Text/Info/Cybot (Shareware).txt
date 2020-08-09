@@ -1,0 +1,3 @@
+"When you start the game, you should see a green line on the floor under you. This is a telepod. You will always start each level on one. On the same token, you must find the other one on that level to continue to the next.
+
+Cybot is a little game that I made in QuickBasic. By todays standards, or even my own standards, it wasn"t a fantastic game, but to this day I"m still in awe of the fact that I was able to squeeze so much out of quickbasic, both in terms of performance and how much I fit into the game. In this game you pilot a small transformable robot around several mazes that consist of static rooms, fighting off small geometric creatures along the way. Loosely inspired by Thexder."

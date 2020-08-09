@@ -1,0 +1,1 @@
+Bolo Box is a new logic and problem solving game from Soleau Software. The objective is to flip tiles on a 10x10 grid back to the same color in as few moves as possible. The game is simple to play, yet is quite addicting. Solutions for the first 10 out of 50 puzzles are provided. Bolo Box is packed with features and is fun for all ages.

@@ -1,0 +1,5 @@
+The Castle Siege game is a two-player game of strategy and tactics.
+
+One player is the Defender.  His walls encircle his men and protect his King - the Lord of the keep.  He must stop all attempts of the Attacker to enter the castle and capture his King.  Archers and crossbowmen are very powerful tools.
+
+The other player is the Attacker.  He has many more men, but must throw his men against the improved position of the Defender.  Lightly armored swordsmen make up the bulk of his force, but his armored knights are a deadly force indeed.  The Attacker must make a hole in the defense and capture the King.

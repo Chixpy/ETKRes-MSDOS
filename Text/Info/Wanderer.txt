@@ -1,0 +1,1 @@
+Wanderer is a boulderdash-like game. Each tile contains a terrain and passing it gives a number of points. Levels contain earth, boulders, teleporters, balloons, monsters, and more hazards. The objective is to collect all treasures and kill all monsters. When you have done so, you may finish the level by moving to the exit.  Wanderer comes with 60 levels and a level editor.

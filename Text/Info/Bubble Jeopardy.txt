@@ -1,0 +1,8 @@
+Bubble Jeopardy is a one or two player game in which players must burst bubbles to score points.
+
+Coloured bubbles bounce around the game area and the player(s) must burst all the red, blue and green bubbles to advance to the next area. This apparently simple task is complicated by a number of things.
+
+First, when hit the bubbles break into two smaller bubbles. When these are hit they break into two smaller bubbles, and so on, and so on until the player hits the smallest bubble which disappears.
+Then there are hazard bubbles which drop fire onto the player if they don"t get out of they way, and the blue bubbles which split when hit but can never be killed. Oh, and any time the player makes contact with a bubble they lose a life.
+
+The game has sound, a high score table, and can be played with either a keyboard or a joystick. In a two player game one player must use the keyboard and the other must use the joystick.

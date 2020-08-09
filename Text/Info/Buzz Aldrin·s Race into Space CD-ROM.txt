@@ -1,0 +1,11 @@
+Buzz Aldrin"s Race Into Space (BARIS) es un juego de estrategia y simulación realizado por Strategic Visions y publicado por Interplay en 1993.
+
+En el juego tendremos que elegir entre los dos bandos que protagonizaron la carrera espacial, los EEUU y la URSS. Tomando el papel de un administrador de la NASA o del programa espacial sovietico, nuestro objetivo será llegar a la Luna antes que nuestros enemigos. 
+
+Para conquistar el espacio tendremos que llevar a cabo tareas de investigación, desarrollo, reclutamiento y entrenamiento de astronautas, además de la preparación de lanzamientos. El juego comienza en 1957 y a traves de turnos de 6 meses cada uno, tendremos que ir cumpliendo distintos objetivos hasta llegar a la Luna. Desde mandar un satelite, poner al primer hombre en el espacio, realizar el primer paseo espacial, etc... 
+
+Para llegar a la Luna, tendremos que tener exito en las misiones, lo que nos conseguirá puntos de prestigio y fondos. Las misiones en si no son interactivas, pero en ellas tendremos distintas fases. En cada fase tendremos un % de posibilidades de que la misión sea un fracaso absoluto. Cuanta más fiabilidad tenga el equipo que utilicemos, más dificil será que ocurra esto. 
+
+BARIS intenta realizar una representación historica lo más realista posible, incluyendo la mayor parte de los aparatos utilizados en la época y otras propuestas que no llegaron a utilizarse; pero a la vez simplifica el juego para ofrecer un balance correcto entre los dos bandos y una complejidad que no sea excesiva para el jugador. Aun con todo, es un juego con bastante dificultad y en el que la máquina nos lo pondrá muy dificil.
+
+En 1994 el juego fue lanzado en formato CD, incluyendo correcciones de bugs, nuevos audios, videos y modos multijugador.

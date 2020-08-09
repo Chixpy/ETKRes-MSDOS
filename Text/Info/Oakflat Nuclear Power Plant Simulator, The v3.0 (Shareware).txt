@@ -1,0 +1,2 @@
+GAMTECH Simulates a pressurized water, nuclear fission power plant. User controls all major plant operations to generate safe and cost effective electrical power. The simulator will create random events such as fires, equipment failures, earthquakes, and even terrorist attacks.
+

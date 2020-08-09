@@ -1,0 +1,3 @@
+This game is very similar to Boloball, another Soleau Software puzzle game.  The objective of Balloon Challenge is to get your 25 colored balloons as high as you can on the game board.  The higher the balloon goes, the higher the points awarded.  The player with the highest score at the end of the game is the winner.
+
+There are many items to help or hinder your balloon from traveling higher.  Dark clouds stop your balloon from going any higher.  Hurricanes move your balloon to a different hurricane on the board.  Airplanes destroy your balloon.  Directional clouds move the balloon in the direction the arrow is facing.

@@ -1,0 +1,5 @@
+Royal Flush is a simulation of the real life pinball machine of the same name by Gottlieb. The main focus lies on a realistic feeling and the ball physics. The game is played with just four buttons: two to handle the two paddles, one to release the balls, and one to simulate the shaking on a real pinball machine. 
+
+The whole table uses a poker design. There are multiple ways to receive bonus points, e.g. hitting one of the five cards on the upper part, three bumpers or The Hole which gives you a lot of points and lands the ball on the right paddle. Depending on the graphics card there are two ways how the machine is simulated: it is either stationary (you see the hole table at once) or it scrolls with the playing ball.
+
+The game features an extensive menu where you can set almost all aspects of the pinball machine, including inclination, number of playing balls and the amount of currency which flows through the paddles.

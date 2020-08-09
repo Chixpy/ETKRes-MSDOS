@@ -1,0 +1,9 @@
+Peter Cluster es un personaje creado por Jaume Medina. La serie Peter Cluster en Europa ha sido escrita por Jesús Manuel Montané. Programación: Oscar y Enrique Vives. Diseño Gráfico: Evo. 
+
+Peter Cluster fue una serie de tres capítulos que fueron distribuidos con la revista PC Players. 
+
+Tras finalizar este tercer episodio se anunciaba que el detective Peter Cluster volvería con nuevas aventuras y que se volvería a enfrentar a Cyber Max, y a un nuevo personaje llamado Kay Fernley: El Guerrero de las Dunas, que se supone que aparecería en el siguiente número de la revista PC Players. De esto, poco o nada se sabe. 
+
+Para seleccionar las acciones usamos los cursores. El menú está en la última acción de la lista, Salir. 
+
+Para usar un objeto hay que situarse con los cursores en la acción Usar y en el objeto, y pulsar Enter, luego se selecciona el destino de donde vas a usar el objeto, pudiendo combinar dos a la vez. 

@@ -1,0 +1,19 @@
+Norland"s Hangman series is a fun PC adaptation of the classic Hangman game in which you attempt to guess a word by picking individual letters, with a predetermined amount of incorrect guesses allowed.Although done fully in ASCII, the layout is clean and decent, and the hangman drawing looks simply hilarious. There"s (optional) PC beeper sounds and music played when you win or lose, all well incorporated into the game. 
+
+Certainly the best feature of the games lie in their diversity and customization. You can choose how many incorrect answers are allowed (5 or 7), and in both the Classic version and in Hangman for the Superintelligent there are four modes of play, each with different words and phrases. 
+
+- Classic mode, where you"re presented with seperate underscores and you simply try to guess which word it is 
+
+- Educational Hangman, where the words are slightly more challenging but where you"re given a brief definition of each word as you go along 
+
+- Literate Hangman, where you try to guess a famous quote or phrase and you"re told the author of the quote, but where each letter is only written down once at a time, so if there are several cases of the same letter you need to guess it again 
+
+- Personalized Hangman, where you and up to 8 friends take turns writing down words or phrases and having the others guess them in classic hangman style. If you have someone to play with, this is where the game really becomes fun. 
+
+[In the Foreign Language Hangman version, gameplay modes instead include "English words/French clues" and vice versa, and "English phrases/French clues" and vice versa.] 
+
+There"s just a couple of issues that brings the series down from being top notch. The classic version of the series is a bit too easy, and Classic mode has only about 530 words in its vocabulary. Guessing a certain word is still hard even if you"ve guessed it before, but the game quickly becomes repetitive after a while. Educational and Literate Hangman adds a lot more words and phrases to the equation, but the word definitions given in Educational mode makes it much too easy for adults, and although Literate mode can be challenging there"s just too few quotes and phrases there to make Literate Hangman fun in the long run. 
+
+On the flip side, you can open up the .wrd files and add your own words in the games" vocabularies. Just mind the spacing. 
+
+These minor issues aside, Norland"s Hangman series is certainly recommended to anyone looking to exercise their memory with a good Hangman adaptation, and Personalized mode is just plain fun!

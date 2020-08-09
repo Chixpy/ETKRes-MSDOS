@@ -1,0 +1,1 @@
+Aftershock for Quake is an unofficial add-on for Quake. It contains a handful of single-player and deathmatch levels, as well as a Quake level editor and a selection of hints & cheats for the original version.

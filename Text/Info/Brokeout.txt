@@ -1,0 +1,1 @@
+Brokeout is a simplistic and small (<5 kB) break-out game. Knock out the blocks with the ball and paddle. You have only one ball, there are no bonus items, only one level and no scoring. An accompanying program allows you to adjust the game speed.

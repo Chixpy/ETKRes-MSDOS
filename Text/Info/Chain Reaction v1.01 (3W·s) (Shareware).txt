@@ -1,0 +1,7 @@
+The cells are divided into three kinds: The Corner cells, the Side cells, and the Inner cells.
+
+Player can only place up to 2 seeds in each of the corner cells, 3 seeds in each of the side cells and up to 4 seeds in each of the inner cells
+
+Each player will take turns to place their moves. (NOTE: Player move are being notified by the white colored box in their respective name.)
+
+The first person who dominate the whole game board with their own types of color seeds is the winner of the game.

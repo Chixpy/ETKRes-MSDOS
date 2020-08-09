@@ -1,0 +1,17 @@
+"NINE-MAN MATRIX is a game of pure skill that may be played against another human or your own system. It features outstanding 3-D modeled graphics, Soundblaster support, and challenging 1 or 2 player modes.
+
+1 - Placement Phase
+
+Each player is given nine spheres of his color to be placed in small rings on the playfield. Between these rings are yellow bars set in a distinctive pattern.
+
+Players alternate placing spheres until all are gone. If at any time, a player manages to align three spheres of his color along a yellow bar (which are only horizontal and vertical), he scores a ""mill"".
+
+Scoring a mill, allows a player to remove any piece of his opponent"s that is not already part of a mill. This ball is discarded and is not returned to his opponent"s hand.
+
+Once all spheres have been played, the game enters the second phase.
+
+2 - Movement Phase
+
+Alternately, players move a sphere of their color to any adjacent (connected by yellow bar) and vacant ring, in an effort to score mills.
+
+Opponent"s pieces are removed from the board in the same manner as the first phase."

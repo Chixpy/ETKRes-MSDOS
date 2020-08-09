@@ -1,0 +1,2 @@
+Numlo is a twist on the classic game of Othello. Instead of one opponent, you now play against two! The grids also contain point values which add to your score. Any Othello player will have to re-learn new strategies in this challenging and unique puzzle game. Packed with features and multiple difficulty levels, Numlo is fun for all ages! Can you outwit the computer?
+

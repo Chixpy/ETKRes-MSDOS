@@ -1,0 +1,1 @@
+Hockey League Simulator II is a hockey management simulator. The player becomes the manager and creates his own team. It deals with salaries and coaches can be hired or fired.

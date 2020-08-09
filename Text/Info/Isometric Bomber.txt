@@ -1,0 +1,25 @@
+En 1999 entramos de lleno en la época crepuscular del MS-DOS, en la que, con cuenta gotas, iban apareciendo novedades en el terreno lúdico. Estas, en la mayor parte de los casos eran producciones de equipos de programación modestos con escaso presupuesto. Isometric Bomber es un buen ejemplo de este tipo de lanzamientos.
+
+En España fue lanzado en un primer momento como juego de regalo con la prestigiosa revista Computer Gaming World, posteriormente Hollywood Publishing lo explotaría en el terreno de los juegos budget. Fuera de nuestras fronteras fue publicado bajo el título de Madd Bomber Xplozion por compañías como Magnussoft o Crystal Interactive.
+
+En cuanto al juego en sí, destacar que es uno de esos escasos ejemplos de juego comercial desarrollado con el DIV Games Studio de la difunta Hammer Technologies.
+
+En realidad, los chicos de Diox Soft apostaron sobre seguro. Tomaron un clásico como Bomberman, y plagiaron su desarrollo, de conocida efectividad. La principal novedad vendría del apartado estético, ya que la perspectiva pasaba a ser isométrica, y los gráficos prerrenderizados. Por lo demás lo mismo de siempre.
+
+Así la mecánica de juego, se basa en sembrar de bombas de detonación retardada el campo de juego, intentando eliminar a los enemigos de cada nivel. Las bombas además nos servirán para despejar aquellos caminos bloqueados. Por lo demás, al desbloquear ciertas partes del escenario de juego, aparecerán una serie de ítems que nos darán ciertas ventajas como vidas extras, más bombas simultáneas, más tiempo (de inicio, contamos con 3 minutos para completar cada nivel), etc...
+
+El programa propone dos modos de juego:
+
+A) Modo historia: Es la modalidad para 1 jugador, o bien para 2 jugadores en modo cooperativo. Se desarrolla a lo largo de 4 mundos (el bosque, el desierto, la pirámide y el espacio) divididos en 5 niveles cada uno, de los cuales el último de ellos corresponde a un jefe final.
+
+Además en el menú de opciones podremos regular el nivel de dificultad de entre 3 posibles. Esto tiene un efecto directo en el modo historia ya que en el nivel fácil solo tendremos acceso a 2 mundos, en el medio a 3, y para poder completar los 4, tendremos que seleccionar el modo difícil.
+
+B) Modo batalla: Es la modalidad exclusiva para 2 jugadores en modo versus. Nuestra misión consiste en acabar con las 3 vidas de nuestro adversario.
+
+GR\u00c1FICOS: Los gráficos prerrenderizados lucen bastante bien. Los decorados son agradables a la vista, y los sprites vistosos. Aún así, les falta algo de personalidad, sobre todo al protagonista.
+
+ANIMACI\u00d3N: La animación pese a ser fluida, es en general un tanto "robótica".
+
+SONIDOS: Dado que la versión que poseo es la que editó Comuter Gaming World, y esta no tenía las pistas de audio de la banda sonora, solo puedo valorar los efectos, y de estos solo puedo decir que son bastante escasos, y alguno, como el que indica el fin de la partida, poco adecuado, para mi gusto.
+
+JUGABILIDAD: Isometric Bomber es un programa corto (20 niveles en el modo historia), y que pese a que cuenta con un estilo de juego cuya adictividad está más que comprobada, no termina de enganchar. Es más, en mi caso, hasta el momento de realizar esta reseña, no había jugado más que 4 o 5 partidas en 13 años..... Con todo, no es un mal programa, es cierto que la perspectiva isométrica, es menos manejable que la cenital, y que no pueden participar 4 jugadores como en Bomberman, pero el desarrollo es relativamente divertido, y seguimos pudiendo jugar con o contra un amigo.....

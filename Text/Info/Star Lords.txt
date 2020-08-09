@@ -1,0 +1,5 @@
+Before there was a game called Master of Orion, SimTex head Steve Barcia presented a prototype to MicroProse Software and gaming journalists Alan Emrich and Tom Hughes.
+
+This game is called Star Lords. It is much like Master of Orion, only rather unpolished (even by the humble production standards of the almighty MOO).  The basics are there, though: you start out with one planet in one star system and are charged with building a galactic empire.  This means researching techs, building ships and colonies, and confronting alien civilizations.  Several randomly generated opponents will do their best to stop you from realizing your goal.
+
+Released as freeware in 2001, Star Lords is an artifact for those interested in the history of MOO and game design in general.

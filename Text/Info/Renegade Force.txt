@@ -1,0 +1,2 @@
+Horizontal shooter which supports up to two players
+

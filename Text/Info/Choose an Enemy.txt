@@ -1,0 +1,3 @@
+Choose an Enemy is a fighting game . Your aim is to defend your girlfriend against a guy who attacks her, shown from a first-person perspective. Before the fun begins, you have to choose your opponent. There are three men available with different speed and the ability to knock out one or two teeth with a single punch.
+
+After selecting your opponent the fight can begin. By pressing the shift keys of your keyboard, you punch with your left or your right fist and by pressing space bar, you can avoid punches. You win if you manage to knock out all 32 teeth of your opponent and you lose when you are toothless.

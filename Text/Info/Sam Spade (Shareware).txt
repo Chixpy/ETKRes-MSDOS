@@ -1,0 +1,1 @@
+Sam Spade is a text-mode game (very basic ASCII-graphics) where the object is to solve a crime, playing as Sam Spade, private detective. You have both a limited amount of time and cash to solve the crime. (Apparently the private dic business doesn"t pay too well.) It"s a fairly unique concept which probably will take some trial-and-error to get the hang of.

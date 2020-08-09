@@ -1,0 +1,7 @@
+Autobots is a platform game, where your player is a magnet for robots due to certain reasons. The reason for robots is to make you their slave for very brutal reason you could ever imagine, the reason for you is to smash them into one another for keeping the peace in the world. Different reasons may lead to different ends.
+
+So you should clear levels full of the robots making them smash into one another and not allowing the robots to catch you. The robots always move towards your player, so if you can get two robots moving on the same lateral plane towards you then they may be killed easily. When two robots crash into one another they form a pile of debris which can also be used to destroy robots. You get 10 points for each kill and special features during your progress.
+
+The manipulating of your player include moving your player by turns with cursor keys, teleporting your player randomly on the screen for limited number of times (you will always be teleported to a safe area where no robots can smash into you before giving you a chance to move), killing all robots in squares contiguous to your player for limited number of times, allowing you to make the robots move one turn while keeping your player in the same square, and zipping to the next level.
+
+On-line help and sound toggle are available also.

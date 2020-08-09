@@ -1,0 +1,19 @@
+RoboRaider puts you in control of 6 different robots to explore 6 different mission including 3 test of skills. Although it has limited graphics, it has a unfolding RPG game play that should prove interesting at most. So grab the keyboard, and take on this 
+MiniRPG!
+
+PS: Be careful of Dr. Robo, he loves his robots, and will fire you if any harm comes to them. Pilot them with care!
+
+Features:
+
+320 x 200 Graphics screen size (At least its easy to read :P)
+
+16 Colors
+
+6 Robots (All are used)
+
+9 Levels plus a bonus to unlock
+
+xtrGRAPHICS(TM) Level 1 (Uses QBasic"s graphic engine)
+{Classic Style Game}
+
+TPT(Third Person Top) Veiw

@@ -1,0 +1,11 @@
+Mario comes to the PC, in the form of a typing tutor.
+
+In this product you get to play one of four games, of progressing difficulty (as either Mario, Luigi or the Princess):
+
+Mario"s Smash & Dash: Assist your character run past a series of boxes and turtles, each labelled with a letter that must be typed to avoid the obstacle.
+
+Mario"s Wet World Challenge: Help your characters swim across the screen whilst being chased by hungry sea creatures - only typing the words that scroll across the bottom of the screen will let you escape.
+
+Mario"s Tunnel Of Doom: Help your character run through a tunnel filled with traps, avoiding falling blocks and the like, by correctly typing the sentences which scroll across the top of the screen.
+
+Mario"s Expert Express: Essentially a practice typing lesson where you copy and type pre-defined paragraphs with the assistance of Mario"s supervision.

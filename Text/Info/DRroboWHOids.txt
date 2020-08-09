@@ -1,0 +1,5 @@
+DRroboWHOids (a name that makes you want to scream at the designer) is a great PC remake of Daleks, a classic UNIX puzzle game that got a new life on the Macintosh as Classic Daleks.In this game, you must help that ingenious time traveller, Doctor Who , avoid ever-growing swarms of your arch-enemies, the Daleks. You are armed only with your trusty Sonic Screwdriver, an ability to teleport to random destinations, and your wit. 
+
+Basically you must maneuver so that the Daleks crash into each other. The Sonic Screwdriver is a handy little device that destroys any Daleks adjacent to you, but will only work once. You are given a limited number of screwdrivers at the start of each level, with new ones awarded upon level completion. When all else fails, you can make a "final stand," allowing the Daleks to keep moving until either you or all the Daleks have been killed. 
+
+DRroboWHOids is without a doubt one of the best DOS conversions of a classic Macintosh game. Highly recommended, and be sure to try out excellent Java versions of Daleks at the related links below.

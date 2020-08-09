@@ -1,0 +1,10 @@
+Even back in the early days of computers there were computer games. EGATrek is an updated version of one of the very first computer games. It plays the same, as those who experienced the original minicomputer versions will agree, but it has graphics updated for the "90"s.
+
+EGATrek puts you in command of a starship in a battle to save the galaxy. A large invasion fleet has arrived and you alone are responsible for fighting off the invaders in your quadrant. You"ll be kept busy figuring out battle strategy as you go from encounter to encounter.
+
+In addition, you"ll need to find star bases to resupply your ship. You may be called on to make rescues of other ships or planets. And you must do it all as quickly as possible without running out of fuel or getting your ship destroyed. This challenge has kept players coming back since the earliest days of computing!
+
+EGATrek uses 16 color graphics (640x350 pixels) which gives plenty of hi-res detail for text status and graphical displays. It comes with a complete manual that describes all ship functions plus some basic strategy.
+
+The game can be played at five difficulty levels, to suit the beginner or the expert. The highest level has been set to be almost unbeatable but expert players have been able to do it...maybe you can be one of them! A hall of fame is kept with your best scores at each level.
+

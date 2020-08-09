@@ -1,0 +1,1 @@
+Superb chess game with human/human, computer/computer, etc modes.

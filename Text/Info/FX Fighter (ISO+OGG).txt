@@ -1,0 +1,3 @@
+FX Fighter is a 3D fighting game similar to Virtua Fighter by SEGA. You choose one of the eight comic book style characters to become the greatest fighter in the universe.
+
+Each character has its own special / hidden moves as well as a planet of their own housing the gruesome challenges with 3rd-person flying camera perspectives...

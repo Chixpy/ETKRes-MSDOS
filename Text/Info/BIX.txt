@@ -1,0 +1,2 @@
+A puzzle game where you control a smiley inside a maze. 52 levels are included.
+

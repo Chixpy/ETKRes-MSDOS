@@ -1,0 +1,13 @@
+Designed for Microsoft Windows environment as stress relief for that busy office.
+
+
+Titles include:
+
+Chess
+Go Figure! (mathematics theme)
+Tic-Tac-Drop (puzzle game)
+Maxwell"s Maniac (pong clone)
+Dr. Black Jack
+JezzBall (Qix clone - trap bouncing balls)
+
+... and the licensed Epyx game Chip"s Challenge.

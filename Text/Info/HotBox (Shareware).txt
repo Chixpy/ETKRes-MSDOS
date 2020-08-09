@@ -1,0 +1,5 @@
+"HotBox is based on the old sliding tile puzzles that used to fascinate us for hours, but we"ve added a few new twists. The computer will prepare a tile pattern which will be drawn in a square at the upper right corner of your screen. Your task is to duplicate the pattern on the main puzzle by sliding the multi-colored tiles into the open square, one at a time.
+
+You may only move the four tiles immediately adjacent to the open square. A timer just below the board will tell you, at a glance, exactly how much time has elapsed as you try to solve the puzzle. To successfully complete the design, you MUST finish with the empty square in the SAME position as as depicted in the example pattern. Did I say it was going to be EASY?
+
+There are more than 100 puzzles to challenge you, with still more planned for release individually in the form of ""puzzle packs."""

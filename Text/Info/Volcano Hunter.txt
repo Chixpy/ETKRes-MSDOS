@@ -1,0 +1,27 @@
+"You are HUNTING HARRY, the last person left in a town taken over by Druts. (A Drut is a monster that usually lives inside the earth near volcanos.) The town you live in just happens to be near a volcano. The dreaded Druts have been mining the volcano for its gold, but they have run into a problem. They ran out of fuel for their machines to mine the volcano. So they robbed the city of its precious fuel supply and they plan to keep it. It is your duty to infiltrate the volcano and retrieve the stolen fuel, while killing the Drut monsters who will try and stop you. It may take you a while to find all the fuels because there are over 200 screens in this adventure.
+
+Magazine Review from 80 Micro
+
+Amazing Adventures East of Java
+
+Spider-like Drut monsters have stolen the city"s fuel supply. As Hunting Harry, you get eight chances to explore the Drut"s volcano and retrieve the stolen fuel cells. Harry must evade the monsters and other obstacles before he can return the cells to the basements of the city"s buildings and win the game.
+
+This is the scenario for Volcano Hunter, an ingenious machine-language, arcade-style adventure game. While Volcano Hunter doesn"t require fast reflexes, it"s notable for the 200 graphics screens that comprise the giant maze through which you travel. You control the game with the arrow keys and space bar of a joystick. The time bombs you drop by pressing the space bar blow up Druts but can kill Harry too, if you don"t drop the bombs strategically.
+
+Overcoming Obstacles
+
+As you guide Harry through the maze, you encounter new obstacles with each new screen. You don"t see adjoining screens until Harry enters them so remembering obstacles becomes a key skill to successful play. Conveyor belts, water, and the volcano itself are all obstacles for Hunting Harry. The conveyor belts move him from one part of the maze to another, but they become an obstacle when they take Harry in the wrong direction.
+
+Other obstacles that Harry must avoid are the drop-offs. Sometimes the drop-offs are on the next screen which is unseen. Harry must jump just before entering that screen in order to be safe. The Druts have filled some of the maze with water. Harry"s air supply, the level of which is displayed at the top of the screen, lets him travel through water, but when his air runs out you lose one of your men. Similarly, another gauge on screen measures body heat: If Harry remains near the vein of hot lava that flows through the active volcano, his body heat rises to a fatal level.
+
+The Druts themselves are the most serious obstacles. They kill Harry on contact and appear just about anywhere. Some areas in the maze are safe from Druts: They can"t get inside the buildings though they might appear on top of or beside them. Druts can"t enter designated peace zones nor can you drop bombs there. But the Druts can appear in groups and surround you. Sometimes they don"t attack right away, waiting until you make a mistake and walk into them. If you"re patient, they can go to sleep and you can walk right past them.
+
+How to Score Points
+
+You garner the most points by bringing back the fuel cells\u00c3\u00c2\u00a2\u00c3\u00a2\u00e2\u00c2\u00ac\u00c3\u00a2\u00e2\u00ac\u00c5worth 2,000 points each\u00c3\u00c2\u00a2\u00c3\u00a2\u00e2\u00c2\u00ac\u00c3\u00a2\u00e2\u00ac\u00c5to the city"s basements. Transporting fuel cells successfully is the only way to get a high score. Getting fuel without returning it to the basement nets you only 50 points. You can collect all the fuel you want before returning to the basement, so you only have to make one return trip. Knowing you skill limitations is important since many of the same obstacles are present on the return trip.
+
+Getting the gold that the Druts mine in the volcano gives you 200 points. A beamer (you"ll know it when you see it) gives you 100-200 points. For every screen explored you get 20 points. Killing a Drut monster gives you from five to 45 points. A direct hit with your bombs scores more points than an indirect hit.
+
+Documentation, Sound, and High Scores
+
+The instructions provided with the game are minimal. For one thing, the documentation doesn"t explain the pause feature. After much trial and error, I discovered that pressing the P key pauses the action, while pressing the C key continues the game. The sound effects are nice but not necessary for play. My final criticism of Volcano Hunter is that you can"t save high scores, something you routinely expect in a game of this quality.

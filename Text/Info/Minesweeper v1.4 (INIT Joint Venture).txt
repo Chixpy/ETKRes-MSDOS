@@ -1,0 +1,1 @@
+Minesweeper is a challenging game of strategy and luck.  You are presented with a mine field, and your objective is to locate all the mines as quickly as possible.  To accomplish this task, you have two tools: one is a mine detector, the other is your foot.

@@ -1,0 +1,5 @@
+El objetivo de este revientacabezas es salir del metro...para lo cual harán falta grandes dosis de suerte...
+(aunque pareza imposible se puede salir)
+
+Comandos:
+Lo único que necesitas es moverte: N, S, E y O

@@ -1,0 +1,5 @@
+In Diamond Ball III the player controls a colored ball that bounces up and down, and the player can only move it sideways. The gameplay is very similar to the Commodore 64 game Crillion.
+
+Move the ball around a maze that contains colored blocks that disappear when the ball touches them. The ball can only remove blocks of the same color, and it can change color when touching certain special blocks. Hazards come in the form of death blocks, barriers and barrier switches.
+
+When the levels is cleared, the diamonds are unlocked and the played needs to remove them as well to go to the next level.

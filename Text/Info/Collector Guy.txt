@@ -1,0 +1,3 @@
+Your goal is to collect the objects on the screen to get points. Every time when you collect a object you earn 1 point. For every point you get your character will go faster and faster.
+
+NOTA: Este perfil utiliza la versión de DOSBox de ykhwong.

@@ -1,0 +1,9 @@
+The game is a Bomberman clone with different goals in Single-player and Multi-player modes.
+
+It begins in the Weapon Shop, where players can get their favourite weapons and bombs. 
+
+In Single-player mode you have to complete 15 monster-filled levels. You have three lives. Each level begins from the upper left-hand corner. Your mission is simply to find the door that leads to the next level. Notice that the location of the exit may vary from game to game and you can not see it because of Fog of War. Players who excel, get their names on the revered Hall-of-fame list. Your position on the list is defined by how far you get in the game.
+
+In Multi-player mode 1-4 players find themselves at the far corners of the screen. You should move your guy around and collect as many treasures as you can in the limited time available. You might also try to kill the other players. If you are able to slaughter your opponent (before he/she slaughters you) you will receive a large amount of cash. The level will end if one of the following options are filled:1. The time runs out.2. All the treasures are collected.3. Less than two players survive.     After completing a level you are automatically transported to the shop to purchase more bombs. When all the rounds have been played, the winner is the player with the most cash or the most wins in the separate levels.
+
+There is Map Editor present.

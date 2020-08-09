@@ -1,0 +1,7 @@
+Este juego fue el otro -que yo conozca por lo menos-, junto al Bestial Warrior, en el que tu misión era proteger al protagonista principal del juego; es decir, tú no tomas todo el protagonismo y eres el blanco de los "malos", sino que por el contrario tú eres una especie de guardaespaldas del verdadero protagonista -en este caso Guillermo-, y eres ignorado por sus enemigos. Por lo tanto, en la práctica no mueres tú, sino que muere el señor Tell.
+
+Como en todos los juegos para pistola de Opera y Dinamic, el juego cuenta con unos excelentes gráficos y scroll, que te harán pasar un rato estupendo (por supuesto, si cuentas con una Gunstick). 
+
+La versión PC es una conversión directa de las de 8 bits, en CGA (4 colores).
+
+NOTA: Este juego requiere una versión de DOSBox con soporte para Gunstick, la pistola optica desarrollada por MHT Ingenieros.

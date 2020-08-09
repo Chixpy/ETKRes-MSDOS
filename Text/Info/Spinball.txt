@@ -1,0 +1,3 @@
+In every level there is an exit door that you must reach to advance to the
+next level. The object is simple - advance to the highest level you can
+and WIN the game! To see what the doors look like, press F1 while playing.

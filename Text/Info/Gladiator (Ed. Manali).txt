@@ -1,0 +1,29 @@
+Como ya hemos mencionado en alguna que otra ocasión, pocos fueron los palos que se escaparon de las garras del prolífico A.G.D. en su cruzada quiosquera.... Y para muestra, Gladiator, un juego de lucha uno contra uno, ambientado en la antigua Roma y más concretamente en el siempre llamativo mundo del circo romano.
+
+El juego en sí, viene a ser un sucedáneo "low cost" de Barbarian, en él que hemos de superar, uno a uno, a los cuatro (literalmente) adversarios (para mas inri uno de ellos repetido) que contiene el juego.
+
+Llama la atención que aunque durante los combates podemos saber en todo momento de cuanta energía (vida) dispone nuestro alter ego gracias a la barra que aparece en pantalla, no sucede lo mismo con nuestro adversario, ya que su barra de energía brilla por su ausencia.
+
+Cabe matizar que las diferencias existentes entre este programa y Barbarian son, como no podía ser de otro modo, abismales, ya que Gladiator resulta parco en casi todo.
+
+Para empezar el programa carece de una pantalla de presentación o de un menú de opciones digno. Y es que las opciones que se nos ofrecen empiezan y acaban en la posibilidad de elegir jugar bien con teclado bien con joystick, con lo que, huelga decir, que de lo de jugar contra un oponente humano o de lo de regular el nivel de dificultad, ni hablamos (nivel de dificultad, por otra parte,ínfimo).
+
+Además, en juego, todo resulta escaso. Aspectos como la existencia de un único escenario o la de solo cuatro sprites distintos, que además están dotados de insuficientes cuadros de animación, así lo corroboran.
+
+Si a todo esto le añadimos la escasa duración del programa (basta un poco de paciencia y un adecuado uso del escudo para en poco más de 10 minutillos "ventilarnos" a todos nuestros rivales) y el escueto repertorio de golpes y movimientos de los que esta dotado nuestro alter ego gladiadoril (que se resumen en 5: avanzar, retroceder, estocada alta, estocada baja y uso del escudo), pues... poco queda que decir...
+
+VALORACI\u00d3N
+
+- GR\u00c1FICOS/ANIMACI\u00d3N: Los gráficos son exclusivamente CGA. El uso del color, dentro de lo que cabe, es correcto. La definición gráfica, sin ser mala del todo, no resulta muy convincente. Además, como ya hemos mencionado anteriormente, el set gráfico es tremendamente rácano (un único escenario y cuatro personajes distintos (nuestro héroe, los leones (idénticos) y los dos gladiadores (de los cuales, el segundo resulta ser una versión "customizada" de nuestro "prota")).
+
+En cuanto a la animaciones mencionar que muy naturales, muy naturales... no son. Ahora bien, a grandes rasgos, se puede decir que cumplen con su cometido.
+
+- SONIDO: Horrible. Pítiditos tomando forma de efectos y más pitiditos tomando forma de melodía final...
+
+- JUGABILIDAD/ADICCI\u00d3N: Nuestro personaje se deja controlar bastante bien, aunque en ocasiones reaccione algo tarde a nuestras órdenes. El ritmo de los combates resulta algo lento. Con todo, lo peor es la escasa dificultad de que hace gala el programa. Así, en un par de partidas (o quizás antes) podremos concluir el programa sin despeinarnos.
+
+CONCLUSI\u00d3N
+
+Gladiator es otro de esos programas "fast food" hechos con tan poco presupuesto como tiempo para su publicación en quioscos. Carece de aspectos básicos presentes en cualquier programa comercial que se precie, resulta escaso y además (mala combinación) muy fácil.
+
+Con todo, la temática que abarca es interesante y mientras dura (que es poco) puede capturar tu interés... siempre que no seas muy exigente a nivel técnico, a nivel jugable, a nivel... XD.

@@ -1,0 +1,1 @@
+The executable is exactly 2kB. The archive is larger, since it contains the Assembly sources. SmallTetris runs in 40-column text mode.

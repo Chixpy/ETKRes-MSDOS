@@ -1,0 +1,5 @@
+Apollo 18: The Moon Missions is an attempt at creating a realistic simulation of manning an Apollo space trip.  The game comes on two disks: a video-heavy orientation section, and a the actual simulation training at Johnson Space Center.
+
+Players will be tested on proper commands and sequence, in hopes that they will move on to the actual Apollo 18 launch.  Once on the shuttle, the player will spend most of their time staring at the control panels, putting what they"ve learned to the test.  The simulation is broken up by short arcade sequences, but for the most part is occupied by looking at readouts and buttons.
+
+A heavy emphasis is put on correct procedure, as the game shoots for accuracy over flash.  Commands must be precisely entered, in sequence.  Mission Control will help the player with staying on track, but players will experience bouts of "radio interference" that will require a good memory.

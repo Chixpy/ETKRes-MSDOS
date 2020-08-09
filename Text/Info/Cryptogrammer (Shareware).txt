@@ -1,0 +1,25 @@
+Cryptograms are word puzzles which encrypt a saying or pun using a simple
+substitution code.  For example, the saying "A penny saved is a penny earned"
+might appear in a cryptogram as "B QFOOZ TBWFE JT B QFOOZ FBSOFE", by using the
+next letter of the alphabet in place of the original ("A" becomes "B", "B"
+becomes "C", etc.).  Or, a random substitution sequence might generate "L RFSSG
+DLYFU CD L RFSSG FLISFU" ("A" becomes "L", "P" becomes "R", and so on).  To
+decipher these codes, one looks for letter frequencies, groupings, and
+repetition to provide clues as to the encryption sequence used.
+
+    Popular interest in cryptograms goes back to at least the 19th century. 
+Arthur Conan Doyle had Sherlock Holmes decipher such a code in "The Case of the
+Dancing Men," in which stick figure men drawn in various positions were used as
+an encryption sequence for a secret message.  Edgar Allan Poe in "The Gold Bug"
+narrates the deciphering of a message describing the location of buried
+treasure.  (The Gold Bug message is included in this kit for you to try your
+own hand at breaking the code.)  Nowadays, cryptograms are commonly found in
+word game magazines, or in the newspaper next to the crossword puzzle.
+
+    Solving cryptograms requires an initial trial-and-error process.   When
+solving by hand, this usually involves repeated markings and erasings as
+different substitutions are tried out.  However, using CRYPTOGRAMMER, the
+letter translation is automatic, and trial-and-error is a far simpler process.
+In addition, CRYPTOGRAMMER provides a simple toolkit for tallying frequencies
+of letters, doubles, 2- and 3-letter words, and provides references on typical
+frequencies found in everyday usage.

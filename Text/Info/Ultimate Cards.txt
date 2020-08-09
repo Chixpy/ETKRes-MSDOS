@@ -1,0 +1,2 @@
+There are 12 opponents with different skills, which may be assigned by the player to the table before each game starts. Such opponents may advise the player during the game. The game progress may be turned back and replayed as well as advice may be taken or not. The goal of the game is to win as many points as possible. The best winners will be stored in the Hi-Scores table.
+

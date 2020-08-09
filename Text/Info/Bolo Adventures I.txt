@@ -1,0 +1,1 @@
+A puzzle game with 40 levels. Escape from each level by pushing blocks around to block laser beams, fill in water etc. There are no time limits, as the emphasis is on puzzles rather than action.

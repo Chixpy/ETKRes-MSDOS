@@ -1,0 +1,2 @@
+Packrat is a sidescrolling game in which you collect the coins or buttons and get points. There is a multiplayer mode and a level editor. The game has no save mode.
+

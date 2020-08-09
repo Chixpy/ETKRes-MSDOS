@@ -1,0 +1,6 @@
+¿Qué podemos decir de esta verdadera obra maestra de la programación? Han sido muchos miles de personas las que han disfrutado con él, tanto en España como en el extranjero, y lo cierto es que se ha hecho un hueco en los corazones de la mayoría de ellas.
+
+En UK llegó a ser uno de los tres juegos españoles más famosos, junto al Fernando Martín y al Army Moves, y no había entrevista a programadores extranjeros en la que éstos no hiciesen mención a uno de ellos (bien es verdad que a insistencia de los reporteros patrios).
+
+En cuanto al juego en sí, se trata de un frenético arcade dividido en dos partes, en la que para llegar a la segunda (¡cómo les gustaba esto a los chicos de Dinamic!), necesitabas una clave de acceso que conseguías al final de la primera.
+

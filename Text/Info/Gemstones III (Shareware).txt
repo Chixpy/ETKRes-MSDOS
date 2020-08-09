@@ -1,0 +1,1 @@
+"A unique & challenging breakout style game. Up to 6 players with individual difficulty settings, 3 levels of difficulty, 43 types of bitmapped gems, 11 bitmapped backgrounds, as many as 4 moving balls at a time, 5 levels per game, adjustable game speed, adjustable mouse speed, sound card support, and background music."

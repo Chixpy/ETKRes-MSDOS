@@ -1,0 +1,3 @@
+A decent Nibbles/Snake clone done in CGA, the game has few actual features but is nevertheless a nice clone.With customizable game speeds, three static walls to turn on or off and squares (food) of various sizes made the game a little more difficult than certain other Nibbles clones. The snake gets longer and longer really fast and it"s only one pixel wide at all times, which means navigating the arena with pinpoint accuracy quickly becomes difficult.
+
+Do note that the game is entirely in Norwegian, and although the menus and functions are easily understandable wherever you"re from. It"s a decent enough clone and worth a mention to anyone who"s interested, though; all you need is DosBOX at fewer cycles or a slowdown utility.

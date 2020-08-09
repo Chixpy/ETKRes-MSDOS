@@ -1,0 +1,2 @@
+Arcade-style game that teaches math. Especially well suited for young children (3 and up) and for people with disabilities of movement. Extensive customizations possible. Keeps track of progress for multiple players.
+

@@ -1,0 +1,6 @@
+"Don Quijote" es una de las primeras aventuras conversacionales que cayó en mis manos, y quizá por eso guardo tan buen recuerdo de ella. Fue además una de las que más éxito tuvo, sin duda impulsada por el hecho de contar con el respaldo de un personaje tan conocido. De todos modos, la aventura es magnífica por sí misma, por lo que el mérito, aparte de al insigne Miguel de Cervantes, hay que atribuírselo al programador.
+
+Jorge Blécua (EGROJ en el mundillo) había realizado anteriormente Arquímedes XXI, también para Dinamic, y tiempo después sacó Abracadabra bajo su propio sello, Odisea, encargándose Proein de la distribución. Las tres fueron realizadas con el GAC (Graphic Adventure Creator) un "parser" menos evolucionado que el PAWS y sin traducción al castellano, pero de manejo más sencillo.
+
+Jorge se puso en contacto con nosotros hace un par de años, pero en un formateo del disco duro (aysss...) perdimos los mensajes, y con él su dirección. Jorge, si lees esto te agradeceríamos que te pusieses en contacto con nosotros de nuevo, a ver si podemos hacer una entrevista para nuestros visitantes.
+

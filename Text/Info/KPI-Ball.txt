@@ -1,0 +1,23 @@
+INTRODUCCI\u00d3N
+
+KPI-Ball es un excelente juego de última generación, programado con la delicadeza y el saber acumulado por algunos usuarios del sistema MSX, que no se conforman con los cientos de juegos antiguos que posee el catálogo de su máquina favorita.
+
+El grupo de programación boh-ken, se esforzó al máximo en esta producción, obteniendo como fruto un espectacular juego que aprovecha la gran potencia gráfica del MSX 2, combinándolo con sonido y música de gran calidad. El proyecto KPI-Ball se inició en 1996, y desde entonces el juego fué evolucionando y tomando la forma definitiva. En él han colaborado bastantes personas, lo cual se aprecia en la calidad del producto final.
+
+
+EL JUEGO
+
+Estamos ante un arcade con ese aliciente clásico que deja tan buen sabor de boca. Si conoces el Pang!, sabrás que el objetivo es romper las bolas que rebotan por la pantalla. Las bolas grandes se dividen a su vez en bolas con un diámetro de la mitad de la original cuando las acertamos con un disparo; éstas a su vez vuelven a dividirse, y así sucesivamente hasta que se alcanza el tamaño más pequeño, momento en el que podremos destruirlas definitivamente. Ciertos personajes animados intentarán dificultar nuestra misión, como son los pájaros o las caracolas, y otros nos ayudarán en nuestra tarea. Además hay objetos que nos benefician con puntos, tiempo extra, etc.
+
+
+COMENTARIO
+
+KPI-Ball es uno de los mejores juegos que se han desarrollado para MSX 2 en los últimos tiempos. Es muy adictivo y rápido; los mandos responden a la perfección a nuestras órdenes y el grado de detalle de todos los elementos del juego hacen de éste un producto de obligada compra para los simpatizantes del sistema MSX.
+
+Es cierto que KPI-Ball se encuentra disponible como "freeware" en la página web de matra pero os recomiendo, una vez que lo probeis, que lo compréis, ya que la presentación del estuche y del juego no tiene desperdicio; el disquete de 3 1/2 viene en un estuche de plástico, con carátula a todo color y de gran calidad, al igual que la guía del usuario. Un juego que podría perfectamente venderse en tiendas de software (si no fuera porque casi nadie compra ya software MSX). Además, tened en cuenta que comprando de vez en cuando programas para MSX ayudamos y animamos a los programadores a seguir realizando proyectos tan espléndidos como el que comento en esta página.
+
+El motor del juego, programado por Armando Pérez y Manuel Pazos, realiza perfectamente el movimiento de todos los elementos de la pantalla de forma suave y certera, a pesar de requerir sólo 64 Kb de RAM para funcionar.
+
+Los gráficos de KPI-Ball, realizados por Migel A. Fernández (Sutchan) y Airam Rodríguez, son realmente preciosos. Los fondos capturan a la perfección diversos famosos edificios y monumentos de 17 países del mundo, como el Big Ben, La Sagrada Familia, el Arco del Triunfo, etc. La elección de los colores es la adecuada y eso se nota en la buena visibilidad en todo moemnto de los componentes móviles del juego.
+
+Por último, voy a hacer un especial hincapié en la música de este juego. Fué compuesta por Jam, y es de lo mejorcito que he escuchado en MSX. Y no me refiero sólo a "técnicamente" o al uso del potente hardware... No, me refiero a la gran calidad de las melodías, la buena elección de los timbres, y lo exquisito del acompañamiento. Si tu MSX 2 dispone de FM-PAC, Moonsound o Sound Module, disfrutarás de una gran banda sonora. Si usas el KPI-Ball en un emulador, usa a ser posible el NLMSX, pues es el que mejor reproduce el sonido.

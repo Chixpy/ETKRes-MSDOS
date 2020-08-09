@@ -1,0 +1,3 @@
+Guimo is a 2D platform game featuring several stages full of action. The story is situated in a parallel world called "Bitland", the Earth-brother world where inhabitants are under terrible danger after the invasion of Necterion and his army. To restore harmony between the two worlds, the best trained and fearless sentinel (entities responsible for the dimensional passage between both worlds) is ready under your command: GUIMO!
+
+The game also offers many innovative features for this epoch (1997): enemy AI, Eggy robots (auxiliar pals!), digital music, etc.

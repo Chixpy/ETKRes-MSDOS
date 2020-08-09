@@ -1,0 +1,2 @@
+Othello played through a command line
+

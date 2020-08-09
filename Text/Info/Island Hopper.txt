@@ -1,0 +1,12 @@
+"Island Hopper is a tribute to the shooter classics of 1980 and early 1990. Those are the coolest games in the world and as such there should be as many of them available as possible!
+
+Island Hopper features a scrolling terrain with flying and ground- and water-based enemies that you must destroy and/or dodge in order to carry out your mission of destruction.
+
+Additionally there are hidden bonuses that can increase your firepower or give you additional bonus points at various parts in the game.
+
+For every 30,000 points that you accumulate, you will be awarded an additional ""bonus"" aircraft. When all your aircraft have been destroyed, it is Game Over!
+
+When it is Game Over you may have an additional chance to restart and continue from the point where you died. Your score will be reset at this point but you will not have to go all the way back to the beginning."
+
+In 2007 the author made this game freeware (was previously shareware).
+

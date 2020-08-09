@@ -1,0 +1,2 @@
+WEBS is a deceptively simple solitaire game requiring both strategy and cunning. You claim nodes on a web while trying to limit the moves available to your opponent. Automatic display of potential moves, a variety of webs and difficulties give hours of challenge.
+

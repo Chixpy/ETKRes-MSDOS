@@ -1,0 +1,5 @@
+Necromantics takes place in a mysterious castle. The main character, controlled by the player, is an invisible magician wearing a high hat, white gloves and shoes.
+
+The magician can only walk and jump; he has no means to attack. Yet, he must escape from many rooms full of spiders, swords, etc. The intention of the game is avoiding all these obstacles, and making it to the next room.
+
+It"s possible to pick up diamonds and bottles with magic juice along the way. These items can make changes to the surroundings, for example, some new platforms might appear. Sometimes the magician has to pull some levers which are hard to reach.

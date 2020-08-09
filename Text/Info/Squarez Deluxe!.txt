@@ -1,0 +1,6 @@
+Squarez is a puzzle game with similarities to Tetris. Various shapes consisting of one to eight tiles appear in a 3x3 area and must be placed on the playing field within ten seconds. When a 3x3 or larger square is created it disappears. The game is over once a part of a shape remains in the area where it appears after its ten seconds are up.
+
+There are three game modes: Basic, Normal, and Extreme. The Normal mode is just like Basic except that some of the shapes contain special tiles. These tiles are activated when the square containing them disappears. Some tiles, like bombs and score multipliers, are helpful, while others, like spikes, should be left alone. In the Extreme mode there are a lot more of these special tiles.
+
+Squarez also features a head to head mode. In this mode two players each have their own playing field, and certain special tiles activated by one player can affect the other. The player to last the longest wins.
+

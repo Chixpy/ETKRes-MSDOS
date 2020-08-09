@@ -1,0 +1,1 @@
+A good Boulderdash clone that was designed for the Mekka & Symposium 2000 competition. This game ranked 6th. It has nice graphics and animations. If your score is high enough, you can send it to plex@bionfx.de to get it in the online highscore list!

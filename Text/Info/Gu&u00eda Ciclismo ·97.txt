@@ -1,0 +1,1 @@
+Poco que comentar. Un simulador de ciclismo en la linea Dinamic Multimedia con el basket y el fútbol. Base de datos de corredores y eventos, modo simulación y arcade, posibilidad de jugar o ver las carreras, etc.

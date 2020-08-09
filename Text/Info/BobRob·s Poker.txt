@@ -1,0 +1,1 @@
+A single player poker game with no sound. Cards will continue to be dealt until you run out of money or quit.

@@ -1,0 +1,7 @@
+Balloonz! is shareware title based on the game Balloon Fight, which has two distinct sub games. These games are:
+
+Midnight Journeys
+This is a right-to-left-scrolling game in which the player is suspended by two balloons and must remain afloat as they travel across a night sky. On the way there are pink balloons to collect and burst. There are also stars to avoid as contact with a star bursts one of the balloons holding the player up. There are five levels available in the shareware version of this game and ten levels in the registered version.
+
+Puff Gunners
+This is a two-player game. Each player has control of a gun that shoots a blast of air. Balloons fall from the top of the screen and the objective is to blow the balloons over to the opposing players side where they will burst on contact and score points. Each gun has a limited amount of energy so resources must be used carefully. This game is configurable from the main menu where such key game elements as "strength of puff", "number of simultaneous balloons", and starting energy per player can be set.

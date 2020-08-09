@@ -1,0 +1,1 @@
+This is the 551 point enhanced version of the classic Adventure game (aka Colossal Cave). It seems to be a superset of the original game, with several new rooms and puzzles added (I haven"t played this version very much). It runs under MS/PC-DOS version 3.3; I haven"t tried other DOS versions.

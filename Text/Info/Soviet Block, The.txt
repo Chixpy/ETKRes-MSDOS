@@ -1,0 +1,5 @@
+The SOVieT Block is a game of strategy and skill.  Pieces fall from in a pit from the top to the bottom.  As pieces land on the bottom, they eventually find a final resting place and a new piece comes tumbling down.  The object of the game is to keep dropping blocks into the well.
+
+"How can you do that?" you say.  Well, you may eliminate horizontal rows within the pit.  If a horizontal row is filled with bricks, it disappears, dropping all the blocks above down one level.  You have the ability to maneuver pieces by rotating them and moving them to the left and right.
+
+Tetris

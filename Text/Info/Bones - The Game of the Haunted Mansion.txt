@@ -1,0 +1,15 @@
+Bones: The Game of the Haunted Mansion is a member of the pseudo-roguelike Wizard"s Castle family. It is one of the oldest games of this family, originating in 1981 on DEC mainframes. 
+
+The story is quite conservative: As in the other Wizard"s Castle games, your task is to descend into a dungeon to find the all-powerful Globe of some mighty Warlock on the deepest level.
+
+The gameplay is a hybrid of boardgame-like exploration and roguelike dungeon crawl, the whole presented as in "windowed" interactive fiction game, while the setting is a mix of fantasy, horror and sci-fi elements, playing in a haunted mansion filled with dust, bones, undead skeletons, RAM chips needed for auto-mapping, Uzis and Laser guns, etc. The only graphics is the BGI title screen; the rest of the game plays in text mode and reminds late DOS applications with windows.
+
+There is only one kind of monster that you"ll encounter: skeletons of all shapes and sizes: paper skeletons, flying skeletons, paranoid skeletons, closet skeletons, thief skeletons, and so on. You can fight them, but you can also try to talk to them, which may save hit points and also provide some information.
+
+Items are strewn in the castle waiting to be found by you. As in an adventure, you need to examine the room to find them, getting a vague description. To actually get the item, you need to guess what it is. For example, instead of saying "gold", you"re told that you see "round disks". In extreme cases, items are just described as "something". 
+
+Besides the usual gold and jewels, there are also some more esoteric items. Beside your bare hands, the most common weapons are bones. These, however, are easily dropped during a fight; swords and maces are more efficient, but the most powerful weapons are lasers or the legendary Uzi. Naturally, lasers require energy and Uzi needs ammo clips to work, which are hard to identify in the general trash lying around. You can also find explosives, or spell books useful for casting spells.
+
+The game incorporates a mapping system called "Bonebuster Mansion Mapper". Auto-mapping is inherent in Wizard"s Castles gameplay, but here, it is not automatic: the mapper needs Video RAM to display something, and it needs Main RAM to store information. So in order to enable auto-mapping, you need to find (and identify) as much RAM chips as you can. Each K of RAM can only display or store one room, and chips aren"t abundant either in a haunted mansion full of skeletons, so just like in reality, you"ll be constantly running out of RAM.
+
+Finally, there are also nasty traps, like rooms filled with poison gas in which you begin to suffocate. These rooms only have one-way doors, so in order to leave them, you"ll have to use your weapons to hammer the wall open, which takes time.

@@ -1,0 +1,2 @@
+"At the Main Menu you can select either Regular (""campaign"") or Combat (""versus"") mode."
+

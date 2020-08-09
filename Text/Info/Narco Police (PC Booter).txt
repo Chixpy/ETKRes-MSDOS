@@ -1,0 +1,3 @@
+Versión "booter" de "Narco Police", con gráficos CGA y sonido digitalizado vía Speaker.
+
+Usa CTRL+F4 para cambiar de disco cuando el programa lo pida.

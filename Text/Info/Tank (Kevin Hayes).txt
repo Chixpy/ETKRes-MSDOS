@@ -1,0 +1,30 @@
+GAME KEYS:
+
+ESC - hit this to quit the game
+F1  - toggles invisiblity game OFF\ON
+F2  - toggles the type of wall NORMAL\BOUNCING\WARP
+F3  - toggles teleport mode ON\OFF
+
+Player 1
+  colors:  GREEN  - systems are O.K.
+           YELLOW - use caution
+           RED    - danger!!!
+
+  w  - accelerate
+  s  - decelerate
+  a  - rotate counter-clockwise
+  d  - rotate clockwise
+  m  - fire a missle
+  n  - teleport (if in use)
+
+Player 2
+  colors:  CYAN    - systems are O.K.
+           WHITE   - use caution
+           MAGENTA - danger!!
+
+  8  - accelerate
+  5  - decelerate
+  4  - rotate couter-clockwise
+  6  - rotate clockwise
+  /  - fire a missle
+  .  - teleport (if in use)

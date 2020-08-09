@@ -1,0 +1,5 @@
+Satori is a solitaire board game, which is played on a 10x10 board. In addition to the board, the play pieces or tiles, of which ammount to 60 different tiles have on it a path segment. Each path segment consist of one color from the five availabe different colors: Red, Yellow, Green, Blue and Violet. The tiles appear randomly from the stack or deck as you play the game.
+
+The objective of the game is to place the tiles on the board in such a way to create the longest connected path possible. This is done by placing any given tile next to a tile with a connecting path. Each connecting path is awarded with points, regardless if the tile is different from the prior. However, if the tile place next to the prior tile is of the same color, you of course get higher points.
+
+If you don"t get that description, it"s basically similiar to games like Pipe Dream.

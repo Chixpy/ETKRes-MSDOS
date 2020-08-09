@@ -1,0 +1,10 @@
+"Tidbit Trivia VGA is a 256 color trivia Game. You have to Roll a dice to move around a board and answer questions. Your goal is to Correctly Answer a Question from every Corner of the Playing Board.
+
+* Make Your own Questions
+
+* It"s FREE!
+
+* Free Support BBS
+
+You can make your own questions for use in your home, church, Sunday school, or office. Think of this as YOUR custom Trivia Program!"
+

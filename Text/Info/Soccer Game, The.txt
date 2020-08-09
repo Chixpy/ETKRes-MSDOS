@@ -1,0 +1,3 @@
+Take the role as team manager of a UK football (soccer) team in The Soccer Game. Choose from one hundred teams and utilize a database of 1270 players and hundreds of support staff from assistant managers to physiotherapists. Playing from charts and graphs manage the team well enough to move your 4th league team into the premier league. Your decisions about player choices, and other statistics will decide the outcome of your contract with the team. 
+
+The game is played from databases and lists while the actions that take place in a match are written out. Matches can be bypassed to go directly into the final score by pressing the escape key. As manager you can read up on other teams and players, send out scouts and even gamble a bit on your matches.

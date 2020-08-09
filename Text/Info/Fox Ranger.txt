@@ -1,0 +1,5 @@
+Fox Ranger is a side scrolling space shooter from Korea. There are 6 stages with an end-boss at the end of each stage. The gameplay is simply shoot-anything-that-moves and there are lots of enemies on screen to shoot down.
+
+Press CTRL to fire the standard weapon and ALT to use the extra weapon, which is shown in a box at the top of the screen. When you die and your standard weapon is powered-up you don"t lose it, instead it is powered-down, so you still have at least something.
+
+You can select level easy, normal or hard to start with 7, 5 or 3 ships. And you can set the shield to easy, normal or hard to start with 9, 6 or 3 shield units.

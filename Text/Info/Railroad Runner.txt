@@ -1,0 +1,27 @@
+"Object: Earn points and graduate to the next level.
+
+Play: - Select a starting level from the menu.
+- Use the cursor arrows to guide the Railroad Engine.
+- Do not run over houses.
+- Avoid the little cherry-bomb"s (they"ll blow you up!)
+- Watch out for the MASKED BANDIT! If he catches you it"s all over!
+
+Points: 1 point for every Section of Track your engine lays.
+100 points for scooping up an Oil-Can
+1000 points for a Dollar Sign!
+
+Screen: 25th line - SCORE: Points earned
+- OUT: Number of times remaining until the trapped
+Masked-Bandit automatically escapes
+- BT: Number of Back-Tracks remaining
+- LVL: The level currently being played
+
+Hints: At certain levels, if your Engine gets trapped in the tracks you"ve layed, then the engine will automatically follow the tracks back to the other end and you can restart from there! This is called ""Back-Tracking"" (see Screen Section above)
+
+Scores over 100,000 are simple and easy once you learn ""the Tricks!""
+
+Watch the OUT number! When it reached zero, the Masked Bandit automatically blows up the walls around him and comes after you! (but THAT"s what you need for REALLY HIGH POINTS!)
+
+When the MASKED BANDIT blows up a wall HE LEAVES a 1000 point Dollar Sign in his place!
+
+The trick is learning how to avod the Masked-Bandit and go back around to scoop up the 1000 point bonuses! It"s really rather simple, once you figure it out!"

@@ -1,0 +1,1 @@
+Xerix is a side-scrolling shoot "em up. The player must guide a space ship through two different levels and destroy or avoid the many enemy and obstacles found within an alien structure that endangers the Earth. The project has been codenamed XERIX: the eXtended Enemy Response and Infiltration eXperiment. The player"s eventual objective is to destroy the alien structure itself.

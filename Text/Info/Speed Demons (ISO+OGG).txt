@@ -1,0 +1,5 @@
+This game is arcade of "evil" vehicles, in the style of Death Rally that throughout 8 circuits we will have to demonstrate that we are the fastest.
+
+Up to 6 vehicles can participate simultaneously controlled by human players (network IPX) or by the computer. The competitions are totally customizeable: you can choose the weather, the circuit direction, etc... In each competition we can choose between 3 vehicles with characteristics very differentiated. As you gain points throughout the championship, you can upgrade your car.
+
+Are you ready to face the challenge? Tons of adrenalin are awaiting you.

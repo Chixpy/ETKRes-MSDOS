@@ -1,0 +1,3 @@
+Super Trio is a Korean-made platformer. Despite its initially sinister plot involving an evil vampire lord being resurrected in his ominous castle, the actual game takes place in colorful, modern-day-themed environments, featuring microscopic protagonists traversing everyday household objects arranged as platform structures. 
+
+The player takes control of either the mouse Jake, the cat Tomi, or the dog Brudo. All the three characters play the same and are only distinguished visually. Two players can team up by selecting two out of the three protagonists. Weapon upgrades, health-restoring items, and lightning attacks can be found throughout the stages. Each stage has a rather strict time limit and ends with a boss battle. There is no possibility to save the game.

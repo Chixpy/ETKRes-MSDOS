@@ -1,0 +1,5 @@
+Super Ball! is a single player Breakout clone.
+
+The player has a paddle which moves left / right. A ball is fired i from the lower left of the screen and at some point, either when triggered by the player or at the end of its run, the ball travels upwards. On the screen are bricks, arranged differently on each level. The ball hits the bricks and breaks them to score points. When it bounces back, the player must position their paddle to catch their ball causing it to bounce up towards the bricks again. Failure to catch a ball costs a life.When a brick breaks it scores points and sometimes scatters objects which fall to the bottom of the screen. Some of these award extra points others are bombs that destroy the paddle and cost a life.
+
+The game was issues as shareware. Basic registration gave the player access to a mystery level and by paying a higher fee the player could obtain Super Ball! Deluxe which had ten additional levels and several mystery levels.

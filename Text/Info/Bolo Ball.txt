@@ -1,0 +1,1 @@
+Play against the computer in this strategy marble maze arcade game. Your objective is to get your marbles to the bottom of a maze filled with ramps, walls, black holes and much more. Block your opponent by pushing your marbles into strategic positions to stop him from doing the same to you.

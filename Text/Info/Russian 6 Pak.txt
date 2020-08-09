@@ -1,0 +1,10 @@
+Ever heard of Tetris? There are many other puzzle-based games from Russia and the Russian 6 Pak presents six of them:
+
+Flying Pictures: There is a game field with a lot of blocks with different pictures on it. Your character has also blocks with pictures with him. The goal is to throw every block on another block with a corresponding picture. This block disappears and the block you threw is returned to you with a new picture on it.
+Fast Ring: Similar to Pipemania.
+Line Man: Also very similar to Pipemania.
+Master of Bombs: A Tetris variant with bombs.
+Crete: This is a sliding puzzle - slide the walls of the labyrinths so that your avatar can pass through without crossing the path of his enemy. There are no arcade elements present.
+Shadows: Shoot asteroids with a crosshair cursor. Pure arcade gameplay in this one.
+
+Besides the separate high score lists for each of the six games there is also another list which takes track of your overall performance.

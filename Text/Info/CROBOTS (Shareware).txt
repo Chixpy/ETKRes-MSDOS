@@ -1,0 +1,4 @@
+CROBOTS ("see-robots") is a game based on computer programming.
+
+Unlike arcade type games which require human inputs controlling some object, all strategy in CROBOTS must be complete before the actual game begins.  Game strategy is condensed into a C language program that you design and write.  Your program controls a robot whose mission is to seek out, track, and destroy other robots, each running different programs.  Each robot is equally equipped, and up to four robots may compete at once.  CROBOTS is best played among several people, each refining their own robot program, then matching program against program.
+

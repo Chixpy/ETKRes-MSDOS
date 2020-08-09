@@ -1,0 +1,5 @@
+An unofficial add-on for Quake (like Shrak for Quake), Abyss of Pandemonium cheekily positions itself as the next part of the story, following on from Quake"s official mission packs: Quake"s fearsome general, the Dark Reaver Legond returns from conquering another dimension in the name of her master, to find out that a single human has repeatedly defeated Quake"s minions. Outraged, she gathers her forces and set"s about plotting your destruction.
+
+Content wise, this game comes with 16 new levels (10 single player/6 death match), six new foes, four new weapons and 1 power-up.
+
+In 2004 one of the creators released the Deathmatch element of the game as freeware. Two more freeware releases followed a short while after that, one containing unaltered versions of both the singleplayer and deathmatch elements from v1.05  of the game (the final commercial release of the game was v1.10)  and a second, 2.0 release that featured some enhancements.

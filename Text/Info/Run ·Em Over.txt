@@ -1,0 +1,17 @@
+Run "Em Over is a mini, top view,car driving game.You are a small dude on a map who controls a car with a remote controler.Your objective is simple.
+
+You must stop hordes of ENEMIES who are invading from the opposite part of map to reach you by runing them over.
+
+You can also deploy mines and use them to protect key positions.
+
+ENEMY can attack you with grenades which can destroy your car.
+
+Run "Em Over can be played in two scenarios.CITY and REMULAC. Only difference is in graphic and positions of blockers on the map.
+
+Goal of Run "Em Over is to score highest possible number of kills and enter highscore. 
+
+There is no progression, levels or cutscenes.
+
+This is my attempt to create an addictive and replayable action game without progression.
+
+This game contains bloody corpses,blood splattering and celebrates running over people or aliens. I don"t posses a wish to run over people with car in real life. This is a computer game. It"s not my fault that people get most amused with this kind of scenes. If I made a game where you collect bunnies with rainbow collored tricicle nobody would play the game.

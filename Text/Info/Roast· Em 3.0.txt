@@ -1,0 +1,10 @@
+This is a variation of your basic artillery game.  I have tried to make it easy to use, fun to play, fast moving and have several variations.
+
+The object is to blow to bits your opponent, whom may be a friend, a relative, or an innocent computer.  To reach this goal, you simply use the arrow keys to adjust the speed and angle of your shot.  A direct hit will destroy your victim, while a near miss will damage them reducing their status (if they are in the blast area). 
+
+Use "Enter" to fire your shot after you have adjusted the angle and speed.
+
+
+
+
+

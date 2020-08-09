@@ -1,0 +1,5 @@
+"Are you ready to explore the unknown?
+
+You are about to be trapped in the center of a randomly generated MAZE of size which you have specified. You will be shown a realistic 3D view of the room you are standing in exactly as you would see it, if you were really in the MAZE. Each MAZE will be different; a random process is used to generate an interesting and different MAZE each time.
+
+Although you can print or display a map of the MAZE, the real challenge comes from exploring the MAZE from the inside. A MAZE which appears simple on paper can be bewilderingly complex when you are actually in it! Even small MAZES will challenge your ability to explore unknown environments..."

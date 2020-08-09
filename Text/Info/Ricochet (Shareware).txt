@@ -1,0 +1,10 @@
+"Object: to blow up all guns of the opposite color from yours
+
+Game play: Use left and right arrow keys to select angle of fire and press spacebar to shoot.
+
+The missile will bounce off of the left, right, and top walls, and explode when it hits the bottom.
+
+The guns take turns shooting. The order goes from left to right, skipping guns that are dead.
+
+When you get passed the title screen, a question will appear, asking the number of bounces. This is the number of times a shot must bounce off a wall before the missile will become active. If an inactive missile falls to the ground, it will not explode."
+

@@ -1,0 +1,7 @@
+Before the days of the real-time strategy game such as the WarCraft series, there was Medieval Warriors, which is a turn-based fantasy strategy game that looks like an early prototype of the RTS genre.
+
+In Medieval Warriors, you control either the Blue team or the Red team, each with twelve warriors. There are four maps, or battlefield terrains, where the battles take place, and each of them presents different obstacles and challenges. For instance, in "Frontier Outpost," teams are placed in separate forts divided by a forest and a pond; in "Castle Keep," however, it is just a maze of rooms and hallways.
+
+Each of the twelve warriors are distinct with their own stats, such as move range and hit points, and they can also equip different weapons, such as a bow or a sword. They even have their own names. Strategic decisions such as the formation of your party as well as their position on the terrain must be made to take advantage of their strengths and protect their weaknesses. You must also be able to determine which weapon to use, and since weapons are expendable, you have to be careful not to waste anything. 
+
+While you can choose to play against a computer opponent, you can also play against a human player over a modem. 

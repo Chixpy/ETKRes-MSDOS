@@ -1,0 +1,6 @@
+The Simple Concept of Tetris:
+
+The game is simple. Stack the pieces in the most efficient way possible. Completed lines dissappear, dropping everything above them down a notch, making more stacking space. Go as long as you can, accumulating points all the way. Get your name as near the top of the high score board as you can. What could be simpler?
+
+What could be more difficult?
+

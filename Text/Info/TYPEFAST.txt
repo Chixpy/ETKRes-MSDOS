@@ -1,0 +1,2 @@
+Steve Spearman wrote TYPEFAST, one of the better touch-typing drills I"ve seen (and I"ve written one myself). It"s a GAME (not boring drills) that"s a cross between a touch-typing program and Space Invaders. Words appear in random places on the screen and slowly move down. You have to type them correctly to blow them up before they reach the ground (a line at the bottom of the screen). There are several degrees of difficulty.
+

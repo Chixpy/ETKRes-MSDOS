@@ -1,0 +1,5 @@
+The SHOWKEYS program is very simply for fun. It was developed for my (1 year old) daughter, Sarah Elizabeth, who likes to sit on my lap and pound on the computer keyboard. Normally, not much happens when she does this except when the keyboard buffer fills up and the thing starts beeping, or she happens to hit the Enter key and poor DOS tries to execute the "ccccccccckkkkkkdddddddhhlllll" program!
+
+I thought, "why not run a program just for her that responds to her keyboard pounding, yet does no harm (aside from broken keyboards) to the PC?" 
+
+SHOWKEYS simply displays the letter for each key hit and highlights it in the display of all the characters. It adjusts to your display type. If you have a VGA it uses 640 x 480 16 color mode. If you have an EGA it uses 640 x 350 16 color mode. If you have a CGA, it uses 320 x 200 4 color mode. IF you have a Hercules, it uses 720 x 348 2 color mode.

@@ -1,0 +1,3 @@
+Alice in Wonderland is a text adventure based on Lewis Carroll"s book Alice"s Adventures in Wonderland. There are 16 objects in the game which you may be able to interact with. Each object has a weight and you can carry a different amount of items based on your size in the game. As Alice, you must explore Wonderland to find her lost pet cat and make it home alive.
+
+There are ten creatures which you can interact with and they act similar to how they do in the original story. The gameplay is similar to other text adventures where you go around from area to area and interact with whatever you find. The included documentation tells you what commands there are, or you can attempt to figure those commands out yourself.

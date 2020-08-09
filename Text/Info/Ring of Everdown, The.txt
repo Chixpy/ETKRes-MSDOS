@@ -1,0 +1,2 @@
+Side view RPG with real-time battles. Not a complete game - only includes one chapter.
+

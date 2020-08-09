@@ -1,0 +1,9 @@
+STORY
+A single screen real-time game where you play a cannon (machine gun to be exact) turret that "tries" to shoot down all incoming enemies. Fortunately, you have unlimited ammo! Unfortunately you have a limited angle of fire (anywhere but 90 degrees left and right).
+
+GAMEPLAY
+If its not you, shoot them! That"s pretty obvious in this game. However, enemies come in different forms: [1] Paratroopers jumping of [2] Helicopters and if you"ve killed enough of them, they send in [3] Bomber planes where you have to shoot the plane (first) or try to shoot the [4] Bomb (good luck!) or die trying (the bombs don"t miss). Shooting bombs score the most points (50 points).
+
+Note: Shooting at the parachutes have a more interesting effect then shooting the paratroopers directly!
+
+Paratroopers have a special feature, after 3 (three) paratroopers successfully parachute in your backyard, the forth will climb up the human ladder and bomb your turret to kingdom-come.

@@ -1,0 +1,3 @@
+In Wild Science Arcade, kids learn about physics by maneuvering a ball using four variable settings: gravity, friction, ball material and initial force. Although it resembles visually the classic Marble Madness, the gameplay is easier, aimed at the younger gamer.
+
+The game is divided in 5 levels, each with several rooms. You progress by guiding the ball to the exit hole in each of this rooms. After you complete each level, you receive a warp code for the next one, thus requiring some degree of literacy from the child.

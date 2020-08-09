@@ -1,0 +1,5 @@
+This is a small italian shareware spread by Mithrandir.
+
+It"s a small game like a table one,you have to get three numbers,and to do this can move the lines adding 1 peice of the labyrinth!!
+
+Play, if you like this kind of game it"s funny,and you *MUST* appreciate the fact that it"s coded in QBasic...

@@ -1,0 +1,3 @@
+This is a digital conversion of an amusement park/carnival game with a twist, released by the School of Telecommunications Engineering of Barcelona as a stress-relief tool. The player controls a student armed with eggs and tomatoes, and now it"s time to get back at the teachers for the pain they caused!
+
+The aim is to complete five courses by venting your frustrations at cartoon renditions of the school staff.  Moving wooden boards will flip around to reveal your targets - try to clobber the teachers (numbered targets) and secretaries.  Aim quickly: miss three teachers in a row and it"s game over.  Study accessories are worth extra points, but be careful and don"t hit other students, or the janitor - or (worst of all) the game"s programmers.

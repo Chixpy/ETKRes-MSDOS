@@ -1,0 +1,17 @@
+Sequel to Star Fleet I: The Battle Begins, this time you have been accepted as an Altern (UGA equivalent for Cadet) in the Krellan Empire. Build a successful military career as Krellan commander completing all missions given to you by the Krellan Fleet HQ against the United Galactic Alliance (UGA) and climb the military ladder to finally reach the rank of Admiral. 
+
+Star Fleet II: Krellan Commander is a 2D starship simulation and strategy game using ASCII graphics which involves intergalactic reconnaissance, starship battles, diplomatic tactics, and planetary invasion, comprised in specific tasks given to you for each mission. Unlike Star Fleet I: The Battle Begins, the time flow of this game is not turn-based, the universe "moves" when your ship moves, while on other occasions, it is real-time.
+
+Playing Star Fleet II: Krellan Commander consists of issuing commands for your starship, may it be for navigational or combat orders among others. Issuing commands is done by pressing a specific letter on the various display screens which issue a certain command. The purpose of the game is to successfully complete an assigned mission, while doing so you may also further increase the \u201cratings\u201d of your missions by carrying out independent reconnaissance, battles and other \u201cmini missions\u201d identifiable within the game. Gameplay elements of the game may be identified as the following:
+
+Space: The Final Frontier
+Each mission is designated in a random area of space within the borders UGA territory. This regional space is approximately 35 light years wide and 15 light years deep [note: light years is a measurement of distance, not time], or known as \u201csectors\u201d in Star Fleet 1. Within this regional space, there are solar systems with planets, black holes, ion storms in addition to friendly and enemy ships and establishments.
+
+Planets within a solar system may be orbited by your ship. A landing party may also be sent down for a survey or establish a base to further supply routes. If a planet contains intellectual life forms, diplomacy may be carried out (if the civilization fulfills certain requirements) to bring them under the Empire, or simply send in shock troops to capture slaves\u2026before or after you bombard them. 
+
+Intergalactice Combat
+Combat comes into 2 different forms: the first is combat between ships and starbases, the second is planetary invasions.
+
+Starship battles occur when an enemy ship (or starbase) is detectable in normal space or in orbit. When combat issues (or while in orbit), the gameplay changes from turned-based to real-time. Ships may then commence with firing torpedoes and phasors. If a ship\u2019s shield is down, the opposing ship may send in a boarding party to commence a hit-and-run tactic, capture the ship, or slaughter the lot. Capturing ships will enable you to detain prisoners, including the captured ship itself (if delivered to a Krellan Starfort), significantly increasing your mission ratings.
+
+Planetary invasions consist of bombarding the planet with phasors and torpedoes (optional) to weaken its defenses and later sending in legions down to the planet to capture it. Planetary invasions may only be conducted in planets with intelligent life forms. Another option is to totally obliterate the planet, using obliterator pods...turning the planet into a dust of asteroids. [Note: In earlier versions of Star Fleet II: Krellan Commander, planetary invasions does not work.]

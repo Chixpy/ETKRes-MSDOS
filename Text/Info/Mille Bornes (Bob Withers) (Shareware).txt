@@ -1,0 +1,2 @@
+Text-based version of the popular French card game.
+

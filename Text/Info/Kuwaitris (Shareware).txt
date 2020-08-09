@@ -1,0 +1,1 @@
+Or better known as TETRIS. Kuwaitris was created to resemble the original arcade game "TETRIS". Each stage in the game was created exactly as it appears on the actual arcade game. The colors have also been selected to give a 3-dimensional look for the shapes (falling pieces).

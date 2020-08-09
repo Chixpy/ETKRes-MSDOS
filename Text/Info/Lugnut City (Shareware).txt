@@ -1,0 +1,3 @@
+"Lugnut City is an arcade style ""run, jump and shoot"" math game, with ten different EGA mazes. There are addition, subtraction, multiplication, and division problems to solve, and plenty of sounds and graphics. Players compete for high scores, and can even design their own mazes!
+
+The program requires EGA graphics (or higher), and a 286 or faster machine is recommended."

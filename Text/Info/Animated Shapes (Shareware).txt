@@ -1,0 +1,3 @@
+"In Animated Shapes it will display a shape, and you then select what shape it is displaying. The game will then ask what color it is, and you do the same.
+
+While you are doing this the shapes will drop down the screen and will slowly form an object. Once the object is complete a short animation will play (for my first run the game created a car, and then the door to the car opened and elephant came running out)."

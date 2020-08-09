@@ -1,0 +1,1 @@
+A simplified mahjongg variant with a board game / RPG element. Your character moves along, fighting enemies, with the tile combinations determining healing, damage, etc.

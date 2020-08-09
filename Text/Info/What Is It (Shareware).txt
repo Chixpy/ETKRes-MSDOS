@@ -1,0 +1,1 @@
+The objective of WHAT IS IT is to discover what lies underneath the numbered tiles of the game board.  The "IT" is a pixelized picture of something common or uncommon, real or imaginary. 

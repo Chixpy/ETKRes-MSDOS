@@ -1,0 +1,2 @@
+SVGA and Sound support are provided in this version of a concentration type game. All kinds of animation are used including: clay, stop-motion, morphing, tweening, 3D, cell, and full-motion video. 10 or 20 tiles can be used in VGA mode and up to 64 tiles can be used in Super VGA (640x480 256 colors). One or two player mode available. VGA and Hard Drive required. Keyboard/mouse.
+

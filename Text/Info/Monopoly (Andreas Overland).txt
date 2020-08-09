@@ -1,0 +1,7 @@
+En el menú principal, introducir estos valores antes de los nombres de los jugadores:
+
+1000000
+
+-500000
+
+Ambos sin comas.

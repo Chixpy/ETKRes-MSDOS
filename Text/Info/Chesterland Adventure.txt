@@ -1,0 +1,5 @@
+This is clearly a game written as an exercise, the author explicitly stating he used it to learn to program in Borland C, but unlike most such "hello, world" prototypes (ostensibly the first in a series of "RoachCrunch" exercise-games, but the only one ever seen), it remains nonetheless a complete game.
+
+The tropes are familiar: royalty have lost valuable items and require their return, while exploration is thwarted with colour-coded locks -- can the player find or trade items for the quest objects and progress through the disjointed story via accessing more remote map areas?  Instead of playing it straight with a poker face while mangling "thee"s and "thou"s, however, the author has strewn the game landscape with his high-school friends and titans of "90s industrial music.
+
+Gameplay consists of navigating a roguelike-ish top-down text-symbol map, seemingly a reel cut from LORD 2, using the keyboard arrows and a handful of verbs (at least, the first letters of the verbs) to interact with the world.  There is no combat, though there are a couple of sudden deaths and walking-dead situations.

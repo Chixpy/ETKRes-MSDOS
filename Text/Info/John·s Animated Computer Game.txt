@@ -1,0 +1,5 @@
+"""John"s Animated Computer Game"" is an easy to use game for very young children to develop an acquaintance with the computer.
+
+20 different animated sequences appear on the screen to entertain young ones at the touch of a key. This program was written so that my 2 year old could have a game that he could play by himself.
+
+""John"s Animated Computer Game"" was written by an artist with over 15 years" experience in the field of classical animation."

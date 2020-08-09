@@ -1,0 +1,3 @@
+"The object of Flowing Waters is to construct a pipeline for water to flow through from pieces of pipe which are randomly selected for you. After an initial fifteen second delay, however, the water begins to flow meaning that you must work quickly to construct the initial segment of pipeline.
+
+Apologies to William Soleau of New York. This game is based on his game called ""Main Break"". I started from scratch to create a similar game which did not require a mouse and had a larger grid size. I was also annoyed at the lengthy delays between levels. This program is the result."

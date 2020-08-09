@@ -1,0 +1,6 @@
+In Ambush at Sorinor six clans are at war with each other in the land of Sorinor. Each group is hiring mercenaries to kill opposing VIPs and protect their own. The player takes on the role of a mercenary commander, and tries to win battles either as offensive or defensive party. The game features a campaign, but its missions can also be selected individually.
+
+Before the fight, players hire mercenaries (which consist of fantasy characters like orcs, dwarves and goblins or humorous races like defense lawyers), which all have different statistics and special abilities. They cost money and the budget has to be met. Those are divided into groups, placed on the map and then the fight can begin. 
+
+The battles take place in real time and players can issue various commands, e.g. waiting, ambushing or attacking enemy mercenaries - but only on the groups, not individual units. However, the group constellations can be changed during battle. The action can be paused at any time to analyze the situation and issue commands. Also featured are a map and a scenario editor.
+

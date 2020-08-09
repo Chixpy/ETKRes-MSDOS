@@ -1,0 +1,4 @@
+This program is a C port of the first adventure game I wrote. It was originally written in a combination of Basic and 6502 assembler for the Acorn Atom, a small, British home computer.  Since the entire program had to fit into 5 K of memory, with an additional 5 K for data (the memory of the Atom was divided into two non-contiguous blocks),
+the adventure had to be very primitive. I had to do invent a rather clever abbreviation handler to squeeze the whole text into the available space (more about this later). 
+
+NOTA: Teclear "RUN" al arrancar para ejecutar el juego.

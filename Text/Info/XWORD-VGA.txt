@@ -1,0 +1,2 @@
+Crosswords on your computer. The game will give you a hint followed by a number of dots which correspond to the number of letters of the missing word. The game will give hints for the longer words.
+

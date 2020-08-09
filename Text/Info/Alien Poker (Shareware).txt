@@ -1,0 +1,5 @@
+"Alien Poker is a game in which you are pitted against the most skilled poker players that the galaxy has to offer. You are one of the select few Earthling to know about a casino located on the dark side of our Moon. And every Saturday there is a game where you can invite up to five alien opponents to test their luck and skill against you. 
+
+The official game name is five card draw, also known as closed poker. The deck consists of 52 cards (no jokers are used). The maximum number of players is six - including you. The object of this game is to eliminate a specified number of opponents and at the time that those players are knocked out to have the highest earnings.
+
+Your alien counterparts are represented in full 256 color VGA graphics. They have been given life by graphics, mode of play, and the manner of speech that they use. The algorithms they use allow them to employ many common poker strategies such as bluffing, drawing you out, etc."

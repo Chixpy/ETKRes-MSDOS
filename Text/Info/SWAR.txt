@@ -1,0 +1,2 @@
+Space ship combat for two players only. Select from various ships, gravity strengths, and many other options.
+

@@ -1,0 +1,3 @@
+The most special about this chess program is that it can play chess with other sets of rules. But more about this later.
+
+Dabbaba is written in C. It consists of approximately 3.000 lines of code. It is not very strong. With 3 minutes/move it should be lucky to beat half of the members in a usual chess club (average rating 1.500). With less time it should beat more of them (supposed the humans also plays faster. Both the computer and the humans play worse with less time, but the human playing strength declines faster.)

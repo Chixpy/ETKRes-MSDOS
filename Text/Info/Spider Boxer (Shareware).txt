@@ -1,0 +1,2 @@
+The object is to keep the spiders from getting to the bottom of the screen, and at the same time to keep from smashing them against the ceiling.
+

@@ -1,0 +1,9 @@
+As its subtitle states, Firestorm is a forest fire simulation -- the first in a series of similar games by Cricket Software, in which you control ground and air based forces to fight forest fires in realtime.
+
+After starting the game, you see the map where the action takes place -- a top-down view of 180,000 acres of forested coastland somewhere in the Northwest, containing mountains and hills, roads and buildings, rivers and a lake. You now start with setting up the situation, placing up to five fires and initializing the wind direction. Both may be done randomly by the computer or manually by you.
+
+After pressing the GO button the real action begins: The fires start to slowly spread out, influenced by wind and terrain, and you have to control your four fire crews and two air tankers to prevent it. The fire crews can be used to cut fire-lines in the forests, preventing fire propagation, but you first have to move them near the fire, so be sure to let your ground crew use the roads. The two air tankers at your disposal can drop lines of fire retardants which will also stop the fire"s progression. After dropping the retardants, the air units have to get back to their respective base for refueling, which takes some time. 
+
+You can pause the simulation at any time to think about your next move. The game is highly configurable -- you can change the speed of fire crews, air units and of the fire, and you can select the air units" refueling and their retardants" drop time before starting the game. Wind parameters can be switched from manual to automatic anytime during the game. The game is entirely mouse-controlled.
+
+Firestorm turns out to be a simple, yet realistic and immersive simulation of fighting forest fires, requiring rapid decision and strategic skill.

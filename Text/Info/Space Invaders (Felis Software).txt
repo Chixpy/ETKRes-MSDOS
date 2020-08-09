@@ -1,0 +1,12 @@
+About Invaders :
+
+Coded in pure ASM for VGA resolution. 
+
+Sound support : PC speaker ( digitalized music ), Sound Blaster compatible, COVOX on LPT1,2 ( D/A ), GUS stereo.
+
+Hardware requirements : 286 or better, VGA or SVGA card, 400 KB hard space, keyboard or joystick
+
+We released shareware - demo version in beginig of 1995. This summer support for sound cards was included and bugs fixed.
+
+FELIS software
+

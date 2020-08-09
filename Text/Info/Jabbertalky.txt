@@ -1,0 +1,9 @@
+Jabbertalky contains several educational puzzle games where you need to figure out sentences created by the computer. The game can be played by one or more players, and there are eight levels of difficulty are available in each of the game modes:
+
+Free Verse: This game mode isn"t interactive; the computer will display on the screen various sentences which it creates from either its own vocabulary or one you have created to give an idea of what the selected difficulty will be like in the other game modes.
+
+Alphagrammar: In this game, the computer will generate a sentence and show you empty spaces where the letters should be. At the top of the screen, the alphabet is listed along with the number of each letter that appears in the sentence. From these clues your goal is to fill in all the letters of the sentence in the shortest time possible.
+
+Cryptogrammar: In this game, the computer will present you with a jumbled sentence where each letter has been substituted with another letter. To solve the cryptogram you will need to flip letters around, swap the order of letters, or move letters to a new space until you have correctly created the sentence.
+
+Jabbergrammar: This allows you to customize Jabbertalky by creating new word lists that can be used by the game.

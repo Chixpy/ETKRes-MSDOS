@@ -1,0 +1,3 @@
+Black hole is a puzzle game based on an old classic by the name of POD. The concept is a simple one, collect all the tiles and reach the red tile before your time runs out. As you might expect, however, there are a few hicups along the way, in the form of deceptivly difficult puzzles. 
+
+Thanks to everyone who played the Beta Version! The game is now completed. There are 35 levels, 10 in easy, 10 in Medium and 15 in Hard, as well as unlimited Custom levels that I"ll host on our website. My biggest regret is the graphics. As you can see from the screenshots on our website, or just by playing the game, I"m no Artist

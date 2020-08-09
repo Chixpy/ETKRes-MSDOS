@@ -1,0 +1,2 @@
+Simple one player version of Tetris.
+

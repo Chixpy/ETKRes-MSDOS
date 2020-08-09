@@ -1,0 +1,3 @@
+The Sandiegopoly computer version is an automated version of the board game developed by Nationalopoly, Incorporated.  The computer game is a full graphic representation of the game that allows automated features to track the status of property and money. 
+
+The computer also allows the status of a game to be saved so play can be resumed later and allows automated play for one or more players.  

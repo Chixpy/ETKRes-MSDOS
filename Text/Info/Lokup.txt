@@ -1,0 +1,1 @@
+NOTA: El juego se controla con los cursores, estando el bloqueo numérico desactivado.

@@ -1,0 +1,12 @@
+Denomino is a single player, shareware, word building game for DOS.
+
+In this game the player uses domino-like tiles to build words. Each tile contains two pairs of letters. The player makes words by positioning their tile next to an existing tile so that one or more four letter words are made. The game takes place on a twelve by twelve grid. Points are scored based on the values on the dominoes and whether the tile covers a bonus square. The game is entirely mouse controlled. Tiles are dragged & dropped onto the game area. The right mouse button moves the tile in a vertical position while the left rotates the tile 90 degrees so that it can be dropped in its horizontal position.
+
+There are three types of game available.
+
+The solo game where the player plays by themselves to put a fixed number of tiles on the board.Playing against the computer to place a fixed number of tiles on the boardPlaying against the computer with no tile limit. In this game the player can select from three levels of intelligence for the computer opponent
+All player moves must be made within a time limit. The game holds the top sixty player scores for each type of game.
+
+Other features of the game are its music sound track a "Peek" button which shows the player a possible next move, though this does cost points when used), and a "Pass this turn" button.
+
+The registered version of the game promises "unlimited access to all of the game"s features" plus a head-to-head mode with the computer and "other variations".

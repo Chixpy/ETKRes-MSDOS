@@ -1,0 +1,3 @@
+This program was written for my daughter, Cassie, as a Christmas present-- mainly because she expressed an interest in getting a Simon game for  Christmas.  The game itself is a simple one in concept and I figured it would be something that a computer could do just as well. 
+
+Zimon is a game that sharpens the memory nad can be darn frustrating at times. The basic concept is that the computer will play a series of tones, each tone accompanied with a particular square lighting up.  (It helps, believe  me).  The object of the game is to earn points by playing back the same series of notes by hand.

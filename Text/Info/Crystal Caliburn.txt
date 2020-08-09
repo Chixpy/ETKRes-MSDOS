@@ -1,0 +1,3 @@
+Crystal Caliburn is a pinball game from the makers of Tristan Pinball and Eight Ball Deluxe. You get one medieval-themed table on which to play with up to 4 players. Graphically, the game features the entire table on the left side of the screen, with the score and other info on the right side. Graphics are high-resolution and you get raised ramps and two-level glass boards, among other goodies.
+
+Controls are fully customizable and are the standard pinball ones: left, right, shoot, and different "nudges".

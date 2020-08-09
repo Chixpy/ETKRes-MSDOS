@@ -1,0 +1,2 @@
+This is a Formula One simulation similar to World Circuit / Formula One Grand Prix, including the real teams and cars, 16 different Grand Prix courses and a track editor. The player can drive for one of five real Formula One teams in a single race or in a complete season. The car setup must be modified to gain maximum performance, and realistic weather effects must be dealt with. There are fly-by style views of each course, and full control over the location of the camera positions and angles.
+

@@ -1,0 +1,13 @@
+You are to collect diamonds avoiding falling stones and
+creatures trying to catch you. The number of diamonds you
+must collect is written at the bottom line of the screen.
+Often there are less diamonds than you need. In such case
+you should throw down the stone while a creature is under
+it. It will change into the diamond.
+
+There are two levels of this game (for novices and normal).
+To change level press "C" key (in menu). The second level
+is much more interesting, because it"s plan is"n random
+(like at the first level) - try it, you will convince
+yourself. This level is also a bit more difficult - you
+must collect ALL diamonds.

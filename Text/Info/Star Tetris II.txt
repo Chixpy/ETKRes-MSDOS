@@ -1,0 +1,1 @@
+This is a comparatively traditional Tetris, though with a wider well (14 columns) and, at least in the difficult setting, some extra pieces which get more numerous as you level up. It has a starfield background that changes with levels and gives you tongue-in-cheek SF messages when you clear more than one row.

@@ -1,0 +1,3 @@
+DarkPhear is a FRPG (fantasy role playing game) for DOS.
+
+NOTA: Este perfil utiliza la versión de DOSBox de Ykhwong y no funcionará correctamente con versiones oficiales de DOSBox.

@@ -1,0 +1,5 @@
+This game is based on a miniature golf course in Rochester, NY.  You have two courses to play on, both with 18 holes.
+
+The game is played by rotating your club around the ball and then choosing how hard to hit the ball.  You can bounce the ball around corners to get your shots.  There are ten speeds that you can hit the ball with, corresponding to the 0-9 keys.  If you hit too hard, you might bounce the ball out of the hole or miss altogether... too soft and you"ll take many hits to reach the hole.
+
+And when you are playing the game at work, press your "boss" key and the game will disappear for when your boss comes in.  Then pop it back up when your boss leaves.

@@ -1,0 +1,9 @@
+This computer coloring book is another part in the Electric Crayon series and it has 29 pictures of different Super Mario Bros` and their friends` occupations to color.
+
+Pictures could be colored from a palette of 16 colors. A mix button would "mix" the current color with the 15 other colors and give a total of 256 colors. Choosing a color and clicking in the picture do a color fill in the area clicked. The finished, or in progress, coloring was automatically saved to disk. Player may also remove all colors applied previously to start coloring from the very beginning.
+
+Each picture has an educational description of the occupation, such as who the waitress, scientist, lawyer, or racer, etc., are to choose when player grow up.
+
+Several pictures have animation sequences.
+
+Pictures could be printed with, or without, a monthly calendar, description, message, banner, etc.

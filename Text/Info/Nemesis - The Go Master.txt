@@ -1,0 +1,11 @@
+This is a solid Go game that isn"t as good as Ishi Press" Go Simulator, but has more teaching options.From a review at British Go Association: 
+
+"[Nemesis: The Go Master] is primarily a Go-playing program, but has a number of features which add to its value for Go teaching. Installation is easy.  
+
+It has options of 19-by-19, 13-by-13, and 9-by-9 boards; all four combinations of human and program playing Black and White; up to nine handicap stones; three skill levels; and "wisdom" - the random generation of irrelevant remarks. It can record partly-played games for re-loading later, but it does this in a format of its own, incompatible with other Go programs. It uses Japanese scoring and handicap stone placements.  
+
+I found [the program] easy to beat. It is very optimistic about the status of its groups, which means that you can carry on attacking its groups after they are dead, building up strength for your next attack, while it makes "defensive" moves inside the dead groups. Once it knows it has lost, it offers to resign. If you play on to the end of the game, it calculates the score. When I did this, it calculated correctly; but if it mis-judges the status of a group, you can alter the group"s status manually, and ask it to count again. 
+
+Perhaps more valuable than its playing strength are the evaluations of the position which you can ask it to make. There are seven of these. It will show the number of liberties of each string of stones; who controls, as territory or as influence, each area of the board; the score; any "shape" moves that are available; the "aliveness" of each group, on a scale from 0 to 10, with the sector lines that enclose them; what it thinks are good moves, with its explanations of what they might achieve; and which strings of stones it thinks can be killed." 
+
+Overall, this is a good game for beginners, although expert Go players should try Ishi Press" game instead.

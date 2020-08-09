@@ -1,0 +1,5 @@
+Star Bowls es la segunda parte de Nuclear Bowls, uno de los primeros juegos lanzados al mercado por Zigurat.
+
+Años después del lanzamiento del original, Diabolic (el grupo de programación) nos sorprendió con esta secuela de extraordinaria calidad, cuyo único pecado fue, seguramente, haber sido programado fuera de tiempo, en una época en la que el concepto de juego estaba cambiando y donde este tipo de programas apenas despertaba interés entre los usuarios.
+
+Todas las versiones parten de la de Spectrum, siendo ésta la mejor gracias a su colorido (las de Amstrad y PC tienen los mismos gráficos exactamente, pero sólo en 4 colores). 

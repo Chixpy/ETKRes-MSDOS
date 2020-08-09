@@ -1,0 +1,1 @@
+Apocalypse Cow is a two player shareware DOS game in which players battle by catapulting cows at each other. Catapults may be angled to the right or left and may be moved forward, they cannot be moved backwards.

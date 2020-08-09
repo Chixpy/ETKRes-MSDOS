@@ -1,0 +1,2 @@
+Unfold all blocks, two blocks at a time, if the color of the two blocks is the same then the two blocks will remain unfolded.
+

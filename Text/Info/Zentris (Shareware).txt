@@ -1,0 +1,5 @@
+Zentris was inspired by a similar game of falling-blocks, which shall not be mentioned here. Zentris was created because this wondrous concept was to date implemented in a rather poor way, with low-quality graphics or unconventional controls.
+
+Zentris is an attempt to provide this concept in a wonderful and beautiful way. I believe it has been a success.
+
+Robert J. Sundling also wrote a Breakout game, Zong.

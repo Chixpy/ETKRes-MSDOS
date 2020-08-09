@@ -1,0 +1,5 @@
+From the manual:Far from the 50 Spacer Worlds, your survival pod crashes on a planet where a secret experiment is taking shape.  Robot City, an entire city built and ruled by robots.  Without humans to command and supervise them, these robots have evolved their own ways of doing things.  Their ideas of how to obey the Three Laws of Robotics might be a little different from yours.  You soon learn that Robot City is out of control, that the only human who might know why has been murdered, and that you are the prime suspect.
+
+Welcome to Robot City!
+
+NOTA: Pulsar CTRL+F4 cuando el juego pida cambiar de CD.

@@ -1,0 +1,1 @@
+Nibbler is a variation of the popular Nibbles/Snake game where the object is to eat items to make your snake grow while avoiding your tail. This version has decent graphics, sounds and a variety of different enemies and levels for you to play.

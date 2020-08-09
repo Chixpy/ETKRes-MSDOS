@@ -1,0 +1,23 @@
+These are three text adventure games in the classic style.  No fancy graphics or sound effects.  Like a book, these games allow you to use your own imagination to create worlds of wonder that make graphic adventures pale in comparison.
+
+Each of these three adventures is a distinct and separate game, each with
+it"s own complex solution.  They each share a common theme, the search for
+treasure!
+
+
+Perils of Darkest Africa          (PERILS.EXE)
+-------------------------------------------------------
+
+Can you find jewels from King Solomon"s mines?  As you trek across the dark continent, you will encounter enough danger and excitement to keep your blood pounding.
+
+Revenge of the Moon Goddess      (REVENGE.EXE)
+----------------------------------------------------------------
+
+Deep in the heart of the South American jungles lies hidden the long lost City of the Sun.  You seek the city and its fabled golden idol, the statue of the Moon Goddess.  But death lies in your path!
+
+Eye of the Inca                      (INCA.EXE)
+----------------------------------------------------
+
+You have finally found the long lost Incan Temple here in a jungle clearing.
+
+Now you"ll enter in your search for the world"s largest diamond, known only in legend as the "Eye of the Inca."

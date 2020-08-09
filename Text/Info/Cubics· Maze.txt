@@ -1,0 +1,3 @@
+In Cubics" Maze, hostile aliens have placed you in a vast 3-D maze.
+
+If you can find your way out and defeat the creatures within, you will be allowed to live. This game requires VGA, and a 286+. A mouse is recommended but not required.

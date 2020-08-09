@@ -1,0 +1,3 @@
+RAM! is a simulation of combat using Triremes. Triremes were the war ships used in ancient Greece. The game takes place during the Peloponnesian War, which was a conflict between Athens and Sparta. These boats were meant to ram and sink the others using oar power. 
+
+RAM! is based on the board game Trireme (also by Avalon Hill).

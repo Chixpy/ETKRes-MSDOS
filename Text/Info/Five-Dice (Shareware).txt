@@ -1,0 +1,1 @@
+Five-Dice is a Triple Yahtzee style game with a colorful twist. In addition to the usual Yahtzee rolls, you can make combination"s of colors for points as well.

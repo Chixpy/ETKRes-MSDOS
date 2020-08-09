@@ -1,0 +1,5 @@
+Telengard is one of the earlier examples of a "dungeon crawl" role-playing game with the stand-out feature of having real-time movement and combat (unlike classic  Roguelikes, which were turn-based).
+
+The player controls a single character described as "warrior/wizard", selecting randomly assigned attributes: Strength, Intelligence, Wisdom, Constitution, Dexterity, and Charisma. Th hero then descends into the vast dungeon, which consists of fifty levels, 200x200 rooms each. Experience is awarded not only for defeating enemies, but also for finding treasure. When the player character levels up, his attributes increase, and he learns higher-level spells.
+
+Treasure chests appear randomly in the dungeon. There are also specific spots such as altars, thrones, and fountains, which will have various effects on the player characters, positive or negative. Certain creatures will also befriend the protagonist, give him items and/or heal him, provided his Charisma is high enough.

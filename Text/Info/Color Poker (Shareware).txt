@@ -1,0 +1,2 @@
+Computer poker inspired by the poker slot machines of Las Vegas.  But don"t worry, you won"t lose your shirt here.
+

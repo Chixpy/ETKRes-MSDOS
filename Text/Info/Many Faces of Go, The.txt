@@ -1,0 +1,3 @@
+Probably the best Go game for beginners on the market, The Many Faces of Go is a great computer version of the popular Japanese board game that is simple to learn, yet hard to master.
+
+The game is ideal for the beginning Go player since it provides an opponent who is always patient and willing to explain its moves, and a comprehensive tutorial. With its many playing levels, handicapping facility, and Joseki tutor, the program can also provide a challenge to the expert player, although not as much as Ishi"s earlier Go Simulator. Go problems and professional games are also included. Definitely a must have for Go beginners, although intermediate- and expert-level players should skip this version and play Ishi Press" Go Simulator instead. 

@@ -1,0 +1,7 @@
+Spacewar is a shareware Spacewar! clone. Two spaceships, controlled either by human or by robot, battle it out in a fight to the death.
+
+The spaceships" weapons of attack are phasers for short range and photon torpedos for long range, both of which use up the energy bar; if this bar is drained, you can"t attack. As defense there is the impulse engine to move, as well as a cloak and hyperspace to jump to a random location, all of which use energy also.
+
+To alter gameplay, when switching on gravity the ships gravitate towards the centre of the screen. Photon torpedos are affected by gravity in the same way as the ships. Also, you can add a planet in the centre of the screen, which your ship can crash through, draining your shield energy bar.
+
+When a ship"s shield energy is all gone, one shot or planet collision will cause the ship to explode, making the surviving ship the winner of the game.

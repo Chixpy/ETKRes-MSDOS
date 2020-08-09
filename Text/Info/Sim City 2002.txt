@@ -1,0 +1,1 @@
+Sim city 2002 is simulation game that his main target is to build a large city with only good things in it. the game may not include any graphics but still you can build city using words only. the city can keep up to 2,000,000 sims. you are the mayor and the sims are your people who live in your city. so start building your city.

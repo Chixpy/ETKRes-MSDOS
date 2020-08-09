@@ -1,0 +1,1 @@
+A very good PC clone of the game "Earth Shaker" for Spectrum by Michael Batty. You can switch between the original graphics and improved graphics and PC speaker sound is optional. Passwords of the levels can be found in the game menu.

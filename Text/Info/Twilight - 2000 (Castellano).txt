@@ -1,0 +1,5 @@
+This tactical wargame/adventure is based on the GDW pencil and paper role-playing game. NATO and Warsaw Pact forces spent the latter part of the 1990s fighting a brutal war, which has turned Poland into a desolate radiation-riddled land, full of abandoned vehicles and weapons. The maniacal Baron Czarny wants to take over what"s left of the country; you must stop him.
+
+The player must organize a team of 20 generated soldiers, each of whom will respond to orders differently, based on their personality. Specific abilities, attributes and languages spoken can be set. 
+
+Action from within the vehicles is shown in 3D, outside action is viewed top-down. Both aspects of the game require meticulous planning around the game"s range of weapons and vehicles. Help can be received from NPCs, via the game"s communication system.

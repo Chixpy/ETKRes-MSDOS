@@ -1,0 +1,2 @@
+Remake of a classic ZX Spectrum game. Kill your opponent with a gun while dodging the enemy bullets by moving up or down. Two players only game.
+

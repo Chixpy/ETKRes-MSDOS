@@ -1,0 +1,3 @@
+TACTICS is a brain teaser.  The aim of the game is to place the pieces on the board in such a way that their colors match with the color pattern of the board.  This must be done, using the fewest possible moves.
+
+TACTICS supports up to 90 different game boards to challenge your brain.  Use the cursor keys or the mouse to select the position of the pieces and the underlying pattern.  As you select, you can see the best scores under the patterns.  During the game, everything can be controlled from the panel with icons.

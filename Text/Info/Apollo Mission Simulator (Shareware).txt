@@ -1,0 +1,6 @@
+The Apollo Mission Simulator is, by design, NOT an easy game to master. It may be several weeks before you attempt a full mission, and it may take a dozen tries before you land successfully. DO NOT DESPAIR! Tutorials and training missions will help you become familiar with flying the Landing Vehicle. After sufficient practice, you will achieve a 90-95% success rate.
+
+-Botón derecho y seleccionar NEW.EXE para crear una nueva partida...
+
+-Botón derecho y seleccionar MAP.EXE para crear un nuevo mapa...
+

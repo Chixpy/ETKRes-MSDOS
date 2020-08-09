@@ -1,0 +1,18 @@
+MultiWar is a multi-player user-configurable boardgame.  
+
+It features:
+         
+1. Up to five teams in one scenario
+
+2.  Scrolling board of up to 50x50 squares 
+
+3.  Points achieved by occupying "victory squares" 
+
+4.  Mouse Support
+
+5.  Automatic AI shortest-path movemnt
+
+6.  Included scenario editor 
+
+7.  Included terrain/unit statistic and image editor 
+

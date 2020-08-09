@@ -1,0 +1,2 @@
+Similar to chess, but with different pieces that include mirrors, blocks and a laser!
+

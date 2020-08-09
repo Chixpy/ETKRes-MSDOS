@@ -1,0 +1,3 @@
+If you"ve ever tried Nethack (check the RPG page) and found it interesting, but just too complicated, you"ll want to try this one. It"s extremely simple to play, but it"s interesting nonetheless because of the mazelike gameplay and graphics. Too bad I couldn"t get a screenshot ... (I love the pseudo-darkness effects! Wish I had the source code for that.) It"s worth the download!
+
+The first game I made and probably still one of the best. This game is basically an adventure type game with a hint of RPG. It is reminicent of the old Rogue type games but with actual graphics. It consists of 10 levels and many different kinds of monsters.

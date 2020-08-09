@@ -1,0 +1,5 @@
+Inspired by the famous 1986 film, Top Gun: Danger Zone is a desert dogfighting air combat simulation set on board an aircraft carrier (the USS Brigham) patrolling the waters off Libya and the Middle East. You have a choice of two aircraft - the F-14 Tomcat (in which you also get a Radar Intercept officer to assist you) and an F-18 Hornet (where you"ll fly solo). 
+
+The choice of missions is limited to eight - intercept, escort, clear airspace, provide air support and run interference. However, you also get to participate in the "Top Gun Challenge Board" in the Officer"s Mess, where you challenge 12 other fellow pilots in simulated one-to-one dogfights to practice your skills, get their respect and increase your ranking. You also have a choice of playing against the CPU or against another human player in split-screen mode. 
+
+The flight model is not completely realistic - but it is not ridiculous, as in many other games (even today). The game aims to have an arcade-style simplicity for the flying, and adds character development similar to many RPGs.

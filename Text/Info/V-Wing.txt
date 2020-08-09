@@ -1,0 +1,5 @@
+V-Wing is one of the numerous AUTS and Turboraketti clones, a caveflier, which would have been forgotten long ago without its new features.
+
+The game follows the tradition of cavefliers: V-shaped ships drawn with two lines fly around in imaginary platform landscapes and try to shoot each other into pieces with an imaginative weapon arsenal. There are platforms to land on and recharge and switch weapons and repair the blows the ship has taken.
+
+The biggest changes to AUTS are "flowing" water, the water remains stationary (as in most games of this genre) but it pushes the ship to a desired direction, so pipe systems can be created. The environment gets destroyed in a neater fashion and the ships don"t get stuck so easily into single pixels, and the ships can collide - actually some of the weapons are based on this feature. Other superb features include ejecting a ship, teamplay, altering air viscosity, gravity, etc...

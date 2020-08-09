@@ -1,0 +1,7 @@
+Star Saga One is the first of an innovative role-playing trilogy (yet only two titles were released). It attempts to bring the atmosphere of pen & paper RPG and Choose Your Own Adventure game books to the computer, while the more tedious task of book-keeping are made by the computer -- truly "Interactive Literature"..
+
+The game comes with two large fold-out maps and tokens to be moved around the map, as well as a dozen booklets containing text passages to be read when the game tells you to do so. (Much like the early Epyx Dunjonquest games.)
+
+When starting play, you can choose one to six players from preset character. The interesting thing is that the characters are meant to be played by separate players, sitting together in front of the computer, as in a pen & paper RPG. The difference is that there is no party, as each player has different tasks and missions and moves around independent of the others.
+
+When playing, each player moves his token on the map, then enters the movements and actions into the program, which calculates all changes to character stats and inventory, calculates combat, and tells the player which text passage to read. While progressing, the players will make new discoveries, battle aliens, trade with other players and NPCs, and discover the plot of the game.

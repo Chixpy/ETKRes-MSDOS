@@ -1,0 +1,23 @@
+Creado para su publicación exclusiva con la PC Disk Magazine, Rompe Muros es un "machaladrillos" extremadamente básico que nos retrotrae a la época pre-Arkanoid. 
+
+De hecho, durante el desarrollo de las partidas no esperes encontrar ni "Power Ups", ni aliens pululantes obcecados en variar la trayectoria de nuestra esfera. No, en Rompe Muros únicamente hallarás una pala, una esfera y, como no podía ser de otra forma, multitud de ladrillos a destrozar.
+
+Esta vuelta a los orígenes, en principio no es algo negativo, de hecho hay multitud de ejemplos dentro del mundo del videojuego que hacen de la simpleza virtud. Lo que ocurre es que Rompe Muros no entra, ni por asomo, dentro de ese selecto grupo de juegos. 
+
+Estamos ante un programa engañoso. En un primer momento parece mucho mejor juego de lo que en realidad es ya que luce razonablemente bien y presenta una respuesta a los controles relativamente satisfactoria.
+
+Los "peros" hacen acto de presencia en cuanto llevamos un tiempo (tampoco demasiado) jugando y comenzamos a ver que el grado de dificultad es más bien bajo, que el número de niveles es escasísimo y que una vez superados todos los niveles, el programa vuelve a mandarnos al primero de ellos sin variar un ápice el desarrollo, permitiéndonos jugar partidas virtualmente infinitas.
+
+Por cierto, lo de los niveles del juego es "de traca". Rompe Muros cuenta "oficialmente" con nueve. Nueve que, por obra y gracia de un "señor" bug, pasan a convertirse en 5 jugables (en cuanto superamos el nivel 5, el programa muestra una especie de "slideshow" de los niveles 6,7,8 y 9, y nos manda directamente al 1)). Así que si nueve se nos antojaba una cifra escasa, qué decir de cinco....
+
+Cambiando de tema y adentrándonos ya en los aspectos técnicos podemos decir que como ya hemos dejado caer Rompe Muros a nivel estético "da el pego", presentando unos gráficos correctamente definidos entre los que destacan sobremanera los referidos a los ladrillos (variados y de tamaño generoso).
+
+En cuanto a la animación, en términos generales puede calificarse como correcta, aunque en ocasiones la esfera sigue trayectorias "poco naturales" al impactar con los extremos de nuestra pala.
+
+También, y aunque no tenga una influencia real en el desarrollo de las partidas, comentar que en ciertos momentos se producen borrados parciales (y temporales) de algunos de los ladrillos presentes en pantalla.
+
+En lo referente al sonido podemos decir que el programa cuenta con unos efectos efectos vía speaker, tan típicos como cumplidores.
+
+Jugablemente, como ya hemos comentado, estamos ante un programa tan manejable, como a la larga tedioso. Rompe Muros no presenta reto alguno al repetir en bucle, una vez tras otra, los mismos 5 facilones niveles.
+
+Concluyendo, aunque a nivel estético Rompe Muros parezca uno más, tanto los errores de bulto como las carencias que posee (muy probablemente fruto de la precipitación típica de estos productos quiosqueros) hacen que la monotonía aparezca con prontitud, situando al programa en un lugar poco digno dentro del mundo de los imitadores de Breakout y compañía.\u0009

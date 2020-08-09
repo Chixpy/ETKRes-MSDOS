@@ -1,0 +1,2 @@
+Classic Game of Life with Super New Patterns. Incredibly FAST with an astounding collection of 140 of the most mind-boggling patterns of the last 25 years. Fun & easy to use. Huge playing field (524288x524288) helps maintain pattern integrity. Patterns include pseudo-random glider guns prime number seive about 400 whales the Infinity Hotel & much more. Also weird patterns (for alternative rules).
+

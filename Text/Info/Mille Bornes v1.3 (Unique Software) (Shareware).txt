@@ -1,0 +1,3 @@
+Mille Bornes is French for a thousand miles, is a simple yet challenging card game.  Essentially, it is like a road race, your challenge is to complete the race before your opponent does.  Complicating your finishing are hazards like flat tires, accidents, running out of gas, speed limits, and stop lights.  Of course, you can force such hazards on your opponent to slow him down or stop him in his tracks.
+
+NOTA: El código que pide al iniciar es 58.

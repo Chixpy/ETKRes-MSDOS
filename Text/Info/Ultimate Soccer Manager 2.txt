@@ -1,0 +1,5 @@
+Ultimate Soccer Manager 2 is the followup of USM and mostly a graphical improvement over the DOS and Amiga AGA versions. Now sporting a 640x480 resolution, all of the offices menus (from where all options are selected) are crisper and some of them were merged together to simplify navigation.
+
+New features include team and individual training, player personality (meaning that a team of talented players can still be unsuccessful if key players are either psychologically weak or flawed), better catering and merchandising options and setting up plays.
+
+The game is packed with both English, French and German leagues, although all run from different executables.

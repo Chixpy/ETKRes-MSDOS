@@ -1,0 +1,9 @@
+Arcade Bonanza is a set of four simple obscure games. It contains:
+
+Frog, where the player must perform a frog safely across the street full of cars, clone of Frogger
+
+Pac-Em, another clone of classic Pac-Man game in text mode
+
+Red Alert, a text mode naval shooter
+
+Tank !, a two-player text mode tank battle

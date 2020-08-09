@@ -1,0 +1,15 @@
+Comanche: Maximum Overkill is the first helicopter simulator to showcase NovaLogic"s Voxel engine, which renders organic and lifelike terrain and realistic looking objects that no other game using polygons could match. It features the Army"s experimental RAH-66 Comanche light attack helicopter (LHX).
+
+The game features a simple flight model and allows the player"s helicopter to take much more damage than it could in reality. Additionally, weapons on the Comanche feature deadly accuracy and power.
+
+There are over 20 scripted campaign missions, similar to all other NovaLogic simulations.
+
+Of great importance to the international gaming world was the addition of "Voxel Space" by Kyle Freeman. This was the first time DOS gamers were given fully illustrated environments within which to "fly" - shadows and reflections moved in realistic, relative sync with the "pilot" and in relation to a "natural" light source. 
+
+"Comanche CD" is a compilation of the voxel-based simulations of the helicopter RAH-66. It contains the following games:
+
+Comanche: Maximum Overkill (base game)
+Comanche: Global Challenge (add-on)
+Comanche: Over the Edge (add-on)
+
+In addition, the compilation offers ten bonus missions.

@@ -1,0 +1,2 @@
+The Mother Goose Game has been developed with the goal of stimulating children"s skills in reading, memory, and in the use of the computer keyboard. The child reads a rhyme, supplies the word that is missing, and then enters that word via the keyboard. I have tried to place these activities in a colorful and interesting environment while leaving the emphasis on the activity rather than on the environment. The program requires that you have a CGA or better video adaptor.
+

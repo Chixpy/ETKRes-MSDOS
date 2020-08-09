@@ -1,0 +1,1 @@
+A remake of Willie Crowther and Don Woods" classic Adventure.  Converted from Donald Ekman"s PC port of the original FORTRAN source.

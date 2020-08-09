@@ -1,0 +1,17 @@
+INSTRUCCIONES
+
+El objetivo de este juego no es muy diferente del de los grandes clásicos del género, como "Tetris" (Alexei Pajhitnov) o "Columns" (SEGA). De la parte de arriba de la pantalla van cayendo bolitas de colores, con la particularidad en esta ocasión de que éstas son en realidad pequeñas criaturas vivientes. Una vez llegan al suelo, se quedan ahí gesticulando, hasta que cuatro o más bichos del mismo color se tocan entre sí: ése es el momento en que desaparecen de la pantalla y tú sumas puntos.
+
+No es tan sencillo, de todos modos, porque de cuando en vez caen en la pantalla una especie de bolas de madera, así como algunas burbujas, que complicarán la consecución de tu objetivo.
+
+Es digno de mencionar también que el juego incorpora la posiblidad de que dos jugadores participen a la vez, por lo que se pueden dar duelos verdaderamente emocionantes, llegando a cotas de adicción inimaginables cuando te enfrentas tú solo al ordenador.
+
+COMENTARIO
+
+Obviamente, al tratarse de un juego amateur, no podemos comparar técnicamente este "Eyed Balls" con las versiones de "Puyo Puyo" que se han ido realizando para las diferentes máquinas, desde el MSX2 hasta la Playstation, pasando por SNES y Megadrive.
+
+No obstante, hay que decir que los gráficos son buenos y fieles al original, y el sonido y la música a través de la Sound Blaster cumplen más que bien con su cometido.
+
+La versión que os presentamos, de todos modos, tiene el pequeño problema de que es shareware, por lo que si queréis jugar a todos sus niveles habréis de rellenar el pertinente formulario de registro, incluido en el archivo.
+
+

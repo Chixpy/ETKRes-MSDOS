@@ -1,0 +1,3 @@
+A Tetris clone with beautiful, partly 3D rendered graphics and some extras ("Mana"). It runs well under XP and DOSBox, but not so well under Windows 98.
+
+This game requires PC compatible machine with a VGA-card (MCGA should work just fine ). You must have at least 460,000 bytes of free conventional memory ( 430,000 bytes if you have at least 250kB EMS memory ). Fintris was created using a 486/33, but it has been tested on several 386 and 286 machines and it worked just fine. Mouse is supported.

@@ -1,0 +1,12 @@
+"Two games in one:
+
+PLBM Pong
+
+The object in Pong is simple: return the other guy"s shots. Mix it up by hitting the ball nearer the edge of your paddle to get more radical angles. If you miss the other guy gets a point. Adjust handicap at the main screen by adjusting the size of the paddle. After each hit the ball will accelerate by the specified acceleration factor (which can be zero).
+
+PLBM Brick-Out
+
+The object of Brick-Out is even simpler: destroy all the bricks by breaking them with the ball. Do not allow the ball to fall off the bottom of the screen. What more do you need to know? Go have fun!"
+
+In 2007 the author made this game freeware (was previously shareware).
+

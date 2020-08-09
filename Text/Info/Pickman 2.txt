@@ -1,0 +1,6 @@
+To start off, let me say first that Pickman2 is a BRAND-NEW, PURE QB (NO libraries, NO ASM) game, written from SCRATCH. Pickman 1 was the inspiration was the code is all new & please note that this is my first ever released game. 
+
+Secondly that this is the first game-ENGINE that I know of, written in QB. What I mean is that the entire game is written in a modular format. Like Quake2 had its mods (&TCs) & like those emulation projects that have plug-ins. Pickers Games will handle the main engine though players are free to DESIGN their OWN levels & SPRITES!
+
+Pickman2 was written with the QB community in mind: We made the tools before the game & we are giving our tools to the community (just as Unreal came with an level editor) \u00e2 we believe this is the FIRST game to be coded with this in mind.
+

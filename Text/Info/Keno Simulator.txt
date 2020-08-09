@@ -1,0 +1,3 @@
+Keno is similar to our old favorites, bingo and lotto.  In keno, there are 80 ping-pong balls labeled with a number from 1 to 80. A person usually picks 1 to 15 numbers from the 80 and bets $1.  20 different numbers are then picked from the lot.  
+
+If you match enough numbers, called a catch or hit, you win money.

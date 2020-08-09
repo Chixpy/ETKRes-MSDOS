@@ -1,0 +1,2 @@
+The player controls a girl who throws balls in the playfield filled with other balls. If she hits a ball of the same color it explodes. The goal is to destroy a specific ball in the playfield.
+

@@ -1,0 +1,9 @@
+To play the game one must know four main actions of mathematics: addition, subtraction, multiplication and division and that the operations of multiplication and division will be done before the operations of addition or subtraction.
+
+The game has seven levels for playing and levels two through seven are protected by passwords. 
+Therefore, before you can play the next level, you must complete the previous level and be given the password.
+
+Remember to write down the passwords so that you don"t forget them!!!
+
+The difficulty of each level can be varied by choosing the options "Beginner", "Master", or "Expert". The options do not require passwords.
+

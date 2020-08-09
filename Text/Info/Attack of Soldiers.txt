@@ -1,0 +1,2 @@
+Strategy game similar to Dominate. Move your soldiers to capture the enemy territory.
+

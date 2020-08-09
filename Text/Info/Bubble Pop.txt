@@ -1,0 +1,15 @@
+Bubble Pop is a one or two-player platform game featuring fruit, worms, penguins, other assorted animals and fireball throwing monsters that installs in both English and Swedish. The Evil One has captured Bublina and has turned all your friends against you. Armed only with a magic rod the player(s) must set out across each level to rescue her. The spell on your friends can be broken by the magic rod, this turns them into fruit and other bonus items. Along the way there are bonus letters to collect, magic bottles with spells like Invisibility, secret caves and big monsters to defeat
+
+The player must zap all the baddies on each level in order to progress. After a while a boss will appear who is hard to kill. The boss will randomly appear on any platform in the game and will both destroy bonus letters and attack the player(s) character(s). Points are scored for baddies zapped, fruit eaten and bonus items collected.
+
+The full game features:
+
+over one hundred levels;
+five different worlds: toy world, water world, hell, snow world and blob world;
+five big bosses;
+four different weapons;
+twenty kinds of monster;
+twenty bonus levels;
+joystick support.
+
+

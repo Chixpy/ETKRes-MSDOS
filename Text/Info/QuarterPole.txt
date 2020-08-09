@@ -1,0 +1,9 @@
+Quarterpole is a horse racing simulation and stable management game based on the thoroughbred racing board game of the same name.
+
+In this game over one thousand horses, 125 jockeys and 150 trainers race 311 days a year from May through August on five 3D modelled tracks. Race your thoroughbreds in cups, stakes and classics night or day in various types of weather conditions. Results depend on past performances, track conditions, pace, track bias, race positions, running styles and other factors.
+
+You will manage every aspect pertaining to your horses from their purchase (at auction or private sale), through their training and handling and finally their entry into races of your choice. As your horses win they advance to the higher classes in Allowances and Stakes.
+
+The game uses a betting system patterned after real racetrack payoff software. Place your bets for big money to Win, Place or Show with exactas/trifectas and choose wisely using expert tips available in-game.
+
+The sights and sounds of real racing action can be seen and heard. The game features full-motion video footage of race day events with music, voices and digitized sound effects. Additional features include instant replay, slow motion and various camera angles.

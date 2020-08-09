@@ -1,0 +1,5 @@
+The object of this game is to "meld" all of your cards.  A melded card is one that is in a straight flush or several of a kind.  The straight flush must be three or more cards in sequence that have the same suit, such as Two of Heart, Three of Heart, and Four of Heart.  Aces can be at the high end or the low end of a straight.  Several of a kind is three or more cards of the same rank, such as three Jacks.
+  
+The player that melds all of his cards at the end of his turn first wins that hand and is awarded points for all of the cards that his opponent has that are not melded.  Face cards are worth ten, aces are worth one, and the other cards are worth their rank.
+
+The first player to reach the designated score wins the game.  In this version of rummy you can give yourself a head start, or give the computer a headstart if you enter a negative number, by  entering how many points you would like to be advanced when you are prompted to do so.  Enter zero to have an even game.

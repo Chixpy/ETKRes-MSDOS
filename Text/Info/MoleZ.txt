@@ -1,0 +1,5 @@
+Want a unique game of mayhem?  You play this game as a mole who"s only goal is to kill every other mole.  You can use many different weapons such sniper rifles and mines, with several unique features to help in your killing spree.  You can even use the weapon editor to make changes to the weapons in the game.
+
+The game is a 2D game that is, as the documentation calls it "as realistic as a 2D mole fighting game can [be]".  The game has physics effects such as gravity and air resistance that can either help or hinder you as you work to kill all the moles.
+
+Use the scene editor to create your own "scenes" for the game.

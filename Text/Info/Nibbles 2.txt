@@ -1,0 +1,3 @@
+Nibbles 2 is a game which I wrote around 1 1/2 years ago as an exercise in learning Turbo Pascal 7. It"s rather addictive, and I still play it occasionally, so I thought I"d finally get around to tidying it up a bit and releasing it as Freeware. And here it is!
+
+Nibbles 2 is based on the example QBASIC program which comes with MS-DOS version 5. A couple of friends of mine were addicted to it, so I decided to improve on the original slightly, and it was a good excuse to learn Pascal.

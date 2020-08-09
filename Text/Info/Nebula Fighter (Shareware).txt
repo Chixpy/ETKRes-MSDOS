@@ -1,0 +1,1 @@
+Super arcade action side scrolling shooter. Blast your way through the hordes of fully rendered 3D enemy ships. Try to stay alive in fully 3D rendered asteroid fields. 24 frames of animation for each boss. Collect power-ups to increase your fire power. Digitized back grounds and absolutely NO hand drawn graphics Sounds, Music, Parallaxing Backgrounds and Much more!

@@ -1,0 +1,2 @@
+Vortex is a VGA palette-rotating, equation/fractal generated graphics display program that can be used as a manually-invoked windows95 or dos screen-saver. It is an extremely small but mesmerizing program. Definitely worth the download! (freeware) [Note- In a way, it can be considered a very "perfect" screensaver, simply because all of the colors are used evenly, and every pixel undergoes the same palette rotation as every other pixel, resulting in absolutely no burn-in] Now supports up through 1024x768 resolution!
+

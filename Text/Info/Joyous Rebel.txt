@@ -1,0 +1,5 @@
+Joyous Rebel is an RPG inspired by the Ultima series of games. Initially a shareware title, it was later made available free of charge. It is a reworked version of a smaller game known as Joyous Rebellions of Jive Culture.
+
+As a guardian it is your duty to defend the king king of light. But you had to travel from you islands on a journey of peace and while you where gone booth the king and you feels that evil draws near. You hurry back to you island to defend the king but an enormous storm slows you down and a lightning almost kills you when it hits your boat a fisherman saves you and let you sleep over the night in his cabin. You are now well rested and must hurry to the caste to save the king of light.
+
+The screen is divided into two parts; to the left is the game area where all the action takes place and to the left is your inventory and indicators of what action you are about to execute. In the game you can use four commands: change between attack mode and walk mode, fire ballistic weapon, Do it (climb stairs, open doors, pick up items) and use inventory. The inventory can contain 24 items.

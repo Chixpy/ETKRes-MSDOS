@@ -1,0 +1,3 @@
+Single blocks come floating down, each containing a piece of pipe. Your task is to arrange them so that they form a structure with no open ends. Any such structure will vanish. Occasionally there is a helpful bomb.
+
+There is a Windows remake of this game.

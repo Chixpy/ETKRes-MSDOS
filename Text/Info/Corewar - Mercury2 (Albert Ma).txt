@@ -1,0 +1,5 @@
+MERCURY2 is an extremely fast and small corewar interpreter without graphical core display. I estimate it to be about 25 times faster than C88v49. It requires a 386 or above and 160K of contiguous free memory.
+
+NOTA: Desconectar la opción "Salir al finalizar" de DOSBox o su frontend para poder jugar.
+
+

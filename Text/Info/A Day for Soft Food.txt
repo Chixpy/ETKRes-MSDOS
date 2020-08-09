@@ -1,0 +1,3 @@
+In A Day for Soft Food the player controls the hungry cat of a household. Its master (called "the Provider" in the game) is sound asleep in his bed, ill from some unknown sickness. His state of misery has left his faithful pet with barely anything to eat, and even the slightest mewl seems to annoy him. Can food be found without waking him up?
+
+As with most modern interactive fiction, the player types in full sentences describing their intended actions (<tt>LOOK AT THE PROVIDER</tt>, <tt>MEW</tt>, and so on). The game requires a Z-interpreter to run.

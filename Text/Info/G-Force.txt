@@ -1,0 +1,7 @@
+G-Force is a solid flight-sim revolving around the MiG russian jets, similar to MiG 29.As you boot the game up, you will see a map with targets of the area such as airfields, buildings and military installations. You can then select these and plan missions to take, so it"s possible to customize every mission you fly. As well as the campaign option, there is the modem play which lets you can fly against your friends via modem.
+
+This game is actually very similar to MiG 29: the cockpit is very much the same, and the graphics and sound are nearly the same too. Controls, however, are slightly different, but are similar to the controls in Veritech.
+
+G-Force also allows you to use different types of controls: keyboard, mouse, and, of course, the joystick. If you"ve played and liked MiG 29 and/or SU-25 Stormovik, or possibly are a just a flight sim fan like me, then you should give G-Force a try. It"s neither as realistic nor polished as these two games, but it"s a good sim in its own right.
+
+Note: If you don"t want the sound card selection screen to come up every time you start the game, you can copy the sound card driver from one of the directories in the game, and copy it to the main directory of where you installed it. More help is given to you when this sound card setup screen appears.

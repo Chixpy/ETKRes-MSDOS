@@ -1,0 +1,3 @@
+Another F-16 simulator. It has all the standard features for a flight simulation, including single mission flight, quickstart and campaign mode (different terrains over Corea, Cyprus and Israel). The graphic engine is a bit slow, but displays the F-16 in a very accurate way.
+
+Slip into that G-suit and take to the skies for the definitive flight simulation " F-16 Fighting Falcon", the classic fighter aircraft renowned for its multi-role and dog-fighting capabilities. With a fully authentic cockpit, controllable wingmen, absorbing sound effects and a comprehensive array of weapons... 

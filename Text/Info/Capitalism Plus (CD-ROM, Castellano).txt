@@ -1,0 +1,10 @@
+Enhanced version of "Capitalism". Build your personal business empire. In order to do so you can control the whole production chain of your goods (raw materials, semi-products, retail), or you can choose to concentrate on special sectors (e.g. only mining ores or only selling hi-tech products, etc).
+
+New features in this game are: 
+Slightly enhanced graphics 
+Increased number of products (over 80 now) most from the hi-tech sector 
+New random events like revolutions, earthquakes, etc. 
+Real world maps of different business regions of Europe, USA and Asia 
+Map- and scenario editor 
+Pre-made historical and futuristic scenarios 
+Multi-Player option (PBEM)

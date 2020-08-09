@@ -1,0 +1,19 @@
+Nicodemus has lost his Treasure of Happiness somewhere in the Maze of Life and, as he walks through the maze, he has to make the right decisions and he will eventually find the treasure. DOS, requires 286 CPU & VGA display, game includes Christian teachings.
+
+The Treasure of Happiness is a Christian-based 3D maze game.
+
+The story is this: Nicodemus has lost his Treasure of Happiness somewhere in the Maze of Life and, as he walks through the maze, he has to make the right decisions and he will eventually find the treasure.
+
+The game is designed for younger children \u2013 possibly under 13 years of age \u2013 and has a strong Christian message. As Nicodemus moves throughout the 3D maze, he is confronted with choices and Scriptural messages. By choosing the correct answers he progresses through the maze.
+
+The graphics for the maze are typically VGA DOS \u2013 a little clunky compared to better resolution Windows" games. However, it is still very playable for younger children who will enjoy the bright colors and simple concepts.
+
+The game can be played on most Windows-based computers (we tried it using Windows ME and it worked great) but only requires a 286 with 500kB of free memory. A mouse is handy for the Help screen, but is not used for the game itself.
+
+Overall, The Treasure of Happiness is a terrific Christian-based game for children.
+
+Update:\u0009April 10, 2002
+
+The Treasure of Happiness has been updated.
+
+The author advises that changes in this version include the fixing of a bug (the earlier version crashed when executed directly from a CD or a write protected floppy disk, this should no longer happen now).

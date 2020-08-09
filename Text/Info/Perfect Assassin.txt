@@ -1,0 +1,5 @@
+In Perfect Assassin, you play an assassin who has lost his memory somehow and you have to make sure he gets it back.
+
+The gameplay is from a third-person view, but the camera is always located at a set place on a map. You can walk anywhere on the map and the camera will follow your movement, but it will remain on the same spot, regardless of what you do.
+
+The gameplay has some action in it, but mostly it is adventure-style solving of puzzles or talking to people.

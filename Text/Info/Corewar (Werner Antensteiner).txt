@@ -1,0 +1,6 @@
+Corewar is a battle inside the memory of the computer, where self written fighting programs are trying to destroy each other. This Borland C++ program mainly consists of a Redcode assembler and a simulator.
+
+Redcode is the computer language in which you can write your own fighting programs. In the simulator you can test your programs letting them fight against other programs and seeing whether they will emerge as winners.
+
+You can write your fighting programs with any editor you like. Save them on disk (be sure to use an ASCII text file format) before starting Corewar.
+

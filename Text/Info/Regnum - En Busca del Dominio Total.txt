@@ -1,0 +1,5 @@
+Regnum es un juego de tipo RTS, similar a Dune, desarrollado por los hermanos Conde en el año 1995.
+
+Cinco civilizaciones alienígenas sobrevivientes (Igneos, Akuantis, Filenos, Moloks y Venoms) "altamente desarrolladas", cuyo hogar fue destruido por una explosión estelar, deberán emprender la búsqueda de un planeta adecuado para la vida. Al final se encuentran con Ekzofius, un mundo que aún no ha sido habitado por la vida inteligente y donde existe un exceso del mineral Xiridium que es vital para los extraterrestres.
+
+Pero en lugar de construir conjuntamente un futuro brillante, los vagabundos espaciales comenzarán con un frenesí por destruirse mutuamente en la lucha por la posesión de estos valiosos minerales...

@@ -1,0 +1,6 @@
+Poor John. He works in a box factory. John works on the assembly line. His job is to make sure each box is flawless. On the odd chance that a box has been slightly creased or ripped, John throws it in to the defect pile. This mind numbing task has been his job for 18 years.
+
+Today, John has received an offer to be an executive! At last! His last task in order to become an executive is to move all the boxes on to the.. flickering.. ..red spots on the.. ground... yeah, that"s it.
+
+
+I"ve also included the source to the game and to the *WONDERFUL* map editor I made for this.. So you can create your own levels, cheat, and hack this game up as much as you want!

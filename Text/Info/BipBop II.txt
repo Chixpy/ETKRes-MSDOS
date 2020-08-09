@@ -1,0 +1,1 @@
+A Breakout clone in which you bounced the ball to eradicate in order, squares with Roman numerals on them. The action is spread over 20 levels and there are many special blocks to hit.

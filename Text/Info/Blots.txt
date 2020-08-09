@@ -1,0 +1,13 @@
+The idea of the game is to get both Blots out of each screen. To do this, you move bombs and boulders to help you. Use the cursor keys to move Blue Blot and <TAB>+1 to blow him up, and to control Red Blot use:
+
+   A - left
+   D - right
+   W - up
+   S - down                    
+   <BACKSPACE>+] - suicide
+
+When they get out, you get the remaining time added to your score. If they don"t both get out, you lose a life and play the screen again.
+
+A bomb will explode either when you drop a boulder on it, or when it falls onto something solid. It will blow up anything except concrete in the squares around it, and also set off any bombs next to it. The Blots can be killed by either having a boulder dropped on their heads or by being blown up by a bomb. If you want to kill them, use the suicide keys.
+
+I hope you enjoy it.

@@ -1,0 +1,2 @@
+The object of the Raku is to flip all the red tiles back to gray in as few moves as possible. You can flip either diagonally, or up and down starting at any tile. The Raku Master will tell you the exact number of moves he can solve the puzzle. If you don"t believe him, then let him solve the first 10 of 50 puzzles for you. This game is a challenging test of your logic skills.
+

@@ -1,0 +1,6 @@
+Taking a cue from Tank Battalion, this game (whose Chinese title translates to Battle of the Bulge) updates the "tank in a maze" recipe with an isometric perspective and a WWII setting. The basic premise remains the same: patrol your territory as the enemy forces pour in, keep your armored war machine in one piece, and defend your base at all costs. The layout of each level determines the course of the action, though it can be modified by destroying the scenery.
+
+The player may choose either the Allied or Axis side. Each level represents a territory: the Allies start out from North Africa, whereas the Axis powers begin their offensive from Germany. Apart from the usual tanks, the enemy also employs mine-laying vehicles, while the player has the option to call in air-strikes; various power-ups may be obtained by destroying enemy forces. Blasting all the enemies to oblivion will clear the level... but if they get your base, it"s game over.
+
+A password feature can be used to resume a game at a particular level (though you don"t retain your score).
+

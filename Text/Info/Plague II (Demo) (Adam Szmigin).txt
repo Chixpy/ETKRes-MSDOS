@@ -1,0 +1,2 @@
+This is Plague II, a platformer where you will be able to control one of 4 characters, fighting your way through the walls of enemies in a variety of different levels and landscapes.
+

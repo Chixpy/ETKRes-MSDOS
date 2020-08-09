@@ -1,0 +1,3 @@
+The blocks glide from all sides towards the center, and complete squares are removed. Blocks can be moved in any direction, except the one they are coming from. Once they get past the center, they become unnavigable, and drift on to the edge of the screen. When one side is filled up, no more blocks will be coming from there. This concept was rather popular on the Macintosh, a Windows implementation is Hexis.
+
+The name is pronounced Valgus squared.

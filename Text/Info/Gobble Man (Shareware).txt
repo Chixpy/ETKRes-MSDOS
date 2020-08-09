@@ -1,0 +1,2 @@
+Pac-Man clone with EGA graphics, board layout similar to the original. Supports a joystick, 1-2 player.
+

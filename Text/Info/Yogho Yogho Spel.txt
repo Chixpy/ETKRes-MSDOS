@@ -1,0 +1,3 @@
+In this platform game the player takes the role of a boy who likes the Dutch yoghurt drink Yogho Yogho. In every level the protagonist has to find one or more objects and bring them to someone. For example, in level one the objective is to find three spots that a crying cow has lost; in level two the hero must locate three cauliflowers and bring them to a girl called Betty, etc. Fruits can be collected for points. There are also bonus levels full of fruits that help the player to the score.
+
+

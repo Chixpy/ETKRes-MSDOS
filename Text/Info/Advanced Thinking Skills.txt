@@ -1,0 +1,11 @@
+This game is basically an IQ test to train the brain, comprised of a series of questions drawn from five different categories (Odd one out, Shapes, Building Blocks, Dominoes, and Number Sequences). There are only fifteen minutes to complete the test or players can choose to practise one of the five groups or learn about the different types.
+
+Which is the odd one out: these questions present five similar objects, four of which follow some organizational scheme the 5th being the odd one. Can you see which one doesn"t belong
+
+Shapes: four shapes are shown that are arranged in some type of sequence and the player is asked to complete the sequence by choosing from four options.
+
+Building Blocks: this exercise shows a 3D grid of stacked blocks, many of which are hidden. Players need to guess how many blocks the shape comprises.
+
+Dominoes: similar to Shapes, only here dominoes are shown and the sequence needs to be completed.
+
+Number Sequences: a number sequence needs to be completed.

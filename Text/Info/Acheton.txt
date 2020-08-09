@@ -1,0 +1,3 @@
+Acheton is a home computer conversion of the mainframe adventure of the same name. Similar to Zork (which was released on the VAX mainframe not long before Acheton"s original appearance), it is a fantasy treasure hunt set in a claustrophobic dungeon. It boasts over 400 rooms and 200 objects, thereby making it much bigger than Zork.  
+
+As with many games of this kind the most time is spent by exploring the environment and solving item-based puzzles. Everything is described solely with plain text and the player interacts with the game by typing in phrases which describe his desired action, e.g. "take bottle". It also features a help function with graded hints.

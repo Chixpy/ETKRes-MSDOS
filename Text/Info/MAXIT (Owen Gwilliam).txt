@@ -1,0 +1,2 @@
+MAXIT is played on an 8x8 grid of squares, each one containing a point value, ranging from -9 to 15. One of the squares is initially designated with a marker that indicates the current position. Player #1 may take any square on the same row as the marker. When player #1 is done, player #2 makes a similar move, except choosing between the squares in the column. Play alternates until all squares are taken or until a payer is left without a valid move. The player with the most points at the end is the winner.
+

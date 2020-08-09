@@ -1,0 +1,2 @@
+The most sophisticated Jigsaw Puzzle, it unleashes the color and brilliance of VGA and SVGA upto 800X600X256 colors. Loads a puzzle on the screen and then shuffles the pieces. Can you put them back together ? Features 5 Levels and several puzzles, music, sound effects. GIF/PCX file support is also available. Turn your favorite GIF/PCX graphics into puzzles.
+

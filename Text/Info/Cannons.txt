@@ -1,0 +1,3 @@
+This is my entry to the one-key challenge held at forum.qbasicnews.com It"s a simple game where you try to hit your opponent(s) with a projectile, by deciding angle and velocity, before the opponent(s) hit you.
+
+This game is two-player only (no computer AI).

@@ -1,0 +1,8 @@
+La Liberación de Silvania es una aventura conversacional de texto, basada en el libro "El Misterio de la Montaña de Plata", publicado en España por Anaya.
+Se trataba de un curioso libro-juego, pues al final de sus páginas se encontraban unos listados en basic para diferentes plataformas. El programa se jugaba junto con el libro, siendo éste necesario para ello.
+
+En esta versión, FJAP unió las dos fuentes en un solo programa, permitiendo jugarlo sin necesidad del libro original.
+
+El argumento del juego nos lleva a las laderas de la Montaña de Plata, donde los silvanos viven como esclavos de los sangrientos Grarg. Tu misión es encontrar una serie de objetos que, conjuntamente, cuentan con más poder que la Gema del Destino, aquélla que provocó la situación en la que se encuentra el pacífico pueblo.
+
+Argumento entretenido, muchas y variadas descripciones y una atmósfera que apasionará a los aventureros seguidores del género fantástico. 

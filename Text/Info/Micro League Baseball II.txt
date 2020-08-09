@@ -1,0 +1,1 @@
+MicroLeague Baseball II is a baseball managerial simulation game. The player takes the role of a major league manager.There are actual stats for pitching, hitting, fielding, running and more.  The games features an exclusive "Quick-Play" Option Menu as well as powerhouse teams from the past and present.

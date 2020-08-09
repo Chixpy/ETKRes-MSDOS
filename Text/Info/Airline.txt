@@ -1,0 +1,1 @@
+Airline is a nice German business simulation where you try to build up and expand your airline worldwide. At the start you can either decide if you want to start a new company, expand an existing one or wish to bring an unprofitable airline back on the winning track. 

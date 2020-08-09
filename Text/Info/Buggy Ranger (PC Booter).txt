@@ -1,0 +1,17 @@
+INTRODUCCI\u00d3N
+
+Un juego de la última época de Dinamic para los 8 bits, en la cual la calidad casi siempre brillaba por su ausencia. Además, realizado por los uruguayos de Iron Byte, un equipo de programación que trajo al mundo desastres como Freddy Hardest in South Manhattan, aunque también joyas como Narco Police. Lo raro es que Javier Cubedo y Snatcho colaborasen también en el mismo...
+
+EL JUEGO
+
+Buggy Ranger recuerda un poco a el viejo MoonRider, solo que éste último es mil veces mejor. Todo se mueve con muy poca gravedad, lentamente, inadmisiblemente. No se entiende bien qué se pretendía al programar un juego así para los pequeños 8 bits. Lo más seguro es que fuera tan solo una excusa para vender un juego a los desesperados que veíamos cómo nuestro ordenador favorito se quedaba sin software nuevo.
+
+Más vergonzoso aún fue lo de la ya mencionada estancia de Freddy Hardest en el sur de Manhattan. Una primera parte estupenda, con la que Dinamic cosechó gran éxito, la continúan con uno de los peores juegos visto en Spectrum y MSX en toda la historia...
+
+Ranking de versiones
+
+Los gráficos de la versión Amstrad son los más destacables, como siempre, por su colorido; aunque en esta ocasión, el color estorba un poco a la buena visión de los enemigos, ya que se han elgido tonos muy oscuros.
+
+Por el contrario, las versiones de Spectrum y MSX, calcadas, como era habitual en Dinamic, disfrutan de una mejor definición. Entre estas dos, la de Spectrum da la impresión de ser la más trabajada. El sonido cumple por los pelos para un juego comercial de esta gran compañía. El movimiento del Buggy llega a desesperar al más paciente, por lo que la jugabilidad se halla bajo mínimos. ¿Adicitivad? Mejor no comento nada al respecto...
+
+La versión PC, por su parte, es un calco de las de 8 bits con gráficos CGA. Para ejecutarla necesitáis "Virtual PC" de Microsoft, ya que se trata de una imagen del disco llave original.

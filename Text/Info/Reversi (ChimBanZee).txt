@@ -1,0 +1,5 @@
+This is an old game for two players sometimes also called Othello.
+
+Both players try to turn around the highest amount of the other players stones by placing his stones so that the others are between his stones.... =)
+
+I have included AI in this new version ... but somehow i made it too good .. i don"t win anymore.... (well sometimes i do)

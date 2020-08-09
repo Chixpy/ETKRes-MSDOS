@@ -1,0 +1,3 @@
+"F-1" is an unofficial Formula 1 racing game. You must compete along the Formula 1 season (16 circuits included). There are three game modes: Practise, Race (Single race) & Complete season.  Before each race, you can modify aspects like tires, transmission (manual or automatic), the number of laps or the difficulty level (between three levels).
+
+During the race, if you have problems, you have the option to stop at the boxes to repair your car.

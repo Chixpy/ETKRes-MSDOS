@@ -1,0 +1,3 @@
+This game is a re-creation, using ASCII characters, of the 1976 Midway coin-op game Sea Wolf.
+
+In Seawolf you are the captain of a submarine trying to stop an enemy fleet of ships. You have one minute to try and destroy as many PT boats, submarines, and oil tankers as possible. The torpedo sight is at the bottom of the screen and you can fire one torpedo at a time at the enemy ships which zip past at the top of the screen at varying speeds.  Seawolf is in 80 column text mode and uses ASCII characters for its "graphics".

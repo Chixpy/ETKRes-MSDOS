@@ -1,0 +1,3 @@
+Starting this game will remind you of Pipe Dream, but the gameplay is a bit different.  You will still make a pipe using various pipe pieces that appear.  However, you don"t get points for how long your pipe goes or how many times you overlap the pipe.  Instead, you get points for how many loops you can make.  If you complete a loop, it will disappear and you will get points for it.
+
+There is a timer that will continue to go down which makes the game more of a challenge.  The timer can be increased a lot by completing loops, or a little by placing pieces.

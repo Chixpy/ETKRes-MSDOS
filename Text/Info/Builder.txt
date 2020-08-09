@@ -1,0 +1,5 @@
+Builder is a game of environmental anxiety. The world is closing in on you, and you need to escape. To do this, you observe your environment, build footholds, and destroy obstacles to your progress.
+
+There are at least three ways to play Builder. On the first level you have a glitchy and obtuse puzzle platformer. There is often more than one way past a given problem; the way that you choose will depend on your personality, and may affect your future options. If you master the mechanics, then the game becomes a race. And if you embrace everything wrong about the world... well. You may be on the right track.
+
+Builder is designed on the 20-year-old Game-Maker engine by Recreational Software Designs. The engine is really not meant for games like Builder, which may play into the game"s themes. Stylistic and technical influences include the work of Max Fleischer and Cab Calloway, Solomon"s Key, Metroid, Super Mario Bros. 2 (US), Hero Core, La La Land, Seiklus, Braid, Berzerk, Magic Carousel, and maybe a bit of Silent Hill 2.

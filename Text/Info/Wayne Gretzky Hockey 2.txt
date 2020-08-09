@@ -1,0 +1,3 @@
+Wayne Gretzky Hockey 2 is a top-down hockey game. The player participates in a match against either Canada or the USA. There are many options to change the match settings, e.g. the difficulty level, speed or the referee"s behaviour. The editor offers the possibility to create new tactics or lineups as well as changing the abilities and names of the athletes. In contrast to most other sports games, the athletes are controlled indirectly: the player uses the input device to show the athlete where he should move. The active athlete can be changed. 
+
+This is basically the same game as its predecessor. The main additions are additional match options and a co-op playing mode.

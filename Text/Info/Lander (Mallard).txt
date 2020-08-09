@@ -1,0 +1,4 @@
+Fly your lander down on the landing pad, then plant the flag in the specified area.
+
+5 levels, high scores, EGA graphics. Written in QBasic 4.5. Similar to Lunar Lander. Fun!
+

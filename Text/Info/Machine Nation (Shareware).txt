@@ -1,0 +1,2 @@
+Machine Nation - is a space ship shoot-em-up game. You must watch out for fireballs, electronic fields, and other hazards in addition to enemy ships. It features smooth parallax scrolling and excellent graphics.
+

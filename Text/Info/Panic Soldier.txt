@@ -1,0 +1,5 @@
+In 2045 terrorists conquer a island in the Pacific Ocean and declare it an independent state. Because the whole world is afraid of these terrorists they send a mercenary group named Panic Soldiers on the island to drive them away. The game is a real-time strategy game which emphasizes on the combat aspect without base building.
+
+Before every mission the player chooses which combat robots and pilots he wants to use. They are distinguished in three attributes: defend power, attack power and accuracy. With every solved mission the used pilots get experience points and as a result increase their attributes. The robots don"t earn experience but can be upgraded or replaced with money which is earned by completing objectives. These are mostly to kill all enemy soldiers and destroy their buildings but sometimes the player has to rescue soldiers. 
+
+The game uses standard real-time strategy controls: With the left mouse button the player gives his units move or attack orders.

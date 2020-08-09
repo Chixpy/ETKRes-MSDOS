@@ -1,0 +1,5 @@
+Theatre of War is similar to the classic game of chess, but in real time with projectiles. There are 3 gameplay modes: Medieval, Great War and Contemporary. Medieval has things like swordsmen and archers, Great War has a setting similar to World War 2, and Contemporary is air combat.   All the modes play pretty much the same except you get different units in all the modes. To win you have to destroy your opposing King/General/Control Tower.
+
+Each unit has a health and power bar. When you move or use a special attack the power goes down then the King/General/Control Tower must come to re-power them. This puts your main piece in danger. When the health bar is depleted the unit dies.
+
+2 players can go head-to-head in real time over a serial cable, or turn-based on the same computer.

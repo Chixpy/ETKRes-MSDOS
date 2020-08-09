@@ -1,0 +1,2 @@
+BLACKJACK Version 1.00 - a simple easy and fun-to-play version of the classic card game Black Jack (also known as 21). Very easy to play from keyboard. Requires EGA or VGA display low system overhead can be played on almost any machine. Shareware very modestly priced.
+

@@ -1,0 +1,11 @@
+Evets is a decent Roguelike game that is not as good as the fuss around it seems to suggest.Trav"s review says it all: 
+
+"Honestly, when I took my first look at this game I don"t know what the fuss was about.But as I delved deeper I saw that it offers some unique ideas. The first thing that you"ll notice is that the main menu and character creation interface are terribly unintuitive.There is no in-game help; you have to read evets.man to be able to to anything at all. 
+
+It"s a multi-character game; you control a party. This is a unqiue idea, except that it is poorly implemented; inventory management and combat are much more difficult that in other Roguelike games.Casting spells is a pain; you have to type in the complete name of the spell and it doesn"t help that there are misspellings in the anme [e.g., Magic Missile].For that reason, and the fact that hitting "ffff" in combat is easy, I suggest you create four fighter characters as your first party. 
+
+Once you get past the interface deficiencies you will notice stores and unique locations inside the dungeon. These are what gave me hope that game would offer something positive.I"ve found a review board, a barter shop, and then... nothing. There weren"t even items in the deungon to pick up.Just stairs and pits and monsters.You ran run away from the monsters, by the way. And I never had characters starve to death.Also, the dungeons don"t appear to be random. 
+
+The bad interface cripples the game.Most players will probably give up before seeing much of the game at all.If I didn"t have to review it, I would have deleted it before you can say, "Heroes of Might and Magic 3 is calling." Even so, I only took the game for quick test drive, maybe an hour or so of playing. 
+
+It seems like the game was still in the early stages of development when it was abandoned in 1988.Since it hasn"t been touched in over a decade I decided it would fit better in this Review section than in the Preview section.Personally, I find it overall to be unattractive and not fun to play."

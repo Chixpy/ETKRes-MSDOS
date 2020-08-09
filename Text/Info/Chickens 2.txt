@@ -1,0 +1,3 @@
+Gory events continue with this sequel to Chickens : As you can easily guess the human race is at war with chickens. Once again you kill as many chickens as you can. You have a limitedtime. And this time you don"t use bombs, you have a pointer, every time you press your mouse button it shoots!
+
+Coded in C. Emailware (This means if you like the game you should send the author an email or postcard).

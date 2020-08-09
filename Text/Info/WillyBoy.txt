@@ -1,0 +1,1 @@
+A game where you move a bush (!?) through mazes with the goal to reach the exit. The interesting part is that you can"t go backwards and there are many obstacles. Challenging game (20 levels), but the graphics are very static (tile by tile movement, no animation). The package includes a level editor.

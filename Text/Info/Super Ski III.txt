@@ -1,0 +1,10 @@
+In the sequel to Super Ski II, six ski events in the French Alps are available - Super Giant, Downhill, Slalom, Snowboard Giant Slalom, Snowboard Slalom, and Ski Jump.
+
+There are three modes:
+Practice - complete the events one by one 
+Medal Competition - challenge opponents in all events gaining the medals 
+Time/Points Competition - challenge opponents in all events showing best time/acquiring more points
+All events show the player from behind, except Ski Jump. In Ski Jump the player is seen mostly from behind but camera may be rotated slightly near him. The player should avoid obstacles, stay on a route, and pass the gates in Slalom-like events and jump well in the Ski Jump.
+
+A 1-4 players hot-seat mode is available and the difficulty may be adjusted. The game progress may be saved to load it later.
+

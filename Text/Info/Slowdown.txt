@@ -1,0 +1,2 @@
+Slow down the rectangle before the time limit.
+

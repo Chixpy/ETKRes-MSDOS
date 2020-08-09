@@ -1,0 +1,1 @@
+Kosmonaut is the original idea behind the game Skyroads. In this game you control a hovercraft, flying over an obstacle different platforms on which you must avoid falling off and gaping holes. Flying over certain platforms can increase your abilities and give special powerups, or kill you. The game features a high score list unlike Skyroads.

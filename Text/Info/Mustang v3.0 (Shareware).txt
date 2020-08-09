@@ -1,0 +1,8 @@
+In this game, the player flies a type of plane called the "Mustang".
+
+This plane was used in World War II and is fairly easy to fly.
+
+Using the Mustang, the player fights his way through an increasingly difficult array of evil enemy fighter planes and larger enemy bombers.
+    
+Throughout the never ending mission, the Mustang can augment its arsenal by picking up special gifts that float down the screen.
+

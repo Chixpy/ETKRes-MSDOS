@@ -1,0 +1,1 @@
+Play a card that matches the last card played in color or in value. If you cannot play any card, you must draw one. Some cards do special things. The game ends when one player gets rid of all his cards.

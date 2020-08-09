@@ -1,0 +1,9 @@
+Horizontal shooter.
+
+"Invaders from Planet X
+"a RichJ Production
+"Press F5 to begin
+"To play make sure number lock is on.
+"use 4 and 6 to move left and right.  use 5 to fire.
+"please feel free to e-mail me with your comments.  My screen name is RAJ79.
+

@@ -1,0 +1,1 @@
+SuperBlast is a mostly generic Arkanoid clone, where the object is to use your paddle to bounce balls around and break bricks. It offers lots of different screen modes, and a couple of unique powerup items, but the graphics are mostly blah. It must"ve been impressive when it first came out because it uses VGA graphics ... ooooh! :)

@@ -1,0 +1,7 @@
+Drug Wars is a game where the player takes on the role of a street drug dealer in New York. The player character owes the local loan shark $5500 but only has $2000. He has one month to earn money by selling drugs and repay the debt.
+
+The area of "commerce" where the player can buy or sell drugs consists of 6 regions in New York: the Bronx (home town), Ghetto, Central Park, Manhattan, Coney Island, and Brooklyn. The identified drugs are (from most to least expensive): Cocaine, Heroin, Acid, Weed, Speed, and Ludes.
+
+In one month, the player will have to pay off the debt and make as much money as possible. Time is represented by a turn-based motion activated when the player travels from one area to another area (or jet). Each time the player travels, a random event may occur (e.g. Mom borrows some weed to makes brownies). Each movement also triggers price change of the drugs, which makes it very hard to predict prices when the player travels from one area to another area. Also if the player carries to much "goods", the player may attract attention from the local militia (police) which may provoke a gun fight (if the player bought some guns). Though running may serve a better purpose in the end. 
+
+Additional features are banks (only in the Bronx) to stash cash in case the player gets mugged in the subway, the loan shark to pay off (the debt) or borrow fresh funds, and a place to stash surplus drugs (only in the Bronx). Random important features include someone offering the player to buy guns, a trench coat (more pockets to carry drugs), etc.

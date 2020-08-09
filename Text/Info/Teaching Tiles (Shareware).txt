@@ -1,0 +1,17 @@
+Teaching Tiles is a shareware, educational, tile matching game for DOS.
+
+The game is plated on a grid and the object is to reveal all the tiles. The player clicks on a cell and the tile is turned over revealing a colour, a letter, or a number etc depending on the game. The player then clicks on another cell and this turns over also revealing a colour, letter etc. 
+
+If the two tiles do not match the game resets them to their un-revealed state and the player tries again.
+If the two tiles match they the player is rewarded with a message "Well done" type of message and the tiles remain face up. The player then repeats the process until all matching pairs have been revealed.
+
+There are four types of game on offer here;
+
+Colours.
+A simple game where the player must match pairs of tiles containing the same colour. Each colour has its name written on the tile and this helps teach spelling and word recognition.Letters
+In this game the player must match the upper case letter to the appropriate lower case letterMaths
+Here the player can select from addition, subtraction, division, multiplication, addition and subtraction or a mixed set of problems. The player then selects a difficulty level. The game is to match the sum to the correct answer.
+
+Pictures: The player matches tiles with the same picture on them. There are no words on these tiles, just pictures.
+
+Each game starts out with a grid that is 2 cells by 4 cells. When that has been completed the game advances to the next level which is 2 cells by 4 cells and so on through grids that are 4 x 4, 4 x 5, to the final level which is 5 x 6 after which the game reverts to a 2 x 4 grid. There  is no High Score table and none of the games has a timer.

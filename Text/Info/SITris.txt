@@ -1,0 +1,13 @@
+The SITris Amoeba is an invisible creature that ravages your board. It takes stronghold in a block, slowly disintegrating it, and eventually making the block crumble and disappear. It can be added to the game to make gameplay more challenging. The Amoeba is invisible, but its effects are more visible: once it takes hold of a block, you will see the block begin to crumble. If not stopped, the block will disappear in a few seconds. The only way to kill an amoeba is to complete/remove the line that it inhabits.
+
+There are five options under SITris Amoeba:
+
+- Off, which removes the amoeba from gameplay
+
+- Easy, in which the amoeba randomly affects one block during gameplay.
+
+- Hard, in which the amoeba randomly affects one block, but more often than in Easy.
+
+- Spread, in which the amoeba randomly affects one block, then after destroying it, moves on to an adjacent block to destroy it, and repeats the process.
+
+- SprWide is the same as Spread, but the amoeba can move to diagonally adjacent blocks as well.

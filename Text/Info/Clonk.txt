@@ -1,0 +1,3 @@
+A small shareware strategy and action game for two players. There are 30 rounds with randomly generated terrain. In each round, every player gets assigned a team of small, humanoid beings called Clonks. One of them is the crew"s captain and is of special importance, as the goal of each round is to exterminate the enemy"s captain.
+
+Later rounds add new elements to the game like rocks or exploding flints that can be thrown, rain, thunderstorms and wildfires, monsters, catapults, castles where Clonks can be healed, or gold nuggets that can be exchanged for new crew members.

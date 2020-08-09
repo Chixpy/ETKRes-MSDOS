@@ -1,0 +1,3 @@
+ Video Trek 88 (65K), the earliest of Windmill Software"s games. It is written in BASIC (the .BAS files and .TXT files listing the program code are included in the archive). To run it, you will need a BASIC interpreter such as GWBASIC or BASICA (56K). More modern BASICs such as QBASIC, QuickBASIC or Visual BASIC won"t work.
+
+Sandro Maisuradze has made a remastered version of Video Trek 88 in QBasic which fixes the speed problems of the original on modern hardware, has the ability to toggle sound with F1 and exit using F10. It"s also been compiled into an executable file, so no separate interpreter is necessary.

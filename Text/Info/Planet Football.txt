@@ -1,0 +1,3 @@
+This football game features practically every international team available with its corresponding players (circa 1994) and with gameplay modes that include 1 and 2 player exhibition matches and the full World Cup.
+
+The distinguishing feature of the game is its use of a different perspective which puts you behind and above the players as in 3rd person 3D games, but in a fixed position where the camera just slides up and down the court to follow the players. Graphics are 2D VGA sprites

@@ -1,0 +1,13 @@
+An update of the previous Gazillionaire space-trading game. Gazillionaire Deluxe includes the existing gameplay of that title and offers the following changes and updates:
+
+- Ability to customize the solar system from a set of pre-existing planets
+
+- There are twice as many spaceships to choose from
+
+- Double the number of "random event" travel encounters
+
+- A new Stock Markets system that lets players invest on a particular planet
+
+- Adjustable intelligence for the computer players
+
+- Play-by-email functionality for multiplayer games

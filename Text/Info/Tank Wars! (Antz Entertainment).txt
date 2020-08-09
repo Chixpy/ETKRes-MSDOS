@@ -1,0 +1,2 @@
+Tank Wars is a game in the genre of turn-based strategy using projectiles. E.g. Worms, Bomb and Scorched Earth. The game was created in Qbasic and was made by Andrew Frost.
+

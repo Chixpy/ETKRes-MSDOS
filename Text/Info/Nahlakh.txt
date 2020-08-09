@@ -1,0 +1,13 @@
+Nahlakh is a shareware game written as RPG adventure with an emphasis on intricate tactical combat, and extensive world exploration. Control a team of 8 characters in a quest to find and destroy the demons of Omalin. The game manual boasts over 200 hours solving time, 100 spells, 300 different monsters, and a system for generating potentially millions of items by combining them with various enchantments and materials. 
+
+In the author"s own words: "It"s like a war game with a plot and character development. There are no "experience points" in Nahlakh... skills are learned by doing, not mystically improving out of thin air."
+
+The game begins with a fairly involved process of setting up your party of 8 characters. For each character 50 points are given to distribute among the main attributes of strength, intelligence, dexterity, and health. Additionally, picking an icon that represents the character, this selection will affect the skills chosen; essentially the icons are character classes. Next a number of skills are randomly selected with varying levels of accomplishment described humorously with adjectives such as "lousy", "feeble", "wretched". 
+
+With your party created the game begins, and the party is transported to the world map where a group of enemies waits close by; to the north lies a town called Nedly. The world map will remind one of the early Ultima series with the player character represented by an non-animated icon.
+
+The battle system is similar to that found within Pool of Radiance (1989); it is turn-based, each character has a limited number of steps that it takes, and then an adjacent enemy icon is targeted for attack.
+
+The game is well documented, and pressing F1 at anytime will bring up context-sensitive help. Since the game is heavily driven by keyboard commands this is an important feature.
+
+

@@ -1,0 +1,3 @@
+The objective of the game is to sort the objects. You have a field with vertical stacks. The objects come randomly from the top, the stacks grow and become longer and longer. The player can move the objects by putting them in the buffer and placing them in other stacks. The buffer can hold any number of objects, but only of the same type. By moving the buffer around and emptying its contents onto another stack, the player can group together similar objects. You have to build groups of 5 or more objects and then the group falls and frees space. You loose if one of the
+stacks grows all the way to the bottom of the playing field.
+

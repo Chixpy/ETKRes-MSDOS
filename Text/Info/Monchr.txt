@@ -1,0 +1,1 @@
+Multiple-board DOS maze-clearing. Very much like many of the games that were developed for personal computer systems in the eighties. No special requirements - should run fine on all PC systems, with a command-line option adjustment. Specify /? for command-line help.

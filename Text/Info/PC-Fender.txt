@@ -1,0 +1,1 @@
+This is a public domain version of the arcade classic defender. It requires a 286 processor and EGA display.

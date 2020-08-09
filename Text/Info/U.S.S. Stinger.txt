@@ -1,0 +1,3 @@
+A 3-D combat submarine simulator. The object of the game is to seek out enemy convoys and sink the supply ships and their escorts with your torpedoes and missiles.
+
+Navigation between convoys, ports and environmental hazards, as well as the need to watch your fuel and air supply, add an element of difficulty to the game.

@@ -1,0 +1,5 @@
+As a Space Invaders clone, your task in this game is to defend the Earth against endless waves of incoming aliens.  The more you kill, the faster they go; if they complete their winding descent down the screen, your mission is over.  Each row in the orderly squadrons is populated by a distinct breed of vaguely-insectoid intruder, and their point values vary accordingly - you get less for zapping the cannon-fodder at the bottom, more for the higher-ups.  If you get them all, a new batch of uninvited guests will drop by for another (more difficult) round.
+
+Five shields stand between you and the enemies - until they get too close - and can absorb a limited amount of damage before they give in.  The occasional flying saucer which darts across the top of the screen (sometimes subversively marked "cop") can be shot for yet more points.
+
+All of this can be done in five skill levels, ranging from novice to expert.  A somewhat unusual feature is the ability to move your ship up and down as well as sideways, although you\u2019ll always be aiming straight up.

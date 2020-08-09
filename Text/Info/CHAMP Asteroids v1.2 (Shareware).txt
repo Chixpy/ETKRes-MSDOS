@@ -1,0 +1,2 @@
+The object of CHAMP Asteroids is to clear the field of all the asteroids while avoiding collisions with them and enemy spaceships. Each new level has more asteroids and tougher spacecraft to destroy. The game ends when all lives are lost.
+

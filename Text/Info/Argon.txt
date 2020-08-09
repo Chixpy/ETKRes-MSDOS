@@ -1,0 +1,1 @@
+Argon is a variation of Asteroids. It is a space shooting game with CGA graphics, but yet it includes SoundBlaster sound effects. (I think that"s the first time I"ve seen that combination.) Anyways, it plays decently, and gets tougher as you progress. Its actually a decent little game but I doubt many will enjoy playing it for long periods of time.

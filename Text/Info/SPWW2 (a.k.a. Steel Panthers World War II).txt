@@ -1,0 +1,5 @@
+This installment of the Steel Panthers series mainly covers World War II. The player can command a single platoon up to a battalion on either side. It is also possible to construct custom battles and edit maps.
+
+SPWW2 (which stands for Steel Panthers World War II) is an authorised stand-alone expansion for SSI"s Steel Panthers II. It contains several hundred scenarios set mainly in the timeframe of the Second World War but also covering some battles of the interbellum period, as well as a number campaigns, either based on historical events or exploring alternate history scenarios.
+
+Built on a vastly modified source code of the original Steel Panthers II, the game features numerous enhancements, including an expanded set of units and terrain types, increased limits for various in-game objects, improved AI and random scenario/campaign generator, and cheat countermeasures for play-by-email (PBEM) games. Additionally, SPWW2 includes a scenario editor, campaign editor and unit editor  allowing for maximum customisation of the game by the players.

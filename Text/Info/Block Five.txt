@@ -1,0 +1,1 @@
+This game recreates the board game Go. On a large board, players are competing to complete lines of five of their pieces (crosses for you and naughts for the CPU player in this case).  The offensiveness or defensiveness of the artificial intelligence"s strategy is randomized with each play.

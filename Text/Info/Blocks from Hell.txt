@@ -1,0 +1,1 @@
+Sets of blocks fall down a shaft and you should rotate them in the right way before they reach the bottom. When you fill up a horizontal line, those blocks disappear. When you fail to fill up lines, the blocks will reach the top of the shaft and the game"s over.

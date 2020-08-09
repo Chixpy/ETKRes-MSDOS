@@ -1,0 +1,5 @@
+Armored Moon is a real time strategy game with a very similar theme to Command & Conquer: Tiberian Sun.
+
+The story revolves around the year 2040 when earth has ran out of resources and the big evil corporations try to take over the last of the remaining valuable resources located on the moon. You lead your rebel forces in 10 increasingly difficult missions to take back control of the moon.
+
+You start each stage with a allotted amount of funds and units, your forces gain experience and become stronger with time. 

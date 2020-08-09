@@ -1,0 +1,5 @@
+Pulse is an interesting game where you try to get a group of pieces of the same color together similar to how you would in a tetris game.  However, in this game, the pieces are flying around all over the place and you have to "attract" them to where you want them.
+
+As you get a set of four or more of a color of disks completed, those pieces disappear and you get a spiky piece of that color.  Every set of disks of a color completed gets a new spiky piece.  Clearing a set of spiky pieces gets a triangle piece, and clearing a set of those gets a star piece.  This is kind of like going up in levels.
+
+As you progress, you can get power-ups and special events.  Due to the number of pieces flying around as you progress, this game becomes very fast-paced and difficult the further you get into the game.

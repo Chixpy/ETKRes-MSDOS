@@ -1,0 +1,2 @@
+This is a conversion of an Amiga game of the same title. Move your character from wall to wall collecting all of the hearts. 10 levels.
+

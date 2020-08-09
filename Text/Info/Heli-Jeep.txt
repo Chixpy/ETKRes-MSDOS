@@ -1,0 +1,8 @@
+"Heli-Jeep is a fast-action scrolling side-shooter with elements of the following games: Moon Patrol, Scramble and Choplifter.
+
+Your goal is to patrol the planets in both a jeep and a helicopter. You will encounter enemy units that you must destroy, and obstacles that you need to either avoid or destroy.
+
+The jeep has more ""hit points"" than the helicopter and can therefore sustain more damage before blowing up.
+
+If you are playing two player simultaneously, the helicopter can help the jeep clear obstacles ahead on the ground, and the jeep can help the helicopter clear enemy units out of the skies."
+

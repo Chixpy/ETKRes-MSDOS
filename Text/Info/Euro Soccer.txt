@@ -1,0 +1,8 @@
+The game represents the most powerful European teams of 1992 season. England, Germany, Scotland, Netherlands, Italy, Spain, France, and Sweden proposed their best teams of their Premier Divisions such as Bayern M\u00fcnchen, Manchester United, Celtic, Ajax, AC Milan, Real Madrid, FC Barcelona, Monaco, IFK G\u00f6teborg, etc. for player"s choice.
+
+Gameplay flows in side view, where soccer players are controlled either by human or CPU. There are two modes of the game. The first one is "Friendly match" for 2 players only in a case if joystick is installed along with keyboard. The second one is "Euro Cup tournament" for 1 player. Different options such as the match length (2/4/6/8 minutes), weather conditions (wet/dry), formation of the teams (4-4-2/4-3-3/4-2-4), and national anthems (on/off) may be adjusted.
+
+Simulation of the team players` actions lies in the following. When the ball is near the player of your team, this player is selected as active and becomes controllable. As this player you should run to the player of the opposite team and take the ball, after that you may run with the ball, which is stuck to your feet, give a pass to another player of your team, or strike a ball. Your player may be moved in 8 directions. Your goalkeeper keep your gates by himself. Camera follows the ball but with some delay, so the ball often is not in the center of the playscreen as well as nearest player of your team is not visible.
+
+There is no ability to save the game in progress. So tournament should be played from the very beginning "til the end during single seance of the game execution.
+

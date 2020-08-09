@@ -1,0 +1,2 @@
+Clear blocks which are the same color and touching.
+

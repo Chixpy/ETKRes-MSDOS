@@ -1,0 +1,5 @@
+Mario Brothers VGA is an unofficial remake of the classic Mario Bros. game of the arcade in VGA 16 colors.
+
+You control Mario who has to flip turtles coming out from two pipes at the top of the screen. The goal of the game is to defeat these turtles and score points by flipping them from underneath, not jumping on them. All gameplay is on one single screen, there are no scrolling levels like regular Mario games.
+
+The registered version also allows a second player as Luigi.

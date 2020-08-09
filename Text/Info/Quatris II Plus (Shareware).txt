@@ -1,0 +1,10 @@
+"You are given objects composed of 2 or more blocks which will start falling down from the top of the screen. You can rotate and move these blocks by pressing up, left, right, and down arrow cursor keys.
+
+You are to rotate and guide these objects to the bottom of the well in a way so that they will all ""fit"" together. When you completely fill up a row, that particular row will disappear. You are to continue this step so that the objects will not stack-up to the top--if they do, the ""GAME IS OVER"". If this is your first time playing, do not use any of the bombs, it will give you a wrong idea of the game. Also note that there are several penalties for using the bombs.
+
+The more rows you fill-in at once, the more points or more (QX)s you get. High scores are sorted using your (QX)s.
+
+You can use Regular, Super, or Match bomb by pressing ""1"", ""2"", or ""3,"" repectively. Again, if you are a first time player, using the bombs at this point can give you a wrong idea of how this game works.
+
+Quatris II+ is a tournament style game that can take hours to complete. For the player"s convenience, Quatris II+ lets the player save the game and continue at a later time. To save the game, simply press [ESC] and your game will be saved using your NAME as the file name with "".SAV"" extension in the Quatris II+ directory. This is the same file where your keyboard configuration is also stored."
+

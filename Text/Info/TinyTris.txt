@@ -1,0 +1,3 @@
+It sure is tiny. It is less than 2.3.7kB in size, the smallest one of all the graphic Tetris games, and barely larger than Tore Bastiansen"s Small Tetris.
+
+It will, however, not run on slower machines. At the very least it requires a 386, and it will run only on MS-DOS or Windows, not even on PC-DOS. It does run in DOSBox though. But it will run well on XP on newer computers.

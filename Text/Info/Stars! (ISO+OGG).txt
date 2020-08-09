@@ -1,0 +1,5 @@
+Stars! is a multiplayer, strategic romp through the universe.  Your goal?  To take over said universe (or any of several other victory goals.  Universal domination is just the most fun.).  
+
+This game has a lot of complexity, but a simple interface.  It runs in a window, and everything you need to know about your budding empire (or thriving war machine!) can be accessed by menu or shortcut keys.
+
+Universes are randomly created in one of four sizes.  You can add up to 15 (!) other players, both AI or human.  Then you can set this up as play-by -email.

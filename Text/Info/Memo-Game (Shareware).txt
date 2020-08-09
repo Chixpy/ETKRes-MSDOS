@@ -1,0 +1,1 @@
+This is a classic type concentration game. The object is to match up 12 sets of letters, spread out randomly on the board.

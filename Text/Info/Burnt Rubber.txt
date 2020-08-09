@@ -1,0 +1,3 @@
+Playing Keys:
+
+Use arrow keys to move around, and enter to select items  in menu"s. Use arrow keys to control car, and ESC to quit any screen.

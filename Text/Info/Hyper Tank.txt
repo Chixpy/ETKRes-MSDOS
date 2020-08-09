@@ -1,0 +1,5 @@
+"Hyper Tank is a high-performance top-down bitmap-rotated tank game. Your goal is to destroy as many enemies as you can to work your way through each stage to the goal. You may also need to retrieve keys to unlock obstacles in your path, or else find an alternate way around them.
+
+In order to complete each stage, you need to destroy about 40% of the initial enemy units. In the upper left corner of the screen is a display that shows how many enemy units you have destroyed and how many you still need to destroy, as well as the total number to destroy if you want to achieve a ""perfect"" hit rating for the stage.
+
+For every 20,000 points that you accumulate, you will be awarded an additional ""bonus"" tank. When all your tanks have been destroyed, it is Game Over!"

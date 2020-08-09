@@ -1,0 +1,5 @@
+The game of Battleship is a popular simulation of a simple naval battle. Each player hides 5 ships in a 10 by 10 grid.  They can be placed anywhere in the grid, horizontally and vertically, as long as there is no overlap.
+
+Once the ships have been hidden, players take turns taking shots at the opponent"s grid.  The first player to sink all their opponents ships wins. Each hit scores one point, sinking a ship scores a point, and winning a round has a bonus of 3 points for a total of 25 points.
+
+This version of the game can be played against the computer or another human player.  When playing against the computer, a skill level from 0 to 9 can be selected.  At skill level 0, the computer"s shots are completely random with no recognition of hits made.  At skill level 9, the computer uses it"s best strategy short of cheating.  At any level, performance will still vary due to chance.

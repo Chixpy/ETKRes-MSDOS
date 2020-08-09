@@ -1,0 +1,5 @@
+"PUZZLES! They are fun, challenging, and exciting. Almost everyone loves a brain teaser. Now test your skills with the first of the Head Banger series: Sliding Puzzle Game. The object is to unscramble the picture by moving adjacent blocks into the empty spot. You loved this type of game as a kid, now rediscover it as an adult with all the frills of the modern computer age. This is a color VGA game with Sound Blaster support.
+
+Head Banger #1, the shareware version comes with three scenic pictures to unscramble: Earth, Rocks, and Grass.
+
+The registered version comes with ten pictures and the ability to load your own."

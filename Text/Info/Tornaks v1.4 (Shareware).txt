@@ -1,0 +1,7 @@
+TORNAKS is a strategy game with action.  Like checkers, it"s easy to learn, but hard to master. 
+
+TORNAKS are self generating androids who"ve killed their creator, and are after you.  
+          
+TORNAKS is a game of skill.  The game has 2 strategies and about 7 tactics.  The player who understands all of these and uses them to best advantage will kill more TORNAKS earlier in each screen increasing his chances of living to reach the next screen.  He will live further into the game more often, thus both his high scores and his average scores will be higher.  
+
+There are 2, tamper resistant, Scoreboards, one for each of the 2 ways you can play the game. 

@@ -1,0 +1,1 @@
+Larn is one of the first Roguelikes (RPG dungeon crawls with top-down or isometric graphics and a high degree of randomization; Rogue or Nethack are examples) with a wilderness and more than one dungeon. In this game, you are searching the Caverns of Larn for a cure for your daughter"s strange disease. The game world is presented entirely with ASCII text characters.

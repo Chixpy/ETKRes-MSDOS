@@ -1,0 +1,5 @@
+The object of Blox is to  simply  move  three blocks marked "3" into a row. If three blocks with numbers "1" or "2" are moved into a row, the blocks are converted into rings which fall to the bottom of the screen and two new blocks appear  which  have  a  number  one higher than the blocks used to make them. (e.g. three "2" blocks in a row will produce two "3" blocks).
+
+If a block can"t appear because the space  is occupied by a ring or if it appeared it would make three of  its  type in a row, then the space will flash on/off until the block can appear.
+
+Also the screen can be rotated to get  a different view or to make the rings fall to a different part of the screen.

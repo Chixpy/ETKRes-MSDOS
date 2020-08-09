@@ -1,0 +1,5 @@
+Turbocar is a classic-style racing arcade game which somewhat resembles Outrun in that the player has to drive a certain distance in a short time, then you receive extra time. It takes place on a public road, which has two lanes, one with traffic travelling (fairly slowly) in the same direction as the player and one with oncoming traffic. The player can change lanes at any time to overtake cars/avoid oncoming traffic. The player"s car has two gears and an accelerator but no brakes. Slowing down is achieved by lifting off the gas or shifting down to first gear. There is no limit to the number of times a player can crash into another vehicle (i.e. no "life" system), however doing so means accelerating again from a standing start, wasting valuable time.
+
+The game starts with 60 seconds of time remaining, and points are awarded depending on the distance covered and number of cars passed. For every 10,000 points earnt an extra 60 seconds of time is added to the clock. The game ends when there is no time left on the clock.
+
+The game was written entirely in Assembler.

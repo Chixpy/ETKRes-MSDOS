@@ -1,0 +1,2 @@
+Classroom Jeopardy is a game for an entire group of students that is patterned after the TV game of similar name. There are 6 categories each with 5 levels of answers with increasing values.
+

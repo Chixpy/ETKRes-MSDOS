@@ -1,0 +1,1 @@
+In this game you are a metalic sphere that must find his way through a series of mazes. But there"s a twist. When you move him he keeps going in that direction until he hit"s the goal or a wall.

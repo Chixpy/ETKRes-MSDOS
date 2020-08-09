@@ -1,0 +1,3 @@
+A classic Tetris with EGA graphics. All text is in Czech only, but that will hardly be a problem here.
+
+Another game by Miroslav Nemecek is Vlak.

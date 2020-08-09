@@ -1,0 +1,3 @@
+A computer program playing Gomoku (Five in a row).
+The algorithm GOMOKU-RENJU used in this program won the gold medal of the First Computer Olympiad (London, 1989)
+

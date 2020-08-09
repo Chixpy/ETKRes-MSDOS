@@ -1,0 +1,5 @@
+Hi folks and welcome to play my new finished qbasic adventure game.
+
+This is my first attempt to do a ASCII-based game. The graphic sucks and it"s a really small game (6 levels) but I hope that the game will be amusing anyway. I"ve played a couple of ASCII based games and I"ve always thought that they are amusing to play. Nowadays programmers have great skills and creates games with amazing graphic and sound.So this is a salute, to the "old days". I"m also glad to say that my other games seems to enjoy some of you qbasic users and I can promise that I will keep develop more games as long as people want me to.
+
+This game is a tribute to Zach Johnson"s Jungle Raul.

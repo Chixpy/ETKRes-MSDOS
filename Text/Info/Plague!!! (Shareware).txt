@@ -1,0 +1,2 @@
+A biological simulation which shows how disease can be transmitted under a variety of user-controlled conditions.
+

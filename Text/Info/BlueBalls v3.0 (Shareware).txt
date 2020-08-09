@@ -1,0 +1,1 @@
+The object of BlueBalls is to advance through the increasingly difficult levels by destroying all the "blue balls" which pop up on each screen. Extra lives are awarded every five levels. Running into the walls, the trail of multicolored balls, or the black balls will end a life.

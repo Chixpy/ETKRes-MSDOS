@@ -1,0 +1,1 @@
+Amazing 256 color VGA graphics. Support for up to 6 players with 3 difficulty settings and 10 levels. The game has 15 types of blocks to hit, and as many as 3 moving balls at a time. The game speed and mouse speed are both adjustable. Sounblaster support. All this, and a download time of 6 minutes at 2400 baud!

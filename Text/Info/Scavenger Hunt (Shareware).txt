@@ -1,0 +1,2 @@
+The object of Scavenger Hunt is to locate 10 items of geographical interest. You select a country to travel to by using the right and left arrow keys. Once you have selected a country press ENTER and the computer will take you there.
+

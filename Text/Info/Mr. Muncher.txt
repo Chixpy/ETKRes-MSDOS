@@ -1,0 +1,2 @@
+MR. MUNCHER is basically a clone of Pac-Man.  The object is to eat all the little dots, or FOOD PELLETS, on the board in order to go to the next round, without getting destroyed by GHOSTS wandering about the board in a somewhat random fashion.  The "bigger" dots, or ENERGY PELLETS, give you a limited amount of time to eat the ghosts and get points.  Beware of blinking ghosts, which are about to change back to their dangerous colors.  BONUS THINGIES, which appear from time to time, can give you points or an extra man, also.
+

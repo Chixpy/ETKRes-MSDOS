@@ -1,0 +1,20 @@
+The third game in Edmark"s Early Learning series, Sammy"s Science House is an educational game designed for younger children to use. The interface is completely point-and-click and click & drag, and instructions are given verbally, repeatable as needed.
+
+The player is taken to the main screen where Sammy Snake sits on a worktable; around the room are various objects, furnishings and a window that lead the player to the activities.
+
+As in all the House games, each activity has two modes; Explore and Discover and Question and Answer. The first mode encourages the player to click around and experiment, putting the player in control. In Question and Answer mode, which is entered by clicking the animal inside the picture frame, a character will ask the player to perform tasks related to the current area. The descriptions below generally apply to the Question and Answer mode:
+
+Acorn Pond - the player can explore the pond to see how it differs during the four seasons. Wise Owl asks the player "Who-o-o" questions about the creatures that inhabit the pond and surroundings.
+
+The Field Notebook - less a game than a notebook filled with facts and trivia about the animals around Acorn Pond; this notebook can be printed.
+
+The Weather Machine - the player is asked to create specific weather by selecting from several variables; temperature, precipitation, and wind, all at varying levels.
+
+Make-A-Movie - The player orders the pictures on a filmstrip, then enters the theater to view his film, forward or backwards
+The Workshop - the player builds an object (train,dinosaur) by selecting parts from a pegboard and following a blueprint - he can choose from three levels of difficulty.
+
+The Sorting Station - in this game the player must sort pictured items into their proper cans. There are three difficulty levels to choose from
+
+There are several Adult options available by pressing Ctrl/Alt + A (Option/Command + A on a Mac) from the main screen; the parent can disable printing, adjust volume, hide the exit button, turn off music, and set up single-switch input for a special needs child. 
+
+The educational focus of this game is on learning to follow patterns, discriminate between attributes, observation and exploration, and building logical sequences. In addition, the player will learn the names of many science oriented objects; rocks, plants, animals, fungi, and experience some simple classification.

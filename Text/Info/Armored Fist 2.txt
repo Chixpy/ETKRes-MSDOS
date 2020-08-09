@@ -1,0 +1,5 @@
+Based on the same engine as Comanche 3, Novalogic once again delivered a tank simulator using their VoxelSpace technology.  Armored Fist 2 models the US Army"s M1A2 Abrams main battle tank just like its predecessor, which also used the previous Comanche voxel engine to generate realistic terrain and models without 3D accelerator video cards.
+
+Similar to most Novalogic simulations, this product is targeted more at an action-oriented audience not seeking too much realism. Armored Fist 2 has over 50 pre-scripted missions set on campaigns in Europe, Asian, Africa, and the Middle East.  The tank can be controlled through various views such as the gunner"s station, driver"s port, commander"s seat, or exterior views.  You also have a few other tanks in your platoon usually, and sometimes even helicopter gunships for close air support.
+
+The CD also features live training footage from the Marine Corps Air Ground Combat Center at 29 Palms, California.

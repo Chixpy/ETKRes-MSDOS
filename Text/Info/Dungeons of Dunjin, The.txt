@@ -1,0 +1,4 @@
+Dunjin (pronounced like "dungeon") is short for "The Dungeons of  Dunjin"  - a text adventure game in the tradition of  the classic ADVENT and Zork games.  (The user interface should be familiar  to  anyone who has played Zork or  another  Infocom game).  Like in these games,  the program provides you with a "simulated  universe" - a small world with its own  laws  and logic,  which you can move about in and manipulate in various ways.
+
+The  game  contains  more than 180  different  locations  and several hundred objects.
+

@@ -1,0 +1,8 @@
+"Welcome to Jungle Jack. The object of the game is quite simple. You are given the task of digging a canal which will bring water to huge estates which have been built in an uncharted jungle.
+
+When the game begins, you will see canals at the bottom of the screen. Use your mouse by clicking the left button on your selection. The line of canals will disappear and you will place your elevated canal on the game board. You cannot change your selection once you"ve clicked your mouse. It vanishes from your view, so you must recall what you selected in order to properly place it. When you find the area you want to put the canals, click the left button again, and it will appear in the selected board grid.
+
+You can only place canals in blank grid boxes. There are also mountains and cliffs which you will have to dig around in order to reach the houses. Occasionally you will see a lake. Here you can attach a canal, and it will have 3 outlets to which you can attach additional canals in order to reach the stranded estates.
+
+On the right side of the screen, there is a clock. You are only allowed 60 seconds to complete your task for that level. There are a total of five levels to complete. They each increase in difficulty as you progress..."
+

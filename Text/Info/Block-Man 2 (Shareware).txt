@@ -1,0 +1,6 @@
+Your objective is to collect all the jewels on a level and then exit through the doorway.
+
+You can view the level by moving the mouse arrow. Click the left mouse button on a spot and Block Man will attempt to walk there. Block Man can walk, climb one block heights, and fall any distance.
+   
+Also, you can left click on special objects to use them.
+

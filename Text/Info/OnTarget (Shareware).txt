@@ -1,0 +1,3 @@
+A two player artillery game. When I look at it I see a Scorched Earth clone. However, OnTarget came out 4 years ahead of Scorched Earth so it"s probably the other way around. The game has a simple 2D map, and you take turns filing a single missile at each other. You can change the velocity, range, and angle of the shell.
+
+This game is still supported and sold by it"s authors on various shareware websites (but for Windows).

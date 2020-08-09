@@ -1,0 +1,1 @@
+Bananoid is a freeware Arkanoid-clone, which runs on a tweaked VGA mode the author likes to call "360x240 MCGA". It features seven levels that span two screens (see screenshots) for a total resolution of 544x240, according to the manual.

@@ -1,0 +1,2 @@
+Sokoball is my version of the Sokoban puzzles you may have seen in the past. Sokoban is Japanese for warehouse man. In Sokoban puzzles you must generally push a number of boxes around the screen to a designated position. The key word here is push. In Sokoban puzzles that is the only way you can move any box. You must push it to its" destination. Sokoball abides by this rule as well (in most cases).
+

@@ -1,0 +1,3 @@
+Perdition"s Gate is an unofficial commercial add-on for DOOM II. It replaces all 32 original levels and features some new music and textures.
+
+There are no gameplay changes, new monsters or weapons, it is just a level set. It contains a new plot, changing the demons into an alien race from the planet Hell. The new plot is told through a readme file included with the game and short pieces of text on every map"s intermission screen, which replace the level name graphics. However, because Perdition"s Gate is simply a level set, the original DOOM II plot screens still appear after some maps.

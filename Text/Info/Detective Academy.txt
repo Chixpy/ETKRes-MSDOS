@@ -1,0 +1,4 @@
+Detective Academy is a game of details observation and memorizing. It features several games(modes) which test some skills that might be detective work related although the games are not really about deduction.
+
+Detective Academy was completely coded in Quick Basic 4.5 with RelLib, a library by Richard Eric Lope.
+

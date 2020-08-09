@@ -1,0 +1,9 @@
+A top-down, tile-based racer; features 14 courses, 8 tilesets, 32 hand-drawn cars, 7 championships, advanced course editor, in-game CD player, and a ton of unlockable cars and game modes. DOS, suitable for Win 3.1 & Win95/98 but not for WinME, XP or later.
+
+High Octane is a top-down, tile-based racer.
+
+It features 14 courses, 8 tilesets, 32 hand-drawn cars, 7 championships, advanced course editor, in-game CD player, and a ton of unlockable cars and game modes.
+
+Unfortunately, we were not able to review High Octane.
+
+This DOS program is suitable for Windows 3.1 and Windows 95/98, but not for Windows ME, XP or later.

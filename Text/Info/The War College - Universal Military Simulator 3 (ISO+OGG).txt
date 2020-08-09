@@ -1,0 +1,21 @@
+The War College is the third and final installment in Ezra Sidran"s Universal Military Simulator series of tactical war games.
+
+The simulation"s core principle is a departure from traditional turn-based, hex tile mechanics towards real-time rendering of unit movement on accurately recreated topographical maps of historical battlefields. The presentation remains highly abstract, with units represented as colored lines and combat resolved in short text messages.
+
+The game simulates four major historical battles:
+
+The Battle of Pharsalus (48 BC)
+In the decisive battle of the Roman Civil War, Julius Caesar meets Gnaeus Pompejus at Pharsalos on August 9th 48 BC. The battle is fought with melee units only. Caesar defeats Pompejus and becomes emperor of the Rome.
+
+The Battle of Austerlitz (1805)
+The French army under Napoleon defeats the combined armies of the Russians and Austrians in the Battle of the Three Emperors at Austerlitz in December 1805. Austerlitz is a classic Napolean maneuver battle.
+
+The Battle of Antietam (1862)
+Confederate general Robert E. Lee"s advance is stopped by the Union army under general George B. McClellan in the battle at Antietam in September 1862. It is one of the major battles of the American Civil War.
+
+The Battle of Tannenberg (1914)
+In one of the rare maneuver battle of World War I, the German Eight army defeats a Russian contingent vastly superior in numbers in August 1914.
+
+The War College players control their armies with only a basic set of unit commands (movement, formation and fortification), but need to consider advanced tactical elements such as morale, experience and ammunition. While the terrain influences movement speed and combat efficiency, terrain types are not clearly indicated on the abstract maps. In tradition of the UMS series, combat formulas can be customized.
+
+As the title implies, The War College is supposed to be an educative simulation for tactical study of historical battles rather than a pure game. With the program comes a digital encyclopedia containing basic background information on the four conflicts, complemented by artworks and period photographs. In addition, The War College features a multiplayer mode so that two strategists can compete over modem or local area network.

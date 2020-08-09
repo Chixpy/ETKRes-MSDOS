@@ -1,0 +1,4 @@
+Bomb Squad is a game of luck and logic.  The object of the game is to completely map out a covered grid of bombs in as short a time as possible.
+
+Play begins by selecting a level.  The higher the level, the larger the grid and the more bombs that are hidden.
+

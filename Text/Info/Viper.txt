@@ -1,0 +1,7 @@
+"The object of the game is to maneuver your Viper around the play grid, avoiding the walls, avoiding biting your own body, and at the same time gobbling up the various treasures that appear at regular intervals.
+
+Each treasure you eat lengthens your Viper, making it more difficult to avoid biting yourself.
+
+Treasures score points based on your present length, minus a factor for how long the treasure has been on screen."
+
+

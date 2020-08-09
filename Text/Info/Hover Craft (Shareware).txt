@@ -1,0 +1,3 @@
+"Commander, you have 6 hover craft with which to destroy all of the enemy missile launchers on the island. It takes 14 hits from your cannon to destroy the missile launchers. The launched will change colors reflecting the number of hits it has received. The white walls also take 14 hits. It takes 2 hits to destroy either a tree or the Black forest.
+
+Your hover craft can only be destroyed by either running into a hill or by a missile hitting it. It moves at one fourth speed through swamps. The best tactic for hitting missiles is making wide sweeps across the coming path of missiles with your cannon continuously firing with the hover craft moving up the screen, while firing continuously to the right ."

@@ -1,0 +1,20 @@
+INTRODUCCI\u00d3N
+
+Tanques es un juego freeware que encontré un día navegando por la red, como tantos otros. Al ver que era español, decidí bajármelo para echarle un vistazo.
+
+La presentación parecía correctamente realizada, incluso era llamativa. Fue entonces cuando me decidí a jugarlo, acompañado con mi hermano, y comprendí que el juego debía estar en nuestra página.
+
+EL JUEGO
+
+El menú tiene 5 opciones (jugar, conexión remota, cambiar campo, créditos y salir). Destaca por encima de todas la segunda: conexión remota. ¿Por qué? Os lo explicaré; resulta que tanques es un juego para dos jugadores exclusivamente, en el que debes destruir a tu oponente. Para ello cuentas con un número de bombas que deben ser disparadas a cierta distancia mientras te mueves por toda la pantalla.
+
+Tienes también una cantidad de combustible que se irá consumiendo a medida que pase el tiempo, por lo que deberás repostar en las gasolineras que encontrarás (hay dos), y lo mismo deberás hacer con las unidades médicas cuando quieras restablecerte de los daños sufridos.
+
+El juego es muy divertido, pero volviendo a lo que os decía, debe serlo incluso más jugando por conexión remota. No es una conexión por internet ni nada por el estilo, sino que es a la vieja usanza, módem contra módem (de todos modos, no la he podido probar, por lo que no sé si funciona o no).
+
+CONCLUSI\u00d3N
+
+Para concluir, podemos afirmar que se trata de un juego que no tiene muchas pretensiones, pero que si tienes a alguien con quien jugar te hará pasar un rato muy agradable (y ya me contaréis si probasteis lo de la conexión remota).
+
+Sólo un pero: la música es quizá un poco machacona, y en esa época las tarjetas de sonido ya estaban muy extendidas.
+

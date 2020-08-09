@@ -1,0 +1,4 @@
+The object of Atlantis is to conquer all eight islands which make up the atoll called "Atlantis". You play the army called the Olympians. The computer will play the other three adversaries, the Calydonians, Argonauts, and then Titans.
+
+The game is quite simple to learn and offers different levels of play. The game rules are very similar to the classic game of Risk, however, there are many other elements which you will have to contend with, in order to conquer all 8 islands.
+

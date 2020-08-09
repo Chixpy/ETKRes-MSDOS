@@ -1,0 +1,3 @@
+"First you must remove on of the 15 Croc"s on the screen. Just select a number under the Croc to do this. You play the game by jumping one Croc over another. The Croc"s must be adjacent and in a straight line. If the move is OK then you will see the Croc which you jumped, explode and then the move is completed. If you try an illegal move the computer will BEEP and ignore the move.
+
+Your goal is to remove as many Croc"s as you can."

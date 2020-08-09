@@ -1,0 +1,4 @@
+"Patriot Command is a fast-paced war game where you are in charge of an air defense system. Your job is to protect potential ground targets from air bombardment by targeting and launching ground-to-air missiles. Missiles explode near falling bombs and other ordinance - the blast and shock of the explosion destroys the incoming threat.
+
+Bombs fall from orbit or are dropped from delivery vehicles such as F-14s, Mirages, F-117s, and helicopters. They will try to impact your cities and missile bases. Once all of your cities and other ground targets have been destroyed, you lose the attack and the game is over."
+

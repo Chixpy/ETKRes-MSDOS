@@ -1,0 +1,5 @@
+Many people know the Bible, but not very much about what it actually says.
+
+VerseQuest presents verses from the Bible in puzzles.  Your job is to get the words in the right order - as fast as you can.
+
+Accuracy, speed, and number of moves all affect your score.

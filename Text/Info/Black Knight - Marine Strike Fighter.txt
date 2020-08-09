@@ -1,0 +1,5 @@
+Black Knight is an air combat F/A-18 Hornet flight simulator. It features 50 different combat missions, 8 training missions as well as a free flight mode. A built-in mission creator is also available. Features included a flight instructor mode which offered instructions at every key point of flight or combat; flight recorder to play back your flight viewed from various angles; and digitized engine and cockpit sounds from actual F/A-18 Hornets.
+
+It was initially distributed in 1995 as a shareware demo with some functions disabled.
+
+

@@ -1,0 +1,2 @@
+Hangman: Single, Childrens and party vers. Use your own or supplied word lists! Lists can now be loaded from inside the program. Educational and still fun!
+

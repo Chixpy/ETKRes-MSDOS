@@ -1,0 +1,3 @@
+This is a puzzle game, and they tend to be difficult to describe. This one is no better.
+
+Basically it is a cross between Tetris and Pipe Mania. Pieces of pipe fall from the top of the screen, and you have to stack them so that all the exits are connected.

@@ -1,0 +1,3 @@
+Light"s Out is a puzzle game where a set of lights are on and you have to turn them off. But each button youu turn off the surrounding ones turn on.
+
+Light"s On is the same thing as Light"s Out but u have to turn all the lights on.

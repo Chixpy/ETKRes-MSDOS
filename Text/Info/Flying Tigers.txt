@@ -1,0 +1,8 @@
+Flying Tigers is a simple overhead shooter in the spirit of Raiden and Raptor.
+
+The story, as taken from the introduction (including typos):
+
+
+
+In the year 2047 a new type of terrorist emerged. These terrorist built there system of extortion on technology, creating technological weapons that can unleash vast amounts of destruction upon its victims. Recently they have come up with a new weapon that has threatend every government in the civilized world this weapon gave the terrorist the ability to travel back and forth through time! With this new technology they have begun to reconstruct the history of the world starting at 1943. At this time the began to smuggle technology to the axis powers in an effort to take over the world. The leaders of the world now faced with complete destruction of there world join forces to create there own time machine to battle against the techno terrorist already in the past and have chosen the worlds most sophisticated and advanced fighter group...  THE FLYING TIGERS
+

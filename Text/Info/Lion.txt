@@ -1,0 +1,8 @@
+Lion is a sequel to Wolf: you are now placed in the same simulation environment, but this time you simulate a....you guessed it, a lion.
+
+As in the original you take the role of a lion chosen from a pool of 20 different animals, with varying attributes, in existing prides or handpicked groups made by yourself. You can control a single animal or all members of a pride and you get to play in either a 20-mission mode (such as survive for a day) or a simulation mode, which allows you to do whatever you want.
+
+Unlike Wolf, which takes place in three different locales, Lion is played only on the savannas and plains of the Serengeti National Park in Tanzania (tough in four different seasons).
+
+Also includes a "Lion Safari", an interactive tour of the leonine life on the Serengeti.
+

@@ -1,0 +1,5 @@
+Blind Justice is a post-modern fantasy role-playing game. You are a shapeshifter - a genetic experiment which has managed to escape an "induced artificial selection" test. During the game, you unveil the religious system which underlies your ability to shapeshift. With each new form, your soul reverts back into a previous form - into a life that hadn"t been fulfilled. Initially, the government suspects that you were the leader of the resistance in a previous life. In an attempt to salvage information, you are given the ability to shapeshift. Your escape gives the government every motivation for hunting you down.
+
+=======================================================
+
+NOTA: Este juego tiene 3 ejecutables compatibles con sistema 386, 486 y 586/Pentium, por defecto arranca con el último, para arrancarlo con uno de los otros cambiar el nombre del fichero game.exe como game586.exe y game386.exe o game486.exe como game.exe

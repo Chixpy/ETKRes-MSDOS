@@ -1,0 +1,3 @@
+Not exactly a game, but a nice little tool to create animated cartoons.
+
+There aren"t that many options to play around with, but still enough to create some cool cartoon sequences. Since everything is fairly easy, this one is probably more aimed at kids. Gameplay is like mix-and-match-- just pick the backdrop, cartoons, objects, then add text to the blurbs to make a complete comic-book style panel. Animations are cute, but limited interaction with the characters probably means the program is meant more as a "print kit" than a game. Don"t ask me why I put this in the educational section. I still don"t know-- probably to make sure that kids get to see this cute little program, since "Application" sounds more like a treasure chest for die-hard programmers only ;)

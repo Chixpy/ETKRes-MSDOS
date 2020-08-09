@@ -1,0 +1,4 @@
+Somewhat the weirdest 3d-shooter ever made. Without violence, this game contains water balloons and soap as weapons, with which you can wash some pigs spread through the levels. But avoid the ducks, they want to make you dirty!
+
+Hurl offers 3d graphics using a wolfenstein-like 3d engine (a bit better though, but worse than doom), with very very bright textures.
+

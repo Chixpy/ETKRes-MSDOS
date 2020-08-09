@@ -1,0 +1,1 @@
+An upside-down Tetris with bombs and rendered backgrounds. It runs without problems under XP on fast computers. The author was 16 years old when he wrote it.

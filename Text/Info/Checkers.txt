@@ -1,0 +1,2 @@
+Play checkers against the computer or a friend.
+

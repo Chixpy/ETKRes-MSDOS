@@ -1,0 +1,1 @@
+Power F1 is an F1 racing game that is based on actual F1 race data from 1996 and features the official cars, drivers, and courses. The game includes two player split screen and multiplayer over LAN. Steering wheels and joysticks that were available at the time of release are supported.

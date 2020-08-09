@@ -1,0 +1,9 @@
+Hobbit: The True Story is a tiny adventure, spoofing Tolkien"s classic children"s book.
+
+The game also is one of the first text adventures implemented completely using DOS batch files. You enter your commands at the trusty "C:\>" DOS prompt. Each verb corresponds to a batch file with objects passed as arguments, and the game"s state is stored in environment variables. Even saving and restoring works this way. Entering "DIR *.BAT /W" gives you a list of available commands, and you can also add the game directory to the DOS PATH environment variable, making the game a part of the DOS operation system, just like PING or FORMAT...
+
+The game starts with you, Bilbo, sitting in his cozy little hobbit cave together with his pals Gandalf and Thorin. You"ll soon find out that not everything is as you might remember it from the book: Gandalf seems to be working on a strange spell that involves exploding hobbits, while Thorin has turned into a drug addict hippie, judging from his answer, some serious with personal problems.
+
+Although the game has but seven rooms, it gives you the occasion to retrace all the memorable scenes of the book -- together with psychotic Thorin, you"ll be dealing with stoned trolls, goof off at Elrond"s Last Homely Home and, ultimately, enter Smaug"s fabulous cave.
+
+The 2001 "redux Director"s Cut" edition introduces some completely new content involving Thorin and a naked dwarf woman that won"t be disclosed here for the sake of our innocent youth. It also improved compatibility for Win32.

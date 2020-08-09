@@ -1,0 +1,2 @@
+Vegas Johnny"s Draw Poker is a detailed simulation of a draw poker game. It"s features include: Bet limits, blind and ante amounts are user selectable; Six levels of competition - User selectable; Variable playing speed - User selectable; On-line betting and drawing advice; On-Line Odds and Statistics; On-line help with "what beats what"; Scoreboard file to log big winners; User interface allows fast and easy play; and many more. It"s feature packed, it"s fun to play. It"s from Top Score Software!
+

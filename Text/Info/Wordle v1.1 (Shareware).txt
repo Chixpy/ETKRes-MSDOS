@@ -1,0 +1,1 @@
+"Wordle is another challenging word game from Soleau Software. The objective is to spell as many words as possible from a grid of 25 random letters. There are many ways to play, either with variable time limits or by number of words spelled. Wordle has its own dictionary of over 80,000 words, score cards, and much more. The game will provide hours of entertainment for all ages!"

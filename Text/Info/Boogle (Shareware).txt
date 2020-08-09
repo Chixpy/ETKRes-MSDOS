@@ -1,0 +1,2 @@
+Boogle is a jumbled word game. It can be played by one player, or by a group of people all competing against the computer. The game consists of a 4x4 grid of random letters, from which the players(s) must construct words by connecting letters in the grid together.
+

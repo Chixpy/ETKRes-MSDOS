@@ -1,0 +1,5 @@
+A simulation that has you flying Mail runs from many different airports in one of three states of America which are Kansas, Colorado and Washington (choosing Washington does allow you to fly in neighbouring state Oregon as well). For a game that arrived some 24 years ago now, it still manages to feature an impressive amount of remarkable details for the time, such as VOR towers readings, DME, ILS, and coupled with the game aspect that is to deliver post,  Solo Flight is clearly quite unlike what you will have played before.
+
+NOTA: Este perfil necesita la versión de DOSBox de Ykhwong.
+
+Para acceder al modo CGA Composite, pulsa CTRL+F1 y asigna una tecla o combinación de teclas a la función "CGA Comp".

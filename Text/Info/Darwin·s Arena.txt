@@ -1,0 +1,2 @@
+Darwin"s Arena is a combination of the old computer game called "Life", with some ideas from the illegal sports of dogfighting or cockfighting.  It simulates seven different types of life form, each with it"s own strengths and weaknesses, and has them engage in a fight for survival.  It features animated 16 color graphics, sound, and various options.
+

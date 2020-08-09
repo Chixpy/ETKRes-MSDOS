@@ -1,0 +1,5 @@
+You are an explorer trying to gather green gems from more than 100 small dungeons. You have a jetpack and an electric...tazer, phaser, whatever. Your jetpack consumes fuel and extra fuel can be found over the map. You can also pick up enemy freezers and invulnerability powerups. Your tazer thing can cut through some materials to get through the level successfully, but it cannot hurt enemies. You can also use teleporters and ladders. Ice and grass can hinder your progress.
+
+
+
+

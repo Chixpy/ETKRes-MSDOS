@@ -1,0 +1,20 @@
+R-Type is set in the 22nd century, and the player flies a futuristic fighter craft called the R-9a "Arrowhead", named for its shape, and because it is the ninth model in the "R" series of fighter craft (but it is the first of the series to actually be used in combat; the previous models were all prototypes). The mission is to "blast off and strike the evil Bydo Empire". The significance of the R- in the series title refers to the production code as well as the term of endearment for the player fighter craft, the "Round Canopy".
+
+The original R-Type was well-received by most gaming critics. However, it was also infamous for its relentless difficulty. It earned 7th place in IGN"s Top 10 most difficult games to beat. The gameplay of R-Type is noticeably distinct among shoot "em ups. Invariably the player will lose, not because of an inequality in firepower, but because of the design of the levels themselves. There is usually a "correct" way to get through a level, but players must learn these by experience - i.e. by losing and restarting from earlier in the level.
+
+Controles:
+---------------
+
+1 --> Partida para un jugador
+
+2 --> Partida para dos jugadores
+
+3 --> Introducir monedas
+
+Cursores --> Movimiento
+
+Ctrl --> Fuego (Mantener presionado para arma especial)
+
+ Alt --> Soltar / recuperar cápsula auxiliar 
+
+NOTA: Se trata de la versión arcade emulada mediante RAGE.

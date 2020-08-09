@@ -1,0 +1,1 @@
+Diamond Dash borrows heavily from the classic Lode Runner game. It involves ladders, getting chased by baddies, collecting diamonds and using your "proton accelerator" to blast holes in the floor to trap them. The graphics are extremely minimal (think Jumpman style) but if you"re a fan of Lode Runner you will probably get some enjoyment out of this game.

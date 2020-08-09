@@ -1,0 +1,11 @@
+Betrayal in Antara uses an updated version of the game engine from Betrayal at Krondor. However, it does not continue the Raymond E. Feist"s Riftwar saga, but instead starts a new tale set in a different fantasy world, known as Ramar.
+
+The story begins with William Escobar, the son of the governor of Pianda, sailing home to meet his fiancee. The ship is attacked by pirates, and William escapes in a life boat with a mortally wounded traveler. Before he dies, the stranger gives William a medallion, warning him of a conspiracy against the Empire. William meets a young magician named Aren, who has just discovered devastating powers within himself, and the two decide to meet William"s father and ask for his advice concerning the unsettling information.
+
+NOTAS: 
+
+- Pulsar CTRL+F4 para cambiar de CD cuando el juego lo pida.
+
+- Actualizado a la version 1.10 
+
+- Incluye un parche que permite jugar nativamente en Windows XP/Vista/7

@@ -1,0 +1,1 @@
+This fast-action arcade game is loosely based on the arcade classic Robotron. The objective is simple: obliterate all those bad robots and save as many family members as possible. (Hmm, perhaps the game would be more realistic if the objective was to kill as many family members as possible and save all the robots!)

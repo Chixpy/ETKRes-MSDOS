@@ -1,0 +1,1 @@
+In 3-D Helicopter Simulator, fly the McDonnell Douglas AH-64A Apache attack helicopter. The game allows the player to fly over various locations, or play in a target practice and combat modes. Two players can compete via a modem.

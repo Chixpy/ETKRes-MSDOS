@@ -1,0 +1,1 @@
+Stone Age is a remake of the game "Flaschbier" (for the Amiga). It does not have animations and it has minimal PC speaker sound. There is a very basic editor inside the game.

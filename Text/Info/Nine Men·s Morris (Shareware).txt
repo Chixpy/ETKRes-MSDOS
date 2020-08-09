@@ -1,0 +1,9 @@
+"""Nine Men"s Morris"" is an ancient strategy game played on a special board in which the object is to get ""three in a row"" and thereby take the opponent"s pieces.
+
+Each of the two players has nine pieces, which has something to do with the name of the game. Otherwise, the origination of the name of the game is somewhat obscure.
+
+When three pieces are placed in a row, it is called a ""mill."" For this reason, the game is sometimes called ""The Mill.""
+
+The rules of the game are included in a hypertext help system.
+
+Play against the computer, which has several levels of difficulty."

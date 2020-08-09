@@ -1,0 +1,1 @@
+You move a character around the screen shooting enemies.

@@ -1,0 +1,3 @@
+Gravity Wars is a two player game in which opponents take turns firing projectiles at each other"s ship.  An arrangement of "planets" is placed in "space" between the ships, and the resulting gravitational field effects the path of the projectile as it travels through the "space" of the playing field.  The player can enter the initial velocity and angle of each projectile firing, then watch as the gravitation attraction of the planets pulls the projectile toward a collision with a planet, a collision with a ship, or a path out of the "galaxy."
+
+For practice, Gravity Wars can be set to single-player mode, in which a single ship fires repeatedly at the other ship.

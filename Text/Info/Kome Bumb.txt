@@ -1,0 +1,20 @@
+Kome Bumb es un título fiel a la esencia de los juegos de plataformas que Island Dream editó en quioscos en su momento. Estamos ante un programa tan intrascendente como entretenido, tremendamente simple en todos los sentidos (carece incluso de menú de opciones) y con un look colorista y "cartoon".
+
+En Kome Bumb adoptamos el rol de un personajillo peludo con gran capacidad de salto. Nuestra labor consiste en localizar y neutralizar una serie de bombas repartidas a lo largo y ancho de cada nivel del juego antes de que el contador de la parte superior derecha de la pantalla llegue a cero. Para neutralizar dichas bombas tendremos que hacer que nuestro personaje, literalmente, se las zampe. Esta acción la podremos realizar situándonos sobre el artefacto explosivo, y pulsando "abajo".
+
+A la hora de localizar cada bomba el programa nos echará una mano, ya que en la parte superior izquierda de la pantalla podremos observar una flecha que se encargará de indicarnos la dirección en que se encuentra la siguiente bomba a neutralizar. En el marcador de la parte inferior de la pantalla se nos mostrará el número de bombas que nos quedan por localizar en cada nivel
+
+Comentar también, que para acabar con cualquiera de nuestros enemigos deberemos saltar sobre ellos. Al hacerlo obtendremos una serie de frutas y dulces que nos otorgarán puntos extra (al igual que sucedía en "Sila"s Quest"). También, dispersas por cada nivel, encontraremos una cantidad determinada de monedas, que al recogerlas, incrementarán nuestra cantidad de puntos.
+
+Conforme avancemos de nivel, además de encontrar enemigos más peligrosos y unos escenarios con más obstáculos a superar, contaremos con menos tiempo para encontrar cada bomba.
+
+Centrándonos ya en el apartado técnico, decir que Kome Bumb presenta muchas similitudes Sila"s Quest (y con otros títulos de Island Dream aún no comentados). De hecho me atrevería a decir que comparten "motor" gráfico (al menos, alguna que otra rutinilla).
+
+Kome Bumb ofrece gráficos simpáticos, coloristas, con estética de cómic o dibujo animado. Las animaciones de todos los personajes, aún sin lujos, son adecuadas, y lo mismo se puede decir del scroll multidireccional.
+
+En el apartado sonoro comentar que contamos con una única melodía, por cierto bastante machacona y enervante, que se repite a lo largo de todo el juego, más unos cuantos efectos sonoros simplotes (usados muchos de ellos, a posteriori, en el mentado Sila"s Quest. Cosas del reciclaje...).
+
+En cuanto a la jugabilidad, Kome Bumb cuenta con un desarrollo dinámico, aunque algo repetitivo. Esto último se compensa en cierto grado con el hecho de contar con un nivel de dificultad bien mesurado, que ayuda a que el programa enganche, incitándonos a llegar hasta el final.
+
+Concluyendo, estamos ante un juego poco arriesgado, muy similar a otros arcades plataformeros de la compañía, que resulta, reitero, algo repetitivo, pero a la vez simpático, agradable y por qué no decirlo, medianamente divertido.
+

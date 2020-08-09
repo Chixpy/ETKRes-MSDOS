@@ -1,0 +1,3 @@
+GT style racing features in this racer, which tends more towards arcade than simulation. Cars include the Predator and the Hurricane, each with their own strengths and weaknesses. The action can be viewed from inside or outside the car.
+
+When starting the game for the first time you can take part in a training or start in a championship. The practice will be done on one of the two initially available tracks. The other tracks are closed. To gain access to those tracks you must first complete one of the championships. Championships consists of a number of races in different countries, taking in road and asphalt settings.

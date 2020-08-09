@@ -1,0 +1,3 @@
+"Welcome to The Las Vegas Bingo Club! The LVBC is a 256 VGA Bingo game.
+
+The game supports classic bingo, T bingo, x game, diamond game, corner game, center game, and all number bingo."

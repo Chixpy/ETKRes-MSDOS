@@ -1,0 +1,5 @@
+The Advanced Players Edition of Clonk is an improved version of the original Clonk game.
+
+As in the first Clonk game, Clonk A.P.E. included the player roster concept, which remembers each player"s data and statistics over time.
+
+Instead of the predefined rounds of the original Clonk, the player can choose to play a randomly generated scenario, or customize one yourself. Further, the maximum number of players has been raised to 4 players simultaneously, and a couple of introductory tutorial rounds are available.

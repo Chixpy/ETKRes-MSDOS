@@ -1,0 +1,5 @@
+Iron Assault is a "light" simulator of big robots. As in any other mech-sim, game actions take place in a distant future, but in this case on our own planet(Earth) at the end of 21st century. Player joins the ranks of resistance force to fight back world, enslaved by  global corporations.
+
+As Mechwarrior 2, or rather Earthsiege, IA is also mission-based and before every mission you can choose a robot and it"s equipment as you want. Controls are very simplistic, you may not even know half of them and still win. 
+
+Graphics are not true 3D, but a combination of 3D world and sprite characters. Levels are partially destructible - you can damage surroundings, street lamps for example. And a  really notable thing about Iron Assault is cut scenes. They"re made using very unusual technique for computer games - stop motion animation(just remember classic King-Kong movie).

@@ -1,0 +1,2 @@
+The idea of Cipher is to unscramble or decipher a coded phrase by replacing letters in the phrase with letters you think are correct. You will be told when the phrase has been successfully deciphered.
+

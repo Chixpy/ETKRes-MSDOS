@@ -1,0 +1,5 @@
+Skullduggery is a decent IF game that offers a novel combination of ASCII graphics and text, but unfortunately bogged down with a simplistic parser.Carl?s succinct review says it all about this so-so underdog that doesn?t quite stand out from the crowd: 
+
+"[Skullduggery is] ...a game with an old-school feel, set a haunted manor during the 18th century, with a backstory involving smugglers and betrayal. Rambling and full of deadly spooks. Half the screen is devoted to text, the other half to a map drawn in text characters. Full-sentence parser that doesn"t understand pronouns. Has some satisfying mechanical puzzles, some cryptic instructions to follow without a lot of feedback on whether you"re following them correctly, a few spots where you have to refer to objects that aren"t mentioned explicitly, and one crucial piece of godawful noun resolution where it doesn"t recognise the adjectives given in the output text." If you enjoy IF games set in fantasy world, you might enjoy it for a few minutes before parser quirks annoy you too much. 
+
+Note: the game was released as shareware, but the freeware version is already complete so I have labeled it such here.

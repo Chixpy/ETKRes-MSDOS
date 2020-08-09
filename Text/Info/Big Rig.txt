@@ -1,0 +1,7 @@
+Big Rig is a simulation that lets you experience the life of a long-distance trucker. Your task is to safely drive a 18-wheel tractor-trailer combination from coast to coast in time, trying to make a profitable trip.
+
+The gameplay and user interface are pretty basic. The game is played in text mode only, with your choice made by typing the right letter at the prompt. At the beginning of your trip, you can choose between three types of cargo (with or without time limit, perishable or not) and three routes -- each with different characteristics, like length or chances for bad wheather etc. After these preliminaries, you begin your trip.
+
+Gameplay is turnwise. At each turn, you choose your travelling speed (go too fast, and you may be stopped by the police -- too slow and you may not arrive in time). You\u2019ll have to keep an eye on your fitness and your gasometer \u2013 driving tired can result in deadly accidents, and running out of gas will cost you time and money. Gas and sleep can be replenished at truck stops.
+
+You\u2019ll also be slowed down by roadworks, flat tires, accidents, traffic jams, bad weather -- all those little things that make trucking fun! To get to New York in time, you\u2019ll need strategical planning, and a small amount of luck, too. And you"ll get to learn a bit about the daily chores of your average trucker.

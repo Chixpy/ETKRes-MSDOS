@@ -1,0 +1,11 @@
+"The rules of the game are quite simple: There are two players - Jinnee and you.
+
+A player has:
+- 6 pits with coins
+- 1 kalakh (a pit, storing coins)
+
+At the start all the coins are equally distributed among the pits. There are Jinnee"s pits above and on the left you see Jinnee"s kalakh. There are your pits below and on the right you see your own kalakh.
+
+The players take turns in the game. When hit turn, the player takes all the coins out of one of his pits and puts them down into all others including his own kalakh (but not Jinnee"s kalakh), in a counterclockwise fashion. If the players last coin falls into his own kalakh, he takes one more turn.
+
+If the player"s last coin happens to fit into his own empty pit, while there are coins in the opposite pit, all of these coins of the opposite pit are taken to the kalakh of the player."

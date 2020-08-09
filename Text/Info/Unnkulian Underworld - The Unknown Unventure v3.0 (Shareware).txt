@@ -1,0 +1,4 @@
+Welcome to Unnkulian Underworld: The Unknown Unventure! ( Version 3.0 )
+
+For those of you who have played text adventures, the format of this game should be quite familiar.  Like most text adventures, Unnkulian Underworld places you in a situation and lets you figure out how to manipulate your environment using commands phrased in simple English. This game is the first in a series of adventures, and was created using
+TADS ( see below for more information ).

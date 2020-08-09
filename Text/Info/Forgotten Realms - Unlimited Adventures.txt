@@ -1,0 +1,10 @@
+Unlimited Adventures allows players to create their own fantasy role-playing games, especially those set in the Forgotten Realms world, similar to  SSI"s AD&D Gold Box series. The game is required to play the worlds created with it.
+
+In Gold Box games the player typically controls a party of adventurers, leading them through cities and dungeons (presented in first person perspective), talking to people, finding treasure, buying things in shops, fighting battles, etc. When combat begins, the screen switches to a top-down perspective where the player can control each party member while they fight the opponent. This is also how games created with Unlimited Adventures look. 
+
+Construction Set
+The basic elements of each created game (i.e. design) are its modules, that is, the levels that the player will be travelling through. The designer builds the modules by arranging walls and choosing floors and ceilings. Then comes the most important part - setting up the events. The events control everything interesting that happens in the game: combats, text messages, Non-Player Characters (NPCs) joining/leaving the party, the party visiting a temple/shop/tavern, etc.
+
+Unlimited Adventures comes with a lot of art, depicting various monsters, characters, items, etc. It is also possible to import own art. There are a lot of pre-made monsters (e.g. goblins, dragons, zombies, etc.) and humanoid enemies (e.g. brigands, bandits, evil mages, etc.), which the designer can edit freely. 
+
+Unlimited Adventures comes with a complete example design, "Heirs to Skull Crag".

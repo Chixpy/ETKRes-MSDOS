@@ -1,0 +1,5 @@
+Amazon: Guardians of Eden is an adventure which tries to capture the feel of a "B series" set in 1957 - complete with cliffhanger endings at the end of each chapter. The plot follows the adventure of Jason Roberts, whose brother was attacked during an expedition into the Amazon. Now Roberts starts his own expedition to help his brother and eventually race for a lost treasure.
+
+Jason is moved with the keyboard, while actions are performed with a point & click interface, which means that the player combines a symbol from the command line or the inventory with another object or person in the game world. Most puzzles are inventory-based or multiple-choice dialogues, but there are also some action-based mini games, e.g. a canoe ride. Many puzzles require quick thinking (player character is killed if it takes the player too long to figure out the solution) and "pixel hunting" for small hot spots on the screen. During some sequences the player has to switch between Jason and the female lead character to progress. 
+
+An in-game hint system is available, but nevertheless it is possible to get stuck in a dead end, having missed an important item from a previous chapter.

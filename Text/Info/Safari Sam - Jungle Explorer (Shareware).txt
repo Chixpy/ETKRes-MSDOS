@@ -1,0 +1,15 @@
+"This game, Safari Sam, is actually many games in one. you move Sam around the jungle until he comes to one of the areas on the map. When Sam gets to a certain area the game will change to that area. Moving Sam is done by the various arrow keys. Playing the different games are explained below. 
+
+1: The shrine: Using the arrow keys will move Sam in the direction of the key. Pick up the gems and idols as you travel through the temple. Kill the spiders and snake by throwing powder on them by pushing the "T" key. You can only toss powder after picking up a bag. This is done by standing on a bag, and pressing the spacebar.
+
+2: The Village: You must go from one end of the village to the other end. You can only walk to the right. This is done pushing the right arrow key. You can jump over a spear by pushing the "J" key. You duck by pushing the "D" key.
+
+3: The Log Raft Ride: Control Sammy by using the arrow keys as you travel down the river. Dodge the rocks, trees, and other obstacles. But pick up as many lily pads as you can.
+
+4: The Swamp: You must walk through the swamp making sure you step on the animals and other things in the river. If you are on anything when it totally submerges, you are dead.
+
+5: The Elephant Pool: You must make it through the pool before any of the elephants spray water on you. Getting hit with water is a quick way to bite the bullet.
+
+6: The Veldt: Sammy travels to the veldt for some hunting. The arrow keys will move Sammy and the "S" key will shoot the gun. If any animal catches Sammy, he becomes a safari salad.
+
+7: The Hut: Sammy has got to get to the top of the hut. This is not so easy because he must dodge the bananas and coconuts the monkeys are throwing at him. The "D" key is used to dodge, and the arrow keys are for movement. "

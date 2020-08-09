@@ -1,0 +1,1 @@
+In the sequel to the original Tetris-like game with a Simpsons theme, here the object is to rescue Bart. You rescue him by clearing a certain number of lines as shown on the right side of the screen. Lines marked with a bomb must be cleared by completing 2 or more lines at once. Overall a fun variation with decent graphics but not much different than normal Tetris games.

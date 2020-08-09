@@ -1,0 +1,3 @@
+You return, as Ernie Eaglebeak, to Sorcerer University for your Sophomore year. But now, your mind is focused on the ordeal of every SU sophomore: initiation week. Once you have been suitably hazed, you must get down to business and save the entire university.
+
+Spellcasting 201 is an interactive fiction game in which your roster of spells will come in handy. A list of commands and objects (including spells) is on the left of the screen to be chosen from. Movement is in the eight compass directions. You must make contact with the girls, and solve tricky puzzles. Nice mode turns off the more lurid details featured in Naughty Mode

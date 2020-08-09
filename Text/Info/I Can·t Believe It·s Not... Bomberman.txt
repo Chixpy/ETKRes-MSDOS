@@ -1,0 +1,7 @@
+I Can"t Believe It"s Not Bomberman is  Dodgy Posse"s tribute to Hudson Soft"s classic game Bomberman.
+
+The game is played via the keyboard and has two game modes, Adventure mode and Battle Mode, and three different sizes of game area.
+
+In Battle mode the player plays against a computer controlled bomberman, in Adventure mode the player is pitted against large numbers of fast moving baddies over a preset number of maps. In both types of game the objective is the same, clear the map of baddies in order to proceed.
+
+Some of the blocks that separate the player from the baddies will reveal power ups such as extra speed, remote bombs and a "freeze all the bad guys" power up.

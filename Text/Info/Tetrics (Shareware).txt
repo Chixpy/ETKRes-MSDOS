@@ -1,0 +1,1 @@
+Serge N. Fokin wrote Tetrics because he could not find a Tetris game that supported 5- and 6-square blocks. Indeed Tetrics may still be the only DOS Tetris to support these variants, on Windows there are now Emlith and Yet Another Tetris.

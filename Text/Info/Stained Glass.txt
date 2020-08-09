@@ -1,0 +1,1 @@
+Stained Glass is a unique colorful single player puzzle game. The object is to remove the colored glass tiles from the playing field. The game ends when there are no more legal moves or there is only one tile left. 

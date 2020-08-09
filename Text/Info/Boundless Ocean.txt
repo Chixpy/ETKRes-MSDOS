@@ -1,0 +1,5 @@
+Boundless Ocean is a short (5-7 hours), console-styled RPG game with emphasis on exploration. It is made with the OHRRPGCE, a DOS based RPG engine. The game plays best with VDMS.
+
+Here"s short intro story for the game: You can feel your knees weaken as you see two soldiers walking to your doorsteps. You watch them anxiously through the window as they grew closer, wishing that it is not as you imagined. You open the door before the soldiers got the chance to knock. You greet them with a nervous glance as if asking for confirmation of your suspicion. One of the soldier doffed his helmet, and your suspicion is confirmed. And then everything goes black.
+
+NOTE: Hold ESC during battles to escape. 

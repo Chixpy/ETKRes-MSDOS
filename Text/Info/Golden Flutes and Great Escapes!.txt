@@ -1,0 +1,15 @@
+This collection contains four complete, random event-driven text adventure games that originally appeared in the excellent book, "Golden Flutes and Great Escapes: How to Write Adventure Games for the Apple Computer," by Delton T. Horn (Copyright 1984, Dilithium Press).
+
+As a coding excercise, I chose to translate these games from their original Applesoft Basic format into the C language, in the hopes that such an activity would teach me the essentials of parser-writing.  This was before I set foot on Internet and discovered TADS and Inform.  When I did come across these pre-written adventure-authoring systems, I scrapped the full-blown IF parser I had been working on, and thus, also abandoned these games.
+
+Recently, I rediscovered them, and thought some of you might enjoy taking a look at them.  There are four games altogether.  Here"s a quick look at each of them:
+
+FLUTE.EXE -- "The Golden Flute."  A fantasy adventure.  You and your party of eight adventurerous friends must search the countryside to find the lair of the evil gremlin Terak and recover the magical Golden Flute from him.
+
+ESCAPE.EXE -- "The Great Escape."  A maze game.  You are lost in a 100-room maze and must escape with as much gold as possible.  A wide variety of items and characters show up to help or hinder you.
+
+TREASURE.EXE -- "Treasure Hunt."  A search for buried pirate treasure.  You command your six-man crew to explore 10 islands to discover the hidden riches.
+
+MARS.EXE -- "Mars."  Explore the mysterious planet Mars for treasures and artifacts left behind by the ancient Martian civilizations.
+            
+Encounter six distinct types of monsters and a wide variety of bizarre natural occurrances along the way.

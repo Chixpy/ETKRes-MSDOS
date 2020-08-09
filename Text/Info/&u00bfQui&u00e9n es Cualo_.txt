@@ -1,0 +1,9 @@
+Seguro que todos recordáis el archifamoso "¿Quién es Quién?" de MB, ese juego de mesa con dos tableros en el que, a base de indagaciones, debías descubrir qué personaje había elegido tu contrincante.
+
+Pues bien, "¿Quién es Cualo?" es una versión informática de ese juego, adaptada al entorno estudiantel de sus creadores (los personajes son profesores de su instituto). Con esto creo que os digo todo acerca del desarrollo del programa :-)
+
+"¿Quién es Cualo?" es un juego correcto, realizado por dos jóvenes programadores con ganas de echarse unas risas con sus profesores de entonces.
+
+Gráficos correctos, sonido a través del speaker y una adicción que podría ser mayor (si se hubiesen quedado con las características básicas de color de pelo, sexo, etc., y no se hubiesen metido en otras cosas como qué asignatura impartían o si eran gordos o bajos, rasgos que ellos conocían pero no los usuarios) conforman este programa.
+
+El grupo de programación tiene página web, aunque actualmente no están desarrollando nada por falta de tiempo. 

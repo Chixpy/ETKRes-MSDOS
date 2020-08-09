@@ -1,0 +1,3 @@
+Recopilatorio de Dinam ic Software con juegos que emplean la pistola Gunstick. Incluke Mike Gunner, Solo y Target Plus.
+
+NOTA: Este juego requiere una versión de DOSBox con soporte para Gunstick, la pistola óptica desarrollada por MHT Ingenieros.

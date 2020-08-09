@@ -1,0 +1,1 @@
+In this Asteroids clone, you get points by shooting enemy ships, and asteroids which gradually break down into smaller and smaller pieces.  Your controls are rotating clockwise or counter-clockwise, thrusting, firing, and hyperspace.  As you progress, the levels will get more and more difficult as you move into areas with more and more asteroids.

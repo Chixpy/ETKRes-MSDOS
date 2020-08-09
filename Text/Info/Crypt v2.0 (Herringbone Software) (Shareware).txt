@@ -1,0 +1,5 @@
+CRYPT takes you to an old church in the English countryside. 
+
+Using the same basic rules and procedures as the famous Colossal Cave Adventure by Crowther and Woods, you will explore the church, its quaint churchyard, then plunge into 
+the dark, dreaded chambers below. In the crypt may be found long lost historical artifacts of great value, protected by a host of traps, tricks, and creatures both natural and 
+supernatural. The successful adventurer must possess courage, skill, intelligence, and a bit of luck. For the faint of heart or weak of knee, a SAVE and RESTORE feature is provided and highly recommended. 

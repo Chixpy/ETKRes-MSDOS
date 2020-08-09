@@ -1,0 +1,1 @@
+Peter-Box (aka PeterBox or Peter Box) is a block-pushing game, similar to Sokoban or Boxxle. It seems to play fairly well, you are able to save your progress, and the graphics are simple but functional. There aren"t many innovations to the classic formula here however, and the levels consist of pushing blocks onto X"s.

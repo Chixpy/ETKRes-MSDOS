@@ -1,0 +1,5 @@
+The object of Munchguy:
+
+Travel through the maze and try to eat all the dots, avoid the ghosts, and collect valuable bonus prizes.
+
+(Pac-Man clone)

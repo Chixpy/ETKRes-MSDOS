@@ -1,0 +1,7 @@
+"You will be shown when a film was made, who directed it, and one other clue about the film.
+
+From a list of provided titles, you are to choose the correct title from a choice menu.
+
+You will get three chances to choose the film. Each additional chance will provide more clues with each clue lowering the value of your answer.
+
+There are ten films per quiz session."

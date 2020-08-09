@@ -1,0 +1,2 @@
+A board type, war-game for 2 players played on a map of The Korean peninsula. Map has 2,4,8, & 12 X zoom capabilities. Each player has 80 combat units including: Infantry, Armor, Air Calvary, & Marines. The map has roads, rivers, mountains & cities and was drawn to accurately simulate the terrain of Korea. There is no time limit on the game, the players move their units and attack each other using the mouse for all movement. Mouse activated "buttons" and windows on the display make the game easy to learn & use. Players have the option of saving games in a file.
+

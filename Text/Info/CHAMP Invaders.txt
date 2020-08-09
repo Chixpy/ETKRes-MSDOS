@@ -1,0 +1,10 @@
+CHAMP Invaders is a DOS shareware remake of the classic Space Invaders arcade machine. Like the other games in CHAMProgramming"s series of arcade remakes, it closely emulates the original with three game modes: The original "Classic" mode, the "Deluxe" mode and the enhanced "Champ" mode.
+
+The "Classic" mode plays and feels much like the arcade machine, with very similar graphics, sound and gameplay -- moving left and right at the bottom of the screen, shooting up at a bunch of nasty alien dropping bombs, protected by three quickly degrading shields... You know it, or should!
+
+The "Deluxe" mode has the same graphics as the "Classics" version, but adds more features and an intermission.
+
+The "Champ" mode is an upgraded version of the classic game, featuring colourful VGA graphics, different types of aliens (some which break out of the formation and attack, others who take more than one shot to destroy, etc.), a much more dangerous UFO and more powerful weapons (you can shoot fireballs, destroying an entire column, and launch guided missiles).
+
+Finally, the game features a variety of options -- one or two player modes, three difficulty settings, adjustable game speed, input by keyboard, mouse or joystick (Champ even released a "Champ cable" that allowed you to play the game with digital joysticks), and a high score table to round it all off. 
+

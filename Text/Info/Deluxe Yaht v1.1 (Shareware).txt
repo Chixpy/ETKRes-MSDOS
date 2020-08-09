@@ -1,0 +1,5 @@
+DELUXE YAHT is a fast paced game similar to the dice game Yahtzee.
+
+Up to four people may play, trying to obtain the highest possible score.
+
+DELUXE YAHT features include mouse/keyboard support, pop-up windows, and hi-res graphics. The game also keeps track of player statistics including individual highest/lowest games, the top five averages and the top five games.

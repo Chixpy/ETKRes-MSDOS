@@ -1,0 +1,5 @@
+War erupts once again along the west coast of America, although this time it is with a drug baron.  The military is put to action, and the most advanced jets in the U.S. inventory are put to the test: the F-14, F/A-18, and the YF-23 (Northrop"s black-skinned fighter that eventually lost the ATF contract to Lockheed/Martin"s YF-22).
+
+Game options include an "adventure" (i.e. campaign) mode, where mission successes and failures dynamically affect the overall war, free flight, and various other single mission scenarios.  The YF-23 has the naval package, which allows it to participate in carrier-borne operations alongside the F-14 and F/A-18.
+
+Graphically, the engine has been updated to take advantage of the latest in VGA technologies, and included the popular "gradient" horizon.  And like its predecessor Jetfighter, San Francisco is featured with its notable landmarks.

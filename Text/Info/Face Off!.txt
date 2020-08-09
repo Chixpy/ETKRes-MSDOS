@@ -1,0 +1,7 @@
+Face Off! is a  hockey game by developers MindSpan, who are better known for their HardBall series of baseball games. Play an exhibition game, an entire season or go straight to the playoffs and lead your team to the Stanley Cup. For the basic hockey gameplay a traditional side view is used, but whenever you or your opponent shoots at the goal the game switches to the special Shot Cam view. Occasionally when someone commits a nasty foul the game turns into a one-on-one fighting game; he who wins the fight can stay on the ice while the loser must spend some time in the penalty box.
+
+Face Off! can be played with realistic rules, relaxed rules or with no rules at all. Other options available include the number of players per team, difficulty & period length and whether or not you control the goalie during the Shot Cam mode.
+
+Some minor coaching and management options are also included. You can design your own plays in the playbook, modify your lines, move players form your minor league team to your major league team and vice versa and make trades with the other teams in the league.
+
+Face Off! doesn"t have a NHL license, so all players and teams are fictional. One does have the option to rename teams & players however. Multiplayer gaming comes in the form of a two player cooperative or competitive mode. Non-networked of course.

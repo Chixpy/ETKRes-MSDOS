@@ -1,0 +1,7 @@
+In this arcade side-scrolling shooter, you are a pilot of space jet sent to infiltrate some planet, Kaeon. Your way to the core of this planet will be perilous, because its environment is full of different enemies. You have to pass six stages (Orbiting Defence Station, Atmosphere, Alien Forest, Capital City, Underground, and the Core) till the successful final.
+
+Your space jet has 3 kinds of fire weapons (activated by different keys) and extras, which power may be increased with power-ups collected during your flight. Standing, flying, or moving enemies are shooting at you as well as powerful Bosses block your way to the victory.
+
+The options allow you to define the rate of your and enemy shots, ability to die by collision with walls or enemies, etc.
+
+When you finish the level, the password will be given to you to continue your progress from this point. The top scores will be stored also.

@@ -1,0 +1,13 @@
+Excellent maze game for ages 8 to 12; try it!
+
+This is a fun maze game for ages 8 to 12.
+
+Graphics are basic but the concept is excellent and the game is very playable.
+
+There are quite a number of things to find, monsters to kill and secrets to uncover that most younger users will be enthralled. There is a good use of the "F" keys (unlike many DOS games) \u2013 even F11 and F12. These function keys are combined with other keys (Alt key, etc) to offer quite a range of tasks.
+
+We would suggest printing out the documentation which comes with the game so you have the list handy.
+
+The source code is offered with this public domain game so you might want to build your own version.
+
+Overall we were quite impressed.

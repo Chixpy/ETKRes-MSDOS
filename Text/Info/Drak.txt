@@ -1,0 +1,3 @@
+This is one of the most ambitious Tetris clones of its era. It has excellent graphics, music for AdLib or Soundblaster, lots of stones with special behavior, and wraps the game in a sort of fantasy legend. All this creates a remarkable atmosphere.
+
+You can download three versions here, from the years 1995, 1996, and 1997. I suppose there is little difference between them. The third archive is slightly larger only because it contains a PIF file.

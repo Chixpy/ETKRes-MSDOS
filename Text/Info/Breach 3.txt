@@ -1,0 +1,3 @@
+Breach 3 is a squad-level tactical combat game in a futuristic sci-fi setting.  Aliens and robots are some of the enemies you face in battles witnessed from a top-down perspective (contrasted with X-Com"s isometric viewpoint).  Your squad leader gains experience from each completed mission - assuming he doesn"t die, ending your campaign prematurely.  Combat is real-time, but pauses automatically when you need to make important decisions.
+
+An added feature of Breach 3 is that the program can link up with Impressions" game Rules of Engagement 2; character attributes and experience can be transferred between the two games.

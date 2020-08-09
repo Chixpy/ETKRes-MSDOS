@@ -1,0 +1,12 @@
+"Space Shades places you in the cockpit of a space cruiser. You control
+your ship, a space station, and a spy remote while exploring planets in preparation for your encounter with a hostile enemy. Space Shades is designed to provide the feel of a flight simulator, while presenting bit-mapped images of the objects you see when operated in graphics mode.
+
+During play, you look directly out a window into 3D Space. Provided with a navigation computer, you have complete freedom to fly wherever you want. You can loop around your station, fly into the Sun, or crank up your ships speed to .9 SOL. Your mission will be to seek out your enemy and destroy him before he takes over the galaxy. That is his mission also.
+
+Start with one allied planet and a space station before guiding your ship off into uncharted territory. You can expand the number of your planets by fighting for their alliance. Go ahead and enjoy yourself: Collect the spoils of easily earned victory over defending planetary Hornets. It won"t be so easy to destroy your main opponent, Tin Head.
+
+Once you locate your enemy, Space Shades practically becomes a different game. Your ship and the enemy ship have nearly the same capability so it should be an even match. He"s fast, but probably a Tin Headed robot. With a little style, a lot of nerve, and a some items picked up at a few of your planets, you can send him home."
+
+Botón derecho y seleccionar DEMO.BAT para una demostración...
+
+

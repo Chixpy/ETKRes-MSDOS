@@ -1,0 +1,3 @@
+I know this isn\u2019t exactly a game, but what the heck, it\u2019s fun, it\u2019s text-mode, and I like it!
+
+Christmas Carols is a little sleeper that does nothing except play carols on your PC speaker while displaying an ASCII-decorated Christmas tree. You have the option of choosing from a list of 22 different songs, or better yet, just let the computer cycle through the entire album in a sort of musical screen saver motif. The carols are surprisingly affecting, and the tree is the most adorable thing since the Charlie Brown Christmas Special.

@@ -1,0 +1,5 @@
+Mad Mad Mad Mazes! - A game of Skill, Patience and EYESIGHT!
+
+Guaranteed only ONE WAY IN and only ONE WAY OUT!
+
+Mazes are randomly generated. The PC"s clock is used for the random seed. There are, potentially, about 32,000 different mazes at each level and there are 10 levels!

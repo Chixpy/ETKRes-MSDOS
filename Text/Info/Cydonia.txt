@@ -1,0 +1,15 @@
+Es el año 2034 y La Tierra se está saliendo de su órbita. Al parecer, según documentos conservados de las civilizaciones griega y romana, en un lugar de Marte llamado Cydonia fue abandonado un robot por una antigua civilización, el cuál está emitiendo unas señales que son las causantes de la catástrofe.
+Tú, como experimentado piloto, debes ir allí y destruirlo.
+
+DESARROLLO
+
+Cydonia es un clon de Tetris. Debes hacer un determinado número de líneas en un tiempo limitado para pasar a la siguiente fase. El tiempo sobrante se convertirá en puntos, que podrás canjear en la tienda por diferentes items, que te ayudarán a completar con éxito tu misión.
+
+VALORACI\u00d3N
+
+Corría el año 1996 cuando este grupo andaluz, en el que destaca nuestro amigo Utopian -antiguo componente de CEZ GS y actualmente en Retroworks-, se decidió a participar en un concurso de juegos amateur convocado por PC Manía.
+No tuvieron éxito en su intento, pero ahora os damos la posibilidad de poder echarle un vistazo.
+
+En el apartado técnico, se trata de un juego típico de los ambientes amateur de aquella época: gráficos VGA 256 colores -en una mezcla de fondos digitalizados y fichas creadas para el juego-, sonido digitalizado a través de la tarjeta SoundBlaster -las músicas son marchosas y variadas- y mucha ilusión depositada.
+
+Son muchos los clones de Tetris existentes. Los hay buenos y menos buenos, y puedo aventurarme a decir que éste se encuentra en el primer grupo. 

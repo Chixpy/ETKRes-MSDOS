@@ -1,0 +1,5 @@
+Windows 98 (cuyo nombre en clave es Memphis) fue un sistema operativo gráfico publicado el 25 de junio de 1998 por Microsoft y el sucesor de Windows 95. Como su predecesor, es un producto monolítico híbrido de 16 y 32 bits.
+
+Windows 98 fue lanzada el 25 de junio de 1998. Sigue tratándose de un sistema híbrido de 16bits y 32bits, pero presenta una serie de mejoras, tales como soporte mejorado para FAT32, soporte mejorado para AGP, soporte mejorado para USB, soporte para FireWire y soporte para ACPI. En esta primera versión se mantiene el IE 4.0 como parte integrante de la interfaz del explorador de Windows (Active Desktop).
+
+NOTA: Este perfil emplea la versión de DOSBox de ykhwong, no funcionará con versiones oficiales de DOSBox.

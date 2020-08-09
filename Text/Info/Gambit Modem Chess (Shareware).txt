@@ -1,0 +1,8 @@
+Why modem chess you ask?  Well, for about a year I"ve been spending around $3.00 per hour to play multi-player chess on the commercial gaming networks. I don"t know about you, but I"m not rich and the cost of playing a couple of games each night was putting me in the poor house.
+
+So, I decided to tryout as many modem chess programs as I could find...
+What can I say...  They were real junk!  I gave them all an "A" for effort
+and an "F" for usefulness.  The people who programmed them must be great 
+chess experts because they sure weren"t programming experts.
+
+That"s when I decided to write GAMBIT.  I"ve been making modem games for a number of years so I decided to put my talent to good use.  I hope you enjoy playing GAMBIT as much as I do.

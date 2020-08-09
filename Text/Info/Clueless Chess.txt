@@ -1,0 +1,3 @@
+Many chess-playing programs are intimidating for beginners, even at the easiest level, because they have a large opening book and can calculate dangerous combinations far beyond the analytic powers of most beginners.
+
+At its basic level, CLUELESS has absolutely no tactical or strategic sense, and no opening library. CLUELESS simply selects a move at random from the universe of legal moves. This makes it easy to beat, although it can still snap up the occasional hung piece and make surprisingly aggressive raids.

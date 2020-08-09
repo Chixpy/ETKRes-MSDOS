@@ -1,0 +1,1 @@
+Troopers is a game of war. You take control of up to 14 Troopers, each with individual skills and ranks, and guide them through the potentially huge landscapes. Currently, there are only a few missions and one tileset (the jungle), but hopefully in the future, more of these will become available in expansion packs.

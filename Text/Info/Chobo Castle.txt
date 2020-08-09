@@ -1,0 +1,4 @@
+To control the Chobo:
+
+- Press up, down, left and right to move.
+- Walk over a egg to pick it up.

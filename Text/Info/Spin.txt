@@ -1,0 +1,2 @@
+SPIN is a single player shoot-em-up game. Your mission is to protect the freighters from the pirates, to clear the freighter lanes of the pirates, and to arrest as many pirates as possible.
+

@@ -1,0 +1,1 @@
+An obvious takeoff of the classic Gauntlet games, The Black Orb is a little known game from 1989 with basic EGA graphics and gameplay that closely mirrors the game its trying to emulate. It does include decent Gauntlet-like gameplay and includes a level editor to make your own levels, although I wouldn"t think many people would enjoy doing so for very long.

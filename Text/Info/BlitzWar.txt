@@ -1,0 +1,1 @@
+Blitzwar is a hypothetical WWII east front divisional level game. The zip file includes the program, and QuickBASIC source code. It was created to gain experience with the Future Library and to try out some game mechanics ideas. The game balance isn"t great, but it works.

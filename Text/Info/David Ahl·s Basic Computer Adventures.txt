@@ -1,0 +1,23 @@
+David Ahl"s Basic Computer Adventures contains 10 text adventure games in a book. Each game includes a description of the game story, instructions on how to play, notes about the source code, and of course the source code. 
+
+The included game are:
+
+Marco Polo: The player is the leader of a group of merchants leaving on a business trip from Venice, Italy to Shang-tu, China. The goal is to safely complete a trip across the Silk Road; limited food and supplies, weather conditions, and bandits can make the journey a challenge. 
+
+Westward Ho!: As the head of a family of five, the player needs to travel the Oregon Trail to safely arrive in Oregon City, Oregon. The game starts with $420 which can be used for the purchase of a wagon and other supplies. Along the way obstacles will be encountered similar to those of the actual Oregon Trail, including fires, polluted water, wild animals, bad weather, illness, and topographical hazards.
+
+The Longest Automobile Race: A simulation of an automobile race in 1908 from New York to Paris. The player is the captain of the American team and needs to get the Thomas Flyer to Paris as quickly as possible. Challenges along the way include snow, accidents, fatigue, mechanical breakdowns, and limited supplies.
+
+The Orient Express: Takes place on the famous train from London to Constantinople. The player is a secret agent assigned to make contact with an arms dealer and arrest the killer of one of his associates. The player needs to solve the mystery based on clues that are uncovered and deal with challenges along the way such as snow, derailment, and bandits.
+
+Amelia Earhart: Around the World Flight: A simulation of Amelia Earhart"s around the world flight attempt. The player plays the role of Amelia Earhart on this journey and needs to successfully complete an around the world flight. Before each flight information about weather, distance to destination, and physical conditions are provided which help the player plan that leg of the journey. Fuel and plane maintenance are important as well to ensure Amelia"s Lockheed Electra can complete the journey.
+
+Tour de France: The player is a racer in the famous three-week bike race. The goal is to win the race; in addition to tough competition and physical endurance, the player will need to contend with mechanical difficulties and rough terrain.
+
+Appalachian Trail: In this adventure the player is a hiker in 1978 whose goal is to walk the entire 2000-mile Appalachian Trail. The trek begins in April in Georgia just after snow has cleared that part of the trail; the goal is to reach the end in Maine before snowfalls block the path in New Hampshire. Challenges are encountered such as rain, snow, poison ivy, fatigue, hypothermia, and equipment failures.
+
+Subway Scavenger: The player takes the role of a messenger hired to pick up and deliver packages in New York City. Starting at 9:00 am, the log will show a list of deliveries that need to be completed before quitting time. Hazards include those typically found in New York including the subway system, track fires, stuck doors, and unsavory characters.
+
+Hong Kong Hustle: The player is the Tai Pan of the largest international trading house in Hong Kong. The player discovers that China intends to confiscate much of the property of the major trading houses; as a result, the games objective is to collect 15 bags of gold and jewels which are stored around the city and escape before midnight.
+
+Voyage to Neptune: The player is in charge of the first manned spaceship journeying from Earth to Neptune. The year is 2100 and many space stations have already been established along the way which can help out by providing supplies and repairs. The ship is navigated by computer and there are also staff on board to help out. The player needs to maintain the ship and deal with problems to successfully complete the six year journey.

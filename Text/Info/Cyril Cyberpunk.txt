@@ -1,0 +1,5 @@
+In a futuristic Manhattan, a normal kid called Cyril is scanning the airwaves and receives some information about an alien invasion planned to take place in planet earth shortly. So he decides to take his flying skateboard and his gun and go hunt those aliens.
+
+This is a platform game where you shot your enemies and find keycards to open your way through 32 different levels (including 3 secret ones).
+
+The game also includes a level editor.

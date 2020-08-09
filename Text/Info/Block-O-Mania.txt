@@ -1,0 +1,3 @@
+Block-O-Mania is a turn-based puzzle game with a variety of puzzles with an overall high difficulty level. Like in Soko-Ban, the player has to push a number of boxes onto storage spots. This time however, there are four kinds of blocks, plus conveyors, unstable passages, and wraparound screens. It contains several dozen mind-benders for the true puzzle aficionado.
+
+The game was originally released as shareware on the BBS scene. With the advent of the Internet, it was eventually released as freeware on the web.

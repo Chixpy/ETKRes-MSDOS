@@ -1,0 +1,3 @@
+DOSMINE is an unusual step backwards -- a porting of the Windows game Minesweeper back to MS-DOS.  (But surely you could have guessed that from its name!)
+
+In short, you are presented with a grid field of concealed cels, some of which contain game-ending land mines; those that don"t will either vaguely indicate how many mines are cumulatively located in the spaces adjacent, or clear all nearby territory as "safe" until the next mine-abutting cel is reached.  The player has the option of flagging a cel as potentially mine-containing or taking a leap of faith, crossing their fingers and stepping on it with their virtual foot.  (This is all rendered in extremely abstract textmode.)

@@ -1,0 +1,3 @@
+Norton Desktop is a powerful desktop shell and file manager, bundled with many additional tools. There are versions for both DOS and Microsoft Windows. 
+
+Norton Desktop 1.0 for DOS provides a Mac-like file manager using only character cell text mode. It also bundles several tools from the Norton Utilities, such as Disk Doctor and Speed Disk.

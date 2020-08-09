@@ -1,0 +1,1 @@
+This is a simple game, which is played on the chess-board. It can be played by beginners or experts. Control of this game is easy and clear. This game improves logical thinking and forces players to make strategic and tactical moves. It can be an intelligent and amusing partner for good  relaxation. Rules of this game are described by selecting  a menu item Rules.

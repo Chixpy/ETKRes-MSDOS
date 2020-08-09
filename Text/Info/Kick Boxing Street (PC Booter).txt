@@ -1,0 +1,15 @@
+Con Kick Boxing Street, entramos de lleno en las producciones españolas de serie Z, programadas en "dos días" y destinadas únicamente a la venta en kioscos. Y como programador de este título nos encontramos con A.G.D., alguien con experiencia en estas lides, y a quien los usuarios de Amstrad CPC recordarán por sus juegos publicados bajo los sellos Genesis Soft o PPP Ediciones, y que resultan ser una antología de lo que no debe ser un juego de ordenador.
+
+A principios de los 90, cuando los ordenadores de 8 bits empezaron a perder fuelle, \u00c1ngel García Delgado se pasó al mercado de los juegos "baratos" para PC, y nos regaló "joyas" como el título que nos ocupa.
+
+Kick Boxing Street es un Beat"em up para un solo jugador, que combina los mapeados reducidos típicos de los juegos de peleas one vs one tipo Street Fighter, con la lucha contra varios adversarios a la vez (un máximo de 3, no nos vayamos a pasar) a lo Double Dragon.
+
+Hasta aquí nada malo, el problema viene cuando empezamos a jugar. El primer nivel se solventa únicamente teniendo pulsado disparo + arriba, a fin de hacer la patada voladora con las piernas formando un ángulo de 180\u00ba. En el segundo nivel igual...... ¡Y así hasta el final! La I.A. de los adversarios simplemente no existe. De esta manera, estos vendrán una y otra vez, cual lemmings buscando su suicidio, a recibir las patadas que les propinemos, hasta que acaben derrotados.
+
+Esto, evidentemente, lastra por completo al programa. Estamos ante el "Beat"em up" más fácil al que haya "jugado" nunca.
+
+Los gráficos del programa, para ser de 1992, no son nada espectaculares. Solo soportan CGA, y su definición no pasa de correcta, tanto en marcadores, como en sprites y escenarios.
+
+A la animación le pasa lo que a los gráficos, muy justita. Y en cuanto al sonido, que decir, casi nulo. No hay melodía alguna, y durante las partida apenas escuchamos un par de "crujidos" al golpear.
+
+Por último, decir que la jugabilidad de este programa es nula. Creemos que un juego debe ofrecer un mínimo reto, y ser relativamente divertido. Como hemos comentado anteriormente, este programa no supone reto alguno (un simio amaestrado, con una venda en los ojos, se lo podría acabar sin problemas), y por tanto el factor diversión es 0. [Agamenon3]

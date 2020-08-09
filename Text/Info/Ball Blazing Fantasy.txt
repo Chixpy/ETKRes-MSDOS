@@ -1,0 +1,3 @@
+Ball Blazing Fantasy is a top view, arcade game with balls.
+
+It features two different modes. Ball Blaze, a fun one on one version of soccer where the players are balls too with tournament and practice mode and The Quest, adventure where you harvest minerals and dodge all kind of hazards while controling a ball, with 16 levels placed in 4 different worlds.

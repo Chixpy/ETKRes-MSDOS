@@ -1,0 +1,7 @@
+A small little financial game- something like the old Lemonade Stand games, except for the drug sales, robberies, shootouts with the police.
+
+No graphics- everything takes place on a text screen.  You start out with $500, in one of 8 cities (Chicago, Detroit, Las Vegas, Los Angeles, Miami, New York, San Diego, and Washington DC).  Buy and sell 8 different types of drugs (Ludes, Speed, Grass, Crystal, Acid, Heroin, Crack, Cocaine- in order from lowest to highest in street value.)  Sock some money into the bank so you don"t lose it due to robbery; visit loan sharks (and try to pay them off before they beat you up); buy overcoats to increase your "holding" potential, and more.
+
+You also attempt to build your reputation- but the higher your reputation, the more cops on your tail.  You can try to run or fight the cops (and if you"ve got the rep, bring along friends)- but fights with large numbers of cops can quickly kill you, and trying to run from large numbers of cops can be nearly impossible.
+
+Drug prices fluctuate seemingly at random (but around a base point) when going from city to city, although large scale events like street raids, factory explosions, etc. can cause temporary price increases or decreases in one round while in the same city.

@@ -1,0 +1,6 @@
+Bob the Hamster is a spiffyspiffy game, inspired by old arcade classics like `Dig Dug" and `Mr. Do" You will find Bob the Hamster to be entertaining, addictive, and not in the least bit discombobulating.
+
+Bob the Hamster offers two modes of play, Bob and Vlad. Each hero has different levels to complete, and different enemies to fight. Additional levels may be created by the player using BOBEDIT.EXE . Bob the Hamster supports both English and Japanese text modes.
+
+Botón derecho y seleccionar bobedit.exe para el editor de niveles.
+

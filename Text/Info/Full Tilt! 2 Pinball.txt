@@ -1,0 +1,1 @@
+A fairly simple 3D-tilted pinball simulation featuring three tables (Mad Scientist, Alien Daze, & Captain Hero), all of which have a sci-fi/comic book theme.  Can be played in a window or fullscreen.

@@ -1,0 +1,6 @@
+CHAMP Pac-em is a DOS shareware remake of the classic Pac Man arcade machine. Like the other games in CHAMProgramming"s series of arcade remakes, it closely emulates the original with two different game modes, the original "Classic" mode and an enhanced "Champ" mode.
+
+The "Classic" mode plays and feels much like the arcade machine, with very similar graphics, sound and gameplay. You know what to do: Run through the labyrinth, munch dots and avoid those naughty ghosts -- or eat the power pill to chase them for a change. You can also eat some cherries for bonus points. Pac-em even has the original"s intermissions between some levels.
+
+The "Champ" mode has the same game play, but features some special enhancements like speed ramps, which speed you up for a certain time, or random teleports. Finally, the game features a variety of options -- one or two player modes, three difficulty levels, adjustable game speed, input by keyboard, mouse or joystick (Champ even released a "Champ cable" that allowed you to play the game with digital joysticks), and a high score table to round it all off. 
+

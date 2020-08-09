@@ -1,0 +1,2 @@
+Video-Darts is just that...a dart-board on screen where you can play against a friend OR the computer. Some skill, some luck decide who gets to 5000 first. Req. at least 640 X 350 EGA graphics ability and Min. 128K Video RAM recommended. Otherwise Requires only 256K RAM. Saves your wall from Holes!!
+

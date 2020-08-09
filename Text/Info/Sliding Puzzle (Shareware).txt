@@ -1,0 +1,1 @@
+Sliding Puzzle - is a computer version of the familiar sliding tiles game. The object is to arrange the numbered pieces by sliding them around inside the 4X4 grid until they are lined up in numerical order. It"s not as easy as it sounds.

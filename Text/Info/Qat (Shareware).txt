@@ -1,0 +1,1 @@
+Supports up to two players. First person to connect four wins!

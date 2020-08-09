@@ -1,0 +1,3 @@
+Offensive is an RTS/Wargame, that put you at the battlefields of World War 2. As an axis or allies commander,  play through 20 various scenarios, from Normandy invasion to the capture of Berlin. Control 15 different types of units, including armor, tanks, trucks, guns and infantry.
+
+Game uses isometric graphic engine with three levels of zoom, where you can view map from different angles.

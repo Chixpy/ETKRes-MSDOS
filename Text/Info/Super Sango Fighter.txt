@@ -1,0 +1,12 @@
+As the title suggests, this game is an ingenious home-brew game that pits fighters from Sango Fighter against those from Super Fighter in the ultimate fighting match.Death Adder did a great job ripping all graphics, sounds, and animations from the two games and combine them into an enjoyable gaming experience.
+
+Controls:
+-------------
+
+Player one can use either joystick or keyboard.
+Player two can use the keyboard only.
+(To allow keyboard control for player one, press
+ESC when game wants to test the joystick).
+
+Player one keys: C,V,B,F, left SHIFT, left CTRL
+Player two keys: arrow keys, right SHIFT, right CTRL

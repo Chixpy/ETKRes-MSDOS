@@ -1,0 +1,3 @@
+Kick Off 98 is an international-team based football game, released to take advantage of the forthcoming 1998 World Cup. Game modes include practice (with several situations available, such as corners, dribbling and free kicks), warm up (a mode where the level of play increases as the player learns to play more effectively), quick start, friendly, cup, world cup, ANCO Challenge (where the player chooses increasingly difficult opponents), network play and a name/appearance editor.
+
+The game was fully localized in several countries, such as Germany, Spain, Italy and Portugal.

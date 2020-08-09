@@ -1,0 +1,5 @@
+The name is hard to translate, maybe snake catcher, snake hunter, or snake charmer. Someone who is good with wild snakes, for snakes is what Zmeyelov is all about. The English name of the later Windows port was WildSnake.
+
+Instead of blocks there are snakes falling down this pit or well. While they are falling, you can manoeuvre them with the cursor keys. When a snake hits another of the same color, it replaces the former. Main strategy is therefore to avoid covering one snake completely with others, as happened with the light blue one in the screenshot above.
+
+Zmeyelov is a Russian game, and nearly all text is in Russian. Since there is little text, and what text there is is technically nearly all graphics, this won"t be a problem. Only on the title screen there is a line of gibberish on non-Russian DOS versions. The menu items are, from top to bottom: Start, Level, Sound, Credits, and Quit.

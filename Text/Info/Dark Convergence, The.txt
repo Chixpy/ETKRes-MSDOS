@@ -1,0 +1,7 @@
+The Dark Convergence is a very rare horror adventure game from the early "90s.
+
+The plot is simple: one night the player and some friends have a car crash on a near-deserted road. The player is sent out to search for some help and stumbles on an abandoned house. Inside it bloody bodies are found, and unknown menaces from other worlds and other dimensions try to kill the player. Will you survive the night and save the day?
+
+The game is programmed in QBasic (there is even the .bas file inside the game"s folder) and the engine is similar to the one used in the Hugo"s House of Horror series. The player controls the character with arrow keys and types the desired action using the parser.
+
+The game focuses on a morbid atmosphere and on violence with many nasty and gory situations in it. The plot and atmosphere for some ideas are reminiscent of Dark Seed.

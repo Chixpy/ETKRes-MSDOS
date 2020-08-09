@@ -1,0 +1,2 @@
+The program GeOlympics contains the same features as GreatArc II. It has been re-packaged with the emphasis on the game feature.
+

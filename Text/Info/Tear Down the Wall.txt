@@ -1,0 +1,1 @@
+This is a simple puzzle game. You are presented with a wall, and you and your opponent (the computer) must in turn select a brick, which is removed. Any bricks placed on top of it, will be removed also. The more bricks fall, the more points you get.

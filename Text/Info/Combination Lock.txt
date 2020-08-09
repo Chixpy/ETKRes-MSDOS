@@ -1,0 +1,25 @@
+In the simulation of another CBS" TV gameshow with 1,000 questions you can play with a friend or challenge a computer-selected opponent. The gameshow was not aired at the times of game production and released for the first time as pilot in 1996.
+
+The object of the game is to earn the most money in two Matches, rob the Vault and make a safe getaway. Match consists of two Rounds: the Number Seeker and the Combination Cracker.
+
+Round 1: The Number Seeker gameboard consists of 9 boxes, each numbered from 1 to 99. Before selecting a number, players are asked a randomly selected trivia question, with three possible answers. 
+
+The first player to select the correct answer gets to choose one of the numbers on the Number Seeker gameboard. (If the first player to answer the question is incorrect, then the second player may answer the question. If both players are incorrect then another question appears.) The first available number is highlighted. The player may highlight another number to display "OPEN," "LOCKED," "CASH" or the "BURGLAR."
+
+If the box reveals: 
+- "LOCKED," the player receives no money and play continues. 
+- "OPEN," the player has found one of the three numbers in the combination of the Vault. The player receives $100 in Match 1 and $150 in Match 2. 
+- "CASH," the player receives $200 in Match 1 and $400 in Match 2. 
+- "BURGLAR," the player loses $200 in Match 1 and $400 in Match 2. If the player does not have that much money, all of the player"s money is lost.
+
+Once all three numbers in the combination have been found, Round 1 is over.
+
+Round 2: The Combination Cracker gameboard consists of 6 boxes containing every possible combination of the numbers revealed in Round 1. The player(s) must answer trivia questions, using the same controls as in Round 1, to earn the chance to try a combination. 
+
+The safe will turn to each number of the selected combination. If the safe does not open, a buzzer sounds and a new question is asked. If the safe opens, the player earns $400 in Match 1 and $600 in Match 2.
+
+Bonus Round: The player with the most money at the end of the two Matches enters the Vault. The Vault gameboard consists of 15 boxes numbered between 1 and 99. The selected box will reveal a cash reward or one of two BURGLARs.
+
+The player may continue to select numbers as long as there is cash behind them. After each turn, the player is given the chance to make a "getaway." If player evades, all the money earned in the Vault is kept and the game is over, or player may continue selecting numbers. If the player reveals a BURGLAR, however, all of the money won in the Bonus Round is lost and the game is over. If the player uncovers all 13 of the cash prize boxes on the gameboard, all the money is kept and the game is over.
+
+The ten top players of the game are shown in the "MOST WANTED LIST" displayed at the end of each game.

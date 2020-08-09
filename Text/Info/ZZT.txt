@@ -1,0 +1,3 @@
+A text-mode action/puzzle game, ZZT already comes with a variety of game worlds. However, the real appeal of this game is the level editor with its scripting capability, which allows the creation of an unlimited number of new scenarios, stories, characters, traps, machines, and anything else players can think of.
+
+

@@ -1,0 +1,5 @@
+"A short text based game where you are (usually) given a series of choices like a choose your own adventure book. In the game you play a character in his first day at a new high school. The game ranks you on how many friends you"ve made, money you have, enemies, and GPA.
+
+The choices and storyline change depending on your choices - but there is also some randomness in the game. Even choosing the same things time and time again will sometimes have different plot branches.
+
+Check out the games website for some interesting history and tips (last updated in 2000)."

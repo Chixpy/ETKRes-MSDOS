@@ -1,0 +1,1 @@
+Bombs that blow up are hidden under a good number of the hexagons of the MiniHEX playing board. The object is to mark where they lie with a flag, B, without getting splattered to the four corners of the universe (assuming of course that"s how many there are).

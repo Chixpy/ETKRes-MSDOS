@@ -1,0 +1,7 @@
+"Finally, after a few weeks of coding, designing, testing and debugging SNACKMAN is finished. The goal of the game is very simple : eat all the pills avoiding the ghosts or honeybees and try to beat the high-score.
+
+The goal of each level is to gain as much points as you can by eating the ghosts and the pills. You can eat the ghosts when their color is white. The ghosts become white when you eat the (easy to distinguish) corner points - the so called MEGA-pills.
+
+You see, actually the ghosts aren"t happy at all with YOU eating away all their pills. I gave the ghosts in this game bad visual capabilities. The pills on each level help them restore their view. You"ll notice that each level on their view gets better and they"ll need less time to find you in the maze.
+
+The game counts 11 different levels. If the level number is even, a bonus will appear somewhere on the screen. If you want to collect it, be sure to be there before the ghosts do, because they eat the bonus too ! A bonus can either give you extra points or it can give you certain capabilities during that level."

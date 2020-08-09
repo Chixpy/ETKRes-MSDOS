@@ -1,0 +1,7 @@
+Starball PC is an odd pinball game based largely on the game also called Starball, but for the Atari ST.
+
+While this game is a typical pinball, it also present many bizarre, innovative concepts. It consists of one huge table, which in turn consists of 3 main parts, each with its own set of flippers. Should your ball fall between the flippers it will drop to a lower level until finally you"re at the bottom, and then you lose a life.
+
+Each part of the table has its own quirks, secrets and purpose (for example, in the middle section you build a spaceship and have to protect it from two missile-firing guns on the right.
+
+There are also hidden, or secret, stages in the game: one is an "egg" with four parts you have to crack, another is a breakout clone only with pinball mechanics and another is a bizarre "Doom pinball". There"s also the ultra-secret (and very hard to get to) Llama pinball game.

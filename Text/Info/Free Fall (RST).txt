@@ -1,0 +1,5 @@
+Your mission is to nuke all planets in the HPCF system. Each is surrounded by a mine field, and your ship can withstand the impact of 10 of them (or a substantially less number of impacts with the Magical Light Blue Force Field of Lazy Programming). Shields recharge between planets, of which there are n + 1, where n is the planet you are currently in orbit around.
+
+Planets cause gravity, and gravity is indistinguishable from acceleration, so buckle your seat belt.
+
+Press space to turn the other direction (but your maneuverability isn"t the best anyway....).

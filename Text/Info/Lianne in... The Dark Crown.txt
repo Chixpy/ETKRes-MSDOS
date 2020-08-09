@@ -1,0 +1,2 @@
+Thanks for trying out Lianne in... The Dark Crown. This version of the game is only the beginning however. I programmed this in Qbasic to prove a point: Good, quality software CAN be written in Qbasic. I hope you agree with me that this game proves that point.
+

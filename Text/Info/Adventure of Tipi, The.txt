@@ -1,0 +1,7 @@
+The adventure of Tipi is a classical side-scrolling Jump"n"Run game with Manga-like characters and animations, similar to games like Elfland, Realms of Chaos or Commander Keen.
+
+You play Tipi, a young warrior who lost his (future) wife to the mighty red dragon who rules the land. To bring that terrible reign to and end Tipi decides to kill the dragon. However before you finally reach the dragon you first have to pass six levels, each one with an own setting and a level boss. In a typical Jump"n"Run style you have to jump from platform to platform and fight the numerous enemies with your sword. Fortunately you won"t die immediately if an enemy touches you, instead you have a life bar which can be refilled by jumping over various food items scattered around in the world.
+
+Each level contains doors in various colors which can only be opened when you have found the matching key for it. Those keys are that important that the number of keys already found is always shown in the upper right corner.
+
+The game has no savegame or password system, so you have to start all over again if you lost all your lives or restart the game.

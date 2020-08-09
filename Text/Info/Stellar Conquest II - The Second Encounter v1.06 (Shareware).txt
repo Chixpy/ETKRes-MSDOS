@@ -1,0 +1,11 @@
+Stellar Conquest II isn"t as much a sequel as it is a remake of the first Stellar Conquest game I made several years ago, with many improvements.
+
+The first one was written in Quick Basic and used EGA graphics and keyboardinput only...
+
+Stellar Conquest II, The Second Encounter is a VGA-only, and "Microsoft compatable mouse"-only strategy game for 0 to 4 human players. The game consists of 2 to 4 active players, any of which can be either human or computer controlled.
+
+The Stellar Conquest universe is a map containing 50 stars, 4 blackholes, and 3 wormholes.
+
+Each players starts with a starbase and 5 ships. Your goal is to protect your base and destroy everyone elses" base. To do this, you must build ships. You will have the opportunity to build them to your own specifications, within your allowed budget of course. To get more money, build more cargo ships to do mining. You can also build combat vessels and scouts.
+
+The ships belonging to other players will not be visible unless within the scan range of one of yours, or under other special circumstances (such as civilian ships (which don"t appear on the map) informing your base).

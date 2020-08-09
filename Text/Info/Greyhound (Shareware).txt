@@ -1,0 +1,3 @@
+"GREYHOUND is a game in which you are the owner of a greyhound kennel. You must use your skill and judgment to compete against other kennels and ultimately win the Championship Trophy at the end of the season.
+
+Each week there are 10 races. Each race is for a specific grade. The top grade is 1, the bottom is 10. Only grade 1 wins count towards the championship. Much of the time you must spend moving your dogs through the gradings. This is achieved by a combination of success in races and careful training."

@@ -1,0 +1,2 @@
+Basic point and click adventure game.
+

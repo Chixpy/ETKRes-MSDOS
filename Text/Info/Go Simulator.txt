@@ -1,0 +1,3 @@
+Go Simulator  is one of the better PC versions of Go, a classic Japanese boardgame.The goal is simple: capture your opponent"s pieces by surrounding them with your pieces. You win if you have more pieces left on the board than your opponent does. Like Chess, however, special conditions in the rules add another layer of depth to this fascinating game. This version features a strong computer opponent and excellent on-line tutorial and tips. Highly recommended. 
+
+Note: This is an older version of The Many Faces of Go, a great Go game still sold by Smart-Games.com

@@ -1,0 +1,5 @@
+Tetris is a simple, yet challenging, game invented by a Russian mathematician. The main object of Tetris is to clear as many lines as possible by manipulating certain shapes which fall from the top of the screen. These shapes are always comprised of 4 blocks (hence the name "Tetris"). The player can rotate these shapes left or right and move them into the correct place. 
+
+When there are ten blocks in a row, that row is cleared and the blocks on top will fall into the newly created gap. Game level gradually accelerates until the blocks build to the top of the screen. When this happens, your game is over.
+ 
+

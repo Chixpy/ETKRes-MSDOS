@@ -1,0 +1,16 @@
+En el período comprendido entre 1988 y 1991 fueron al menos 3 los simuladores de Parchís que se desarrollaron en España para PC y compatibles. Por parte de System 4, el ya comentado Parchitoke,  de mano de Idealogic Parchplay, y editado por Ediciones Manali, solo en kioscos, este Parchís.
+
+A Parchplay no he tenido la oportunidad de jugar. A Parchitoke sí, y como deje claro en su review me pareció, como poco, decepcionante. En cuanto a Parchís hay que decir, que es un simulador muy simple, sin grandes sorpresas a nivel técnico y con fallos en I.A., pero que cumple con los mínimos exigibles.
+
+El juego comienza directamente, sin ningún tipo de pantalla de presentación, mostrando el tablero de juego. Lo primero que nos demanda el programa es definir el número de jugadores humanos (de 1 a 4), y el método de control (teclado, joystick o ratón). Posteriormente dará comienzo la partida.
+
+El nivel gráfico de Parchís, pese a su corrección, no es nada sorprendente ni especial. Ahora bien, al contrario de lo que sucedía en Parchitoke, aquí si que es reconocible tanto el tablero como los dados, mostrando un mínimo de trabajo gráfico.
+
+En cuanto a la animación, dado el tipo de programa que es, poco que contar. Al igual que sucedía con los gráficos, el movimiento de dados, fichas y cursor es simple, pero suficiente.
+
+El sonido, como en todos los títulos de la compañía es muy flojo. Pocos efectos y de escasa calidad, sonando por el altavoz interno.
+
+La jugabilidad del programa depende en gran medida de lo aficionado que se sea a este juego de mesa. Si te gusta el Parchís, el programa te entretendrá. A pesar de todo decir que la inteligencia artificial del programa en ciertos momentos falla, con lo que mejor si puedes jugar contra oponentes humanos. Ahora bien para jugar con amigos siempre es mejor el juego de mesa original......
+
+Resumiendo, un versión simple pero aceptable del mítico Parchís. [Agamenon3]
+

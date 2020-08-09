@@ -1,0 +1,3 @@
+"The game of Pig is played with one die and any number of players may play. In this computer game, you play against Mr. Pig. When you first start playing, the computer will decide who goes first, you or Mr. Pig. Once the game is won, the winner starts the next game.
+
+The first player to act, tosses the die as many times as he desires, adding the numbers shown on the die. If the player throws an ace, it cancels out whatever score he has made on that turn. The player may stop throwing and pass the die to the next player at any time, but he must throw the die at least once. If the die is passed before throwing an ace, the player is credited with the sum of the numbers he has thrown on that turn. The first player to reach a total count of 100 is declared the winner."

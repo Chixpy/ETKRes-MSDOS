@@ -1,0 +1,1 @@
+MagiDuck is a simple platform-game designed to work on 8088/8086 class computers (the first IBM PC:s) with a CGA-compatible display adapter. It runs in a tweaked 40x25 text mode, giving the game a pseudo-pixel resolution of 80x50 with 16 colours and text combined from 2 half height Ascii-characters.

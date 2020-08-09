@@ -1,0 +1,51 @@
+The StupidSoft Zork parody! An all-text adventure game!
+
+
+-Dedication-
+
+This game is dedicated to my dead iguana, Fluffy. Fluffy died
+as he lived: Small and green.
+
+-Nostalgia-
+
+Anybody who"s ever gotten misty-eyed thinking about the hours they
+spent glued to their 64K computer trying to conquer Zork, Planetfall, or the
+numerous other Infocom and Infocom-esque games will love this. My first
+exposure to this type of game was a game simply titled "Adventure" on the
+Imsai computer that I used to play with while visiting my Dad when he taught
+at Clarkson College (now University). You"ve probably never seen an Imsai.
+We"re talking ancient. You had to flick one power switch, wait for the
+computer to warm up, flick the other power switch, and then turn on the
+monochrome terminal. We"re talking nothing but character graphics here. I
+used to play a Space Invaders clone on it where you were a /\ shooting down a
+bunch of //^\\"s and \\^//"s. But anyway, I was in like first or second
+grade, and I was trading hints and solutions with college students and even
+a professor or two who were just as obsessed as I was with trying to get a
+nameless adventurer past obstacles described in all capital letters and
+storing treasures to accumulate enough points to win the game. When I
+finally got the LAST treasure, and tried to store it in the house where you
+stored treasures, the game crashed. Psychologists have pinpointed this as 
+the point in my life where my mind broke.
+
+I decided to write this here adventure because I have a job where
+half the time I just have to look busy. Programming text adventures is a
+great way of doing this.
+
+Anyway, I"ve tried to capture a lot of the feel of the Zork games in
+this parody. It won"t recognize stuff as complex as the Zork games could,
+but it doesn"t require that you type only two-word commands or anything. It
+knows that "Check out the damn rodent" is the same thing as "look gerbil"
+and so on. Try out some Zork stuff...you might find something nifty I hid
+in the game. :)
+
+
+-The Plot-
+
+You have been banished by an evil wizard to...no...um...you lost your
+memory and find yourself in...no, that sucks...uh...
+
+Well, however you got there, you"re in Townburgsville (thanks Ted)
+and you"d rather be elsewhere. Townburgsville has condemned theme parks
+dedicated to bodily secretions, homicidal clowns, trolls, bartenders who look
+like trolls, people who like washed-up sitcom actors, and even (GASP!) 
+lawyers. So get the hell out of Townburgsville and you"ll win the game.

@@ -1,0 +1,19 @@
+SuperBlox is a 256-color VGA adaptation of Tetris.  Colorful graphics spice up a great game.  New features include:
+
+o Bombs!
+Blast away blocks in the playing field.  Bombs away!
+
+o Dynamic Playing Field Option!    
+Placed blocks randomly move up or down to add more challenge.
+
+o Self-Play Mode!  
+Watch the computer play SuperBlox.
+
+oTextured Block Styles!
+As the levels increase, the block elements are drawn with new textures and patterns.
+
+o Animations!      
+You"ll have to see for yourself.
+
+o Configureable!   
+Change the starting level, allow/disallow bombs, toggle dynamic playing field option, turn on/off sounds, and more.  All of these options can be changed during the game.

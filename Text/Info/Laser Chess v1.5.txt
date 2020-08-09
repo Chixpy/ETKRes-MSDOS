@@ -1,0 +1,4 @@
+This game is a 2-player computer modification of the old-fashioned game of chess.  Each standard playing piece is outfitted with a mirror, except for the King who has a laser, and depending upon the pieces current position and rotation, the laser will be reflected off of the mirror or destroy the piece.  
+
+Most movements of the pieces are the same as standard chess, but the laser adds a completely different twist to the game.  The object of the game is to destroy your opponent"s King and, unlike chess, this can be done without any warning of  "check".  To actually complete the game the King must be destroyed and not just "mated".  
+

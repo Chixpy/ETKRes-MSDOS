@@ -1,0 +1,3 @@
+"PcLeague is a Soccer Manager game for IBM Compatible PC. To run PcLeague you only need a 286 and a Monochrome screen. To get the best performance a 386 and math processor is to prefer. PcLeague should run on a hard drive and a disk cache like SmartDrive is recommended.
+
+PcLeague 2.1 is based on the English league system. The database contains 130 teams (38 non league teams,) and ca 2350 players. F.A.Premier League contains the same players as in the real world. But this is not always the case for 1st and 2nd Division."

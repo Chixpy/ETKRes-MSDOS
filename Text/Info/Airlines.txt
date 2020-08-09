@@ -1,0 +1,3 @@
+Here you have an typical mid-nineties economic simulation which, you guessed it, simulates a airline company.
+
+At the start of the game you own 100% of a stock corporation with a few million dollars capital. With this money you buy airplanes, which differ in statistics like range, price or room. On a world map you define routes, ticket prices and load (passengers or commodities) and send them on the flight. The rest is handled by the game itself and the only thing you have to do is buying new planes, sell parts of your stock due to financial difficulties, watch your balance sheet and handle a few random events like strikes or oil crises. Due to the nature of the game you"ll spend all your time either on the world map or in front of statistics.

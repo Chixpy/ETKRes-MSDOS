@@ -1,0 +1,5 @@
+In Jagged Alliance: Deadly Games you take a group of mercenaries (mercs) through a series of missions. Gameplay is almost identical to the original Jagged Alliance, featuring overhead-view turn based combat taking place over an area map. 
+
+The main difference between the two products is the addition of new mission types, new weapons, multiplayer (over an IPX network), as well as scenario and campaign editors. Players begin by hiring up to six mercenaries from a roster of many and equip them with necessary weapons and items. They are then assigned to a mission with particular and unique objectives. 
+
+The missions are ordered but they are not geographically linked as in The original Jagged Alliance or it"s sequel, Jagged Alliance 2.

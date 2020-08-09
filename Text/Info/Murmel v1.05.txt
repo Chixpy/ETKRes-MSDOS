@@ -1,0 +1,11 @@
+Murmel is an ancient game passed on from generation to generation, upheld in  sacred traditions.  Actually it"s a little game I made up, but that sounded neat.  I think that other people have written games similar to this one, but I have been yet to see one.
+
+The idea of Murmel is very simple, you want to win.  To achieve this goal you take marbles off a board and gain the points that it is worth.  The game starts with a board filled with randomly placed marbles usually numbered between 1 and 9.  Now here comes the tricky part, you can only pick marbles from the row that is highlighted.  You use the arrow keys ( <- , -> ) to pick a marble (the on highlighted in blue).  After you pick a marble you then hit the return key to take the marble and get it"s points.  Now the Opponent (computer) has to pick from the column the marble you picked was in.  
+
+See your stuck to picking in the row the computer last picked form, and the computer is stuck in the column you last picked from.  So this means that you want to pick a marble that will force your opponent to pick from a column that will get him the least points.  
+\u0009
+The Game ends when there either player can no longer make a move.  
+
+Then the one with the highest score wins!   So if you are ahead, try and pick a column that has no other marbles in it, this will end the game and you will be victorious!
+
+

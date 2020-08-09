@@ -1,0 +1,11 @@
+G-stones III is a shareware game Breakout variant. The game area consists of an arrangement of bricks at the top of the screen. The player controls a paddle which moves left / right along the bottom of the screen and must prevent a ball, or sometimes multiple balls, from touching the bottom of the screen. When the balls strikes the bricks on the screen they either destroy the brick or trigger some kind of feature such as releasing an extra ball, or a bonus item. Some bricks cannot be destroyed and others can be switched on or off as the ball strikes a switch. The registered game features random levels, choosing 20 levels from a possible 100, which makes each game different. There is no save game option.
+
+The game has many features, including:
+
+up to 6 players with individual difficulty settings, not all at once;
+3 levels of difficulty
+43 types of gems
+11 backgrounds
+up to 4 moving balls can be in play at the same time
+5 levels per game
+adjustable game and mouse speed.

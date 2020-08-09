@@ -1,0 +1,12 @@
+Avish! is an original Israeli production in Hebrew which has later been translated to English as well. It was famous in Israel for being one of the (very) few Israeli productions ever, and was sold for a brief period in 1993.
+
+A direct translation from the manual (in Hebrew):
+
+Professor Avish, the top instructor from the university, has been asked to lecture in front of a hall full of people. He was invited to sleep in a hotel in the night before the lecture. When Avish woke up in the morning, while still in his pajamas, he discovered to his amazement that he is not in the hotel, but a spooky castle with many rooms. Avish moved from room to room in the dark castle in order to get back to the hotel and get to the lecture room.
+
+When he finally got to the lecture room he was very excited from the adventure, and therefore decided to change the subject of the lecture and tell of what happened to him.
+
+Luckily for him, Avish took pictures of all castle rooms with his slide camera, but unfortunately he forgot how he got out of every room. Help Avish find the exit!
+
+Avish is essentially a simple platform game where you must avoid obstructions in order to find the key that will open the door to lead you out of the room. 
+

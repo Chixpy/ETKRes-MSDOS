@@ -1,0 +1,3 @@
+"MAHJONG FOR ONE is an authentic mahjong game as played by the Chinese. It is not a solitaire game such as Taipei which uses mahjong tiles but otherwise has no resemblance to this real fascinating ancient Chinese game.
+
+Mahjong game is played similar to the game of rummy: four players taking turns fetching a tile and discarding a tile. The objective is to complete a hand of fourteen tiles by assembling four sets of three tiles each and one pair. Each set may be a sequence of three tiles or a triplet of three identical tiles. A major difference between Mahjong and rummy is that its scoring system depends on the composition of the completed sets and how the hand is made. This is where the challenge lies: to make hands with great features."

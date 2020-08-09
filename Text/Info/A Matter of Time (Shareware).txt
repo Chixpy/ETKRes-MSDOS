@@ -1,0 +1,4 @@
+"Text/Graphics Adventure
+
+In this introductory level adventure, the player must search for a fellow scientist, who is currently missing after experimenting with a time traveling device. You must travel back in time in search of this man, who has been accused of the murder of a colleague."
+

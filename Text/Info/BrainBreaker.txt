@@ -1,0 +1,7 @@
+BrainBreaker is a small puzzle game where the player must turn the playfield completely dark.
+
+A playfield consists of 3x3, 4x4 or even 5x5 cells. Per move, the player changes the color of an entire area (e.g. 1x3 or 2x2 at the 3x3 playfield), making light cells dark, but also dark cells light again.
+
+The game completes when all cells are turned dark. There is no way to lose, but the game counts the amount of moves until completion of a puzzle.
+
+Finally, there is a help button, which will highlight a possible move to solve the puzzle, which can be used as often as the player needs it.

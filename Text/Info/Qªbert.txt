@@ -1,0 +1,5 @@
+Q*bert is an arcade video game developed and published by Gottlieb in 1982. It is a platform game that features two-dimensional (2D) graphics. The object is to change the color of every cube in a pyramid by making the on-screen character jump on top of the cube while avoiding obstacles and enemies. Players use a joystick to control the character.
+
+The game was conceived by Warren Davis and Jeff Lee. Lee designed the titular character based on childhood influences and gave Q*bert a large nose that shoots projectiles. His original idea involved traversing a pyramid to shoot enemies, but Davis removed the shooting game mechanic to simplify gameplay. Q*bert was developed under the project name Cubes, but was briefly named Snots And Boogers and @!#?@! during development.
+
+Q*bert was well received in arcades and by critics, who praised the graphics, gameplay and main character. The success resulted in sequels and use of the character"s likeness in merchandising, such as appearances on lunch boxes, toys, and an animated television show. The game has since been ported to numerous platforms.

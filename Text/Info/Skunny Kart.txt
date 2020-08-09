@@ -1,0 +1,1 @@
+Mario Kart clone. Race around a quasi-3D track as one of the characters from the series of Skunny games. Many tracks to choose from that take place all over the world. Also includes a battle mode in which you may fight off the computer or a friend.

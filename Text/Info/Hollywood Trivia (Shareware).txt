@@ -1,0 +1,1 @@
+The object of the game is to be the player that scores the most points. Points are earned by answering trivia Questions that appear on the screen. Each correct answer is worth from 1 to 100 points, determined by the amount of time that it takes to answer the question.

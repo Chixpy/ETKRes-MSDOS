@@ -1,0 +1,3 @@
+"Pub Darts includes the games 301, 301 Double Out, 301 Double In/Double Out, American Cricket, and Golf.
+
+Up to four players are supported, and can be a mix of human and computer opponents. The darts are thrown by hitting a button as two different bars move (independently) near the dart board."

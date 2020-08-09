@@ -1,0 +1,3 @@
+3-Demon, commonly regarded as the very first progenitor of the 90s first-person shooters, is a surreal, wireframe-3D Pac-Man clone in which you have to move through a maze, collect points and occasionally take items which will allow you to kill enemy monsters (ghosts) instead of them killing you.
+
+After having cleaned the level of a certain percentage of points, you have the option to move to another level immediately by pressing the down key, where the monsters are smarter and move faster.

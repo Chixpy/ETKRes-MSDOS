@@ -1,0 +1,1 @@
+We"ve combined 9 of the best SOLITAIRE CARD GAMES and puzzles we could find to create this package. The games are: The Great Wall, Monte Carlo, Four Kingdoms, Sir Tommy, Russian Patience Beleaguered Castle, and more. Each game has its own resetable best scores table, screen-sensitive Help, and an Undo function.

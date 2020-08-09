@@ -1,0 +1,2 @@
+Word game with a twist! Combines the word knowledge required for crossword puzzles with the logic necessary for building magic squares. Solve ten word definitions (all answers contain five letters), then rearrange the letters so that the jumbled letters fit into a five-by-five grid.
+

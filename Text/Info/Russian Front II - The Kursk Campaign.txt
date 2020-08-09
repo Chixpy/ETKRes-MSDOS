@@ -1,0 +1,7 @@
+A shareware game, based freely on Avalon Hill & Co"s board game "Panzerblitz".
+
+If you know this game, or any similar game, like Panzer General, all the Panzer Campaign games etc, you will immediately recognize the style of this game, and should have no trouble understanding the rules.
+
+The map is set up in squares, where you move you square units, with an image on, around. Pretty standard stuff for these style games. You run them into each other when you wanna fight.
+
+It offers tree scenarios set in 43/44, 10-12 turns each, with victory conditions determined by "location" and as many units destroyed as you can of the opposite side.

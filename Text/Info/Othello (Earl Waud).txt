@@ -1,0 +1,1 @@
+This version of othello comes with it"s Visual Basic 5.0 source code.

@@ -1,0 +1,1 @@
+Cyber Marine is a single player, 3rd person shareware shooter in which the player has five lives in which they must navigate a series of caverns, avoiding robots, gun turrets, traps, pits of toxic slime and so-on.It is keyboard controlled and the action keys are fixed, they cannot be redefined.

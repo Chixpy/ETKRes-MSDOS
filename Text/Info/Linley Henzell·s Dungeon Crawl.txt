@@ -1,0 +1,5 @@
+Dungeon Crawl is an open source roguelike game originally developed by Linley Henzell.  In March of 1999, Linley entered law school and gave over the maintanence duty to a group who call themselves the Crawl DevTeam. 
+
+Dungeon Crawl allows the player to choose a race and class for his character, then the character is set loose in a dungeon.  The eventual goal of the game is to retrieve the Orb of Zot from the depths of the dungeon and escape with it for fame and the people"s ovation forever.
+
+Some of Crawl"s interesting features include: complex skill system, religion with many gods, unique magic spells, and many optional, themed side dungeons.

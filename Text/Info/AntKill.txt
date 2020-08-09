@@ -1,0 +1,3 @@
+Revisiting the abstract origami wireframe 3D first-person perspective of Bob"s Dragon Hunt for the second game using the homely but workmanlike "VirtualDungeon" engine, it finds itself reskinned -- suddenly all the dragons are giant ants, the other reptiles transformed into other varieties of enlarged arthropods.  The castle lair?  Now it"s a desert, with anthill openings promising further massacre beneath the surface.
+
+A simple look at the commands listing will reveal the roguelike machinery behind its graphical guts, dating back to Majik Adventure; as before, there are two orders of the day: hack and slash.  But to any kid who once fried ants with a magnifying glass in the backyard, this messy business could merrily continue all day.

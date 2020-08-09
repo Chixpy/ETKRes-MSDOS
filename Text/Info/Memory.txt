@@ -1,0 +1,23 @@
+Publicado en la recopilación "40 programas de oro", Memory es, tal y como su nombre deja entrever, el típico juego de memoria en el que volteando un número determinado de cartas hemos de lograr encontrar todas las parejas idénticas en el mínimo número de turnos posible.
+
+En el caso de Memory el tablero de juego cuenta con 40 cartas (cantidad no redefinible), y los volteos se realizan de 2 en 2. 
+
+Si las 2 cartas volteadas resultan ser idénticas, quedan permanentemente boca arriba. En caso contrario, tras unos instantes, vuelven a su posición inicial.
+
+La partida concluye en el momento en el que logramos descubrir todas las parejas idénticas.
+
+Por cierto, las parejas a buscar pueden ser de números o de signos (según lo elijamos en el menú inicial).
+
+Antes de comenzar cada partida contamos con una exigua cantidad de segundos para memorizar la posición de los números/signos a descubrir.
+
+La forma de seleccionar las cartas a voltear resulta, cuanto menos, poco cómoda, ya que requiere que introduzcamos numéricamente las posiciones (fila y columna) de las cartas elegidas (nada de seleccionar con el ratón o, en su defecto, con los cursores).
+
+Por cierto, mencionar, que al contrario de lo que sucede el mayoría de programas de este subgénero, en los que se suele mostrar el símbolo oculto tras seleccionar cada carta, en Memory hemos de esperar a tener seleccionadas las dos cartas a voltear para poder ver que "figuras" ocultan.
+
+Pues bien, si a nivel jugable Memory resulta algo engorroso, es a nivel técnico en donde este programa naufraga sin remisión.
+
+Para empezar, estamos ante un juego programado en Basic que bien podía haber aparecido en cualquiera de esos listados que tanto solían proliferar en las publicaciones de la época.
+
+Además, a nivel estético es muy, muy poco atractivo, y lo que es peor, en caso de elegir jugar con símbolos, además, (al menos a mi juicio) resulta muy poco "visual" (aspecto muy imprescindible, dado el tipo de programa). Todo por no mencionar el inexistente apartado sonoro.......
+
+En definitiva, feo a nivel estético, nulo en lo sonoro y dotado de una interfaz poco amigable, podemos concluir que Memory es una de las peores propuestas de este subgénero que podemos encontrar dentro del profuso catálogo lúdico "PCero". Solo apto para "hardcore DOS gamers".\u0009

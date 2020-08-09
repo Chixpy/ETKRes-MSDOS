@@ -1,0 +1,1 @@
+Contax is a game variant of GO. You take turns placing stones on the board and the first one to get five in a row wins. You can select different grid patterns and board sizes, two-player mode, auto-play and more.

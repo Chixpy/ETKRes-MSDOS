@@ -1,0 +1,3 @@
+Final Soul is a text adventure game, where you are stuck in the house, and through puzzles and riddles, must find your way out. Through the use of fun, and sometimes, complex puzzles, you have to piece things together to get out of what appears to be a haunted house! You will run into others in the house, all friends of the people who invited everyone! Keep an eye on what you see and what you hear - there"s clues to be found everywhere!
+
+The only "graphics" is the map of the house which is composed of ASCII graphics.

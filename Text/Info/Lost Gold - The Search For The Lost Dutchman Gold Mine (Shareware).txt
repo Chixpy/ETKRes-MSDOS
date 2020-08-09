@@ -1,0 +1,3 @@
+"This is a text adventure that takes you back to search for lost gold that to this day has not been found. There are various hazards and obstacles to overcome and a number of assorted treasure mines to locate.
+
+You will be using the standard text adventure keyboard input to work your way through this adventure which is fully functional and not crippled in any way."

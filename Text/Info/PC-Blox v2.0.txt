@@ -1,0 +1,4 @@
+PC-BLOX is a new concept in 3-D CAD (Computer Assisted Design) programs.  PC-BLOX lets you build three dimensional models out of solid building blocks.  Build cars, trucks, animals, castles, spaceships or anything else you can imagine, the possibilities are unlimited!
+
+PC-BLOX is a virtual reality program that simulates building with solid blocks.  PC-BLOX is easier to learn and use than any other 3-D CAD program because it uses a skill you already have: building with blocks.  Your creations develop in PC-BLOX as you intuitively add and remove shapes in space.
+

@@ -1,0 +1,6 @@
+Vertigo is a flight simulator with emphasis on realism of the flight model.
+
+Several types of aircraft are selectable.
+
+The simple scenario is drawn using wire-frame graphics.
+

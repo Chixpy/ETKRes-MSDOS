@@ -1,0 +1,5 @@
+OutRun is a racing game that allows the player to race across varied terrain in a readily available Ferrari, complete with a female passenger, over a series of short tracks.
+
+Gameplay is viewed from just above and behind the car. The roads are full of sharp bends and hazards, contact with which can cause the car to roll and lose the player"s time. On each section of track there is a fork in the road, allowing the player to choose which direction he or she wishes to go in. The player has to to complete five track sections in total, out of the fifteen in the game.
+
+The PC version has undocumented support for the Tandy TL/RL/SL series; there are a few digitized sound samples that can be heard if the joystick is not chosen to play the game (since the TL/RL/SL couldn"t play digitized sound and access the joystick at the same time, due to a rediculous design flaw).

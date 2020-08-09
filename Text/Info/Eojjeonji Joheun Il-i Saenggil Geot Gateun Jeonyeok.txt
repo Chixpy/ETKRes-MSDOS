@@ -1,0 +1,5 @@
+Eojjeonji Joheun Il-i Saenggil Geot Gateun Jeonyeok (which roughly translates to "A Night Where Good Things Are Bound to Happen") is a Korean-made beat-em-up based on the comic book by Myung Jin Lee. The protagonist of the game is a rebellious teenager named Namgoong Gunn. On the way to his new school, where he hopes to forget his rather violent past, he spots a beautiful girl, and immediately afterwards his wallet gets stolen. Following the thief, Gunn gets involved in a struggle against a powerful criminal syndicate.
+
+The basic gameplay system involves standard combination of punches, kicks, and jumps, in a Final Fight-like fashion. However, the game also has an RPG element in that it awards the protagonist experience points for defeating enemies or even simply harming them. At a level-up screen the player can choose to upgrade Gunn"s "tech", which allows him to learn new moves such as dashing, grabbing enemies, getting up faster, and others. The player can also choose to upgrade the protagonist"s health bar, attack power, and speed.
+
+Keys: Arrows - move, ALT - kick, CTRL - punch, SHIFT - jump

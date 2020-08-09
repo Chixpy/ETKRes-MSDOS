@@ -1,0 +1,15 @@
+Adventure is Serenia (as the PC version is called) or as it\u2019s otherwise knows The Wizard and the Princess was made in 1980, but wasn\u2019t published by IBM for PCs until two years later. It is considered to be the first textual adventure that also incorporated graphics and as you might have expected the legendary names of Roberta and Ken Williams are behind the game. 
+
+Now since the game was made in 1980 you can\u2019t expect it to have a lot of extra features, but you can already sense the senseless Sierra deaths, which almost became their trademark in their early adventure games. 
+
+Most of the text is short and down to the point, which I guess was thought sufficient since there were also pictures to go with the game and you could actually see what\u2019s happening. And you even get an occasional blip from the PC speaker (imagine that). 
+
+The game recognizes the NEWS abbreviations, so don\u2019t have to type GO NORTH every time etc. There is also a bit more complex order that you have to give, in which you need to make two sentences (one after another). First give a command and then give the object to interact with. The game could not handle complex orders given in one line yet (so keep your commands short). 
+
+There are also many words the game doesn\u2019t recognize, but that\u2019s why the walkthrough is included (so you won\u2019t have to hurt your head while trying to finish it) and there are some irregularities\u2026 I mean how can you get back to the same place by always going north and never once turning south? My internal compass just went LOCO while playing this game and that\u2019s not a good thing. 
+
+Still the game is the first graphic adventure and certainly deserves its place in the Home of Old DOS games (which Abandonia is) and it is by no means a bad game. There are just little things that throw you off playing (like the compass thingy). 
+
+Important:
+
+If there\u2019s a lot of text under the picture not all of it will be shown and the game will halt. You must press Scroll Lock in order to continue! 

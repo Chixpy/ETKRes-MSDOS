@@ -1,0 +1,2 @@
+The demo only includes the story intro and first level. Platform game.
+

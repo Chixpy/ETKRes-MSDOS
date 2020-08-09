@@ -1,0 +1,5 @@
+Links: The Challenge of Golf is a golf simulation that tries to implement realistic aspects of golf in a video game format.
+
+The game uses VGA 256-color graphics, with courses containing trees, water, sand traps, and the fairway. The addition of ball physics, mulligans, changing the lie of the ball, real digitized environmental sounds, and the ability to view a replay (from multiple angles) helps to emphasize the realistic aspect.
+
+Links comes with one Championship Course, Torrey Pines, located in San Diego, California, USA.

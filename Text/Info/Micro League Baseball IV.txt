@@ -1,0 +1,1 @@
+In this installment improved by graphics, digitized video and network support, you continue to manage one of baseball teams of Major League. The Exhibition and League Play, Shedule and Playbook Editor, Manager Profile are available. You can initialize your own league, add and delete teams, set team roster, assign manager, update season, etc.

@@ -1,0 +1,3 @@
+"This game is actually quite simple, yet it is not so easy to win. You are a runner that has descended into a rat infested maze of pipes and chambers. Your objective for the game is to capture the stars, which are scattered all throughout the maze. However, in this quest to capture these stars, big ugly mean Rats will try to catch you. Avoid the rats and capture the stars, and you will have the chance to move down to the other levels.
+
+In this version, there are a total of 7 mazes. You are given only 3 runners per game. Before each level, a message will give you your objective for each RatMaze, so you know what to expect."

@@ -1,0 +1,9 @@
+Los que hayáis llegado hasta este humilde comentario siguiendo el proceso lógico -es decir, leyendo primero lo que está en primer lugar-, habréis observado una curiosa circunstancia: mientras en la review de Micromanía destacaban como defecto el hecho de que el juego no incorporase gráficos en VGA, las capturas que os presentamos en la ficha están precisamente en ese formato; nada de cuatro colores ni coñas por el estilo. Y quizá alguno de vosotros habréis alcanzado vuestras propias conclusiones, o habréis visto ya los copyrights de la parte inferior de la ficha.
+
+Efectivamente, la versión disponible en CEZ goza de gráficos VGA (e, incluso, de sonido AdLib y SoundBlaster). Lo que los chicos de Diabolic no hicieron en 1990, parece que sí lo llevaron a cabo los de Digital Dreams Multimedia en 1993, en una segura reedición, adaptada a los gustos de la época. Desconozco si en ella participaron los programadores originales, pero hay que reconocer que le hicieron un favor al juego, redondeando lo que de por sí ya era un muy buen programa.
+
+Si conseguís cargarlo en vuestros PC"s modernos (lo que no debería suponeros ningún problema si contáis con DosBOX), os auguro que lo pasaréis muy bien con este juego de... de... Con este juego, vaya.
+
+Nota: Esta review fue realizada en una época anterior de CEZ, cuando las fichas carecían de pestañas y nuestros comentarios siempre estaban debajo de un manual o una review de revista transcritos.
+
+NOTA 12/03/2014: Hemos añadido la versión original de 1990. Podéis comprobar las diferencias vosotros mismos: gráficos CGA y sonido a través del altavoz eran las características principales de un juego que sólo cambia en esos aspectos técnicos. 

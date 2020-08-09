@@ -1,0 +1,13 @@
+In The Quest of Kwirk"s Castle you are playing a green guy, Kwirk, who want either going up in the castle, or exit it. The gameplay is based on Kwirk; it"s your job to help Kwirk reach the exit.
+
+The game offers two different game modes, "Going Up" and "Heading Out", the difference is how the exit and the game field looks like. In "Going Up" you heading for stairs which lead to the next level. In "Heading Out", you just head for an open tunnel which will lead to the next level.
+
+"Going Up" offers three different difficulties, which will effect the complexity of the level, not only the size, but also the amount of puzzle elements. In each difficulty you can play 10 different levels. "Heading Out" has only one difficulty, easy, but has 31 levels in a row.
+
+You do not need to solve a level in order to get to the next, all 61 levels are accessible directly from the main menu.
+
+In the levels itself, you need to move around wooden crates in many different sizes and forms, some are only in the way to the exit (and you must get around), but some others are needed to cross water. In addition there are gearwheels in the level, from two-arms to full four-arms. You need them to rotate in order to get somewhere, or to make room for a crate to move. Furthermore, there are sometimes solid obstacles in the level, where you can end up with a crate in a dead end...
+
+If you fail the level and can"t reach the exit, you can easily restart it, and play it so long how you want.
+
+On a few levels, you aren"t alone, there are sometimes multiple Kwirks, all under your control, positioned at different places in the level. In this case one Kwirk needs another to complete the level, but all Kwirks must reach the exit, if not, you"ve failed the level.

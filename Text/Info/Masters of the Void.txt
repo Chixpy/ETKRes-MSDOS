@@ -1,0 +1,6 @@
+The game takes place in some strange corner of the galaxy where four different races fight each other for control over the sector. These are the Humans, the Insectmen, the Floaters and the Hi-Tecs. 
+In the game you can choose to lead any of  these races and the other three will be controlled by the computer. The goal of the game is simple, take control over all the other players planets.
+
+When a player have no more planets, he/she is out of the game. In the game there is 84 planets grouped together in 17 different sun systems. Each system has (through some odd coincidence) five planets each except for system 17 that has four. The players in the game fight over the planets with starships that are grouped together in fleets. There are three classes of ships that can perform different types of tasks. The Build ships screen will give you more information on this. Usually a fleet contains all three types of ships and some troops. Troops are also used to guard a planet against attacks from other players. 
+
+The game is played in turns, one player (you for instance) perform his/her actions and then the next player takes over and so on. Each turn is a year long and the current year will be displayed at the bottom of the menu-screens.

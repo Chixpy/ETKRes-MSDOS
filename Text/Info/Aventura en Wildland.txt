@@ -1,0 +1,9 @@
+Otro juego del que apenas conocemos algo.
+
+Cuenta con unos gráficos muy bonitos en CGA, que ayudan a meterse en el juego.
+
+Sin embargo, el intérprete es bastante tosco. No reconoce el verbo "examinar", presente en toda aventura conocida, teniendo que usar "mirar" en su lugar.
+
+También resulta extraño que, al realizar cualquier acción, desaparezca el texto de la pantalla y te veas obligado a pulsar una tecla para seguir actuando.
+
+Vale la pena por la belleza de sus gráficos, pero como aventura es un pelín flojillo. 

@@ -1,0 +1,10 @@
+"This is a menu of three games to guess the proper sequence within the alotted number of guesses. The games are Color, Alphabet, and Jotto.
+
+All of the games in this package have the same objective: to deduce a game-generated sequence in the least number of guesses possible. This is done by:
+
+Entering a "Guess".
+Examining the "Grade" given.
+Making "Surmises" about what is true and not true.
+Repeating this process until the solution is found.
+
+When the solution is found, a "rating" is computed. This is based upon the difficulty of the game chosen and the number of guesses made. The higher the difficulty and the lower the guesses, the higher the rating."

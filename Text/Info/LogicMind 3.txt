@@ -1,0 +1,2 @@
+LogicMind 3 is a mastermind game. It is written in QBasic by Anthony Stamboulis and was beta tested by Themis Halikias. We two consist Xplosion software.
+

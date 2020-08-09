@@ -1,0 +1,6 @@
+The aim of the game is to consume as many correctly spelled words as possible.  To do so it is necessary to eat the letters that make up each word in the correct sequence.  Points are awarded for each letter eaten in the correct sequence and deducted for each letter eaten out of sequence.
+
+The game has some inbuilt hazards and rewards and can be played at 4 levels of difficulty.  Masters of level 4 may be ready for "Codeworm".
+                                   
+WORDWORM is based upon the recognition that not all words lend themselves to neat rules of spelling.  Such words are largely mastered by repetition and recognition of what the correctly spelled word looks like.  WORDWORM uses a basic dictionary of frequently misspelt words and a game strategy that reinforces the correct spelling of these words.  You can add particular words that your child or student finds
+troublesome to this basic dictionary or create your own separate dictionary.

@@ -1,0 +1,3 @@
+In artillery games the players are compelled to calculate physical forces such as wind speed and gravity to determine where their shot lands. In the grid of this dueling arena (reminiscent of a simplified ), the players snipe with photons rather than lead shot, and hence concern themselves for the placement of diagonal mirrors, each reflecting and bending beams of light 90 degrees. In an attempt to keep the upper hand, the players, turn by turn, place mirrors to increase their range and accuracy, place mirrors to foul their opponent"s aim, and move and rotate themselves. The winner (of each two-player round between humans, computers or both) is the one who tags out the other player first with their destructive laser-beam.
+
+

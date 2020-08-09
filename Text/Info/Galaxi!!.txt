@@ -1,0 +1,8 @@
+"How are your lunar module piloting skills? Sharpen up your reflexes and get a feel for free-floating space maneuvering, managing your fuel, reaching your destinations, even doing some combat on the way.
+
+The objective of Gravity Well: land your lunar module on each of the bases, with the VSI (Vertical Speed Indicator, located on the right edge) within the green. Gain more points for a soft landing. A very soft landing earns a ""diamond,"" which earns bonus points and may be converted to fuel later on (using the [Enter] key). You must be EXACTLY vertical before you touch down. Use the DOWN ARROW to achieve this.
+
+The Auto-Land feature allows so that you can be tipped SLIGHTLY to one side and just before landing your ship will right itself if you are going downwards slowly enough. This DOES NOT result in the BEST possible score however. To keep from getting lazy you can turn this feature on and off. "
+
+In 2007 the author made this game freeware (was previously shareware).
+

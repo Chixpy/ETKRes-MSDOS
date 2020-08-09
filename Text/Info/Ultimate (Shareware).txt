@@ -1,0 +1,3 @@
+"Created with Pie in the Sky 3D Game Creation System
+
+The file_id.diz has the wrong game name, and then simply states ""shoot"em up"". I bet they sold a lot of this one."

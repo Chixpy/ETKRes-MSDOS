@@ -1,0 +1,1 @@
+Worm World is a fairly unique puzzle game where you have three items at your disposal which you must use to guide your worm through the level to the exit: antigravity, barricade, and bridge. The levels can be challenging, and a level editor is included to allow you to build your own stages. (See the author"s website for more information and instructions on how to play.)

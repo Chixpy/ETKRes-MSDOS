@@ -1,0 +1,1 @@
+For a game that describes itself as "stupid", Super Stupid Space Invaders is actually a very well made game. It uses text-mode (ASCII) "graphics" to give a new spin to the classic Space Invaders game. Surprisingly it plays quite well, and although the gameplay, graphics and sounds are quite simple, it can still be enjoyable to play in short bursts. (And the zip file is only 15k!)

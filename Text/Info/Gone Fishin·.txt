@@ -1,0 +1,3 @@
+In this fishing simulator you are an angler with some luck, who travels to a river for fishing. Arriving to the docks you buy an equipment for fishing and listen to the tips given by Bill Saiff, himself. On the walls of Saiff"s house lies the angler"s greatest trophies for different kinds of fishes and greatest misses such as boots. The goal of the game is to catch as many fish as you can during the day. So after equipping you travel on the boat to find the fishing spot and begin fishing. Using equipment chosen by you on shore you try to catch the fish, using you mouse, remembering the tips given, taking into account weather and hoping on your luck.
+
+The game has also Derby feature, which can be activated with code given by Amtex only.

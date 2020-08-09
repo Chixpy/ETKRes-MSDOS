@@ -1,0 +1,5 @@
+This straight-forward Centipede clone uses ASCII graphics in its presentation. You are able to move your base up, down, left, and right to shoot missiles at an oncoming megapede. 
+
+The megapede will use grow pills on the field to get even bigger and will use the edges of the screen and bunkers to make its way further down the screen towards you. Once the megapede touches you it"s game over. Grow pills can be destroyed with ten shots while each segment of the megapede takes only one. Bunkers will also take ten shots to destroy as they will speed up the descent of the megapede and interfere with your shots. 
+
+Be wary also of the spider which scampers across the screen depositing grow pills as his touch is also lethal to your base. The player has only one life to show his or her merits. A high score table shows the high scores for the game at the end.

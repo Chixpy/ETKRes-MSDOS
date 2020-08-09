@@ -1,0 +1,1 @@
+On most counts, this is a classic Tetris, just turned by 90\u00b0. There are a few non-tetramino pieces and there are "rogue pieces" that cannot be maneuvered. The pieces are not color-coded, they have random colors.

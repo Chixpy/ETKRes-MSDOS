@@ -1,0 +1,2 @@
+H2O is a puzzle game similar to the classic Lemmings, where you guide pixel-sized droplets of liquid to an exit with the help of a humanoid cursor. You do this by deploying bridges, blowing up obstacles and building barriers to alter the course of the stream that falls from the top of the scrolling screen. Each level has a password that appears on the bottom-right of the start screen. You move from one level to the next by completing the level objective, delivering a set number of water drops to the exit drainpipe.
+

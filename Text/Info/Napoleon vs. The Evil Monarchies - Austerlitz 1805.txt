@@ -1,0 +1,3 @@
+Austerlitz, just as the previous title from the same authors, is a tile-based wargame played in real-time - a rare trait in that period. The player takes command of either French or Russo-Austrian armies in the Battle of Austerlitz, fought on 2 December 1805 (which ended as a massive defeat of Third Coalition forces).
+
+You may play the complete battle, portion of it, or an alternative scenario. Fatigue and morale affects the infantry, cavalry and artillery on the battlefield.

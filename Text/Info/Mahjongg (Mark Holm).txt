@@ -1,0 +1,3 @@
+Mah-jongg is an ancient chinese game whose origins are  supposed to date back around 3000 years. It is typically a four player game with similarities to most  popular  card  games.
+
+This  version  is a solitaire game using the mahjongg tiles. It has been ported to the PC-Family from the UNIXPC  version of  the  SUN version, which was inspired by a version originally seen on a PC with EGA-Adaptor.

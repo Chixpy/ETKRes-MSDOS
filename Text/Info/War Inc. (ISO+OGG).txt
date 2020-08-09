@@ -1,0 +1,9 @@
+War Inc. is a real time strategy game, featuring tech research for components used to build your own combat units. Set in the future where private security forces have evolved into a corporate world police force, you run the company "Granite"; one of the leading such mercenary corporations. The game includes a stock market, R&D area, and weapons design interfaces. Build your army to your specification, and dominate the competition.
+
+Game features include:
+
+Office view - access the stock market to buy and sell to make money while you are in-between missions.
+
+Technology research interface - hire scientists to research components used to build you war machines. Categories include, power plant, armor types, weapons, and vehicle chassis.
+
+20 mission single player campaign, and multiplayer support over IPX.

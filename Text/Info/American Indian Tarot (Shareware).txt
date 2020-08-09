@@ -1,0 +1,2 @@
+Esoteric fortune telling card game with VGA graphics, mouse and Sound Blaster support. Completely menu driven. Prints reports that can be used for future reference. Twenty-two tarot card spreads are supported. This card deck is based on the first American Indian Chiefs found by Europeans during the conquest of America. Interpretations follow the Shining Path card deck.
+

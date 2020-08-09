@@ -1,0 +1,9 @@
+King Krolh and the Divine Sceptre have been taken away by a dark winged creature.  Now the Isle of Helherron is in chaos, monsters are raiding the villages, and many feel a curse has fallen over the lands.  A party of adventuring heroes is the only hope to restore order and discover the fate of the missing King.
+
+Helherron is a role-playing game with an emphasis on turn-based tactical combat.  Control a party of 8 characters that can be created from 9 unique races, and 10 classes.  Along with the standard Human, Elf, Dwarf races available, some of the more usual races are Troll, Orc, and Golem; the Golem are unique to this game and unusually strong.  Level-based advancement occurs with rewarded skill points to spend.  The game also has a spell system and plenty of items to find.
+
+Written with the Allegro game development library, this game uses a basic 2D tile system with original, though somewhat crude graphics.  Everything in the game is an object, so searching or interacting will at least provide a basic description ("A window", "A beautiful spruce", etc).  A sound card is supported with a few sound effects but no in game music exists.
+
+Helherron bears a noticeable resemblance to Nahlakh, sharing many of the same game features even its use of a comprehensive, built in help system.
+
+The game was originally released as shareware, but has since been offered to the public as freeware.

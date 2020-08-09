@@ -1,0 +1,1 @@
+This version of Battle Chess, while retaining the gameplay of the original release, features improved 256-color VGA graphics as well as new visual effects and animations. In addition, it has a symphonic soundtrack in redbook (CD audio) format.

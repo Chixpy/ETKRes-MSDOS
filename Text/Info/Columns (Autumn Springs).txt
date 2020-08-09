@@ -1,0 +1,10 @@
+Columns is a computer remake of the Sega classic puzzle game of the same name. You have a 6x14 playing field. Jewels stacked in a 1x3 column fall from the top of the field towards the bottom. You can move the jewels to the left or right of the playing field by pressing LEFT or RIGHT, respectively.
+
+Also, you can rotate the order of the jewels as they fall by pressing the UP key. The column moves down as much as possible (until it hits another jewel or the bottom of the field), and then a new column starts its way down.
+
+The object of Columns is to form lines of at least three jewels going horizontally, vertically, or diagonally. 
+
+Any time you can not place a column completely below the top of the playing field, the game is over.
+
+Sometimes during the game you will notice a special column (in the default.skn it"s light blue and white). This is the MAGIC JEWEL. When you place it on any other jewel, ALL the jewels on the field of that same kind disappear!
+

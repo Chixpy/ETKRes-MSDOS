@@ -1,0 +1,1 @@
+Multiplayer version of the original Civilization. Single player is still available, but there are a lot of multiplayer connection options.Gameplay is exactly the same as in the original. Beginning 4000 BC with only a few settlers, you build up your civilization by building cities, making discoveries and competing with your rivals.A map editor is included.

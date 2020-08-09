@@ -1,0 +1,3 @@
+Hex-A-Gone  is  a  puzzle game.  It consists of 7 concentric hexagonal objects (each referred to as a Hex), in a pattern where the center Hex is surrounded by six other Hexes.  Each Hex contains  a  series  of  6 numbers on it numbered randomly from 1 to 6.  Each Hex is also labeled with a letter from A to G.
+
+The  object  of  the game is to rotate, swap or flip the Hexes so that the numbers on each adjoining Hex is the same.  When  all  numbers  of all  adjoining  Hexes match, the game will automatically declare you a winner. 

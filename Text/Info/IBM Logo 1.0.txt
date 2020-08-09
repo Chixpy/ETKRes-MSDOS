@@ -1,0 +1,11 @@
+Logo es un lenguaje de programación de alto nivel, en parte funcional, en parte estructurado; de muy fácil aprendizaje, razón por la cual suele ser el lenguaje de programación preferido para trabajar con niños y jóvenes. Fue diseñado con fines didácticos por Danny Bobrow, Wally Feurzeig, Seymour Papert y Cynthia Solomon, los cuales se basaron en las características del lenguaje Lisp. Logo fue creado con la finalidad de usarlo para enseñar programación y puede usarse para enseñar la mayoría de los principales conceptos de la programación, ya que proporciona soporte para manejo de listas, archivos y entrada/salida. Logo cuenta con varias versiones.
+
+Una característica más explotada de Logo es poder producir \u00abgráficos tortuga\u00bb, es decir, poder en dar instrucciones a una tortuga virtual, un cursor gráfico usado para crear dibujos, que en algunas versiones es un triángulo, en otras tiene la figura de una tortuga vista desde arriba. Esta tortuga o cursor se maneja mediante palabras que representan instrucciones.
+
+Papert desarrolló un enfoque basado en su experiencia con Piaget a principios de los sesenta. Fundamentalmente consiste en presentar a los niños retos intelectuales que puedan ser resueltos mediante el desarrollo de programas en Logo. El proceso de revisión manual de los errores contribuye a que el niño desarrolle habilidades metacognitivas al poner en práctica procesos de autocorrección. Es conocido por poder manejar con facilidad gráficas tortuga, listas, archivos y recursividad.
+
+Logo es uno de los pocos lenguajes de programación con instrucciones en español en algunos intérpretes, entre ellos: FMSLogo, LogoWriter, WinLogo, Logo Gráfico, XLogo, MSWLogo y LogoEs. Logo tiene más de 180 intérpretes y compiladores, según constan en el proyecto "Logo Tree".
+
+El programa Logo existe en varias versiones.
+
+XLogo, MSWLogo y LogoES tienen la particularidad de ser además software libre.

@@ -1,0 +1,7 @@
+This first-person 3D space shooter that Novell, Inc. released to show NetWare"s IPX capabilities has single-player and multi-player modes.
+
+During gameplay with mouse or keyboard you steer your ship, accelerate/decelerate engines, shoot enemy ships, and collect satellites to restore the shields or customize your ship. The radar helps you to navigate yourself in 3D space.
+
+In Single-Player mode you are completing the 8 levels of difficulty shooting a certain number of enemies and protecting the pods. There are four types of enemy aliens (Pirate, Fighter, Guardian, Commander). High scores are stored in High Score Table.
+
+In Multi-Player mode via IPX protocol you with up to four other players try to kill each other and increase your scores by number of hits. Cloaking Device is also present in this mode.

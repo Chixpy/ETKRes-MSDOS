@@ -1,0 +1,1 @@
+This game is, quite simply, a wolf simulator. In the game, you take the role of a wolf, either in a mission (such as survive for a day) or in simulation mode, which alllows you to do whatever you want. All the aspects of life as a wolf are simulated, from eating and hunting to mating and avoiding hunters. The game also features an interactive wolf encyclopaedia.

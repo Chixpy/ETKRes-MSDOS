@@ -1,0 +1,2 @@
+Sliding pieces puzzle game. 3 different pictures are included
+

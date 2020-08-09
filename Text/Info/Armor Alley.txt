@@ -1,0 +1,4 @@
+In Armor Alley you pilot a helicopter through side-viewed terrain. Your job is to take out the enemy forces and their base, initially armed with missiles, bombs and machine guns. Watch out for enemy anti-aircraft balloons.
+
+However the game differs from most Choplifter style games by involving management of a squad. You have tanks, explosive vans, engineers and infantry units which can be ordered from the base, and must then be protected from enemy fire. Supplies are limited by financial constraints, as every unit and weapon has a price.
+

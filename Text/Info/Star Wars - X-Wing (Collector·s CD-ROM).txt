@@ -1,0 +1,19 @@
+X-Wing is a space combat simulation, the first in the Star Wars universe. From the cockpits of X-Wing, Y-Wing and A-Wing starfighters, players fight for the Rebel Alliance in their struggle against the evil Galactic Empire.
+
+Unlike earlier titles in the genre like Wing Commander, X-Wing employs a polygonal 3D engine: flat-shaded polygons are combined with bitmaps only for explosion effects.
+
+The game features a comprehensive training element. Before starting on real missions, players should navigate the pilot proving grounds, also known as "Maze", by flying through a course of doorways set atop platforms in space, preferably without missing any, all while keeping an eye on the tight time limit. Higher levels add additional challenges like hostile laser turrets. Next to the "Maze", there are simulated historical missions (six for each of the three fighters) that prepare for the complex missions in the rest of the game.
+
+The main part of the game consists of three separate campaigns, called Tours of Duty. The Tours can be played in any order, even though they build on each other story-wise: Tour I, "A New Ally", tells of the Rebellion"s search for political allies in their fight against the Empire, while the Emperor launches Operation Strike Fear, a major offensive against the Rebels. Tour II, "The Great Search" chronicles the Rebels" search for the plans to the Empire"s new superweapon, the Death Star. Tour III, "The Gathering Storm", tells of their efforts to find and destroy the battle station. Animated cutscenes are featured after certain missions to continue the story.
+
+Each Tour consists of around a dozen missions, which include a wide variety of objectives. There are standard strike, escort and defense assignments, but also reconnaissance flights - just scanning ships without attacking them - or capture operations - disabling enemy ships, then protecting the transport carrying the strike team during the takeover. The game of course culminates in the famous attack on the Death Star.
+
+The three flyable fighters all handle differently and are thus more or less suitable for the different types of missions. The X-Wing is heavily armed and armored, and is usually used on strike missions. The Y-Wing is slower and less well protected, but is the only ship equipped with ion cannons, necessary for disabling ships. With its high speed and maneuverability, the A-Wing is ideal for recon and intercept missions. 
+
+Next to lasers and ion cannons, the fighters are armed with limited amounts of warheads: proton torpedoes are slow and highly destructive, while concussion missiles are faster, but yield less damage.
+
+A unique feature of the game is energy management: Energy must be divided between engines, weapons and shields. At the standard settings, weapons and shields don"t recharge - energy must be diverted from the engines for that, slowing the ship. On the other hand, putting more power into the engines adds speed, but drains shields and guns. Energy can also be transferred between the systems, boosting weapons power at the expense of shields or vice versa.
+
+Space is populated by many ships besides the player"s, most of which are well-known from the movies. The Empire will usually launch waves of TIE Fighters, Interceptors and Bombers from Star Destroyers. The Rebels employ large Mon Calamari cruisers and Corellian Corvettes. In use by both sides are Nebulon-B escort frigates and Lambda-class shuttles. Some ships not seen in the movies include the Imperial assault gunboat, the stormtrooper transport and bulk freighters. Friendly fighters will sometimes accompany the player, and can be given specific orders.
+
+The enhanced CD-ROM version of Star Wars: X-Wing features 6 new missions, improved 3D graphics, voice, and upgraded sound. In addition, the two Tour of Duty extensions are included: Imperial Pursuit and B-Wing.

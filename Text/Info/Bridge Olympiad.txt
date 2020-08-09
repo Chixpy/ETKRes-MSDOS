@@ -1,0 +1,3 @@
+A game of Contract Bridge (the classic card game) set in the National Bridge Club. Players can practice their skills against the 12 computer opponents using three different bidding systems (American Standard, Natural, and Precision). There is also a Tournament in which you play round robin against all the computer players with the highest score winning a spot in the NBC hall of fame.
+
+

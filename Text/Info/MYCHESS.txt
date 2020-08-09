@@ -1,0 +1,7 @@
+MYCHESS is one of the oldest chess games ever made. It was developed by David Kittinger (the man behind the famous Chessmaster games) in 1979, although the DOS version was published in 1984.
+
+The game is black and white (CGA 640x200) and doesn"t have mouse support, so the standard chess notations have to be written on the keyboard to move the pieces.
+
+In MYCHESS you can only play against the computer and there are 9 levels of difficulty to chose from. Games can"t be loaded or saved but you can set up the board at the beginning.
+
+The game also allows you to record the moves on the printer and provides time controls for timed games.

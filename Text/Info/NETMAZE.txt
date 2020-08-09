@@ -1,0 +1,5 @@
+DOS multi-player LAN network-only game; shoot tanks on a 2D landscape.
+
+This game has not been reviewed by CFS due to technical problems.
+
+The author says: "Netmaze is a freeware multiplayer LAN network game, in which the mission is to shoot opponent tanks without being destroyed yourself. It is played on a 2D landscape, which offers objects to hide behind (stones and bushes), and power ups to collect. In the game you can smash all your friends in the tank-playground, using laser, triple laser or missiles. Sounds fun, right?"

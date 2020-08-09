@@ -1,0 +1,1 @@
+Genewars is a real-time strategy game similar to Command & Conquer. Gameplay consists of completing the given task on many planets. This involves doing different things, like eliminating the enemy or breeding mules.The game has humans in it, but its not life-like, its more fantasy. You can pick your team from humans and other races. Up to 4 players can compete over a network.

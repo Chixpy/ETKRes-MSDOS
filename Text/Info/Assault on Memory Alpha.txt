@@ -1,0 +1,16 @@
+"May 13, 2121
+
+Your name is Buck Novatron.
+
+While on a routine mission to Algar 7 your starfighter was intercepted by a Klaxon battlecruiser.
+
+Instead of risking the hopeless dogfight you surrendered, a move you may regret.
+
+Shortly after being captured, the Klaxons declared war on earth.
+
+Now you also gained the title of prisoner of war, and were subjected to all the harsh tortures the Klaxons were known for!
+
+You awake in a slimy cell..."
+
+This game was ported from the Commodore 64
+

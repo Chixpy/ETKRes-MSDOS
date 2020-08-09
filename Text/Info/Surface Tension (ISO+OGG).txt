@@ -1,0 +1,5 @@
+In the far future, a seemingly incurable virus known as PMA struck humanity with devastating results. Eventually a cure is found based on an other-worldly element known as Glomavine which is mined by the Lynx corporation. As the game starts the Lynx corp. is exploiting the supply of Glomavine and tries to control a monopoly at the expense of everyone"s lives.  You are a fighter pilot who gets convinced by a Professor Rawlin to stand up and start a Robin Hood-like campaign against Lynx.
+
+Gameplay consists of earth-based Wing Commander-like space combat and you proceed through the game accomplishing missions made up of (usually) several objectives involving some level of strategic thinking. Available weapons include standard missiles, beam weapons and a deployable remote controlled tank-like probe that changes the pace of the game a little.
+
+The graphics engine uses voxel technology to render landscapes a la Comanche, and uses pre-rendered bitmaps to display enemies and objects.

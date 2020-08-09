@@ -1,0 +1,2 @@
+"Welcome to Rbot, Bot 2. This is a program in which you design robots to compete against other robots. You will find it best to get at least one or two friends together to play as well, and have everyone see who can make the best robot, or perhaps the one that does the best in team games or free-for-all"s. At any rate, I hope you enjoy it."
+

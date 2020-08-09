@@ -1,0 +1,1 @@
+RockRush is an enhanced version of the old 8bit game Boulder Dash. It provides all of the classic game elements and unlike the C64 version of Boulder Dash, you can have slime AND amoeba in the same level. You can make your own levels with the integrated level editor. Load it by pressing F1 and F11 in the title screen.

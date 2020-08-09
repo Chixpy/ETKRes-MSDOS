@@ -1,0 +1,1 @@
+Tetris with simple character graphics (only the border uses the extended character set) and a very wide well, 19 blocks.

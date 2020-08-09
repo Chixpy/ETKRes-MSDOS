@@ -1,0 +1,9 @@
+The game is based on the Shannara fantasy novels by Terry Brooks. 
+
+The protagonist of the game is Jak Ohmsford, whose father, Shea, is a legendary hero who once defeated the evil warlock Brona. The druid Allanon tells Jak that Brona has returned, and the only way to defeat him - beside wielding the legendary sword of Shannara - is to travel to the lands of different races populating the world, and convince them to put their differences aside and join forces to defeat Brona. On his long journey, Jak will meet many characters from different races, and embrace his heroic destiny by making the toughest decisions of his life.
+
+Shannara is an adventure game with the same interface as  Death Gate, derived from earlier interactive fiction games by Legend Entertainment. The game is viewed from first-person perspective, and the navigation (beside traveling on the world map) is done by "jumping" from screen to screen, rather than by physically moving the protagonist. The game has inventory-based puzzles and extended conversation trees with many dialogue options.
+
+The game has some elements taken from RPGs, such as top-down world-map traveling and occasional turn-based battles. However, there is no real role-playing system in the game (statistics, experience points, levels, etc.). The battles serve to emphasize the danger of traveling the wilderness, or appear as story-related events; sometimes, they are treated like puzzles, with specific actions leading to victory.
+
+Although the main playable character is Jak Ohmsford, other characters travel with the hero, forming a "party". These characters have their own inventory and abilities, which must be used sometimes to solve the game"s puzzles.

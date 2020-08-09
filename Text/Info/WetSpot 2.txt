@@ -1,0 +1,1 @@
+A 1 or 2 player arcade game like the old Bubble Bobble & Pengo games; features 50 levels, 7 different enemies, bonuses, high scores, music, optional extra worlds, etc. DOS but playable under Windows Win9x/ME/XP (see Review), requires 360kB memory & 1.3MB EMS.

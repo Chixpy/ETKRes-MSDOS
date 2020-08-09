@@ -1,0 +1,20 @@
+A rather poor memory game. It"s done in pure QBasic featuring poor graphics (card images are letters of different color). It also features few annoying bugs. Single player only game.
+
+"
+"                           Z E M M O R Y 
+"                                  Created By: BattleCraft99 of ~BC99 Inc.
+"
+"
+"To All Those That Open This File:
+"   I would just like to say that due to a "severe error" in the programming
+"I was unable to make this file an .exe so I was forced to leave it in the
+".bas format.  If you want to modify it then please give me credit still.
+"Spent alot of time on this game and it still got some bugs but I"m workin
+"on fixing them. If you"re able to make it an .exe I"d be thankful if you"d
+"send it to me. Also if you can fix the bug that turns the matches back over
+"when clicked then I"d be thankful for that too.  Feel free to read the code
+"if ya want to know how I did any of this and copy any of it to your own
+"games.    Thankx..
+"
+"      H O L D   S H I F T   A N D   P R E S S   F 5   T O   P L A Y
+"

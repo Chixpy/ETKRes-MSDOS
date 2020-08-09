@@ -1,0 +1,1 @@
+The object of the game is to protect as much of your oil refinery as possible from the onslaught of the incoming missiles.  If they hit your oil tanks after level 1 then you lose points... so try to shoot all incoming missiles before they destroy your oil refinery.  The lower the missile, the higher your points.

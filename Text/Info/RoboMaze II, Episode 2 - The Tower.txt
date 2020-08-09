@@ -1,0 +1,18 @@
+I\u2019ll skip the introductions. No, RoboMaze I never saw public release outside a bundle collection. Yes, this could be a blessing, given the sequel\u2019s quality.
+
+In RoboMaze II, players control a robot under the command of freedom fighters from the Resistance taking down a repressive dictator by battling through his massive tower, complete with an oversized lobby and penthouse. These battles play out in straight-forward run-and-gun fashion with a little platforming mixed in. The setup is ripe for level design potential. Each room uses only a single screen, with 20 areas grouped together to form a level. This lends itself to rapid-fire progression and light puzzle elements. Should you use a key in this room? Or wait for the next floor to see what you can unlock?
+
+Too bad the game is unplayably busted.
+
+On the upside, RoboMaze II includes a functional equipment system. Between levels, you can use money found throughout the game to purchase new limited-use weapons or powerups. Somehow, though, RoboMaze II deteriorates into a glitchy mess long before these stores are available. It\u2019s difficult to describe where the game manages to do wrong, but a simple rundown might do the trick.
+RoboMaze II
+
+Have fun scaling the file cabinet
+
+Collisions are too sensitive. Characters and objects interact at the pixel, which doesn\u2019t work with a rough, jagged art style. The rooms in the tower are cleverly and realistically decorated, but climbing over rounded objects quickly becomes a nuisance. Sometimes elevator platforms will be impossible to walk onto because they stop a few beats too short of ground level, and passageways as tall as your character prove impossible to jump into. Forget about getting into one of those hallways from a moving platform.
+
+The controls are unusable. RoboMaze II has support for both keyboards and joysticks, but the keyboard movement feels poorly hashed-together afterthought. The game uses separate buttons to stop and start your movement in each direction. Additionally \u2013 and this might be the worst part about the entire game \u2013 touching any wall will stop you in your tracks. If you\u2019re jumping across a gap and tap the ceiling, you\u2019ll plunge to your doom. Heading up stairs? Be prepared to restart every time you hit one. If you\u2019re hugging a wall and need to hop to a platform above, you\u2019ll have to press the keyboard at the exact right moment. Moving too early or late will, once again, freeze you in place and send you sinking like a paperweight.
+
+If you die, you go back to the nearest checkpoint. These usually come every five rooms. That\u2019s a forgiving frequency, but all too often, a batch of levels will contain a bottomless pit platform puzzle, which is (as we\u2019ve established) really difficult. Death means having to slog back through the last few levels to reach it again and fall because of a glitch or physics quirk. Such is the case in the first set of levels; I have rarely if ever made it past the fifth room. Repeat this process again for all 100 rooms per volume. That\u2019s 300 areas total in all three episodes: 60 sets of repetitive level grinding rendered impossible because you might accidentally touch the wall.
+
+You can imagine that this becomes frustrating.

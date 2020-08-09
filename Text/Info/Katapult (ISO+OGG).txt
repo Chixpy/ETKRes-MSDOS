@@ -1,0 +1,5 @@
+Visiting a pub can be really dangerous, especially when not all arguments are solved by bare fists. The participants aim to their places to build the weapons of ultimate destruction - home-made artillery. Also known as... the catapults. 
+
+Katapult (meaning "the catapult") is Czech action game for one to four players. It"s an action game, similar to Worms series and artillery games like Scorched Earth, but with top-down view and each map fits to single screen. The player controls one of the vehicles - there can be two to four of them battling each other and if no other player is available, the computer assumes the control of the remaining ones. The players can drive their catapults around, avoid obstacles, collect boxes with powerups and ultimately destroy each other, until there is just last one standing. The players get monetary rewards for destroying any enemy catapult, which can be used afterwards to buy more and better weapons, ammunition or armor. 
+
+There is also the map editor included that allows to build the custom maps.

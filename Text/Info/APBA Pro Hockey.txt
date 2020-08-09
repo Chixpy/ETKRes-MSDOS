@@ -1,0 +1,7 @@
+This is a fairly decent statistical hockey game.  Not much graphics but if you"re into a stats based hockey simulation, this is the ultimate!    
+
+APBA Sports recently bought out a game called "True Hockey" formerly published by True Sports.  Pro-Gamer magazine gave APBA Hockey "a hearty thumbs up as an impressive, complex simulation of Pro Hockey."
+
+The Anderson Herald-Bulletin said, "For real hockey fans, True Hockey is a must-buy."  The Chicago Tribune had to say: "The true Hockey fan will revel in how realistically their computer players perform in     comparison to their real life statistics.  If you"re looking for the  most accurate simulation of professional hockey, look no further."
+
+You get all 24 NHL teams, and each club has a minimum of 25 players per team.  Play with 2 human coaches. 1 human against the machine, or a pair of computer coaches.  You can draft or trade any player to or from any team you want.  Or draft your own league from scratch.  Included is a statistics compiler, and even an automatic scheduler.                             

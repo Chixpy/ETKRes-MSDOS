@@ -1,0 +1,19 @@
+Super Scrylis fue el último juego publicado por la legendaria Topo soft. Ya os hemos contado un montón de veces las penurias por las que pasaron las compañías de nuestro país a principios de los noventa, por lo que entenderéis a la perfección que no estemos ante un Lorna o un Viaje al Centro de La Tierra, sino ante un pequeño juego que no tiene por qué gustaros menos.
+
+Desarrollado por un grupo de programación externo (probablemente ya se había disuelto el equipo propio), se trata de un programa muy sencillo pero enormemente divertido. Cuenta con dos modos de juego: clásico y moderno.
+
+En el primero tu misión es girar los polígonos que aparecen en la pantalla para que las caras coloreadas queden colocadas exactamente en el lugar en que están en la figura de la parte superior, que es la que tienes que imitar.
+
+El juego toma un nuevo cariz si juegas en el modo dos jugadores, pues en ese caso dispones de tres movimientos por turno, momento en que pasará a jugar tu contrincante. En este caso no juegas contra el tiempo, sino con el objetivo de acabar antes que el otro.
+
+En el modo moderno, en el cual pueden jugar también dos jugadores a la vez, el objetivo no es imitar otra figura, sino girarla hasta lograr que todos los lados coloreados queden en la misma cara de la figura.
+
+Los gráficos son simples, pero cumplen perfectamente su cometido. Aparece por primera vez (y última) la alta resolución en un juego de Topo, lo que contribuye a darle un cierto aire a juego shareware de la época. Nunca me gustó ese modo gráfico (¿640x480?), aunque en un juego de este tipo encaja perfectamente.
+
+La música no está mal, pero peca de repetitiva, y los sonidos no desentonan.
+
+La jugabilidad es, sin duda, el punto fuerte del juego, como en casi todos los de su estilo. Hay un montón de niveles para jugar, y la dificultad va in crescendo, ajustada a la perfección. Puedes pasarte un rato largo jugando sin darte cuenta, hasta que se te acaben los intentos.
+
+Lo cierto es que con Super Scrylis se nota que la crisis estaba hundiendo el barco sin piedad. Antaño habían quedado las superproduccciones que tantos buenos ratos nos habían hecho pasar y aunque, como he dicho anteriormente, estamos ante un buen juego (y así lo reflejamos en la puntuación), programas de este nivel circulaban por docenas en los círculos de la libre distribución, y si Super Scrylis hubiese sido un juego freeware no creo que nadie se hubiese sorprendido.
+
+Por otro lado, hay que indicar que Super Scrylis es la segunda parte de un juego que estaba incluido en el disco que acompañaba a la revista PCManía.\u0009

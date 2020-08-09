@@ -1,0 +1,2 @@
+There are two interlocked circles. The object is to manipulate these until all the colors are lined up.
+

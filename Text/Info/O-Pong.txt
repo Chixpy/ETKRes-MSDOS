@@ -1,0 +1,1 @@
+The top-down view game O-Pong plays exactly like an air hockey game. You control a paddle which you use to shoot a puck into your opponent"s goal while simultaneously defending your own goal. The game plays to three points to decide who is the winner and allows for two players to play against each other or for one player to play against the CPU.

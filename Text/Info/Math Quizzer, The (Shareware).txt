@@ -1,0 +1,3 @@
+The Math Quizzer was originally started simply as something to do to for the fun of it. The idea was to come up with a little program for my nieces to practice addition and subtraction.  The Math Quizzer version 1.0 was released into public domain as the culmination of that particular project.
+     
+After a year of the program being in the public domain, many people using the program have sent me messages on bugs they have found and suggestions that they would like to see in the program.  I have taken the best of these suggestions and have incorporated them into this program. With the additional effort and time involved in making these changes I decided to offer this release of the program under the Shareware concept.

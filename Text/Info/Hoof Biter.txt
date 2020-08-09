@@ -1,0 +1,1 @@
+Hoof Biter the fast-paced horse racing game featuring Ansi graphics. Adjust the accuracy of odds as up to 5 players bet and root the mini horses on. Mouse supported.

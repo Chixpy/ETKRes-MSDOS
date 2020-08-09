@@ -1,0 +1,9 @@
+"Babble! is a toy for people who love words.
+
+Babble! takes samples of text from various sources, analyzes them for style and content, mixes them together in varying proportions, and then...well...*babbles*. On and on. Endlessly. If you take its samples away, it still babbles. That"s what Babble! does. It babbles!
+
+By mixing up words and ideas, and by finding connections which are not obvious to the naked mind, Babble! is useful as a creative tool and as a cure for writer"s block. It can scramble ideas in brainstorming sessions like nobody"s business. It will compose advertising copy, overdue marketing plans, and official government reports. It"ll generate text in the style of whomever you please for use in school papers, public speeches, and contests in New York Magazine. It can be used to produce brochures, press releases, newsletters, letters to the editor, and letters to John Dvorak. It"s great for answering all that pesky Email as well as any other electronic communications, and it"s also been used to document source code and write program manuals (like this one, for example).
+
+We tried it on legal boilerplate, but the stuff that came out sounded just like the stuff that went in!
+
+Babble! is fun, too. The text Babble! generates doesn"t necessarily make sense, and is seldom grammatically correct. In spite of this (or perhaps because of it), much of what it produces is remarkably entertaining. It"s fun to play with on your own, and it also makes a great party program. It"s terrific at disrupting work in an office - one person runs it and starts giggling, and then everyone gathers "round. We consider Babble! to be the first in our line of anti-productivity tools."

@@ -1,0 +1,7 @@
+Funball is a checkers-like game for two players. The goal is for a player to get a ball onto the opponent"s base, while stopping the opponent from doing the same. Each player controls one color of balls--either red or green.
+
+Like checkers, the game board is an eight-by-eight grid. Unlike checkers"s squares, though, Funball"s bases don"t just passively accept balls. Bases can change a ball"s size, teleport it, spring it further along, cause it to slide past rather than land, or have numerous other effects--there are thirteen different types of bases. The arrangement of the different kinds of bases isn"t always the same, either. When starting a new game, the player can choose from five different preset boards, or use the board editor to create a custom board.
+
+Not only are there different types of bases, the balls themselves can be different sizes. The relative sizes of the balls determines the outcome of an attack, and can have other effects, depending on the target base. In addition to the balls, the board can contain a spider, which moves around the board each turn, and can lay eggs that balls can absorb to grow larger.
+
+The game can be played against the computer, or against a friend in hotseat mode.

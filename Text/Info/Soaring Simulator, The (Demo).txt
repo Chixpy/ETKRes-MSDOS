@@ -1,0 +1,5 @@
+The Soaring Simulator 3 is a flight simulator focusing on gliders (also known as "sail-planes") - aircraft that have no engines and fly silently, using thermals (rising expanses of hot air) to stay aloft for extended periods of time.
+
+A sophisticated flight model emphasizes the unique characteristics of these special aircraft. Players have the choice of flying a KA-8, LS-1F, SB-10, ASW-27 or a radio control model. In order to get airborne, players have an option of using a tow-plane, a winch, or by-passing the take-off and starting in the air.
+
+Much of the game centers around learning how to ride thermals so that the glider will gain altitude. Players can seek out thermals using clues found in the layout of the land, cloud formation, and weather. Weather effects can be customized. Additional planes and geography are available for download on the developer"s site.

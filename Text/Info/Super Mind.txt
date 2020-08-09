@@ -1,0 +1,3 @@
+Juego de preguntas y respuestas para dos jugadores, con varias categorías, en el que se te ofrece la respuesta y has de decidir si es correcta o no.
+
+Realizado en 1989, cuenta con gráficos CGA en su paleta menos habitual, y sonido a través del beeper. Ningún alarde tecnológico, como podéis comprobar.\u0009

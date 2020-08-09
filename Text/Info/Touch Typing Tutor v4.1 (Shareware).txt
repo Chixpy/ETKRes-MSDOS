@@ -1,0 +1,11 @@
+TUTORIAL MODE
+
+Has eight graduated lessons and adapts itself automatically to the users skill level.  Bar graphs showing progress are automatically available after each set of lessons.
+
+SPEED MODE
+
+Is designed for typists and companies to measure typing speeds.
+
+GAME MODE
+
+Adapts itself to the typists skill, forcing the user to type faster and faster throughout the five skill levels.

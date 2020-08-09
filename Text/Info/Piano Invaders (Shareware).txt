@@ -1,0 +1,1 @@
+Piano Invaders - is an action game in which players become familiar with musical notes and piano keyboard. Players can print a black and white piano keyboard overlay which can be taped to the PC keyboard using a Dot Matrix or Laser printer.

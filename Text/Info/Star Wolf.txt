@@ -1,0 +1,7 @@
+Because this game is still in beta format, some features aren"t optional in this version. Missles won"t fire, and some of the menu options don"t work. But the majority of the game does function.
+
+Nearly all of the intro sequence has been taken out to cut down on download size. The intro music, and various sound effects have also been removed to save space. The BETA campaign involves 9 missions to give you an idea what some of the final missions may involve.
+
+Star Wolf features many advances in Quick Basic programming. Star Wolf features anti-aliasing graphics, without the need for a 3D graphics card. Explosions, engine exhaust, laser blasts, and stars are all light source shaded, anti-aliased, and filter rendered for a smooth appearance and dramatic effect never before seen in Quick Basic.
+
+Star Wolf does have some hefty requirements, but Quick Basic is by no means a fast language. However, the faster your computer, the better Star Wolf will operate and appear. I hope anyone who is serious about Basic programming will take a good look at this game. Star Wolf is an example of what can be done with a little determination and months of programming.

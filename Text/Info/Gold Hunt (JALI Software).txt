@@ -1,0 +1,1 @@
+A simple Boulderdash clone in which you cannot walk under falling boulders. All ten levels are automatically generated.

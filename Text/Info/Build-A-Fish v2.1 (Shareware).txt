@@ -1,0 +1,1 @@
+The Build-A-Fish program allows the user to define physical attributes of a fish and then the computer displays the fish.  This program is capable of generating 67 different fish.  Each fish is described briefly.  This  program is an interactive exhibit used on the floor of the Virginia Marine Science Museum.  

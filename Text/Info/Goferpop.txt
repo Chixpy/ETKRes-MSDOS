@@ -1,0 +1,2 @@
+A simple game where you shoot the gofers as they come out of the ground. Just like Whack-a-Mole, except the animation is a gun instead of a mallet.
+

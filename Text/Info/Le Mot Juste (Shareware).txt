@@ -1,0 +1,5 @@
+"This game is based on the popular TV program Blockbusters, and is similar to the part in the game known as the Gold Run. Once you have selected a topic five hexagon shapes will appear on the screen and each will contain a clue which will be one to three letters in length.
+
+At the same time a Card will open on the screen with the clue letters and a Hint as to what the answer should be. Beneath this clue Card is an Answer Card which you should fill in with what you believe to be the answer.
+
+You will also see a time counting away the seconds, and the idea is to get all the answers correct as quickly as possible."

@@ -1,0 +1,3 @@
+Compiled by iD Software in response to various commercial DOOM wad collections like D!Zone, the Master Levels for DOOM II was intended to be the largest mega-collection of additional Doom maps (the "Maximum Doom" collection), plus twenty new official maps (the "Master Levels").
+
+The "Master Levels" are twenty stand-alone maps from independent level designers commissioned by iD.  There is no overall campaign or an attempt to tie the levels together, though some of the levels from the same designer do have a connected story of their own.

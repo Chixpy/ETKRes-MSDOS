@@ -1,0 +1,7 @@
+In Strike Base the earth is once again threatened by alien forces. The player controls Admiral Leighton who has to coordinate and lead the defense battles on four moons with different geographical features (lava, mountains, forest and underground). Every mission begins with the tactical map where the actual combat situation is shown. Then the player has to equip the vehicles with the appropriate weapons, defenses and other tactical items like satellites or teleports. In every mission the player has a predefined set of the four vehicle types at his disposal (two tanks, a bomber and a battle glider).  
+
+After these tactical preparations begins the action part of Strike Base: The player controls the vehicles in 1st or 3rd person view and shoots at the alien troops, e.g. rocket launchers, tanks or mines. Of course the player can only use one unit at a time, so he can set waypoints for the others. The vehicles are almost completely mouse controlled, the keyboard used solely to control the speed. Destroyed enemies leave refreshments for the player"s equipment, it can also be stocked up at the base.
+
+The 15 missions have varied goals, e.g. destroying all enemies, finding escape capsules or destroying specific hostile units. A mission is lost when all units are destroyed or the enemy conquers the player"s base. There are four difficulty settings which affect the number and strength of the enemies but only on the two higher settings can all missions be played.
+
+Press L to land.

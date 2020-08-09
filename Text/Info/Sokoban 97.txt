@@ -1,0 +1,9 @@
+"The Japanese word ""Sokoban"" (see introduction screen of Sokoban if you want to know how it is written in kanji) means ""warehouse keeper"". 
+
+There are numerous variants of this program for different operating systems. Originally, it was developed by Japanese programmers who won an award with it in the early eighties. Levels 1 to 50 are the original Sokoban mazes, taken from the first Sokoban program for the PC which I encountered in 1992, a freeware program by Alan B. Liss.
+
+My version is programmed using Borland Delphi 1.0. Levels 51 to 90 are from the Unix program XSokoban, which also uses the 50 original levels and adds 40 more freeware levels.
+
+Allan B. Liss writes: ""If you complete all 50 levels, there won"t be any fireworks, just that warm fuzzy feeling of satisfaction one gets when one overcomes a challenge. You could always give Mensa a call or something.""
+
+Well, the puzzles are not quite as difficult that you must be a Mensa member to complete them, and you can be assured, each of the 90 levels can be solved, but some of them are very, very hard."

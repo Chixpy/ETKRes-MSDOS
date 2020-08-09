@@ -1,0 +1,5 @@
+Tube is a little known game from Bullfrog which, according to Home of the Underdogs (see links) was originally intended to be a test for a new Bullfrog employee.
+
+A unique concept in itself, Tube utilizes an old demo trick to simulate an endless forward-moving tunnel, along with some neat vector effects to simulate a long race track of sorts. In a nutshell you have to pick up speed in order to beat the track before your time runs out; you also have to destroy various obstacles in your way and collect weapon upgrades.
+
+This game was never made into a title by Bullfrog and was released as a freeware game -- see trivia.

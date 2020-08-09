@@ -1,0 +1,3 @@
+"There"s a 5x5 grid of square lights, which are either on or off. The object of the game is to turn them all off. You do this by clicking on any square with the mouse. Each click toggles the on/off state of that light, as well as those four which are immediately above, below, to the right, and to the left, in a cross pattern.
+
+In my implementation, you always start with a random grid (and in a random color). Not all patterns are solvable (see Notes for more on this). If you wish, you can recompile the program with an always-solvable init procedure (see Notes, and LITESOUT.PAS)."

@@ -1,0 +1,13 @@
+In this game your purpose is to drive your coin in to the slot without brake it.
+
+With the left and right arrows you change the angle of the ramps to increase or decrease the speed of the coin.
+
+The coin must fall in to the next ramp until it goes to the lowest,only from the lowest rampyou can throw the coin in the slot.
+
+Many times the next ramp is far away from the coin,in those cases you must speed up the coin with lowering the ramp ,and after before the coin is going to leave the ramp you must raise the ramp ,so the coin fly far away.
+
+All the movement of the coin is based to gravity laws so it will be very easy to understandthe necessery tricks.
+
+Every 12 stages the magnetic field becomes twice powerfull the game ends at stage 36
+
+It is difficult to finish but not imposible.

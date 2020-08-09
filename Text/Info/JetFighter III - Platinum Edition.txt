@@ -1,0 +1,5 @@
+The Jetfighter series returns once again, albeit this time it is released by Mission Studios, a spin-off from Velocity, the original developers of this franchise.  While once again the battle is against a drug lord, it takes place over South America instead of the U.S. West Coast as in its prequels.  The campaign is structure similar to Strike Commander/Wing Commander, where the scripted missions are linked by a intricate story.  The player is a pilot aboard an aircraft carrier, and can move around various places about the ship between each mission.
+
+Jetfighter III features terrain generated from satellite data, with geographically correct cities, roads, and airports.  Flyable jets include the F/A-18 and the naval F-22N.  
+
+A later patch allowed for 3DFX support.

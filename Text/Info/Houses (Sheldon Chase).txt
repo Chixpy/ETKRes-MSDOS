@@ -1,0 +1,2 @@
+Houses illustrates how to make buildings out of the blocks in the HOUSES block set. It also illustrates how you can have the character change to another character.
+

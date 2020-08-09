@@ -1,0 +1,5 @@
+Theatre of Pain is a Mortal Kombat-esque fighting game featuring characters and settings drawn from Roman history and mythology.
+
+It features high-resolution SVGA rendered sprites and backgrounds, as did Mirage"s previous fighting game, Rise Of The Robots.
+
+It uses a six-button layout, with weak, medium, and strong punches/slashes and kicks.  There are both single and two-player modes.

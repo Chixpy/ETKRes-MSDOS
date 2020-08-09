@@ -1,0 +1,5 @@
+In the game Cash Invaders, you control a space ship at the bottom of the screen while shooting at aliens. It"s like space invaders, except when you shoot one of the alien ships, they drop cash in the form of gold or silver coins, hence the name Cash Invaders.
+
+You can collect this money to buy power-ups. There are many different power-ups including, extra life, machine gun, shield, and boomerang. As you collect these power-ups, they slowly diminish over time and you have to buy more. You fight the aliens through 100 levels of intense action. Every level, it gets harder. After every 10 levels there is a bonus level where each of the aliens is marked with a number, shoot them in the correct order to score bonus points.
+
+As you go through the game, you will be faced with many challenges. Some of these challenges include stronger enemies, faster enemies, enemies that try to kamikaze, and levels that move too fast for your ship unless you buy the speed-up. The game includes a high score list that also tells you what date you scored it on.

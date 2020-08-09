@@ -1,0 +1,5 @@
+The intergalactic fast-food chain Orion Burger uses the services of an alien meat-supplier named Zlarg, who only cares for money and doesn"t have much in a way of conscience. So his next genius plan is to use the inhabitants of the planet Earth, known as "humans", as a raw, protein-rich material for the tasty burgers. However, interstellar law forbids using sentient creatures as meat. Every raw ingredient has to pass specific tests for sentience. Zlarg knows it, and he rigs the tests in such a way that no creature can pass it. Enter Wilbur Wafflemeier, an ordinary guy who is about to be grilled... in more than one way. Somehow, the unlikely hero has to find a way to pass the tests...
+
+Orion Burger is a traditional puzzle-solving adventure with cartoon-like 2D graphics. It uses verb commands "Take", "Use", and "Talk" for interaction with the environment. The game consists of five tests, each of them requiring Wilbur to explore his home town, talk to people, gather inventory items, and solve tricky puzzles in order to succeed and qualify as a sentient being.
+
+NOTA: Funciona con la ultima version DOSBox de Ykhwong.

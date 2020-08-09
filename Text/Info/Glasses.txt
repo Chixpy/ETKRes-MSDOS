@@ -1,0 +1,2 @@
+The object of this puzzle is to move TWO ADJACENT glasses at a time in order to organize the glasses so that every other glass is full. This must be done in FOUR moves.
+

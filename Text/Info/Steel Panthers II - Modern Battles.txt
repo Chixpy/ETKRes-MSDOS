@@ -1,0 +1,12 @@
+While Steel Panthers covered armored warfare from 1939-1945, Steel Panthers 2: Modern Battles focuses on conflicts from 1950-2000. It is a turn-based strategy game, set on a map divided into hexagons. The basic game engine (graphics, user interface etc.) is nearly the same as in part one, with minor improvements. One important difference is the scale of the game: a bigger map, more units, which have more statistic values etc.
+
+Included are six campaigns and a bunch of scenarios. An additional campaign generator is also included. The preset campaigns are:
+
+Germany 1980 (a fictional WW3: stop Soviet advance through Fulda Gap)
+Desert Storm 1991
+China-War 1997 (fictional: defend Taiwan against the invading (communist) Chinese Army)
+Okinawa 1998 (fictional: a new US-Japanese war)
+Golan Heights 1973
+Korea 1950
+
+

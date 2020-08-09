@@ -1,0 +1,2 @@
+Players go on a scavenger hunt in the forest, searching for magical items and encountering sprites. Requirements: 590k low memory free 2500k XMS/EMS free, VGA monitor, Sound Blaster card for sound support, fast 486 preferred. Nonviolent fun for ages 5-12.
+

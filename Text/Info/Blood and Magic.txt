@@ -1,0 +1,5 @@
+Blood & Magic is a real-time strategy game focused on unit management rather than base construction. It uses the Advanced Dungeons & Dragons license (and thus has AD&D type units) and takes place in the Forgotten Realms AD&D setting. There are five separate storyline scenarios of increasing difficulty with three missions per scenario, playable from the side of both factions each, for a total of 30 missions in the game.
+
+The game is tile-based with a 2D top-down perspective. The player starts out with the ability to create Basal Golems, around which the game revolves since they generate your sole source of power: mana. By spending mana they can be transformed into stronger fighter units or, less frequently, into buildings. The various types of terrain affect combat & movement; magical items may be found on the battlefield (and the enemy does use them, too!).
+
+

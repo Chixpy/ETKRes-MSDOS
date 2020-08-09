@@ -1,0 +1,1 @@
+Math Castle is simply a math drill game with some prettied-up graphics accompanying it, but it"s done well. The object is to protect your medieval castle from invading aliens (?!) by typing in answers to math questions. The questions can be addition, subtraction, multiplication or division (or all four) at twelve different difficultly levels.

@@ -1,0 +1,5 @@
+This program allows the user to play the solitaire game called 40 Thieves. This is a very difficult game to win and should provide many hours of diversion. 
+
+The program checks moves against game rules and gives messages when a wrong move is attempted. It allows the movement of a stack of cards in one move. It also allows the user to retract a number of moves  and automatically determines when a win has occurred and will play it out. 
+
+Color changes for cards, background or prompt are available and mouse sensitivity can be adjusted during play.

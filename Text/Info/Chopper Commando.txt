@@ -1,0 +1,9 @@
+Chopper Commando is a former shareware computer game written by Mark Currie in 1988 (version 2.0 was released in 1990).
+
+In the game the player controls a military helicopter, piloting the chopper through a side-scrolling map to complete various missions.
+
+The game featured deformable terrain, which the player could blast holes in with weapon explosions. The game also allowed the player to eject from the chopper to control a pilot capable of throwing grenades.
+
+Blasting through the mountain on the far right would enable the player to pass through the apparently impenetrable mountain range, giving access to a secret helipad that gave the helicopter super-powerful bombs and missiles if he or she exited and re-entered the copter. Blasting through the mountains on the far left gave entrance to a special screen with a secret message.
+
+At the time he wrote version 2.0, Mark Currie was fifteen years old. The source code was written with Turbo Pascal 5, ran on the DOS operating system, and featured CGA graphics. The game and source code have since been released as freeware.

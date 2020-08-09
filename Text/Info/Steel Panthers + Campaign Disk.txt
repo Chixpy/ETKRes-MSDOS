@@ -1,0 +1,5 @@
+Steel Panthers is a wargame (turn-based strategy game) by Strategic Simulations, Inc (SSI). The game is set in World War II, where the player fights battles by controling tanks, infantry, and other war marchines on a battlefield divided into hexgonal units (hexes). The game was designed by Gary Grigsby, who is considered by many as one of the preminent wargame designers. 
+
+Steel Panthers has spawned a whole trilogy, of which the last release was Steel Panthers 3: Brigade Commands. There are many types of games that can be played, including campaigns that span the war, stand alone historical battles, what-if scenarios, random battles, and play by email (PBEM) battles. However, there is also a scenario editor that lets you create your own battles, designation the type and number of units present, creating the landscape, and choosing the game parameters for the player. There are tens of countries to choose from, each with accurate represenation of their arms. In addition, there are different units for the US Army and the US Marine Corps. Information about each country"s arms can be found in the Encyclopedia, in addition to a picture of the real thing. 
+
+

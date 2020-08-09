@@ -1,0 +1,2 @@
+Logic distributed by HomeBrew Software is puzzle game. The object is to place stones down until you match a reference pattern. Each stone placed bumps the counter on nearby stones. Requires: 556K RAM VGA mouse. Soundcard optional. (v1.0)
+

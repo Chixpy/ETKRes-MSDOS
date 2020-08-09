@@ -1,0 +1,19 @@
+Black Crown fue el último intento serio de Topo por engancharse a los cambios que se avecinaban en el panorama del soft de entretenimiento.
+En 1991 lanzaron otro juego, Zona 0, pero éste estaba principalmente enfocado al todavía importante mercado de 8 bits, y no dejaba de ser un programa sencillo para PC, si lo comparamos con los títulos extranjeros que se estaban publicando en aquellos tiempos.
+
+El juego que nos ocupa, sin embargo, fue lanzado exclusviamente para los ordenadores compatibles. Se dejaba así a un lado a los ordenadores pequeños, pero también al Atari ST y el Amiga, sistemas en los que Topo había hecho incursiones con aterioridad, pero que quedarían fuera de sus objetivos ya hasta el final de sus días.
+
+Respecto a los 8 bits, probablemente fueron los requisitos de un juego de estas características los que imposibilitaron su conversión.
+Por lo que a los 16 bits se refiere, supongo que se trataría de una conjunción de factores: falta de programadores del 68000 de Motorola, género (un juego de estrategia se suponía que no era lo que más atraía a los usuarios de esos sistemas), escasas ventas de juegos originales...
+
+Sea lo que fuese, lo cierto es que la promoción del juego también fue de las últimas importantes. Anuncios, previews, portada y largo comentario en Micromanía... Fue el último juego en el que realmente se echó el resto por parte de la compañía madrileña, que intentaba desesperadamente no descolgarse del puesto de privilegio que había alcanzado en el pasado.
+
+Pero la cosa no funcionó. Lo he repetido hasta la saciedad en otras reviews: el usuario de PC era algo diferente al del resto de sistemas, bien fuese por la edad, bien por la oferta existente, lo cierto es que nos pirraban las aventuras gráficas estadounidenses o los juegos de estrategia tipo Civilization.
+
+¿Pero Black Crown no es de estrategia? Pues sí pero no. Se trata de un curioso popurrí de arcade, estrategia y juego de mesa, que acabo resultando algo confuso y poco atractivo. Tener que utilizar un tablero para mover las fichas lo hacía de todo menos dinámico, pareciendo pertenecer a una época anterior.
+
+Sí, los gráficos eran una gozada (obra de Jorge Azpiri, el sobrino de Alfonso) y seguro que a más de uno se le cayó la baba al ver las primeras imágenes en las revistas, como me ocurrió a mí.
+
+Pero el tablero... El tablero... Si hasta tenía música a través de AdLib; vale, no era lo mismo que la SoundBlaster y sus mods de Amiga, pero era un gran cambio respecto al tradicional beeper al que estábamos acostumbrados en otros juegos españoles. De hecho sólo Opera se había atrevido a utilizar esta tarjeta, mientras que la reina del soft español, Dinamic, aún no había dado el paso.
+
+Pero no... Algo fallaba, técnica aparte, y lo que era un lanzamiento de moneda al aire acabó teniendo el peor resultado posible para Topo soft: salió cruz. 

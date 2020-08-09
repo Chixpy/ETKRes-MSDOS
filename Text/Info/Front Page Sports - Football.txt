@@ -1,0 +1,5 @@
+The initial entry in the Front Page Sports lineup from Dynamix/Sierra, this was an ambitious simulation of North American football that tried to combine the arcade, coaching, and simulation football game experiences into a single package.
+
+Supported single game, season, and career modes with detailed statistics tracking, player aging and injuries, and the ability to save highlights of your best plays from any one of nine preset camera angles.  Featured a play editor in which you could make your own plays or edit any of the two hundred or so stock plays included with the game.
+
+Accommodated play styles ranging from joystick control of individual players to simulating a game entirely in a few seconds.

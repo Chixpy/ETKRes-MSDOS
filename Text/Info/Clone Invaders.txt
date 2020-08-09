@@ -1,0 +1,1 @@
+A fairly good (but no-frills) rendition of the classic Space Invaders game. There isn"t much new here, but you"re pretty much guaranteed it will work with any PC you"ve got laying around your house, so this would be a good game to try on the 8086 clunker. ;) It"s not bad overall but it is very basic.

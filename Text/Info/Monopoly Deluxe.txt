@@ -1,0 +1,3 @@
+Monopoly Deluxe is a conversion of the classic board game. The game allows for some user-based rule changes such as money given for landing on "Free Parking".
+
+

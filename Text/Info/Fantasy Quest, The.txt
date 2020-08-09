@@ -1,0 +1,7 @@
+Hi. Here is an unreleased rpg like zelda 2 (action rpg) you can create your character (3 races, 5 classe) buying items, armors and weapons, killing monsters :p making xp and rescue princess  (it"s hard to make a good description on this tiny games :p)
+
+for game key select handbook on main screen 
+
+If you see your health diminushing slowy go buying a green potions:) (died many times because of that)
+
+Run great with dosbox don"t forget to disable pcspeaker and put your cpu cycles around 7000.

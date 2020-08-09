@@ -1,0 +1,2 @@
+The object of PONG: Battle Royal is relatively simple. Try to either blow up the other ship using your ship"s bullets and missiles, or get the ball past the other ship. You get a point for destroying the other ship, and you get a point for getting the ball past the other ship too. Another little feature is the fact that you can hit the ball with one of your missiles. The ball will then turn into projectile that does a lot of damage.
+

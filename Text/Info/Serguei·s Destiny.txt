@@ -1,0 +1,5 @@
+The evil sorcerer Blackmagic took over a village named Jolimy. Only a lone apprentice magician named Serguei can eventually defeat him and liberate his homeland.
+
+Serguei"s Destiny is made with the AGI interpreter, which was the engine used for Sierra"s adventure games in mid- to late 1980"s (such as for example the first two Space Quest games). The game is primarily an adventure, but there are RPG elements as well: Serguei accumulates experience and learns new spells by completing quests.
+
+The player uses the arrow keys to make Serguei walk, and types any commands to to interact with the game, such as "open door", "get star" and so on. To cast a spell, the player simply has to type its name and press Enter.

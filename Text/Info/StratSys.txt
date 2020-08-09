@@ -1,0 +1,3 @@
+StratSys is a strategy game system sporting 640x480 16-color graphics and was my first game ever to use a mouse. It has simple easy-to-learn rules and a simple interface. If you are willing to take the time, you can create your own battle scenarios, or use the ones included (this ZIP file contains the library that was originally distributed seperately). Includes scenarios that have naval battles, army battles, space battles, robot battles, etc. Strictly a 2-player game
+
+NOTA: Escoger cualquier archivo BAT dentro de la carpeta del juego para jugar diferentes escenarios.

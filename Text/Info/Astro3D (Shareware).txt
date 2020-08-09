@@ -1,0 +1,9 @@
+Astro3D is a shareware space shoot "em up game based on the classic game Asteroids.
+
+The story is that Earth signed a space treaty with its neighbours and enjoyed centuries of prosperity. As often happens, vested interests and politics conspired to wreck the peace and a major interstellar conflict caused mayhem, death and destruction on an immense scale. Finally realising that no-one was going to win the war a truce was declared. However during the war the rival factions have disrupted the space lanes with mines, robot attack ships and general junk that they are unusable and someone has to take on the job of blasting everything into dust.
+
+The player takes on the role of Sed Fransord a kind of interstellar junk man who just happens to have a ship fitted with big guns and other cool weapons. The Earth Alliance has contacted Sed and offered him the clean up job and Sed needs the money.
+
+This is a fast paced 3D shoot "em up game with twelve levels, three of which were made available in the shareware release. There are three levels of difficulty entitled "I"m a puppy", "Let"s Rock", and "Bring "em on Big Daddy!"
+
+Each level has a mission - clear up the mines on one level, toxic waste on another - set against a different stellar backdrop and always with hordes of attacking drones, space ships and of course asteroids and the debris caused by all Sed"s blasting.

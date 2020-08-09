@@ -1,0 +1,2 @@
+First person shooter which allows you to pilot a Planet Runner (kind of a huge robot). As a mercenary for various corporations you have to "clean" planets from rivaling companies and alien menaces. Single and multiplayer modes possible.
+

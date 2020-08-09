@@ -1,0 +1,3 @@
+Play straight pool or 8 ball with up to 4 players in this incredibly customizable pool simulation.  Players can be human or computer controlled.
+
+Nearly every aspect of pool is re-created in this game including speed, English, skill levels and more.The game also has a customize menu allowing you to change friction, rail bounce, collide accuracy and much, much more.

@@ -1,0 +1,2 @@
+This is a VERY ADDICTIVE, new strategy board game you play against the computer. Once you start playing you may not be able to stop! Move your pieces to invade and conquer the game grid while the computer does the same. Many grid sizes and setups. Computer has 3 levels of play, can you beat it? Good luck the computer is very good.
+

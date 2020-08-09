@@ -1,0 +1,13 @@
+The evil witch Hexana kidnapped Hugo"s family and he has to rescue them. This game contains five ported levels from the popular TV show:
+
+Level 1/1: Hugo is driving on a draisine and has to dodge oncoming trains and dead ends by changing the tracks. On the right side of the screen is a map of the route.
+Level 1/2: Hugo has to cross a forest and has to dodge several obstacles by jumping over them.
+Level 2/1: Hugo is climbing a mountain and has to dodge oncoming stones by jumping over them.
+Level 2/2: Hugo is flying a airplane and has to dodge oncoming balloons.
+Level 3: You have to choose between three ropes. If you choose the right one your points get doubled.
+
+In every playthrough you have to beat three levels which you choose beforehand. You have to select either 1/1 or 1/2 and either 2/1 or 2/2. Because the levels were created for a TV show were you had to control Hugo with your phone buttons, the controls are simple: Depending on the level there are just two or three buttons to press at the right time.
+
+The levels contained in Hugo were originally released as Hugo - Pa Nye Eventyr and Hugo - Pa Nye Eventyr II.
+
+NOTA: El juego se controla mediante el teclado numérico, con el bloq. num. desactivado.

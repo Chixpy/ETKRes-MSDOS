@@ -1,0 +1,7 @@
+The game is mouse driven with menu bars, to start playing once it has loaded click on the GAME menu and hit NEW GAME.
+
+HOOP is a card game with fairly simple rules, but quite a bit of strategy.  Click on HELP to see the rules of the game.
+
+The other menu options are fairly self-explanitory and should not cause you any confusion.
+
+Once the game is playing, to play a card (or cards), use the mouse to click on the card you wish to play.  If you wish to pass your turn, hit the PASS icon. 

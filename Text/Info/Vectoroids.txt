@@ -1,0 +1,1 @@
+Vectoroids is a simplistic recreation of the classic vector-based Asteroids arcade game. ("Vector" based games used lines instead of sprites in order to create primitive 3D effects.) It improves very little over the original game but it could still be fun to play for fans of the original.

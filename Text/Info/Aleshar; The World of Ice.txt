@@ -1,0 +1,16 @@
+Since the beginning your parents knew you were somehow different from the others. You have the spark of Elemental Powers and dangerous tool and illegal, unless one is a priest of the Cult of Wisdom. Your father sends you off to learn under the guidance of an elementalist, hoping you would not suffer the same fate as your grandfather, who was hunted down by the Cult for not becoming a priest. 
+
+The elementalist eluded the Cult by living in far from large towns and cities. He was forgotten by the cult. Your father hoped you would be forgotten as well.
+And now you return...
+
+Aleshar: The World of Ice is a top-down perspective RPG in a world surrounded by snow and ice. Your character may be created from various available classes (Hunter, Healer, Bard, etc.), each with different speciality statistics which may be tweaked during character creation. Character statistics and abilities will increase during the game, depending on constant use of a particular ability. There are no "leveling-ups" or experience normally found in other RPGs.
+
+The world of ice is divided into 2 major areas:
+
+[1] The overland map, where you can encounter (random) monsters and visit towns, dungeons and caves. Here you can initiate hunting actions to acquire rations and use the sextant to identify your location. Time setting on the overland map is real-time, thus random monster encounters may issue even though your character is not moving. 
+
+[2] The tactical map where you commence combat and/or interact with people (when entering towns). Interacting with people involves a text parser where you enter keywords (eg. name, job, buy/sell, etc.) for further dialogs. Certain keywords are automatically highlighted.
+
+Combat occurs when encountering random monsters on the main map. The turn-based combat consists of simply moving your character to the enemy position, or manually aiming at the enemy with melee or ranged weapons. Combat then is defined by text messages indicating attack and defense roles.
+
+Magic (or known as "Spark" in Aleshar) is an ability acquired later in the game, consists of single or combined use of the 5 available runes (Fire, Water, Earth, Air, Spirit). Each spell may be tweaked to a certain power level, the higher the power used, the greater the effect but the more straining it is to your character"s fatigue. Spells directed to yourself or your allies are always beneficial while spells directed to your enemies are always damaging.

@@ -1,0 +1,5 @@
+Porntris is a Tetris clone with an adult theme.
+
+The player must re-arrange the falling blocks, by rotating and moving them, so that full lines are created, which will then vanish. Over the course of the game, the speed of the falling blocks will increase.
+
+In Porntris, the player does not get points for removing rows, but with every line a bit of a "porn video" (more like an animated GIF, short, endless mode, max. 64 KB per "video") will appear on the right side. Once the video is fully revealed, the level completes.

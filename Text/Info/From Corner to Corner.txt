@@ -1,0 +1,5 @@
+From Corner to Corner is a game of skill and logic. In it, there is no need for lightning-fast reflexes or global resource-management thinking. All you have to do is to move all of your pieces across the game field, one by one. Of course, you must do it faster than the computer-controlled players can.
+
+Think carefully over each move. Your every last decision matters in this game. Simple as it may look, actually From Corner to Corner is much more sophisticated and complex. It has its own in-depth rules and strategies, and in order to win you have to learn them.
+
+If you prefer a living human opponent to the computer (or tired of beating the machine every time), you can even play with a friend. Or several of them. The game supports up to four players, each of them either a computer or a human, according to your choice.

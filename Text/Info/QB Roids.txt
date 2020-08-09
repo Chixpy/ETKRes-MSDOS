@@ -1,0 +1,2 @@
+Another great game for Qbasic. Supports adlib. Requires a VGA and a desire to destroy asteroids.
+

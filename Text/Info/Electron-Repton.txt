@@ -1,0 +1,1 @@
+A clone of the Acorn Electron version of Repton for MS DOS. The game is unfinished and doesn"t run in fullscreen. It is possible to jump to a certain level by entering passwords.

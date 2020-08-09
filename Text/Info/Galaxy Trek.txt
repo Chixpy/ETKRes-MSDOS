@@ -1,0 +1,5 @@
+Take control of the USS Columbia in an attempt to stop a group of warships from attacking Federation Headquarters.  Galaxy Trek is a space battle game where your only goal is to destroy all the warships.  The game uses ASCII graphics and can be played using RGB, Mono, or Composite graphics.
+
+Your ship control is limited to navigating between a set of quadrants by setting a course and a speed for each jump.  If you enter a sector with an enemy, or enemies, you can engage them in battle using phasers or torpedoes.  You have a limited supply of energy for your phasers and shields, so you"ll need to stop at a space station to resupply now and then during your battles.
+
+You have a limited time to take out those warships, so get moving!

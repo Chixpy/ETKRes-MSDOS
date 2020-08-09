@@ -1,0 +1,7 @@
+Microsoft Golf 2.0 is the second and last of the Win 3.1 Microsoft Golf games. As its predecessor, it is simply Links 386 Pro, but with added graphical detail that comes much closer to its original DOS version.
+
+The main layout of the screen is changed but otherwise the game remains the same. Select Quick Start to use the default settings or settings from a previous game. There is a Practice Mode and an in-game Help System that teaches you about the game of golf in general as well as how this game is played.
+
+Microsoft Golf 2.0 comes with two courses: Torrey Pines and Firestone South. The game also offers compatibility with the Links 386 Pro courses (available separately).
+
+Microsoft"s "PlayerNet" is used as the avenue for multiplayer golf. Each person must have PlayerNet and the game installed on their system to play.

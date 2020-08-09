@@ -1,0 +1,11 @@
+"Snappy is a simple game. The idea is to collect all of the spheres, and do it as quickly as possible without colliding with anything.
+
+There are some general rules you should be aware of when playing Snappy. There are certain colors you can ride through safely. You can always ride over WHITE, BLACK, the background color (whatever it happens to be), and the color of the spheres (whatever that happens to be also).
+
+Sometimes Snappy will leave a "dotted" trail. If this is the case, Snappy can cross and retrace his path without coming to harm. If the trail is solid, he can"t cross or retrace his path, because he will die. If the path is dotted, but connected by thin lines, he can cross his path, but not retrace it. If his trail is black or white or one of the other ride-through colors, he can cross and retrace his paths.
+
+Your score continues to go down, so it is very important to do things quickly.
+
+There are only 10 levels included in the game. But the level data files are relatively simplistic in design, and with a little effort you can quickly design your own maps."
+
+

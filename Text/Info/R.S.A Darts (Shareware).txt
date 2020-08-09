@@ -1,0 +1,1 @@
+A VGA darts game written in Turbo Pascal. Includes games like 301, 501, killer, and NJM. One player against the computer or multiple players against each other. Requires VGA and mouse

@@ -1,0 +1,4 @@
+This document is to help you get to know Chicken Jockey. In this game, your goal is to bet on and raise chickens for racing purposes. Simple, no?
+
+Three new features that have been added to this version of Chicken Jockey are breeding, organized cock fighting, and importing and exporting your chickens. More features to come! The object of the game is to try and raise three championship chickens...this may not be hard on an easy difficulty setting, but it is a little trickier on hard. :o) The rest of the game is pretty self explanatory I believe! If you have any questions please feel free to e-mail me at .
+

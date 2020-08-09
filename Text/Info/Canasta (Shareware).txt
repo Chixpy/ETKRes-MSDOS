@@ -1,0 +1,3 @@
+"Strategy card game played against the computer, with sound support. The player can score points by melding cards and by making canastas. A canasta is a column of seven cards (i.e. seven Kings).
+
+Help file with explanation of all rules is included. Many options are included to configure the game the way YOU want it. Supports multiple resolutions, up to 1024x768."

@@ -1,0 +1,2 @@
+Wiggly Worm "94 is an up to date version of the classic worm game where the idea was to guide a worm around the screen, collecting numbers to increase your score, making your tail grow longer.
+

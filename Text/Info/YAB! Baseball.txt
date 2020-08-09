@@ -1,0 +1,1 @@
+YAB Baseball! is a German-made baseball game with a rather simple gameplay, reminiscent of older, arcade-oriented approach to baseball simulations, such as RealSports Baseball. The player is able to control two real MLB (Major League Baseball) teams: the Boston Red Sox and the Toronto Blue Jets, represented by the corresponding colors.

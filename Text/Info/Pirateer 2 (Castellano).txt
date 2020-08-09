@@ -1,0 +1,7 @@
+Participante en el II Concurso nacional de aventuras del CAAD, Pirateer 2 es la precuela de Pirateer. En ella, tomas el papel del capitán Hayes en su juventud. Intentando impresionar a una joven, te adentras en un barco pirata que zarpa en rumbo a lo desconocido.
+
+A diferencia de su predecesor, Pirateer 2 es una aventura conversacional pura, aunque cuenta con unas ilustraciones bastante buenas.
+
+Escrito en Turbo Pascal, el parser es amigable y permite interactuar bastante con el entorno.
+
+Tiene hasta tres finales distintos, por lo que la diversión está prácticamente asegurada, sobre todo si te gustan las historias de piratas. 

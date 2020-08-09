@@ -1,0 +1,5 @@
+"You"re about halfway through your shift at the Davis Very Large Array Radio Observatory (DVLARO), located in a desolate stretch of the U.S."s Desert Southwest. The observatory"s current project, SETI (search for extra-terrestrial intelligence), is usually fairly dull, and tonight is no exception...
+
+Then, the telescopes intercept a strong, steady signal. It seems, initially, at least, to be composed of a two-tone pulsed signal, with brief pauses scattered throughout. The data saved to disk at your remote terminal to the DVLARO represents the pauses as zeros, the 978-Hz tones as 1s, and the 1956-Hz tones as 2s.
+
+Your task is to decode the signal. If you feel that you need extra hints, look carefully at the MSG_INTERPRET program"s output screen, while it runs. It"ll give you an idea of what the DVLARO"s moderately well-written AI routines *think* they have seen in the message."

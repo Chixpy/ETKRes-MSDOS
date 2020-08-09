@@ -1,0 +1,21 @@
+Si os propusiéramos citar alguno de los títulos pioneros en el mundo de los videojuegos, seguro que entre el grupo de elegidos, la gran mayoría de vosotros incluiría al clásico Pong, creado por Nolan Busnhell (fundador de Atari) allá por un ya lejano 1972.
+
+Pong nos proponía tomar parte en un "esquemático" partido de "tenis de mesa". Cada jugador tomaba el control de una paleta (representada por una línea vertical, que únicamente podía moverse hacia arriba o hacia abajo, y que estaba situada bien en el extremo izquierdo de la pantalla, bien en el derecho). Ganaba aquel que era capaz de alcanzar antes un número determinado de tantos.
+
+Todo este prólogo viene a cuento porque Ping-Pong Colosus (con falta ortográfica incluida en el título), es una versión actualizada del clásico Pong.
+
+Como principales novedades debemos citar dos:
+
+A) Ahora aparecen de forma aleatoria determinados ítems, que una vez golpeados producen una serie de efectos. Estos ítems son:
+      - Calavera: Resta una vida.
+      - V: Da una vida.
+      - D: Súper disparo.
+      - Cápsula: Captura la bola hasta que es alcanzada por un disparo.
+
+B) Ambos contendientes tienen la posibilidad de disparar. Cada contendiente cuenta inicialmente con 3 vidas. Cada vez que nuestro adversario nos alcance perderemos una. Si perdemos las 3 vidas habremos perdido la partida, aunque vayamos por delante en el marcador.
+
+Antes de comenzar cualquier partida, hemos de decidir el tiempo de juego (de 3 a 15 minutos), y si jugamos contra el ordenador o contra otra persona.
+
+Gana la partida el que, una vez agotado el tiempo de juego más tantos haya conseguido, o bien, como hemos mencionado antes, el que haya conseguido arrebatar las 3 vidas al rival, a base de disparos.
+
+Por lo cual, resulta casi más importante intentar acertar al rival con nuestros proyectiles, que marcarle un gran número de tantos. [Agamenon3]

@@ -1,0 +1,5 @@
+Astrocounter of Crescents is set in 2095 and the world is shaken by a war between the SpaceWorld Community and the Earth Liberation Front over control over Earth and orbit. Also two corporations compete in the field of space colonization. The player takes the role of the mech pilot Lin Seo who works for one of these corporations - but soon things go very wrong... The story is told in dialogue windows.
+
+This is a side-scrolling action game. The player controls the mech which can jump and attack. The focus is on melee combat: the standard attack is stabbing and by holding down the button, it charges up into a more damaging attack with a wider range. The mech also holds a limited amount of bombs which are used as a ranged attack. During the levels, the player moves from left to right while facing many enemies, including the occasional boss fight, and avoiding dying because of taking too much damage. There are unlimited continues, but no save function.
+
+NOTA: Este perfil emplea la versión de DOSBox de ykhwong, no funcionará con versiones oficiales de DOSBox.

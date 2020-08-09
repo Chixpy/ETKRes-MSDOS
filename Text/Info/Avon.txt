@@ -1,0 +1,9 @@
+You are a tourist visiting Stratford-upon-Avon, but all is not as it seems...
+
+When you try to buy the cauldron of three old ladies, things start to get weird. When you leave the shop, you are in the middle of Stratford again -- but it is populated with characters from Shakespeare"s plays. You must discover the route to save yourself from the three wicked witches, travel between different seasons and try not to get killed while you seek for the way back to the real world....
+
+Avon cleverly incorporates many things out of Shakespeare, like the blood on your hands, the three witches, daggers etc.; however, it is not necessary to know anything about Shakespeare to be able to enjoy the game. What *is* necessary, though, is that you have a pretty good grasp of how text adventures (or Interactive Fiction) works, since the puzzles are very difficult. The DOS version has a built-in hint system, however, that may help you a bit, and you can get a full walkthrough below. 
+
+One thing that might turn off IF afficionados is that there is no "EXAMINE" command, but one gets used to it very quickly. 
+
+All in all, Avon is a very enjoyable game; if you know the most important of Shakespeare"s plays, the enjoyment is furthered by all the references Jonathan Partington has included.

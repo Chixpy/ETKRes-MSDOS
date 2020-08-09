@@ -1,0 +1,3 @@
+CHAMP Ms. Pacman is based on the Bally/Midway classic arcade game. This PC version was developed and programmed by CHAMProgramming.  It is in no way intended to be presented as an original work, but merely as the IBM version of the coin-op game.  Almost 6 months of work was put into this version to reproduce not only the look but the feel of the arcade game. 
+
+We hope you enjoy the results.

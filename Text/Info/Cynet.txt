@@ -1,0 +1,22 @@
+Hi! Necromason here with my second finnished QBasic game.
+
+It"s a side-scrolling action game with cool VGA graphics.
+
+It is the best game of it"s type!
+
+So enjoy this wonderfully crafted QB masterpiece. (Well almost :> )
+
+Story:
+
+In the year 2097, an evil race of genetic and cybernetic creatures arose to conquer humanity.
+
+Led by the satanistic V-Tron robot they seemed unstoppable.
+
+They destroyed cities and annhilated soldiers in the millitary"s attempts to stop them.
+
+Finnaly an alliance between most nations on Earth called the United Governments built a cyborg powerful enough to stop V-Tron: Cynet.
+
+This one man army was given the most powerful gun made: the Nerolizer, a jetpack and a no-crap attitude.
+He is set down by a Commanche helicopter in V-Tron"s base.
+
+Now sit back, buckle up and get ready for the QBasic game ride of your life!

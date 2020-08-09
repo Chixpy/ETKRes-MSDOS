@@ -1,0 +1,5 @@
+Tristix is based on a game originally from Russia called Tetris. Similar to Tetris, pieces fall one at a time from the top of the playing field. You have to fit these pieces together to fill rows of blocks. You can move pieces left and right, rotate them, slide them down, and drop them. When you fill a row of blocks, it will disintegrate, allowing anything above it to drop down a line. If you are playing for the first time, you might want to watch the demo to better acquaint yourself with the game.
+
+This is the full version of Tristix, which has been freeware for a while. There is no extra text file in the archive to reflect this change of status, but rest assured it"s legit.
+
+I have included a configuration file (TRISTIX.CFG) in the archive. The only thing it does is set the keyboard for the first player to something that can be considered standard: move with the arrow keys, rotate with the up arrow, drop with space. Everything else is still default.

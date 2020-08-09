@@ -1,0 +1,4 @@
+Try to match the randomly chosen color in the left paint can with the fewest mixes (tries).  Mix your solution by choosing the intensity (amount) of the three primary light colors (red, green, blue).
+
+If you loved Tetris, you may love MIX AND MATCH.  In Tetris, the goal was to correctly arrange the blocks.  The challenge was the time constraint.  In MIX AND MATCH, the goal is to match the random color. The challenge is to do it with the fewest tries.
+

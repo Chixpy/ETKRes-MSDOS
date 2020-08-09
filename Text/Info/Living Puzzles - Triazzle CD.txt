@@ -1,0 +1,3 @@
+In the game you have to solve the puzzles by turning and situating the triangles in valid places. Each side of triangles is defined by a creature. If parts of creature are correct then creature come alive. The puzzle will be solved when all creatures will breathe.
+
+There are five difficulty levels, three types of puzzle boards and many types of creatures in the game.

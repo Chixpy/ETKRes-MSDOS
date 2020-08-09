@@ -1,0 +1,5 @@
+Race Car es un juego de carreras al estilo arcade (como, por ejemplo, "Outrun"). Controlamos a un auto deportivo de color rojo y competimos en 3 diferentes pistas, cada una tiene un grado de dificultad bien diferente. Tambien debemos competir con otros 15 autos en 3 vueltas, y si se hace con el tiempo suficiente, el juego nos dira que calificamos para la siguiente pista.
+
+Este juego usaba un tipo de controlador desarrollado por Konix Multisystem en 1989 (era un periferico que se suponia que iba a revolucionar la forma de manejar los juegos), ya que era un contralador que se podia transformar desde un volante a un controlador para manejar juegos de vuelo hasta una manivela de moto.
+
+[Dantoine]

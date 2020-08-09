@@ -1,0 +1,2 @@
+Switch is a top-down puzzle game where you control a humanoid character, trying to reach the exit on each level. In order to get out of each level, you need to skillfully walk on arrows (you can only walk off an arrow in the direction it"s pointing to); master the operation of levers and buttons (they allow you to rotate some arrows around); jump through teleporters; collect keys and open doors with them; and watch out for crumbling floors (once you pass over one, it disappears and you cannot go back). 
+

@@ -1,0 +1,5 @@
+Hello there, thanks for trying TZONE. It"s a very simple "shoot them all" game. Simply uncompress the file to one single directory and type "tzone".
+
+Use arrow keys to adjust tank speed/direction and "F" to fire.
+
+

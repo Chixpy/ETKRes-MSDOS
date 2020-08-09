@@ -1,0 +1,5 @@
+Commercial Othello simulator with ASCII graphics. The objective, as always in a Othello game, is to capture more opponent pieces than the other player.
+
+There aren"t a lot of options to configure the game. The player can select only, if he wants to play versus the computer or versus another player, and if he want to do the first move.
+
+During the game, the player must type the row and the column where he wants to make the move.

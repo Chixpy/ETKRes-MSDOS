@@ -1,0 +1,8 @@
+Industrial Killers by Pie in the Sky software is just a copy from other first person shoot-them games and was made as a demo to show what their Game Creation System (GCS) software could make. 3D graphics, sound effects and excellent gameplay are present and best of all it"s absolutely free. Not as good as Quake :)
+
+
+TRUCOS
+
+[ALT] + G: Activa o desactiva la invulnerabilidad. 
+K: Si mantenemos esta tecla presionada mientras nos movemos por el escenario, podremos atravesar paredes y otros obstáculos sólidos. 
+

@@ -1,0 +1,11 @@
+"DOMINATION is basically a board game which would be rather difficult to play on a board due to the complexity of the explosions involved.
+
+DOMINATION is played on a 12x10 square grid. Each square can hold a number of counters, the maximum being called the critical mass of that square.
+
+The critical mass is defined by the number of squares directly adjacent to it. So the corner square would have a critical mass of 2, a side square a critical mass of 3 and a middle square a critical mass of 4. A hole in the board subtracts 1 from the critical mass of all squares directly adjacent to it.
+
+Each player takes it in turns to place a counter on the board. A player can only place a counter in a square which is either directly adjacent to a square already containing one of their counters or in a square which already contains one of their counters.
+
+When the number of counters in a square reaches critical mass the square explodes. That square will then contain no counters but each adjacent square will have had 1 counter added to it. Each square which gets a counter placed into it from an explosion is claimed by the player who started the explosion.
+
+An explosion in a field of squares which are just under their critical mass can lead to a chain reaction of explosions, and cause the entire face of the board to change dramatically! Hence the name of the game ""DOMINATION""."

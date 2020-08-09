@@ -1,0 +1,5 @@
+"This game simulates an archery target, using the mouse for input. Each time the target loads, you have one second to fire your arrow, and the mouse pointer will always refresh in a different area of the screen.
+
+Simply point the pointer using the mouse at the target and press the left mouse button.
+
+Twenty arrows are in your quiver. Make the most of it!"

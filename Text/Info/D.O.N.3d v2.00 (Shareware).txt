@@ -1,0 +1,4 @@
+A turn based Strategy Multiplayer Wargame played on random maps. Starting with a number of cities, the goal is to explore the map, capture neutral cities and finally battle your opponents. Up to 8 players/computer controlled opponents may invent their own battle technology and try to conquer the world. - Requires: 80386 system, VGA. Features: 3D SVGA Graphics, IPX Network, Soundblaster Sound
+
+NOTA: Este perfil utiliza la versión de DOSBox de ykhwong.
+

@@ -1,0 +1,11 @@
+This multi-genre game is based on the famous comics series about Lucky Luke, a good cowboy who draws his gun and shoots quicker than his shadow.
+
+It was decided to construct a railway line to connect the East and West of the United States. Two companies argued about the establishment of this line. You were chosen to protect the quality of the line and to do not give it away to the competitor.
+
+In the beginning, Lucky Luke should move around the town and find out the bandits preventing him from travel on the train. During arcade shooting he should shoot all of them on the streets and inside the saloon.
+
+After train stops in front of the boulder on the rails, Lucky Luke has to find the way to this boulder to blow it up with a bomb collecting the useful items and using them in adventure mode. During these actions he"ll encounter four Daltons and Apache"s leader.
+
+The next trial is a puzzle, where Lucky Luke has to connect the branch lines for the train switching the points on the railway.
+
+And the last one is to solve the problem of water between Comanches and the Ranch owners in the place where quality will be checked finally.

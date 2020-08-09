@@ -1,0 +1,3 @@
+Mah Jongg is a solitaire tile-matching game first invented on the computer in 1981. It can best be described as a memory & strategy puzzle game. The images on the tiles are from the 19th century Chinese game of Mah Jongg (a board game for four players).
+
+One tile set comes standard with the unregistered version. Registered users receive special files making it possible to create their own tile sets and use other pre-designed ones.

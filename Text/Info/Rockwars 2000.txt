@@ -1,0 +1,5 @@
+You play the part of the blue castle. You have been attacked by the red castle, who has started sending robotic tanks, armed with a short range death-ray, at you! Fortunately, you"ve been hard at work on your own secret weapon: a powerful catapult that can launch rocks all the way to the other side of the screen.
+
+A tank will start coming at you as soon as the game begins. If the red castle is fairly close, then you should shoot the tank first. Every time you blow up a tank, the red castle sends another one, so sooner or later you"ll have to hit the castle. To fire, press the enter key, and you will be prompted to enter the angle (45-90) and speed (0-100) at which to fire. Be sure to take the wind into account! If the tank gets close enough to your castle, then you"re toast!
+
+Remake of QB Rockwars.

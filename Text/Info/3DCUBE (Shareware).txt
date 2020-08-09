@@ -1,0 +1,1 @@
+This is a 3D Rubik"s Cube game controlled by either mouse or keyboard. The goal of the game is the same as it is for the real thing. Realign the cube back to its original position with each face a solid colour. You can rotate the cube around the x,y,z axis and rotating the faces is accomplished by the number keys 1-6.

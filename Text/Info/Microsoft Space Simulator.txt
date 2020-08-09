@@ -1,0 +1,5 @@
+In the grand tradition of Microsoft"s Flight Simulator series, Space Simulator takes you on a journey through the Milky Way--and even beyond it, if you"re adventurous and have a lot of time to kill.
+
+Developed by the same company that worked on the Flight Simulator games, SS is a painstakingly detailed spaceflight simulator that allows you to explore the galaxy in a variety of ships, from the spacewalking MMU to the massive Zander Freighter.  The entire solar system is modeled, along with dozens of other hypothetical systems, and you can also explore comets, nebulae, and other celestial bodies.  You can program the flight computer and autopilot to take you on preset journeys, or take the controls yourself.  Nine special missions are included which demonstrate the depth and features of the simulator.  There are also extensive customization options available to adjust the simulation"s complexity.
+
+Space Simulator features SVGA graphics with Gouraud-shaded 3D models and resolutions up to 800x600 with 8-bit color.

@@ -1,0 +1,3 @@
+"Welcome to Advanced T-Robots, a game which tests your programming skill by competing robot programs in a battle to the death in a simulated environment. The robot programs are written in a language called ATRA (Advanced T-Robot Assembly), which is similar to assembly language on the PC.
+
+In concept it"s fairly simple. The robot has a drive system, a certain amount of armor, and a turret that houses a scanner and a weapon. The weapon generates heat, which you will need to regulate. The scanner has a specific arc in which it can detect an enemy. So the trick is to handle all of these aspects of the robot effectively and efficiently to kill the opponent robots. "

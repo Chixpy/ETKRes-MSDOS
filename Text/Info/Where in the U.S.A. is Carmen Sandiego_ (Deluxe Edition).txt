@@ -1,0 +1,5 @@
+A remake of Where in the U.S.A. is Carmen Sandiego?, this title features high-resolution graphics, digitized sound effects, and new locations.
+
+Sign your name up, then listen to the chief give you details about the suspect and the loot stolen by them, the location where the suspect was last seen, and the deadline by which you have to apprehend the suspect by. Question witnesses and contact informants to get information on the next location that the suspect headed to, as well as any information that could lead to a warrant. (You cannot arrest the suspect without one.) Determining where to go next will require research on your part, as everyone you question will reveal places, not cities that appear on the travel map.
+
+When you have decided where you should go next, you can travel to the next location. And from there, the above process gets repeated until you finally caught up with the suspect. A new feature on this map allows you to zoom in to a state, allowing you to look closer on its towns and terrain, and its surrounding states.

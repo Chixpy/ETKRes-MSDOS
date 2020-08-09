@@ -1,0 +1,26 @@
+The game is a compilation of several Casino games with ability to play a Single Game, win a Tournament, or spend a 3 weeks vacation in Quantum City full of casino houses.
+
+The casino games are:
+
+Baccarat
+Big Six Wheel
+Bingo
+Blackjack
+Caribbean Stud
+Casino
+Craps
+Keno
+Pai Gow Poker
+5 kinds of Poker (5 Card Stud, Texas Hold"em, 7 Card Stud, 5 Card Draw Jacks or Better, 5 Card Draw Lowball)
+Red Dog
+Roulette
+8 kinds of Slots (Joker"s Wild, Magic 7, Nevada Nickels, Fruit O" The Tomb, Desert Dollars, Diablo Dollars, Buggy Bucks, Midas Touch)
+3 kinds of Video Poker (Jacks or Better, Joker"s Wild, Deuces Wild).
+
+During Single Game mode you choose the appropriate game and play until you win enough money.
+
+In Tournament mode you choose one of seven Tournaments, which path charts vary, and try to win.
+
+In Three-weeks Vacation mode you find yourself in Quantum City. Full of different Casino houses, such place welcomes you with all your money. Starting coupons are given to you to visit certain places. Walking on the streets or calling a taxi, you may choose the place, and while inside one of Casino Houses you may play casino games available here. Three-weeks are flowing, and your playing efforts may be successful, or not. If you are running out of money, the Crazy Mike"s Pawn and Loan shop is present. You always may sell your items, such as watch, here and continue your vacation. The goal is to spend your vacation well.
+
+The game includes the voice-overs and player profiles. Profile of player may be saved in progress and loaded. The best winning scores will be stored and displayed in Hi-Score tables.

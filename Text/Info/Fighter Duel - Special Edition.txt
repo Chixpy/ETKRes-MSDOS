@@ -1,0 +1,14 @@
+WW2 air combat simulator, port of the 1991 Amiga hit Fighter Duel. The game comes with 13 accurately modeled planes to fly in or against in 8 tactical scenarios to which you can make minimal adjustments with a "foe editor" which allows you to customize the enemy pilot"s AI.
+
+Uses 640x480 256 polygonal gourad-shaded graphics and the game provides multiplayer support for head-to head action through modem, in standard or tournament mode and with support for DSVD (voice and data) modems.
+
+This special edition is a re-release of the original game with additional features. It contains:
+
+Fighter DuelImproved flight models
+9-player IPX network play
+Radio chat
+Expanded video card compatibility
+Extra planes
+Improved joystick calibration and support
+Force feedback flightstick support
+Keyboard controls

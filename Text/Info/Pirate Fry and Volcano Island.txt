@@ -1,0 +1,5 @@
+Fry is a pirate who needs to acquire his pirating license since the passing of a new rule in his guild. He has to take three tests: kill someone, steal something valuable and redeem himself. After successfully passing a logic test, he"s sent to Volcano Island in order to fulfill his triple objective; an island that is the territory of terrible headhunters. Will Fry remain a pirate or will he die so young? 
+
+Pirate Fry is an independent game made with the AGS Engine and is the first game in the Pirate Fry Trilogy.
+
+The gameplay is in classic point-and-click fashion. The player has to select an action and then click on the object or the person to interact. There are four actions: "walk", "look", "talk" and "use/interact". Objects can be picked up in order to combine them or to use them later. They are stored in a inventory accessible at all times.

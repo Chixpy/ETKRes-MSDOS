@@ -1,0 +1,5 @@
+The player takes the role of a humanoid stranded on an alien planet, who quickly becomes involved in a war between the planet"s natives and the Dak, who want to invade the whole place.The only chance to escape the planet is to help these guys thwart the invasion.
+
+Alien Odyssey consists of four levels with two different gameplay principles: The first is a third-person mode similar to BioForge with action fights in which you need to use melee attacks or firearms to kill your enemies. There are also various commands for movements and dodging available. In this mode the player also needs to solve simple puzzles like using keycards (well, more severed robot hands) to progress or finding out which objective to blow up next.
+
+The other two levels are rail shooter sequences a la Rebel Assault in which the action consists of aiming and shooting down enemies. In the second of those levels the player also has to rotate his ship to dodge.

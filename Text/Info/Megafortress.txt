@@ -1,0 +1,4 @@
+An interesting flight sim based on the premise of Dale Brown"s Flight of the Old Dog novel. The player is in command of a crew flying a super modified and experimental B-52 bomber, outfitted with the latest weapons and stealth technology (in the novel, it was more advanced than the B-1 Excalibur, the Strategic Air Command"s most advanced bomber).
+
+The game campaign mostly takes place in Iraq, but there is 1 mission that takes the bomber to the old Soviet Union like in the novel.
+

@@ -1,0 +1,14 @@
+Like all the best strategy games, CASCADE is easy to learn and
+ yet tough to actually master. On playing the game you are presented
+ with a maze of letters, scattered with balls and other objects.
+ Each player (you v Computer) takes turns to remove a letter, and
+ the balls cascade down the gaps left. On reaching the bottom, they
+ will enter your hopper and add a value to your score. This value is
+ normally 1, but is changed if a ball hits a NEGATOR or DOUBLER in
+ its travels. NEGATORS and DOUBLERS act as TOGGLES - ie. hitting a
+ DOUBLER once turns the mode on, hit it again and its switched off.
+ Hitting a BONUS is normally worth 4 points, although this becomes
+ -4 points if NEGATE mode is on, or double that if DOUBLE mode is on.
+ If you hit a flask of GELIGNITE you will clear a path adjacent to
+ that square. When you hit a REGENERATOR, part of the maze is
+ regenerated, and some extra balls are dropped in at the top.

@@ -1,0 +1,12 @@
+"Descend to the surface in a controlled fashion and land on one of the available landing pads. Smaller pads earn more points. You MUST use retro rockets to touch down. Make sure that you are going slow enough that landing gear is extended. Landing gear retracts automatically when you are going too fast to land safely.
+
+Astronaut will beam aboard your ship. Fly back up to waiting mothership. On the way up, you may blast away at the meteors to clear your path and earn extra points.
+
+Dock precisely with the mothership and then turn around and go get the rest of the astronauts.
+
+The longer and better you play, the better your ship"s firepower, which enables you to clear more meteors away, making your mission a little more entertaining.
+
+With each successful rescue, more meteors enter the atmosphere and attempt to thwart your rescue efforts. How long can you keep rescuing the astronauts?"
+
+In 2007 the author made this game freeware (was previously shareware).
+

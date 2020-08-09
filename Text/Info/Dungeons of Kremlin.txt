@@ -1,0 +1,9 @@
+Dungeons of Kremlin is an obscure Russian Doom clone that sports a game engine similar in complexity to Wolfenstein 3D, being strictly composed of a maze like labyrinths whereas the floor height is consistent throughout.
+
+You are faced by enemies such as bats, mutants, wizards, and the like. Weapons to collect are what you come to expect, including a machine gun and shotgun. An interesting game play facet is levels are littered with magic mushrooms and pints of beer, which must be avoided, as they deplete your health.
+
+The game doesn\u2019t use a save game system, instead, like Dark Forces, you are given three lives to work with, and after they are spent, it is game over.
+
+Three levels are included, each one is significantly large and suitably difficult. Visually, in terms of textures and sprite art, this is quite similar in style to Wisdom Tree\u2019s Super Noah\u2019s Ark 3-D.
+
+The games story concerns archeologist"s digging somewhere above the dungeons of the Kremlin, and this has upset the evil that lurks down there, and effectively awakens the evil things. All text in the game is in Russian.

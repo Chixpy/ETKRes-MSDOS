@@ -1,0 +1,16 @@
+DeskMate was a software application that provided an operating environment that competed with early versions of Microsoft Windows. It originally was made for Tandy"s TRS-DOS Operating System and for their TRS-80 line of computers, but eventually shifted to PC, where it was developed using C and Assembly. Like Windows (and other competitors from the time, such as GEM), it was not a full operating system, requiring a separate disk operating system in order to function. Although the initial PC ports would only run on Tandy"s PCs (such as the Tandy 1000), the introduction of the true PC-compatible computers such as the Tandy 3000 resulted in the software later being made available for other compatibles.
+
+Some non-Tandy software used DeskMate to provide the user interface, and provided a runtime version of the operating environment for those without it. Examples included Activision"s The Music Studio, and a version of Lotus 1-2-3.
+
+DeskMate 3 added a number of interesting basic applications:
+
+- a drawing program ("Draw")
+
+- a simple digital audio editing program ("Sound")
+
+- a simple music program ("Music"), which could play music with audio samples created in Sound, used the 3-channel Tandy DAC, which provided 22 kHz 8-bit audio.
+an online service ("PC Link")
+
+The core parts of DeskMate (and DOS) were shipped in ROM on certain Tandy 1000s, allowing the computer to boot into DeskMate within a few seconds.
+
+This was the first version of DeskMate that allowed for a run-time version that could be distributed with applications. This allowed users to use DeskMate applications on their PC"s even if they did not have DeskMate installed.

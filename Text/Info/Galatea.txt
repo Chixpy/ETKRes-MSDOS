@@ -1,0 +1,5 @@
+Galatea is not like many other pieces of interactive fiction. It is a single conversation with a single NPC. However, based on your actions, there are literally dozens of outcomes.
+
+You play as an art critic who is speaking to Galatea, who is an animate, or a sculpture with artificial intelligence. There is no set goal other than to find out all you can about Galatea.
+
+Galatea is in Inform Z-code, so it is available for all platforms with Inform interpreters.

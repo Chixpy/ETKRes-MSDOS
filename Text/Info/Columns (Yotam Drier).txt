@@ -1,0 +1,4 @@
+Based on Windows Columns, by John Rotenstein, Australia, which was based on Macintosh Columns, by Chris Christensen, San Jose, CA, which was based on XColumns by Jay Greetson, Colorado Springs, CO.
+
+This program was made by Yotam Drier, in Borland"s Turbo Pascal 6.0.
+

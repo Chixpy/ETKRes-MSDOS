@@ -1,0 +1,5 @@
+This program needs an enhanced graphics adapter, with a monitor capable of 16 color, 640 x 350 resolution.
+
+This program has been made for you to enjoy, it was inspired by the many (startrek) type games in shareware.
+
+I wanted to give you something to have fun with and that would not be to complex. This is the central program for a game that will have several adventures in it. Including exploring moons, planets, space stations, asteroids, wrecked space craft, ect...

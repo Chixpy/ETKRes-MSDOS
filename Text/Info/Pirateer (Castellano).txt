@@ -1,0 +1,10 @@
+¿Aventura gráfica o conversacional? \u00c9sta es la primera duda que surge al cargar este juego.
+
+Por un lado manejamos un puntero al estilo de las primeras, y no hay nada que teclear, pues toda acción se lleva a cabo mediante unas órdenes predefinidas controladas por las teclas de función.
+
+Por otro, los gráficos son estáticos, sin animaciones, lo que lo aproxima a las conversacionales de toda la vida.
+
+El juego cuenta con unos gráficos pasables, música en la presentación a través del beeper y un desarrollo simple y poco complejo, en el que un pirata va a la búsqueda de un tesoro.
+
+Está programado en Basic -dice su autor en el manual que aún no conocía el C-, las pantallas cargan continuamente de disco, y no se puede hacer uso del ratón, lo que limita bastante la maniobrabilidad... Pero acaba resultando una buena introducción para lo que nos encontraremos en Pirateer II.
+

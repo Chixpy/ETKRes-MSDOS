@@ -1,0 +1,1 @@
+Balloons is a quick game of logic between two players or one player and the computer. The object is to take turns popping balloons while making sure to leave the last balloon for the other player. There are four different computer skill levels to choose from, and while the game is not extremely deep, games go quickly and it is presented very professionally.

@@ -1,0 +1,3 @@
+Drop "Em is a one or two player game for the IBM PC and compatibles. It requires a 80286 processor or better and a VGA graphics card. The Sound Blaster sound card is also supported.
+
+NOTA: Contestar "No" a la pregunta de si queremos utilizar una tarjeta Sound Blaster.

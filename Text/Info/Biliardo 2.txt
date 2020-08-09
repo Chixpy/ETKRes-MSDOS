@@ -1,0 +1,11 @@
+Biliardo 2 is a freeware billiards game for two players. The pocketless table is rendered in the traditional top view, with certain controls and settings available at the bottom interface. Sliders can be adjusted to set the power of the shots and the table temperature. The cue aim and angle can be moved on two windows showing a close-up of the ball. Players take turns hitting the balls and scoring to the rules of each variation included:
+
+- In 5 Pins, players have to use their yellow and white balls to hit the opponent"s and score points. Bonus points are received after knocking down the five skittles set at the table center with the red ball or the opponent"s ball. If the skittles are hit directly, the points go to the adversary;
+
+- Goriziana and its double variation are similar to 5 Pins, but have nine skittles and slightly different scoring rules;
+
+- Bowls is played without cues, where each player throws four balls from their sides of the table.  A red ball is launched at the start of each match, and the main objective is to stop the other balls as close as possible to it. Extra points are received when knocking down skittles with the red ball or the opponent"s ball;
+
+- In Carom, the goal is to hit both the red ball and the opponent"s ball on each turn. In the Cushion variations, the player has to bounce the ball from one or more of the cushions before striking the second ball;
+
+- 3 Balls is similar to Carom, but the players share a single white ball to hit up to three other balls.

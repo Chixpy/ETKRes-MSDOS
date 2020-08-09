@@ -1,0 +1,9 @@
+A space arcade action, where you must save the four planets of the Solaris solar system from alien invasion; played in three parts like three separate games. DOS but playable under Windows.
+
+Due to technical difficulties, this game was not reviewed.
+
+The author says:
+
+"AntiTron is an entertaining and challenging space arcade action, where you must save the four planets of the Solaris solar system from alien invasion. It has three parts, where each part is like a separate game but all three parts still fit together. The first part we call the "outer space" part and that"s where you must navigate your spaceship in the Solaris solar system and locate and land on each of the four planets. The second part we call the "lander" part as it reminds us of the classic arcade "Lunar Lander" (but it isn"t the same game, just looks a bit like it). In the third and last part of the game, the "stations" part, you have left the spaceship and you"re inside a tank-line vehicle which can move around inside the stations. Here you must find your way around pathways and corridors, and locate keys to unlock doors etc. The main goal is of course to locate and neutralize the AntiTron."
+
+The minimum requirement for this game is a Pentium 166MHz with 32MB RAM, SVGA compatible graphics card, Sound Blaster compatible sound card, and Windows 3.1/95/98/NT or MS-DOS 6.0

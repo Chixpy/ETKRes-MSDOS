@@ -1,0 +1,3 @@
+Poke-Man is another clone of Pac-Man. You (smiling face) try to escape the Ghosts (playing cards" symbols) and collect all the dots on the level to finish it. There are power (green) dots that allow you to eat Ghosts temporary. The whole level is one screen size.
+
+The only feature that distincts this clone from others is the completely ASCII-graphics. There are no other symbols on screen.

@@ -1,0 +1,2 @@
+This adaptation of the classic card game was included in Big Blue Disk #21. In it, the player faces a computer opponent, using the keyboard to pick which card to play next. As in the card game, the player"s object is to get rid of all of his or her cards as quickly as possible. The player must match either the value or suit of the previous card played, and eight cards are wild. If a card cannot be legally played, the player must draw, thus moving farther away from victory.
+

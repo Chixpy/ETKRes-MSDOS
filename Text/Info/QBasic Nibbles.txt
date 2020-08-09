@@ -1,0 +1,5 @@
+MS-DOS 5 was a major update for Microsoft"s command-line operating system.  Among other changes was a new BASIC variant -- gone were the days of the bundled BASICA, GW-BASIC or QuickBasic interpreters.  Now users had QBasic to play with.  In addition to two utilities (RemLine and Money Manager), it included two sample games: QBasic Nibbles and QBasic Gorillas.
+
+Nibbles first: in short, it"s Microsoft"s version of the classic "snake" game. The player navigates their snake so that it can eat up the random numbers appearing on the screen. After consuming a number, the snake grows longer. It dies if it runs into the walls or into its own tail, which grows pretty long after several helpings of numbers. The higher levels feature more walls, therefore, navigating them is more difficult. The game has a two-player mode as well as the standard single-player.
+
+All objects in this game, including the snakes and the walls, are represented by simple ASCII characters in textmode.

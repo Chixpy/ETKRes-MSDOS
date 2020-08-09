@@ -1,0 +1,4 @@
+Another game of galactic conquest in the same vein as Master of Orion. You choose a race from a gallery of races each with their own special characteristics (there"s the technological one, the military one, the fast growing one, etc.) and go at it in an effort to try an colonize worlds, and build an empire either by making alliances or whatever actions it takes.
+
+The game focuses on technological progress and espionage rather than combat or diplomacy, and it uses svga 2d graphics.
+

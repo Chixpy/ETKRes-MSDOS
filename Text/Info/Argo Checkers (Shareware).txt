@@ -1,0 +1,1 @@
+A translation of classic checkers.  You jump over the opponent"s buttons, and the last one standing wins. This game doesn"t posses the option of playing against the computer, only player vs. player (unless you register to get the full version).

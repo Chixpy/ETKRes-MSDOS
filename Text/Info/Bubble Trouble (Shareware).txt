@@ -1,0 +1,5 @@
+"The objective of the game is to be the first player to amount 5000 points in the least number of bubbles, the number of points you have is represented by a horizontal bar at the top of the screen and the number of bubbles you have used is shown with the score by its side.
+
+You obtain points by laying down structures of bubbles of the same colour either three horizontally, three vertically, three diagonally or even more advanced structures shown in the game. Once you have completed a structure the bubbles are removed from the play area. Your score is multiplied by three if all of the bubbles are of the same type.
+
+Your progress is often hampered by the fact that bubbles can only support a certain weight above them before they are crushed, the weight and stress varies with the different types of bubbles. Weapons are also available and different weapons have different effects on different types of bubbles."

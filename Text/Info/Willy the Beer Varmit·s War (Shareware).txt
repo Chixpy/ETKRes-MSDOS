@@ -1,0 +1,1 @@
+Your basic Scorched Earth clone - based (partially) on items in bars instead of regular weapons.

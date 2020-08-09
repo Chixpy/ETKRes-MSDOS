@@ -1,0 +1,353 @@
+GUÍA TORIN"S PASSAGE
+
+Eres Torin un hombre joven que vive en Strata, un planeta consistente en cinco mundos uno dentro de otro.
+
+Cuando te enteras de que tus padres han sido asesinados por un malvado hechicero, comienzas una aventura en la que deberas descifrar muchos puzzles dentro de cada planeta.
+
+Aventura gráfica de Sierra del 95. Quizás por el tiempo sea un poco anticuada, pero os aseguro que es súper jugable, entretenida y muy divertida, sobretodo a los que, como yo, nos gustan las aventuras de dibujos animados con mucho humor.
+
+Al ser de hace tiempo, se necesita poner los colores a 256 o no se puede jugar, ya que el Win no lo reconoce.
+
+También está el problema del idioma. Está en inglés pero tenemos la opción del libro para poder leer las últimas frases cada vez y así no nos perdemos detalle y nos enteramos de todo, además de que al tenerlo por escrito podemos poner el juego en pausa y usar el diccionario el rato que queramos para aclararnos en todo.
+
+A parte de los gráficos muy buenos que tiene y de las animaciones que también son muy buenas aunque ya se ven algo mal, el guión es excelente en la concepción del juego y su desarrolla además nos acompañaran cantidad de músicas muy acordes con lo que hacemos y geniales, tanto lentas como marchosas. Podemos instalar el juego tanto en Win, como en su dos, como en el viejo dos. Lo mejor es hacerlo en el dos viejo, que no tenga nada que ver con algo de win, pues de las otras maneras se cuelga mucho, en cambio con el dos viejo no pasa nada, va perfecto.
+
+Tiene su propio desinstalador para no dejar porquería.
+
+Y aquí tenemos otro ejemplo de lo que siempre me quejo, de las pifiadas que hacen las casas de soft, que parece que les importa un pito los sufridos usuarios. En este caso el juego original no salva las partidas desde un determinado punto, que es cuando acabamos una tercera parte de la aventura, y todo se cuelga. La única manera de solucionarlo es ir a la página de Sierra de Internet (la española ???) y bajarse el path correspondiente y ya se arregla todo. Pero ya me diréis de que sirves los testeadores y todo eso... Este, creo que es un fallo MUY gordo...
+
+El menú de opciones es muy completo y lo encontramos ya dentro del juego en la parte superior izda. de la pantalla. Al poner allí el puntero salen unas ventanas, tres en concreto, donde tenemos todas las opciones que necesitamos para poder jugar bien y a nuestro gusto. Como todos los juegos de Sierra y más los viejos, tenemos unos puntos que se van acumulando por cada acción que hacemos, aunque se puede acabar el juego sin llegar al tope de puntos. En este caso el máximo son 999 puntos y si seguís mis explicaciones al pie de la letra los conseguiréis TODOS.
+
+El argumento es el típico del chico bueno, TORIN, que un día el malvado de turno separará de sus padres, los monarcas, y se hará con el poder. Pero su nodriza le salvará en el último momento y, una vez grande, deberá acabar con el malvado. Todo con ayuda de una especie de gato lila llamado BOOGLE.
+
+PR\u00d3LOGO
+
+Los reyes duermen, su hijo en la cuna empieza a llorar y la nodriza le saca a pasear. Mientras... el malo, una especie de brujo, practica su magia con una especie de mejunjes y los Reyes ya no se despertarán más.
+
+Al volver la nodriza al cuarto ve un extraño reflejo en la cuna y, temiendo lo peor, huye con el niño. Pasamos ya a otra escena. TORIN, el joven guaperas protagonista, ya es un todo un adolescente y vive en una aldea con unos ancianos que le acogieron y le hacen de padres.
+
+Estos le envían a hacer un recado y TORIN, antes, recoge a su amigo y mascota, BOOGLE, una especie de gato lila, para ir juntos. Una vez algo lejos se oyen unos ruidos y se ve la casa de sus padres volando por los aires y desapareciendo. El malvado villano que mató a sus verdaderos padres sigue su busca, para poder gobernar sin ningún inconveniente. Y TORIN, por ahora, no puede hacer nada. 
+
+CAP\u00cdTULO 1: THE LANDS ABOVE
+
+TORIN vuelve a la casa y habla con el mago encapuchado, vamos... con el malo disfrazado. que ya quiere liarlo y solo acabamos de empezar...
+
+Aparecemos en el bosque, con nuestro amigo psicodélico, y a partir de aquí empieza nuestra aventura. Primero probar de señalar al otro lado de la pantalla. Si le dais con el botón izdo. del ratón TORIN andará hasta allí, pero si de dais con el botón derecho aparecerá allí al instante, con lo que ganaremos tiempo para ir de un sitio a otro. Ya sabéis...
+
+Mirad también abajo, en el inventario. A la derecha está un reloj que se moverá cada vez que cojamos puntos y estos se verán en el contador que tenemos delate. Y en la parte izda. hay un libro que nos servirá para leer cada conversación que tenemos con alguien y así enterarnos mejor de lo que hemos dicho o nos han dicho. Y en el centro van todos los objetos que cojamos y la redonda central ya lo explicaré es su momento.
+
+Ya estamos preparados para empezar, solo falta decir que las pantallas, algunas en vertical y otras en horizontal o ambas a la vez, se pueden mover y así ver toda la pantalla completa por donde deberemos ir. En este caso en la parte inferior de la pantalla de gráficos vemos un puntero o pestaña que está todo a la izda. Movedla todo a la derecha y podremos ver toda la pantalla. Hacedlo y volver a dejarlo donde estaba.
+
+Ahora lo primero que tenemos que hacer es abrir el libro y leer lo que hay escrito, para empezar a ponernos en la aventura y hecho esto ya empezamos el juego en serio.
+
+A la derecha hay una bayas. Clickear en ellas y las cogemos. Ahora veréis como el contador muestra nuestro primer punto conseguido y además las bayas aparecen dentro de nuestro inventario, que cuando este más lleno, se pueden coger las cosas y ordenarlas como querramos.
+
+A lo lejos, en el centro de la pantalla, vemos la casa de TORIN y hacia allí vamos. Cogemos una hacha y una cuerda. Entramos en la casa y vemos como BOOGIE se pone como cuadrado y pasamos a entrar en su inventario donde sale como una caja. Mirar los dos sofás, clickeando en ellos, mirar la estufa de la derecha y mirar la mesa junto al sofá más alejado, donde entramos en su pantalla y cogemos una bolsa de tabaco. Salimos de esta pantalla poniendo el cursor en los lados y veréis que sale como una flecha enroscada. Solo apretad y saldremos.
+
+Si os fijáis aquí hay muchos más objetos que podrían ser mirados y examinados, pero al poner el puntero encima de ellos no se encienden, lo que significa que no tienen importancia en el juego y así, de entrada, ya tenemos una buena pista y una gran ayuda para saber que nos servirá y que no: solo sirve lo que al poner el puntero encima, éste se enciende.
+
+Ahora mirad la cesta que está abajo a la izda. Entramos en su pantalla y vemos un divertido gusano que deberemos coger clickeando en él, pero es un poco escurridizo y algo nos costará, pero no mucho. Sal de ésta pantalla y de la casa.
+
+Sigue el camino hacia abajo para llegar donde estabamos antes. Ahora mueve la pestaña del scroll de pantalla todo a la derecha para ver el otro extremo del gráfico y clickear aquí, por lo que TORIN vendrá haciendo mil y una peripecias. Señalar la casa del fondo e ir hacia ella.
+
+Llegamos frente a la puerta y vemos que todo está rodeado de cristales. Ir hasta ponernos frente a la puerta y leer el cartel de la derecha. Acordaos de que si no entendéis muy bien lo que se dice podéis consultar el libro del inventario, donde está escrito las últimas frases y al leerse se entiende mejor, además de que podéis parar el juego y traducirlo. Ahora usar el hacha que tenemos en nuestro inventario en el cristal de la izda. y así cogemos la parte superior.
+
+Se abre la puerta de la casa y hablamos con HERMAN, el anciano que sale, que es el guardián de los cristales. Cuando cierre la puerta, llamar y seguimos hablando. Nos dejará entrar en su casa (SAVE: 01).
+
+Fijaos que en el centro del inventario hay unas teclas como las de un cassette. La del centro es para hacer pausa y las demás para volver a ver las acciones por si nos hemos despistado y nos hemos perdido algo, aunque no siempre saldrán.
+
+Una vez dentro, volver a hablar con el anciano, clickeando en él. Mientras BOOGLE veréis que se transforma en una linterna. \u00c9l, por su cuenta va guardando disfraces como Mortadelo, que más adelante nos serán de mucha utilidad. Cada vez que BOOGLE coge algo pasamos a su inventario y la tecla con su cara queda activada. Solo tenemos que darle sobre nuestra cara y volveremos a estar en nuestro inventario, y cada vez que necesitemos algo de nuestro colega, le damos a su cara, entraremos en el suyo y podremos coger y usar lo que queramos.
+
+Coger la Bayas y dárselas a HERMAN. Para darse algo a alguien solo tenemos que poner lo que sea sobre el que queramos dárselo o dejarlo y veremos que el objeto se pone blanco, lo que significa que la acción está permitida. Así, automáticamente, le hacemos un cocktail que se bebe, pero nos pide algo para comer. Volver a preguntádselo porque no habla muy claro.
+
+Salir de la casa por la derecha y volver al camino por abajo. Una vez arriba mover el scroll del gráfico y ponerlo en el centro de la pantalla frente a un gran árbol y un río. Señalar al árbol para ir hasta allí. Hacer bajar a TORIN de él y quedaremos frente a un camino por donde debemos entrar.
+
+Llegamos frente a otro gran árbol. Señalar a la rama del centro de la pantalla y nos subimos a ella y luego señalar a la de más arriba y también subimos. Usar la cuerda en nosotros y después en la rama. Dejar luego la cuerda en el inventario y señalar abajo, tirándonos al vacío.
+
+Conseguimos coger un poco de musgo del pantano pero quedamos colgando y se nos cae la bolsa. Ahora debemos ir clickeando a un lado y a otro de TORIN para que cada vez se vaya balanceando más hasta que al final consigamos cogernos en el tronco de la derecha. Una vez en él saltamos al de la izda. y nuestra mascota ya se encarga de recoger la bolsa caída.
+
+Aquí tened cuidado porque si nos balanceamos poco o nos tiramos antes de hora podemos caer al fango y es una de las muchas maneras en que podemos morir.
+
+La suerte es que nunca se le puede llamar muerte como tal, ya que nos saldrá un requester diciendo que lo intentemos otra vez y podremos seguir todas las veces que queramos. Y esto pasará en todos los sitios en que haya peligro, siempre podremos seguir.
+
+Salir por abajo a la izda. y subir al árbol del río. Justo al lado mirar como una especie de nido y entramos en una pantalla donde hay un par de caracoles. Hablarles 5 o 6 veces, hasta que el reloj nos de más puntos y repasad el libro a ver si han dicho las palabras "SLUGS" y "LEAF", vamos... babosas y hojas. Se supone que lo deberían de haber dicho.
+
+Salir de esta pantalla y bajar del árbol por la izda. Camina un poco en esa dirección y después del árbol donde ves subir unos gusanos, coge el camino por el centro de los dos árboles enredados.
+
+Llegamos a una pantalla toda llena de hojas. Coge a INCHIE, el gusano de tu inventario, y ponlo en la hoja de arriba, a la derecha. Tras tardar un poco en cogerlo, nuestro colega ya tiene un nuevo disfraz y nosotros una hoja.
+
+Salir, derecha, subir al árbol y volver a entrar en la pantalla de los caracoles. Darles la hoja aunque se enrollan la tira ,y, al salir de esta pantalla, vemos que nos acompañan en nuestro inventario. Saltar del árbol por la izda. e ir hasta las bayas de antes. Delante de ellas hay un camino que va hacia abajo de la pantalla. Señalar allí, nos metemos y vemos, a lo lejos, un pueblo con un gran castillo, hacia el que vamos.
+
+Llegamos frente a la puerta pero hay un gran foso que nos impide el paso. Cogemos los caracoles del inventario (SLIM y SLIME) y ponerlos dentro del foso, a nuestra izda. Gracias a esto sale un gran pulpo y nos llena del cuerpo de fango, con lo que podemos guardar un poco (SAVE: 02).
+
+Salir hacia abajo dos veces y volvemos a la pantalla de scroll de siempre. Ponte frente al árbol donde suben rápido los gusanos blancos, que son babosas y usa el fango en el árbol, con lo que lo ponemos en su base, pero las babosas son muy rápidas y no se dejan coger. Nos ponemos sobre el fango, clickear en BOOGIE y entrar en su inventario. Coger su disfraz de caja y ponerlo sobre el fango. Nosotros vamos algo a la izda., para escondernos. Las babosas bajan y BOOGIE las coge sin problemas.
+
+Como nota podéis fijaos ahora que del total de 999 puntos que debemos conseguir ya tenemos 109, por lo que ya tenemos una décima parte del juego hecha...
+
+Ir a la casa de HERMAN, la que está todo a la izda, entrar en ella y darle al anciano las babosas y la bola verde (dando lo primero ya se va también lo segundo). Se enrolla, le tenemos que preparar la comida, se lo zampa todo y después nos pide los postres!!!...
+
+Salir y volver al camino. Justo a la izda. hay un árbol con muchas raíces por todos lados. Coger el hacha y cortar la raíz de la izda. que es completamente cuadrada y luego cogerla del suelo.
+
+Volver a casa de HERMAN y darle la raíz. Volvemos a servirle de cocinero y de camarero y, en agradecimiento, finalmente, nos enseña su escondite secreto detrás del armario. Saca varios cristales y nos deja elegir uno cualquiera. Da igual escoger el que sea, pero yo he cogido el central y después nos metemos por detrás de ese armario, que resulta ser una gran habitación. El viejo se enrolla, nos da el cristal que hemos elegido y nos deja solos.
+
+Miramos la redonda central y la redonda azul de la derecha. Vamos hacia ella. Luego miramos la especie del podium del centro, atrás, y vamos hacia él, donde entramos en una pantalla en la que vemos cuatro colores: rojo, verde, azul y blanco (o plata), de izda. a derecha.
+
+Aquí empieza nuestro primer puzzle. Casi todos muy fáciles de resolver. Esto es como una especie de consola y tenemos que ponerla en marcha. Para ello debemos usar el cristal que nos ha dado el viejo y que es el más pequeño de los dos que tenemos. Usarlo (ponerlo y quitarlo) por este orden en los siguientes colores: tres veces en el blanco, una vez en el azul, una vez en el verde, una en el rojo, una en el blanco, una en el azul, una en el verde, una en el azul y una en el rojo. Solo tened en cuenta que cada vez que lo metemos en un agujero de color blanco, todos los colores cambian de sitio.
+
+Así todos los pilares que teníamos delante bajan, y de nuevo nos vemos frente a la consola. Ir hasta la barra, que parece un cenicero, y mirarla. Sólo es arena, pero usando la bolsa de tabaco en ella podemos coger hasta llenarla.
+
+Ahora ir a la redonda de color azul de la izda. y usar la bolsa en el centro, con lo que nos colocamos en el centro de la pantalla y somos arrastrados por el agujero azul.
+
+CAP\u00cdTULO 2: ESCARPA
+
+Empezamos viendo una animación en la que KURTZWELL y su sargento hablan de los cristales y de nosotros que hemos desaparecido.
+
+Vemos que TORIN cae y aparecemos en unas plataformas con escaleras y puertas. Lógicamente estamos en el país de ESCARPA. En nuestro inventario tenemos el mosaico que casi nos aplasta la cabeza al caer. (SAVE: 03)
+
+Vamos escaleras arriba. Ahora vemos que a la derecha de la pantalla está el botón del scroll de pantalla, esta vez en vertical y lo movemos para ver por donde nos tendremos que mover, dejándolo luego en el mismo sitio.
+
+Debajo de donde está TORIN hay una baldosa verde: cogerla. Volvemos a caer y casi nos aplasta la cabeza otra vez, pero la conseguimos y ya tenemos dos, ya que conseguir muchas (nueve) es el objetivo de esta fase.
+
+Bajar las escaleras de la izda. y llegamos a una de las fases más graciosas del juego. Solo por esto vale la pena saber inglés y que no traduzcan nada, ya que hay cosas intraducibles y más si son de humor. Vemos a la familia "THE BITTERNUTS", en plan show cómico de serie de TV. Esperar a que la Sra. nos deje entrar y que se acaben las carcajadas.
+
+Hablar con la Sra. Bitternut. El gato, mientras, coge dos nuevos disfraces: de yoo y de pala. Volver a hablar otra vez con la Sra. una vez sentada, todo lo que puedas. Si no entendéis muy bien el inglés, mirar el libro en cada frase pues debe hablar primero del Rey RUPPERT, después de la Reina DI y por ultimo de la princesa LEENAH. Hablarle dos veces más por si acaso. Y todo esto, como he dicho antes, en plan serie cómica de la tele, con muchas risas de fondo... esta parte es genial!.
+
+Miramos la baldosa verde que está sobre la mesa y salimos de la casa. Bajamos las escaleras de la derecha y vemos a un bicho verde lavándose en una pequeña cascada. Le hablamos pero no nos hace ni caso.
+
+Pasamos a través de la cascada, por una cueva de la izda. y llegamos frente a un puente. Lo atravesamos y entramos en el Salón de los Reyes de este Reino. Hablar con el Rey RUPPERT todo lo que puedas hasta que la Reina mencione un medallón que se nos quedará en nuestro inventario. Sal de la pantalla frente a los monarcas y coge el medallón del inventario. Ahora lo ponemos en la redonda verde central, también de nuestro inventario. Descubrimos que es un proyector holográfico, y apretamos el botón derecho del ratón. Una vez el medallón está activado en la habitación, hacer click sobre él y lo abrimos, viendo la foto de los monarcas. Para el aparato sacando el medallón del centro y déjalo abierto en cualquier lugar dentro del inventario.
+
+Examina el agujero del techo donde falta un cristal, de la colección del rey. Coge el tuyo y ponlo allí. Después de enrollarse el rey nos regala una invitación real. Mira las baldosas verdes.
+
+Le pedimos la central al rey pero no nos la da. Salir de esta pantalla y ves a la mesa de la izda. donde coges un trozo de carne (una especie de pata de pollo).
+
+Sal del salón por abajo, atraviesa el puente y bajas hasta donde se ducha el bicho verde. Ahora coge el camino de la izda. y sube (a la izda.) para volver a entrar en casa de los Bitternuts. Una vez dentro dale la invitación a la mujer y después del rollo que te pega y, gracias a su hijo, puedes coger una nueva baldosa verde.
+
+Ya estamos en el 20 % del juego, pues ahora mismo estamos en los 214 puntos. Comprobad que vais bien, aunque si no los tenéis no pasa nada porque el juego se acaba igual. Solo es la cuestión moral de saber que lo hemos hecho absolutamente todo, sin dejarnos nada.
+
+Sal de la casa y vuelve al bicho verde que se ducha. Coge las escaleras para ir más abajo y entra en la cueva de la izda. Coge la baldosa que verás al fondo a la izda. y que ya es la cuarta. Ahora entra en el inventario de BOOGLE y coge el disfraz de gusano. Ponlo justo donde hemos cogido la baldosa y éste atraviesa toda la pantalla hasta llegar a un lugar oscuro.
+
+Ahora coge el disfraz de linterna y clickea en la oscuridad. Coge el disfraz de pala y úsalo en la especie de piedras de la izda. Finalmente vuelve a coger el disfraz de gusano y clickea con él en la parte más a la derecha de la pantalla. Así BOOGLE vuelve con TORIN y nos deja lo que ha cogido, que es una especie de excrementos de dragón.
+
+Salir de la cueva y bajar las escaleras que están todo a la izda. Llegamos frente a un nido donde hay un buitre con dos cabezas. Hablarle todas las veces necesarias hasta que sumemos un nuevo punto (unas cuatro veces). Subir por la izda. y usar la pata de pollo en lo que parece una rampa. (SAVE: 04).
+
+Bajar hasta el nido, una vez el buitre se ha ido, y subir por la escalera que vemos detrás del nido para subir a la punta de un acantilado. Darle al centro (ya sale la flecha) y saltamos al otro lado sin problemas. Ir hacia abajo y, colgados, llegamos a una habitación, entrando por una especie de balconada.
+
+Del centro, que parece una mesa, coger la quinta baldosa. Ahora mover el scroll de pantalla horizontal hasta ponerlo todo a la derecha. Coger la almohada azul claro, el abanico de plumas y la alfombra roja. Vuelve a poner el scroll a la derecha, que se ha desplazado, y coger la señal que hay sobre la escalera, entrando en su pantalla. Vuelve todo a la izda. y sal por arriba.
+
+Vuelve a pasar el precipicio saltando y sigue la flecha recto. En el nido, izda. y arriba y más escaleras arriba hasta llegar al bicho verde con manía a la suciedad. Usa la señal en él y nos dará la sexta baldosa.
+
+Así ya tenemos 300 puntos justos y ya hemos hecho el 30 % del juego.
+
+Aprovechar en este mismo sitio para coger la pinza suelta donde están colgados los calcetines.
+
+Vuelve a bajar y ves al nido, subiendo por las escaleras de detrás. Cruza el precipicio saltando y entra en la cueva todo recto. Aparecen unas mofetas con las que hablamos hasta sumar más puntos. Usar las pinzas en nosotros y la alfombra roja en ellas, donde dejan su apestoso líquido.
+
+Ir túnel al fondo hasta llegar al otro lado (por debajo de donde estabamos antes) y llegamos a la punta de un precipicio. Hablar varias veces con la especie de piedrárbol, hasta que se da la vuelta y vemos que es un hombre viejo, que, para más señas se llama VEDER. Hablarle hasta que, si no lo entendemos, al menos miramos el libro y vemos que ha mencionado algo sobre "su aposento". (Lo dirá a la cuarta o quinta vez). Darle la almohada azul y el nos dará un nuevo mosaico verde.
+
+Salir por la derecha abajo y volver a atravesar la cueva hacia la izda. para llegar al precipicio y volver a bajar a la habitación de debajo. Desde aquí usar ahora el scroll vertical para mirar lo que hay en la habitación de abajo. Nos ponemos en la punta de la izda. (se supone que ya estamos) y usamos la alfombra apestosa en la ventana de la habitación inferior que hemos mirado. Usar ahora el plumero y toda la habitación inferior se llenará de hedor haciendo que las chicas se larguen.
+
+Vamos todo a la derecha hasta las escaleras pero no usarlas para bajar. Entrar en el inventario de BOOGLE y usar su disfraz de yoo en la escalera. Ahora en el papel de BOOGLE cogemos el mosaico colgado y salimos por la cueva del fondo para llegar donde está TORIN y darle la octava baldosa verde. (SAVE: 05).
+
+401 puntos, vamos ya por el 40 % del juego.
+
+Salir de aquí por la izda., saltando arriba, y atravesar el abismo saltando otra vez. Recto y llegar al nido. Mover el puntero de scroll vertical hasta abajo del todo, donde hay un árbol y usar la "caca de dragón" en él, con lo que crecerá. Salta sobre el árbol y baja por él, llegando a unas escaleras que subimos.
+
+Llegamos a una nueva pantalla con otro puzzle. Como debéis imaginar ahora la cuestión es poner las baldosas verdes en los cuadrados que tenemos enfrente. Primero ponerlas todas por las buenas, donde os de la gana. Y ahora volved a salir, árbol arriba, camino izda. del nido, arriba, cueva detrás del bañista (que ya no está) y atravesar el puente para llegar otra vez a la corte del rey. Dale otra vez al mosaico del suelo y esta vez nos lo dejan coger. Este SI que es el noveno y último que necesitamos.
+
+Vuelve otra vez a la última pantalla donde está el puzzle y ahora sí que debes intentar montarlo con los nueve pedazos. Puedes ponerlos y sacarlos, guardándolos en el inventario, todas las veces que sea hasta conseguir nuestro objetivo. Y esto no es otro que, como podréis ver cada baldosa tiene unas ranuras, hacer la cara de una persona. Además de ponerlas y sacarlas, poniéndole el cursor a un lado las podemos girar, o sea que no solo hay que poner la buena en el lugar correspondiente sino que puede estar girada y tener que moverla.
+
+Sobre esto no hay pistas, cada uno tiene que espabilarse, pero, de verdad, que es muy fácil. Os puedo decir por ejemplo que la parte superior asemeja cuatro pelos, o sea que en el centro va una baldosa con dos incisiones y en cada lado una con una. Entre las baldosas de arriba y del centro van los ojos, o sea que las de los lados tendrán ranuras alargadas y la de enmedio lo mismo, pero más cortas y en cada lado. En la parte inferior asemeja la boca. La baldosa central es recta y las de cada lado tienen una curva hacia abajo pareciendo que esta enfadado y entre la central y la también central de enmedio esta una ranura que parece la nariz.
+
+Más o menos eso es así, veréis que es fácil, y una vez conseguido la cara de piedra se volverá humana y nos hablará.
+
+Apareceremos en una habitación llena de cristales y usaremos la bolsa en la luz central para teletransportarnos a un nuevo paraje. 
+
+CAP\u00cdTULO 3: PERGOLA
+
+Empieza el capítulo con animaciones, como cada vez. Hablan el malo con nuestra querida niñera salvadora y ésta es apresada por los soldados. Volvemos a ser TORIN caídos en un paisaje raro, verde y lleno de cristales. (SAVE. 06).
+
+Señalar hacia el fondo y caemos por un agujero al país de los pergolianos, una especie de pequeñas criaturas tipo Lemmings. Rápidamente, cuando nos atan, les hablamos y se van. Y así podemos hablar tranquilamente con el rey de ellos y le ayudamos a salir.
+
+Mover la barra de scroll a la derecha y clickear en la mujer (LEENAH), que está apresada, para liberarla de los pergolianos. Hablar con ella todo lo posible hasta que no haya nada más que decir y se repita la última frase. Enseñarle el medallón, mirar su bota y cogemos un cuchillo de ella. Usarlo en las cuerdas para desatarla y volvemos a hablar con ella un rato.
+
+Ahora viene una nueva animación en la que nuestro colega coge un nuevo disfraz que es un gorro de enfermera y nosotros hablamos con LEENAH y el rey de los pergolianos en la ribera de un bonito río. Luego, con el rey, vamos a su castillo.
+
+De entrada ya quedamos frente al primer puzzle de este capítulo que es una estrella de David dentro de un cuadrado, con un pergoliano en cada punta y en las intersecciones de ella.
+
+Aquí debemos poner a los pergolianos por orden de colores que visten, y para poder pasarlos de un sitio otro usamos el centro donde no hay nadie. También debéis saber que hay que ser rápido y salvar la partida porque a la que os despistéis se empiezan a mover y nos joroban el invento. 
+
+Primer pongamos unas reglas. La estrella de David esta dentro de un cuadrado. Digamos que la punta superior donde toca la estrella con el cuadrado en el número 1. la punta de la izda. es el 2 y la de la derecha el 3. Y las puntas de abajo a los lados, son la 4 la de la izda y la 5 la de la derecha. En el centro de la estrella, donde se cruzan las líneas diremos que en la línea horizontal entre el 2 y el 3, está el 6 a la izda. y el 7 a la derecha. Debajo del 6 esta el 8 y debajo del 7 el 9. Y el último cruce de líneas de abajo es el 10.
+
+Ahora debemos poner cada bicho en cada número o lugar:
+
+En 1: Vestido lila, gorro verde y mangas grises. 
+En 2: Vestido gris, cinturón rojo y pañuelo amarillo. 
+En 3: Vestido gris, cinturón rojo y mangas azules. 
+En 4: Vestido lila, gorro gris y mangas azules. 
+En 5: Vestido gris, gorro verde y pañuelo amarillo. 
+En 6: Vestido lila, cinturón rojo y gorro gris. 
+En 7: Vestido gris, cinturón rojo y gorro verde. 
+En 8: Vestido lila, gorro gris y pañuelo amarillo. 
+En 9: Vestido gris, gorro verde y mangas azules. 
+En 10: Vestido gris, mangas azules y pañuelo amarillo.
+
+Una vez resuelto el puzzle salen unos rayos de luz, subimos en una especie de plataforma ascensor y pasamos a un segundo puzzle donde vemos a 10 pergolianos de frente, en dos grupos de cinco y todos en línea. Los más bajos son mujeres y los altos son hombres. Lo que debemos hacer es poner a las mujeres a un lado y a los hombres al otro, pero también por un orden determinado. Los bajos van a la izda. y los altos a la derecha. De momento nos conformamos en clickear en ellos y ponerlos bien en cada grupo. Hecho esto se elevará una plataforma y ya tendremos 505 puntos, o sea que ya vamos por la mitad de la aventura.
+
+Ahora cogemos la especie de cerilla del centro de la plataforma que ha aparecido y que no es más que una batuta y les hacemos cantar a todos para ver el sonido que producen. Oyendo su sonido debemos ordenarlos de la siguiente manera que explico, teniendo en cuenta que va de izda. a derecha.
+
+Es fácil pero tened en cuenta que cada vez que movemos un bicho se moverá otro o otros, ya que están en plan "contacto". Lo mejor es que probéis y ya veréis que no es nada del otro mundo.
+
+Grupo femenino:
+
+Primero... Bufanda amarilla, mangas azules. 
+Segundo... Cinturón rojo, mangas azules. 
+Tercero... Bufanda amarilla, vestido lila. 
+Cuarto.... Cinturón rojo, vestido púrpura.
+
+Quinto.... Buganda amarilla, cinturón rojo.
+
+Grupo masculino:
+
+Sexto..... Capucha verde, mangas azules. 
+Séptimo... Capucha verde, ropa lila. 
+Octavo.... Capucha verde, bufanda amarilla. 
+Noveno.... Capucha verde, cinturón rojo. 
+Décimo.... Ropa lila, mangas azules.
+
+Las dos veces que ponemos un grupo bien se abrirá un panel de detrás de cada lado. Luego aparecerá otra animación, de TORIN con el puzzle al fondo, se nos explican algunas cosas y somos teletransportados a otro país.
+
+CAP\u00cdTULO 4: ASTHENIA
+
+Nueva animación del malo hablando con nuestra niñera, que ha convertido al mal, gracias al collarín que le ha puesto. Aparecemos en una especie de cueva con saltos de agua. (SAVE: 07).
+
+Abrir la puerta de la caja y coger la botella cerrada. En el inventario clickear en la botella y ponerla en la plataforma central de escáner. Cuando aparece el holograma clickear en la parte de arriba para abrirla. Aparecen unos trapos o pañuelos y nos damos cuenta de que es una de esas cajas de pañuelos desechables. Sacarla del centro y guardarla abierta en cualquier lugar del inventario.
+
+Mirar sobre la mesa (la caja con la puerta), que está muy sucia. Usar los pañuelos en ella y ahora podemos ver que hay una serie de bultos. Darle al central de la izda. y se abrirá una compuerta por la que entramos.
+
+Aparecemos en una especie de isla rodeada de lava. Ir a la derecha a una casita que se ve a lo lejos y una vez frente a ella nos sentamos en la parte superior de esas balanzas como las que juegan los niños. Solo era para probar si funcionaba, por lo que salimos y volvemos a la izda.
+
+Otra vez vemos la isla en su totalidad y vamos al centro, a la derecha de la cueva por la que hemos salido. Entramos en la especie de caja y miramos el dibujo.
+
+Salimos de esta pantalla, por la izda. y en el mapa vamos todo a la izda. donde hay un complejo de máquinas muy raro. Clickeamos en la especie de caja metálica de delante y todo el mecanismo se pone en marcha. Nos ponemos algo atrás y al final conseguimos una bola que va dando vueltas por todo el complejo.
+
+Esto lo debemos hacer cuatro veces para conseguir cuatro bolas. Si la primera vez os ha fallado tranquilos y volved a repetir, que no pasa nada. Salir y volver a la casa de la derecha de la isla y poned las cuatro bolas en la cesta de la balanza que toca el suelo. Ahora nos metemos otra vez al otro lado de la balanza y vemos que ya hemos compensado nuestro peso y que la balanza está equilibrada.
+
+Con todo esto ya tenemos 601 puntos, o sea que ya solo nos falta un 40 % para terminar.
+
+Volvemos a los aparatos de la izda. y los ponemos en marcha para coger una nueva bola. Y ahora vamos al centro, donde la extraña pared de madera en el suelo y vemos asombrados que ahora hay toda una catapulta dispuesta para ser disparada. Movemos el rodillo de la izda. para prepararla. Meterse dentro de la catapulta y usar el cuchillo para cortar la cuerda de debajo. Y así salimos disparados y llegamos a un nuevo lugar con todo un mar de lava de fondo. (SAVE: 08).
+
+Bueno, estamos en como una playa frente a la lava y aquí ya no hay caminos ni nada, sino que hay que andar entre las rocas usándolas como tal. Primero usar la barra scroll y ponerla todo a la derecha. Esperar un poco y mirad un lugar donde sale un destello.
+
+Aquí debemos ir. Ahora solo debéis estudiar la forma de llegar, mirando el camino de rocas hasta allí. Es bien fácil. Y una vez llegamos tenemos que coger una llave inglesa que esta medio enterrada.
+
+El siguiente paso es ir a la ciudad que hay todo a la derecha y debemos llegar de la misma forma que antes, moviéndonos por los caminos de rocas entre la lava. Aquí aunque debemos dar mas rodeos, empezando caminando por el otro lado, también es fácil de llegar.
+
+Una vez allí aparecemos en una pantalla con una extraña máquina, parecida a un cañón metálico. Clickear en él para entrar en su pantalla y mirar el botón de la derecha, al lado de los reguladores. Aquí usar la llave inglesa. De esta forma el cañón dispara un chorro de agua abriendo un camino entre la lava por el que podemos pasar y llegar al otro lado.
+
+Ahora llegamos a una especie de caminos, en plan laberinto, entre la lava. Primero mover la barra scroll, y todo a la izda. vemos la entrada de un túnel con una ventana que es donde debemos legar en la primera fase. Pues ahora, con paciencia debemos llegar hasta allí. Es lento pero fácil, o sea que... animo!!!. De todas formas con solo yendo adelante y izda. ya casi vamos solos si luego seguimos las flechas de indicación de dirección.
+
+Bien, ya estamos en esta primera fase. Ahora vamos a la derecha, por abajo, cogemos el camino por el centro de la lava y luego todo recto hasta entrar por una puerta que es nuestro segundo. Ya solo nos queda llegar al destino final que es la puerta que está todo a la izda.
+
+Para llegar allí debemos coger el camino de detrás de esta cueva y seguir buscando, pero está vez en más fácil de llegar. Y una vez llegamos al extremo izdo. de la pantalla salimos de este lugar de lava y llegamos a otro pero con el scroll puesto en vertical. Y lo primero que hacemos es mirar toda la pantalla para hacernos un idea de por donde deberemos ir. (SAVE: 09).
+
+Mover la piedra que hay encima del palo que sobresale a la izda. Aparecerán unas piedras por las cuales podremos pasar al otro lado. Pero esto no es todo, debemos pasar por TODAS ellas para que se hundan y así, al otro lado, conseguiremos poner en marcha un puente. Si nos dejamos alguna no podremos seguir. Además debemos ser rápidos ya que si esperamos solo un poco sobre una piedra esta se hunde y morimos, aunque podemos continuar después.
+
+Suponiendo que N = Norte, S = Sur, NE = Noreste, SO = Suroeste, etc. aquí tenéis el recorrido exacto que hay que hacer, teniendo en cuenta que se empieza por la entrada de la derecha, no la de la izda.:
+
+N E N O O S O N N E E E   N O O O N NO NO NE NE SE S   NE S NE SE NE NE NO NO SO NO N.
+
+Y llegamos al otro lado habiendo bajado todas las rocas. Ahora ir hacia atrás y todo a la derecha, pasando por un puente (que no hubiera salido si no hubiéramos bajado todas las rocas) y entramos en una cueva. (SAVE: 10).
+
+Bien... puntos = 700. Ya solo nos queda un 30 % de la aventura.
+
+En la cueva examinar los cristales azules de la derecha: es otro nuevo puzzle. Mirar que cada cristal de los siete tiene un símbolo grabado. El juego consiste en pasar el rayo láser que sale de la izda. hasta hacerlo llegar a la derecha, cambiando los cristales para ello. Nada mas fácil, el primer cristal de la derecha debe tener grabado un palo y arriba otro otro a la izda, como una "I" con acento al revés. A partir de aquí vamos poniendo los cristales donde va a parar el rayo. Los siguientes son: arriba = palo con raya a la derecha; abajo = palo con raya hacia abajo (como un uno). Más a la derecha, el cristal central debe tener lo mismo que el anterior de arriba. Los dos siguientes cristales son: el de arriba = como un uno al revés y el de abajo como el central anterior pero con el palo del centro en vez de ir a la derecha va a la izda. Y por último el cristal final es como el primero. De todas maneras es muy fácil solo hay que ir probando unos segundos para conseguirlo y además hay muchas formas de hacerlo, no solo como yo os he explicado.
+
+Bien, una vez hemos logrado pasar el láser al otro lado se abre una gran compuerta en la sala. La miramos, usamos nuestra bolsa de tabaco en ella y desaparecemos.
+
+CAP\u00cdTULO 5: TENEBROUS
+
+Empieza la animación de cada capítulo. Sigue la conversación entre el malo y nuestra niñera bruja, a través de un espejo, con la novedad de que nuestra exniñera tiene una mascota, un bicho enorme de colores y nariz grandota llamado DREEP. Nosotros aparecemos desmayados en una habitación que parece como un sótano.
+
+Ponte en el inventario de BOOGLE y usa el disfraz de enfermera (gorro) en TORIN, con lo que logra despertarnos gracias a sus "gracias gatunas", aunque nos agota la existencia de pañuelos.
+
+Sube por las tres cajas de la izda, con solo clickear en ellas y, una vez arriba, usa el cuchillo en el ventanuco. Entramos es una especie de conducto de ventilación, largo y estrecho y vamos dos pantallas a la izda., hasta llegar a la pantalla donde vemos que el conducto ya está en la parte superior de la pantalla. Seguimos a la izda. y se nos abrirá el menú de opciones, donde en HELP desconectamos la segunda opción. Si esto no ocurre no os preocupéis porque no pasa nada, hacedlo vosotros mismos.
+
+Ahora seguimos a la izda. y caeremos al vacío durante un rato. Empieza una nueva animación en la que caemos en una especie de bosque, un poli nos pilla, nos encierran, viene DREED, el bicho gordo de colores y se lleva a nuestro colega BOOGLE. Luego nos juzgan y nos echan en el bosque donde aterrizamos, pero sin nuestro compañero y sin nada en el inventario. (SAVE: 11).
+
+Hablar con la flor amarilla cinco veces y salir de su pantalla. Clickear debajo de ella y entramos en una pantalla llena de gusanos. Solo mirar y salir, ya que no podemos coger ninguno.
+
+Vamos a la planta roja de la izda. y cogemos automáticamente una de sus flores verdes. Salir por abajo, a la izda., y hablar con el árbol con forma de cabeza todas las veces posibles hasta que se repitan las frases. Ojo de no caer al precipicio si vamos un poco atrás, a la derecha, de donde hemos aparecido. Darle la flor verde de nuestro inventario y nos dará una especie de fruto jugoso.
+
+Salir por abajo y volverse a meter en la pantalla de los gusanos debajo de la flor amarilla. Usar la fruta jugosa en las cuatro hojas donde están los gusanos y cogerlos de uno en uno cuando se queden pegados. Veréis que en el inventario, de todas maneras, solo se nos muestra uno.
+
+Salir de esta pantalla y hablar con la flor un par de veces más. Examinar la puerta llena de enredaderas y volver a hablar con la flor otras dos veces.
+
+Volver al árbol parlante por abajo izda. de la pantalla y hablarle. Luego hablar con la hierva de la derecha, señalando en cualquier sitio, y pedirle permiso para pasar.
+
+Bien... ahora estamos delante de un gran problema y debéis tener el sonido a tope. Para pasar al otro lado de la derecha debemos escuchar algunas exclamaciones de la hierva, que nos conduce para que no caigamos. De todas maneras ya sabéis que si caemos no pasa nada y podemos repetir las veces que queramos, pero, por si acaso, en cada nuevo paso que deis mejor grabar la partida o será muy largo.
+
+Desde donde estamos lo primero que hay que hacer es buscar un lugar donde escuchemos perfectamente la palabra "YES", que está, más o menos, debajo del saliente y a unos dos dedos a la derecha. Tranquilos que todo es cuestión de escuchar y tampoco es difícil, solo acordaos de grabar cada vez que hagamos un nuevo paso.
+
+El siguiente paso es buscar donde oímos la palabra "OKEY" y ponerse hay. Normalmente siempre será un poco más adelante de donde estamos y casi siempre algo las arriba de nuestra cintura. Esta ves en solo un poco más arriba de donde estamos, pero muy cerca. Ahora buscar donde digan la exclamación "UHUH" (yuu!!!), que es un poquito más arriba de donde estamos. Ojo, estas exclamaciones se deben oír claramente, sin que se mezclen con el "NO WAY" que sale en cada momento. Ahora debemos ir algo más abajo donde dice "YA, YA, YA", algo más adelante, un poco arriba se repite esta exclamación y para allí vamos y por último oímos lo mismo también un poco más adelante. Así logramos atravesar esa pantalla, subiendo el resto del tramo final, llegando a una especie de anfiteatro y encontrándonos frente a una puerta. (SAVE: 12).
+
+Entramos por ella y ya cambiamos de escenario. Estamos en una especie de camerino de teatro y un tipousano sale muy cabreado.
+
+Coger de encima de la mesa una caña (o bastón o garfio...?) y un sombrero de copa. Mover toda la barra de scroll para ver toda la pantalla al completo y volver a quedarnos en el mismo sitio.
+
+Hablar con el conejo de la manzana en la cabeza y vemos como un loco hace de Guillermo Tell. Coger la ballesta y volver a hablar con el conejo de todo hasta que se repitan las frases. Usar el sombrero de copa con él y se pondrá dentro.
+
+Ahora ves un poco a la derecha, coge el póster que está sobre un tipo, que es una especie de mago ciego llamado ZIPPEE y habla con él. Así nos hace una demostración bastante mala de sus habilidades, le damos el sombrero con el conejo y nos pega todo un rollo.
+
+Y ya estamos con 801 puntos, que hasta los 999 del juego resulta que solo nos falta un 20 % para acabar.
+
+Del estante de la derecha, abajo, coge una gaita y vuelve a mover el scroll un poco a la derecha para llegar al organista y hablar con él todo lo posible hasta que nos enfoca un cristal a modo de micrófono. Nos dará una barra azul ("AUDCRYST") y una caja ("CRYSTCORDER"), vamos... una especie de grabadora y su carga, y le damos las gracias por su regalo.
+
+Dentro d el inventario usar la caja en nuestro proyector holográfico y aparecen los mandos. Darle al PLAY, que es como cualquier cassette, se vuelve verde y nos da más puntos. Ahora usar la barra azul en la parte superior de la caja y sacarla del proyector.
+
+Mover el scroll a la derecha del todo, donde está un carpintero, e ir hacia él. Hablarle todo lo posible, pero no podemos conseguir su sierra.
+
+Ahora esperar un poco moviendo el scroll de un lado a otro hasta que el carpintero desaparezca y cuando lo haga, volver allí y coger la dichosa sierra. Y si no desaparece seguir con el paso siguiente.
+
+Aquí al lado está la encargada de todo esto, una tía fea, pero fea, que se pasea nerviosa de un lado a otro. Hablar con ella hasta repetir las frases. Volver donde está el carpintero. Si antes no pudimos coger la sierra lo podemos hacer ahora, ya que no estará, y usarla, dentro de nuestro inventario, con la caña o bastón, para hacer una varita mágica.
+
+Ves donde está el mago y nos hablará. Dale la vareta y se vuelve a enrollar. Dentro de nuestro inventario coge el gusano y úsalo con el póster. Así hacemos una especie de muñeco de colores que damos al mago. Se enrollará otra vez y nos dará un libro de magia.
+
+Hablar con el acróbata de al lado, que hace volar a la niña con sus pies. Ahora anda todo a la derecha hasta dar la vuelta completa a la pantalla y volver a estar donde el acróbata.
+
+\u00c9ste ya se habrá ido y podremos coger una pastilla del suelo, que es resina. Y, dentro del inventario, usa la resina con la ballesta.
+
+Ahora oímos chillar a la tía fea y vamos hacia allí, a la izda. Pero lo que hacemos es pasar por entre las cortinas. Aparecemos en una pantalla, solos con una silla. Se supone que es el escenario y lo que se nos ocurre hacer es usar la sierra en nosotros, con lo que damos un espectáculo de música malísimo.
+
+Ahora viene una nueva animación en la cual vemos que lo hacemos tan mal que vuelve a venir el poli, nos arresta y volvemos a ser juzgados y encerrados. Y esta vez nos encierran en una cámara sin gravedad, en la que flotamos, para así no oír nuestras horribles interpretaciones. (SAVE: 13).
+
+Ahora debemos usar nuestra caja de música en el escáner del inventario y darle al botón de PLAY, pero vemos que el cristal de voz de arriba está roto en varios trozos. Pasar todas las piezas, por el mismo orden, a la parte inferior de la caja y se desactiva el PLAY.
+
+Y aquí viene el último puzzle, difícil, de este juego. Debemos poner cada pieza suelta del cristal roto en la parte de arriba de la caja, darle a PLAY y escuchar que dice. Esto hacerlo con todos, pero no perder el orden con que están puestos.
+
+Se trata de poner arriba los cristales que digan: "DREEP, COME HERE", o sea "Dreep, ven aquí" para tenerlo preparado para más tarde que lo vamos a necesitar. Los cristales que vamos a necesitar, por orden de izda. a derecha son cuatro, que dicen: "D", "REEP!", "COMEH" y "ERE". Estos son el más pequeño, el último, el tercero y el cuarto. Los ponemos en la parte superior y accionamos el PLAY.
+
+Dejar el aparato encendido y sacarlo del escáner para ponerlo en el inventario. Ahora nos hartaremos de oír esta dichosa frase, o sea que mejor que bajéis el volumen del ordenador.
+
+Volvemos a estar en la pantalla principal, levitando. Coger la caja de música y ponerla sobre nosotros. Exactamente no se quedará en nosotros sino que se quedará colgando en el aire, y nuestro cuerpo la tapa, pero si clickeamos en nosotros nos da más puntos. Tantos como los 915 que ya tenemos, o sea que la estamos en el 90 % de la aventura y solo nos queda un mísero 10 %, o mejor dicho, solo un casi 8 o 9 %.
+
+Usar la gaita también en nosotros y aparecerá un panel con flechas de dirección, arriba a nuestra izda. Como podéis suponer la gaita nos servirá como medio de propulsión por esta pantalla y las flechas de dirección son para elegir hacia donde queremos ir. Cuanto más las apretemos mas disparados saldremos o sea que controlar vuestra fuerza e ir despacio. Y si este panel os molesta la podéis coger y poner en cualquier sitio de la pantalla.
+
+Ahora coger la pestaña del scroll en vertical y moverla abajo del todo y la de horizontal a la derecha del todo. Aquí veréis como una especie de escalera marrón al fondo y este es nuestro destino.
+
+Usando las flechas de abajo y derecha llegamos hasta este lugar, pero como está más hundido debemos usar la flecha de atrás. con lo que nos alejamos y nos hacemos más pequeños. Acabar de ir izda. o derecha y arriba o abajo hasta llegar a nuestro destino, donde oiremos un sonido conforme lo hemos logrado.
+
+SIGUE EL CAP\u00cdTULO 5, PERO ESTO YA ES EL FINAL
+
+Aparecemos cabeza abajo frente a una puerta. Debemos tocar el timbre y después señalar sobre nuestro pies, con lo que iremos hacia el otro lado de la plataforma y quedaremos en horizontal. Se abre la puerta y sale DREEP, que al oír que le llaman se irá y dejará la puerta abierta. (SAVE: 14).
+
+Entramos y empieza otra animación en la que nos movemos por una inmensa sala llena de gente metida dentro de grandes cristales y luego al ir más adelante vemos a la malvada LYCENTIA haciendo mejunjes y pócimas.
+
+Usamos el libro mágico en ella y solo conseguimos cambiarnos de sitio varias veces, pero al intentar venir hacia nosotros cae inconsciente. Señalar su cuello amarillo y, al tocarlo, desaparece, volviendo a ser la de antes, ya que este cuello era una especie de aparato de sumisión del malo.
+
+Vuelve a ser nuestra vieja nodriza de siempre y se enrolla lo suyo. De repente, detrás del espejo, aparece el malo malvado, lo ve todo, atonta ay nos ataca. Pero como somos más fuertes que él coge a la mujer como escudo para que nos rindamos. (SAVE: 15).
+
+Ahora ya lo único que tenemos que hacer es señalar su mano, con lo que nos movemos rápido y por último usar el libro otra vez en la mano. Y así conseguimos los 999 puntos y acaba la aventura.
+
+Solo falta ver la animación final donde LYCENTIA se reanima, el malo es vencido, encerrado en uno de esos cristales y tirado por la ventana. La vieja nos habla y volvemos a aparecer en nuestra casa, con nuestra familia y nuestra mascota.
+
+Y acaba con una lista interminable de créditos. 

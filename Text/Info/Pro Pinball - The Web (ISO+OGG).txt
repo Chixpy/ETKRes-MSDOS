@@ -1,0 +1,9 @@
+Primer título de la que es considerada por muchos la mejor saga de juegos de "pinball" de la historia que concentra toda su calidad en una sola mesa perfectamente ambientada en lo que a gráficos y temática se refiere.  Teniendo presente el objetivo final de derrotar a la Reina Oscura, el usuario deberá ir cumpliendo con éxito cada una de las cinco misiones que se presentan, para lo que podrá aprovecharse de los diferentes bonus, multibolas y minijuegos que la mesa ofrece.
+
+CONTROLES
+
+- S : empezar juego
+- Ctrl ó Shift : flipper"s
+- Space : mover tabla
+- Intro : sacar bola
+- P : pausa

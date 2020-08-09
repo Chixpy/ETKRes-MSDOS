@@ -1,0 +1,6 @@
+"Hello game lovers ! Here"s the last shareware game from the two Nice Guys. Remember those school days when some boring teacher would be lecturing boring stuff... What was there to do ? There where no IBMs... Well, the two Nice Guys would pick up a piece of paper, draw a figure (like a house), and would try to redraw it by lifting the pen from the paper a minimum number of times. That"s what Tracer is all about!
+
+Every time you lift the pen, you have made a ""trace"". Like in a golf game, every figure has a par, that is the average number of times that one is
+allowed to lift the pen to trace.
+
+For example, we can draw the stair figure in five traces. If we draw it in four, we get a score of -1, in six of +1, and in five, we are even. So actually, in this game, having a negative score is great!"

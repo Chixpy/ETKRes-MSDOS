@@ -1,0 +1,3 @@
+This is our game for the RPGDX winter contest (I have forgotten its name...).
+
+Due to electrical problems aka powerless aka I live in the bush where there is threes that falls over the cables, We haven"t been able to work with the game as much as needed. Anyway, we hope you find it a bit fun to play.

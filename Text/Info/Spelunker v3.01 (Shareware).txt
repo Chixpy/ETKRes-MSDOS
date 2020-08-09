@@ -1,0 +1,5 @@
+SPELUNKER is a simulation program, not a treasure hunt or a dungeons-and-dragons type adventure game. The program uses your computer"s random number generator to create a cave complex, with passageways, rooms, domes, and pits. Your task is to explore and map this cave complex. To assist you in this task you may, at your option, carry along a knapack loaded with your choice of items you think you may need, such as spare batteries, ropes and grapples, and a map showing any previous explorations that have been done in this particular set of caves (the map may, in an emergency,
+be updated inside the cave). Care is required, particularly around pits; it is possible for a careless person to slip and fall in, ending that particular caving trip quickly but
+painfully.
+
+

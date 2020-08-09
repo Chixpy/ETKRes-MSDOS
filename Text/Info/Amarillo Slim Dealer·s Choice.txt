@@ -1,0 +1,1 @@
+Amarillo Slim Dealer"s Choice is a poker simulation featuring several game variations, including 5, 6 or 7 Stud, Mexican, Hold "em and Forty-Four. Other game features include high score table, save/restore feature, embedded help/rules, statistics, and multiplayer support. The tutor feature allows to calculate the change of improving the hand for the next card at any time.

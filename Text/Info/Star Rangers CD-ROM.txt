@@ -1,0 +1,5 @@
+The premise behind this game is that of a western, but set in the future, and in space. There is a plot but the gameplay focuses on fast "n" furious arcade action. You are a Star Ranger and it"s your duty to protect the human frontier from alien attack.
+
+You and your wingman must hyperspace between points to protect bases and civilian ships, while managing these conflicts you must also make a pitstop if your ship becomes to damaged, energy too low or to load up with missiles 
+
+NOTA: Este juego solamente puede controlarse por joystick. Si no tenemos uno, podemos mapear las teclas que queramos usar para sustituirlo con CTRL+F1.

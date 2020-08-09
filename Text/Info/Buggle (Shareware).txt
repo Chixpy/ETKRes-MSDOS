@@ -1,0 +1,7 @@
+Buggle consists of a set of 16 special dice which have a letter on each side, a notepad for the player, a notepad for the PC, a variable timer and a 100,000 word dictionary. The 16 dice are shaken then laid out in a 4 x 4 grid. Your objective is to make as many words as you can, each with at least three letters, within the time limit. The PC will make as many words as it can at the same time.
+
+Once the time limit has expired (or if you choose to stop before it expires) the words from each list are checked against each other. Any words matched are disallowed, as well as any words which cannot be legally made within the grid.
+
+Words are constructed by using adjacent letters within the grid. Each letter can only be used once per word. Letters can be joined from left or right, from top or bottom as well as diagonally. Words must be English and conform to the SCRABBLE rules, ie. no proper nouns, plurals OK etc.
+
+Note that Q is handled uniquely in that a U is automatically added to it. For SCRABBLE fans this may seem a bit of a cop out but it does make life a bit easier!

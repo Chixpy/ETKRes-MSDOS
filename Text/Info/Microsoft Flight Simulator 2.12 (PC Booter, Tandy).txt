@@ -1,0 +1,1 @@
+The second version of Microsoft"s flight simulator. Just like the ones that came after, it was a very sophisticated simulator for its time.  Major added features included more hardware support, more simulation variables, and many overall tweaks.

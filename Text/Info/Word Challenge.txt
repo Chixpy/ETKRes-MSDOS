@@ -1,0 +1,1 @@
+An educational and entertaining word game for 1 or 2 players. Consists of 4 games in one: Hangman, Anagrams, Vocabulary & Spelling, and Trackword. Shareware version has 200 words in each data file (800); registered version has a total of 12,000 words and includes an editor so you can create your own V & S files.

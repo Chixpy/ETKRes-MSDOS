@@ -1,0 +1,3 @@
+Remaking the classic Spectrum game "Jetpac" from Ultimate Play the Game, the titular hero must fly around shooting aliens, initially to rebuild his craft, and then to collect enough fuel to fly off a succession of levels, picking up gold as he goes.
+
+The remake was designed to run super-fast on 286s, but appears to have been speed-locked successfully, so you won"t need MoSlo for a change. The scoring is much lower in this version, with aliens worth a single point. The game keeps track of your high score, but this information is not saved. The 256-colour graphics and speaker sound both represent automatic advances over anything the Spectrum can do.

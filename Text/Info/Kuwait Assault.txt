@@ -1,0 +1,18 @@
+He aquí los últimos coletazos de OMK (también conocida como Omikron), una compañía que no se destacó precisamente por la calidad de sus juegos... Y éste no iba a ser una excepción.
+
+"Kuwait Assault" es un juego que, probablemente, muy pocos de vosotros conoceréis. Yo mismo lo he descubierto hace muy poco, echándole un vistazo a revistas antiguas en busca de carteles publicitarios. Encontré un anuncio de este juego y me fijé en las pantallas: parecían de Amiga.
+
+Me di una vuelta por Google y encontré muy pocas referencias, pero por suerte una de ellas era un enlace a una enorme colección de imágenes de juegos abandonware, entre los que se encontraba éste que nos ocupa (en el zip encontraréis tanto la imagen como los archivos descomprimidos listos para ser jugados).
+
+Tiene toda la pinta de que fue el último juego de la compañía, cuando había que hacer sí o sí la transición a los 16 bits. Como a muchas otras, seguramente les cogió con la guardia baja, acostumbrados como estaban a trabajar para ordenadores más pequeños. Y más a OMK, que ya no lo hacía muy bien con ellos.
+
+El resultado es un clon de "Cabal" (o de "NAM 1975" de Neo-Geo, al que tantas horas dediqué hace años, cuando descubrí los emuladores).
+
+Pero en calidad ni se les aproxima. Los gráficos son pobres, y aunque se intuye un intento por aprovechar el colorido que los potentes ordenadores ponían a su disposición, no lo consiguieron ni de lejos.
+
+Lo mismo ocurre con el sonido, que -por lo menos en esta versión de la que disponemos- se limita a utilizar de forma torpe el speaker de nuestros ordenadores.
+
+De la jugabilidad mejor no hablar. Mover el puntero puede convertirse en un auténtico suplicio (¿para qué nos pregunta si está conectado el ratón si después el control se efectúa con los cursores?), y antes de que logremos apuntar a algún objetivo habremos sido eliminados, indefectiblemente, por alguno de los escasos enemigos que aparecen en pantalla.
+
+Descargadlo como curiosidad, era muy difícil sino imposible encontrarlo, pero no esperéis demasiada diversión.
+

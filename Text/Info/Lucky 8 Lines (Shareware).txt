@@ -1,0 +1,1 @@
+Slot machine game where you can stop each roller by pressing a button.

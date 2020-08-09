@@ -1,0 +1,5 @@
+"Lettrix is a clone of the game ""Boggle"" by Parker Brothers. A matrix of 16 (4x4) letters is placed on the screen, and the player tries to spell out all the words that are contained within the matrix. The object of the game is to find all the words in the matrix that the computer found.
+
+When the program is executed, the dictionary (words) is read, and then a command ""menu"" is shown. Each command has a short description on the command window. Each command is described below in more detail.
+
+When a game is played, the computer will take some time to examine the matrix of letters for words that are in its dictionary. Once this list of words is complete, the player can start entering words. Note that this process is very CPU intensive, and may take over 3 minutes for an older 286 computer. For this reason, it is recommended to play this game on a 386 or faster machine."

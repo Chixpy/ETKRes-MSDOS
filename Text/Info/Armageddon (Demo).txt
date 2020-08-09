@@ -1,0 +1,3 @@
+"As one of the first Korean game developers Mirinae made a step towards realtime polygonal 3D graphics. Their first product that used their own Realspace 3D engine was this space shooter tie in with a contemporary big animation project. Just like Full Metal Jacket, the game features weapons management, but also a missions tree in form of a star map.
+
+In the space flight missions, orientation can be very difficult, which is made even harder by the ugly and glutted starfield background. The flight controls are decent, but don"t offer the amount of control of a Wing Commander or Conflict Freespace." - Hardcore Gaming 101

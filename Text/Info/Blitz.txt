@@ -1,0 +1,4 @@
+Blitz is a bombing game, originally made for VIC-20 and MSX home computers. The idea of the game is to 
+bomb down the whole city. The plane is going to land gradually and if it crashes a building, the game will
+end. So the player have only one chance. The player cannot drop more than one bomb at a time. 
+

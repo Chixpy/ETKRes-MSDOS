@@ -1,0 +1,2 @@
+Chess against a computer AI.
+

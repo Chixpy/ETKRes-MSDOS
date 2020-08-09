@@ -1,0 +1,9 @@
+Koolah is an English spelling of the Finnish word "kuula" meaning the "metal ball", that can"t be squeezed and is used in the game as main protagonist.
+
+The game"s idea was taken from a children"s board game, where one tries to guide a metal ball through a wooden maze without touching the ball. The ball is controlled with two knobs on the side of the maze. One of the knobs leans the maze horizontally and the other vertically. The route through the maze is drawn on it, but there are holes along the route that easily swallow the ball. 
+
+While the children"s version used knobs, this computer version uses arrow keys. Also different mazes, scoring, and time limits for the mazes were added to take advantage of computer technology. So in this game player tries to guide the ball through the maze to the goal before the time runs out.
+
+If the "koolah" falls into a hole, player gets one point for each hole successfully left behind. If the time runs out before player reaches the goal, player gets as many points as there are holes in that maze. But if player manages to clear the maze in the given time, s(he) gets 150 points plus the remaining time is turned into points. The more time player has left, the more points s(he) gains.
+
+Top ten high score list shows the best players.

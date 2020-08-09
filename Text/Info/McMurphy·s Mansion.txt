@@ -1,0 +1,5 @@
+In McMurphy"s Mansion, a text based adventure, you are the nephew/niece of the late eccentric millionaire McMurphy. Upon arriving in Scotland, McMurphy"s lawyer Barrister Aaron McBee informs you that McMurphy has left behind a huge inheritance ($10,000,000), but in order to claim it you must prove yourself worthy.
+
+McMurphy has left you with only one clue (a small brass key) and you must now search the mansion and surrounding grounds for the rest of your fortune. 
+
+Gameplay is similar to other text based adventures like Zork, in that you type in what action you would like to perform (like LOOK SOUTH or UNLOCK BOX WITH KEY), and then the game tells you the results of your action. Along with the text descriptions, there is a map and inventory listing to aid you in your quest (these must be turned on before use).

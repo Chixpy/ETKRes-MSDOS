@@ -1,0 +1,8 @@
+Plumber No More is a short, meaningless platformer programmed for MS-DOS. The goal of the project was not to make something innovative and original, but write a working real-time (read: no turn-based puzzle games like my previous DOS game) game for MS-DOS in C.
+
+Controls:
+
+Arrow keys: Move
+Z: Run
+X: Jump
+Enter/Esc: Pause

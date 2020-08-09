@@ -1,0 +1,9 @@
+CoreWar Plus is an integrated environment for the game Core Wars.
+
+Core Wars was introduced by A.K.Dewdney in the Computer Recreations column in Scientific American (later compiled in his book "The Armchair Universe"). Under the supervision of MARS (the Memory Array Redcode Simulator) battle programs written in an assembly-like language (Redcode) fight for memory space in a circular virtual memory array (the Core).
+
+CoreWar Plus is a complete and full-featured implementation of this game. The menu-driven game environment consists of the Redcode interpreter itself, plenty of debugging tools, a built-in program -and a memory- editor and the capability of loading and saving a battle in progress.
+
+CoreWar Plus is written in Turbo Prolog with its built-in management of dynamic memory. The simulated memory array (Core) can have any size and the actual memory it takes up shrinks and expands as Redcode programs write to it. The maximum Core size as well as the maximum number of programs is limited only by the amount of heap memory. Consequently, the Redcode interpreter allows a (virtually) unlimited number of programs in Core; each program in turn can spawn off a (virtually) unlimited number of subprocesses (using SPL). CoreWar Plus, in contrast to other PC implementations of the game, is able to run programs like IMPGUN that create subprocesses ad infinitum.
+
+CoreWar Plus supports all Redcode instructions and addressing modes introduced or mentioned by A.K.D.. This includes SPL (Split subprocess), PCT (Protect address), and the autodecrement and increment (<,>) addressing modes.

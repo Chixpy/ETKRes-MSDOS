@@ -1,0 +1,1 @@
+What"s The Latest Word? is a logic and deduction word game like Mastermind where the computer is thinking of a word, and your job is to discover the word.

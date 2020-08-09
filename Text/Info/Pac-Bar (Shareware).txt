@@ -1,0 +1,1 @@
+A neat variant of the classic Pac-Man game. This version includes a couple of new gameplay elements, big levels and good EGA graphics. It seems quite challenging (at least for me!), although you DO receive more than the usual 3 lives.

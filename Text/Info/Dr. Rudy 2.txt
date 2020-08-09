@@ -1,0 +1,7 @@
+In the original game, you helped Dr. Rudy clean up his lab and get rid of all the viruses. However, you have now discovered that viruses have spread to other labs in the building. Dr Rudy built a special machine called the "Quadratron". It can be placed over an infected area, and an "energy ball" in the machine will carefully remove viruses while leaving expensive lab equipment unharmed.
+
+A sequel only in name, Dr. Rudy 2 features totally different gameplay compared to the original Dr. Rudy. While Dr. Rudy was a Dr. Mario clone, Dr. Rudy 2 is very similar to the Commodore 64 game Crillion.
+
+A colored ball bounces up and down and the player can only control its horizontal movement. Like the original Dr. Rudy, the object is to remove all the viruses. Do this by hitting them with the ball. The viruses are either red, blue or yellow and the ball must be the same color as the virus it hits. When you hit a virus with a different color the ball explodes and you lose a life. There also are color changer blocks, hit them to change the color of the ball.
+
+There are 50 rounds divided in 5 difficulty levels. The game has an odd control scheme that cannot be customized, press ALT to go left and CTRL to go right.

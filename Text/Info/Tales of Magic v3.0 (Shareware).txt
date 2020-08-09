@@ -1,0 +1,34 @@
+These are three text adventure games in the classic style.  No fancy graphics or sound effects.  Like a book, these games allow you to use your own imagination to create worlds of wonder that make graphic adventures pale in comparison.
+
+Each of these three adventures is a distinct and separate game, each with it"s own complex solution.  They each have a magical theme.
+
+
+
+
+
+Merlin"s Magic Forest             (FOREST.EXE)
+----------------------------------------------
+
+You have been magically transported back to ancient England, where the evil
+sorceress Morgana has placed Merlin under a magic spell.  You must search the
+magic forest for the ingredients which will lift the spell and release Merlin
+from his death-like trance.  Danger, magic, and excitement await you when you
+enter Merlin"s Magic Forest.
+
+Merlin"s Golden Trove              (TROVE.EXE)
+----------------------------------------------
+
+As your reward for releasing him for Morgana"s evil spell, Merlin takes you
+to his castle where a hoard of golden treasures awaits you.  But can you find
+them all?  Some are well hidden, and some are guarded by trolls, gargoyles,
+and other creatures you have only heard about.  It will be a true test to see
+if you can discover all of Merlin"s Golden Trove.
+
+Son of Ali Baba                   (ALIBABA.EXE)
+-----------------------------------------------
+
+This adventure takes you to old Baghdad, as you seek to thwart the evil
+magician ROXOR and defeat his army of monsters.  See the giant Roc, the seven
+headed serpent, and the living skeleton.  Ride the magic carpet, sail the
+ship of Sindbad, and find the hidden cave of your father, Ali Baba. This
+adventure will bring back those swashbuckling thrills you have longed for!

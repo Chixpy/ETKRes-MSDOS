@@ -1,0 +1,25 @@
+Space Snake es un juego que ya se podía calificar como retro en el momento de su lanzamiento allá por 1989.
+
+Estamos ante un shoot"em up minimalista que toma prestadas algunas ideas de dos conocidas (y antiguas) máquinas arcade como son Space Invaders y Centipede.
+
+En Space Snake pilotamos una nave que solo puede moverse en el eje horizontal. Nuestra misión consiste en destruir a una serpiente espacial robótica compuesta de 11 módulos, nivel tras nivel.
+
+Por cada disparo certero que efectuemos destruiremos uno de esos módulos.
+
+A su vez, dicha serpiente abrirá fuego contra nosotros, levemente en principio, y de manera más furibunda conforme superemos niveles.
+
+A partir de cierto punto, amén de esquivar las andanadas de nuestro enemigo, deberemos andarnos con cuidado con ciertas burbujas que aparecerán rebotando por el área de juego. Un simple roce con ellas llevará a la perdida de una vida.
+
+Por otra parte mencionar la escasa duración del juego, únicamente compuesto por 10 niveles (con cierta práctica, en menos de 5 minutos, podremos finalizarlo).
+
+En cuanto al apartado técnico del juego, resaltar su simpleza, muy al estilo de las recreativas de finales de los 70.
+
+Los sprites presentan un tamaño generoso y una definición ramplona (y muy discutible en el caso de nuestro caza). El set gráfico es bastante escaso y los fondos simplemente no existen.
+
+Por otra parte la animación, tanto de la serpiente espacial, como de nuestra nave, es fluida, adaptándose perfectamente al tipo de juego en cuestión.
+
+A nivel sonoro Space Snake sigue el esquema del resto de juegos publicados Ediciones Manali por aquella época. Así pues nos encontramos con una melodía "beeperiana", en el menú principal, tremendamente desafinada, más tres o cuatro ruidillos que intentan hacer de efectos sonoros durante el desarrollo de las partidas.
+
+En cuanto al factor diversión, podríamos decir que Space Snake es un juego mucho más divertido que, por ejemplo, Lunar Take u Operación Cyber, pero claro, decir eso y nada sería lo mismo. 
+
+Lo cierto es que pese a ser un juego corto y nada espectacular, Space Snake es un título dotado de un nivel de dificultad bien mesurado y progresivo, que resulta medianamente entretenido. Puede gustar, especialmente, a aquellos que en su día disfrutaron de clásicos como Galaxian, Space Invaders o Centipede, siempre y cuando, tengan cierto grado de indulgencia.

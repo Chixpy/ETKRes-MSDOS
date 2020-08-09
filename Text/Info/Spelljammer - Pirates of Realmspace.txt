@@ -1,0 +1,12 @@
+Based on the 2nd Edition of Advanced Dungeons & Dragons (AD&D) Spelljammer rule book, Spelljammer: Pirates of Realmspace leads the player into a fantasy world to a pilot a ship (Spelljammer) that may travel into space and distant planets for exploration and trade.
+
+In this game, the player pilots a Spelljammers ship, consisting of several crew members and heroes (which may be equipped with items) as well as the player"s main character. Game play primarily consists of trading goods between one planet and another as well as completing quests available at each planet. 
+
+During the course of space travel (1st Person Perspective), the player may encounter other Spelljammer ships, and depending on the situation, space combat may commence with that rival Spelljammer. Combat consists of two different areas:
+
+Naval combat, where the player can battle other Spelljammers with the ship"s weapons; 
+Melee combat, where the player boards or is boarded by the enemy Spelljammer, and enters a Top-Down Perspective.
+In melee combat, participants are divided into the ship"s mates and the ship"s crew. The player has complete control of the ship"s mates, whereas the AI takes control of the ship"s crew. Victory is decided when all of the enemy mates and crew are destroyed.
+
+Achieving victory over an enemy Spelljammer will result in the possibility of the player changing ships, as there are various different Spelljammer ships in the game. These Spelljammer ships may later be repaired or upgraded with weapons/accessories in any planet port.
+

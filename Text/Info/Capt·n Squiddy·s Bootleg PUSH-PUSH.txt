@@ -1,0 +1,1 @@
+This is a clone of the puzzle game "Push-Push" found on several models of Samsung portable phones. The graphics are original, but the levelsets are a duplicated from the official phone version. Push-Push is a variant of the puzzle game "Sokoban". For more information about Push-Push, visit http://how.to/pushpush/

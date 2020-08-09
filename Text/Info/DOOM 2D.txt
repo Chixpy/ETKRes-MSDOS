@@ -1,0 +1,5 @@
+DOOM 2D is, as the name suggests, a 2D game styled after DOOM. Most of the graphics and sounds are ripped straight from the original wads, and used to create a 2D platformer.
+
+The storyline is presumably much the same (and even more sparse), shoot the hell spawn and save the world.Gameplay goes much like many other platform shooters, shooting the bad guys, pushing buttons, collecting the various weapons and powerups.
+
+It"s DOOM, but not as we know it.

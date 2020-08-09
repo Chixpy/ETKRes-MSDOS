@@ -1,0 +1,2 @@
+A basic golf game, align the ball, choose the power and club, and away it goes.
+

@@ -1,0 +1,3 @@
+Wordquest is a program that makes word search games. You can play these games by either printing it out or on the computer directly. The games played on the computer can be saved for later use.
+
+The program includes 106 different categories of words that it will generate word search games from. You can also make your own list of words to be used in the application.

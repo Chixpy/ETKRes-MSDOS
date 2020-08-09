@@ -1,0 +1,3 @@
+Playing Floatris basically means that you are playing eight Tetris games at the same time. With the Z and X keys you change channels, with the numeric keypad you manoeuver the piece in the active well. It starts out slowly, but there are difficult, non-tetramino pieces right from the beginning.
+
+Another game by the same team is Rotaktix.

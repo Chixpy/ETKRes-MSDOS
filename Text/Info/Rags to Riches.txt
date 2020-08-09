@@ -1,0 +1,19 @@
+You have been given money by your parents (God bless their giving hearts) with which you may open your very own office and start making a profit on the stock market. It"s now up to you to make as much money as possible in the shortest possible time!
+
+Rags to Riches is a 1993 stock market simulation. It features two scenarios: the 1929 Stock Market Crash scenario, and the Current Events in Today\u2019s Economy scenario. You can play in three different difficulty modes, and can also select up to four computer opponents (although you don"t need any to play).
+
+No matter what game type you choose, you start in your office and need to hire people to work for you. The one staff worker you really need is your "pit runner", as he is the one who actually buys and sells the shares for you. Without him, you can"t do anything.
+
+To hire people, you need to phone the J.A.R. (you can also phone some other people, like your folks back at home, or donate to the local orphanage) and select the employee you want to hire. Every employee will cost you a certain amount of money, so think twice before hiring him/her. When you have enough money you can even hire enough assistants to do all your work for you, so you won\u2019t need to constantly watch the prices.
+
+Naturally you can have more then one person working in a certain position, especially since employees have a limit to the amount of work they can do.
+
+The main business takes place while the New York stock market is open, but there are certain things you can do even outside that. Make sure to have as much information as possible before you act.
+
+There are also some events that remind you that you can\u2019t spend every day from dawn to dusk in your office (such as paying the living costs of your family), so the business is an income that has to provide for you as well. It isn"t just money you can freely gamble away on bad investments. You can also go out the office door to have lunch (and socialize in the hope of getting a useful tip), go to the mall (where you can spend your money on just about anything), go to the newsstand and get the latest business news, or simply head home early, locking your office down for the day.
+
+For more information about the gameplay itself, or the details of certain parts of it, you should run the START.EXE file or at least read START.TXT (same text, different format).
+
+What surprised me about the game was its graphics: The setup gives two possible modes, VGA and Super VGA mode. I was quite disappointed that the VGA mode only supports 16 colors and was in a lower resolution, while Super VGA supports high resolution 256 color graphics (this is the preset graphic mode). The sounds (or rather, the lack of them) are nothing impressive, but to tell the truth I was unable to set the SoundBlaster sound (only Adlib).
+
+But then again, a business simulation is not a game that necessarily requires great sound and visual effects. All in all, it\u2019s a solid game worth playing and I guess you will spend quite some time making that first billion before you reach thirty years old, so you can retire young (ah, if only real life were that simple). 

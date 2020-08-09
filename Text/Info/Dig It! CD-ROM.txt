@@ -1,0 +1,3 @@
+Dig It! is a platform game. In it, you take the role of Dug Kewl, who returns home one day to find that his wife has been taken by the Supreme Spurkasaur. Using his trusty drill and gun, Dug must travel through four worlds rescue his beloved Dugette before it is too late.
+
+Each world in the game is made up of levels. In each level, Dug must find the place marked with an X and dig down to reach the next level. On the way he will encounter dragons, giant snails, armoured hedgehogs and all kinds of monsters to kill as well as plenty of treasure to collect. Dug can also dig in certain unmarked places, which will transport him to secret areas with plenty of treasure. Only when he has travelled through all four worlds will he be reunited with Dugette.

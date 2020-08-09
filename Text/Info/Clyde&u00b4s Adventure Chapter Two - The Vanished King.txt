@@ -1,0 +1,4 @@
+Clyde"s Adventure is a platform game. The objective is to travel through each of the castles, collect the special treasure, all of the gems and find the exit. There are no enemies although there are a large number of traps, switches and teleporters to complicate things.
+
+There are two chapters to the game, each containing 16 castles. Part one ("The Lost Treasure of Tahookaboo") is shareware, while part two ("The Vanished King") is only available on registration (which appears to be no longer possible).
+

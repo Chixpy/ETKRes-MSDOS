@@ -1,0 +1,6 @@
+Break Machine is a break-out game in 320*400 MODEX Vga. In another dimension the world Brickania exists. The main component of this world is The Brick. Some monsters came from this world to build the earth a big wall. The earthlings decided to destroy this atmospheric wall. As the fighter for earth you take control of the X-PAD 01 ship which is designed for "Space Bricks Breaking".
+
+You start the game with two balls. Many monsters will try to stop you on your quest. The full version of the game comes with 50 levels and 5 monsters. The shareware version features only 5 levels and 2 monsters. At every fifth level you will meet Worm-TRO, the Brickanian dicator. The game features three types of bricks: Normal ones, tri-flex bricks (you have to hit them three times) and transparent bricks which are indestructible. There are plenty of bonus items such as multi-ball, extra-ball and laser.
+
+Botón derecho y seleccionar BMEDIT.EXE para el Editor de Pantallas.
+

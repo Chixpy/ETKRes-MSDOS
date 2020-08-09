@@ -1,0 +1,15 @@
+An action/adventure RPG set inside a mountain where you must fight the evil enemy and save the kingdom; features a good selection of game characters to choose from (each with various attributes), SoundBlaster compat, etc. DOS, but suitable for Windows (including XP).
+
+Gladius is an action/adventure RPG set inside a mountain where you must fight the evil enemy and save the kingdom.
+
+It features a good selection of game characters to choose from (each with various attributes), it is SoundBlaster compatible, and more.
+
+This is an excellent 2D graphic adventure game which can be played under Windows (including Windows XP). It offers a huge range of characters (5 species, 6 occupations, plus a choice of male or female) and you can even change the mix of strength, agility, constitution, intelligence, wisdom, magic, etc by "re-rolling" the computer-set attributes.
+
+The instructions are quite long and involved and, unfortunately, there is no way of printing them out. Expect a slightly longer learning curve than most RPGs but the results should be well worth the effort to learn the game.
+
+Graphics are quite good for a DOS game but are still not as good as most Windows" games.
+
+When unzipping the archive, it should be noted that the game requires about 12MB of space on your hard drive.
+
+Gladius (a Roman short sword) is a fun game and should be popular with anyone who enjoys RPGs.

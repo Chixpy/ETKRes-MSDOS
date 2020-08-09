@@ -1,0 +1,3 @@
+Tank Commander claims to be a full featured tank war simulator with the latest telemetry and statistics of real battle tanks. However, in many ways it remains an arcade tank game to the core. Tanks move faster than in reality, there are ammunition recharges and other niceties to collect in the field, and the tank is equipped with a radar.
+
+40 international combat zones are featured. The player chooses tank model (T-72, M1 Abrams, Leopard and Challenger are all available) and up to 4 wingmen, and starts blasting enemy forces to pieces. A multiplayer mode via modem or IPX is also offered. There are speech clips form your wingmen.

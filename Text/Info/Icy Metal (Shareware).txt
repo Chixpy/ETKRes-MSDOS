@@ -1,0 +1,2 @@
+This exciting software consists of three different action games. Each involves mouse movement of a metal ball a metal donut and/or a metal funnel. The 256-color VGA graphics need a fast CPU. The games rely on quick reflexes but the underlying goal is to create sensory pleasure through a cold metallic aura.
+

@@ -1,0 +1,6 @@
+The idea to make an arkanoid clone came to me while developing engines for my shooter and RPG. I was going to make a game which would not use any library and it would also run inside the QB IDE. I was just trying to see if a decent game could be made inside the limitations of screen 13h chained mode. I was partially right and partially wrong. While I was developing engines for my RPG and Gradius clone, I was loosing my patience trying to make flickerless animations. So I searched the Net for answers and found nothing after days of research. :(. Then with a stroke of luck, I went to GBgames" links, then to the newly resurrected Neozones and found Andrew Ayers" tutorial about Get/Put array offseting. There came the idea to remake my Arkanoid clone. I had simple ambitions when I started. I was only trying to give it some background. Then came the idea to make it better than the original. I"m going to give it a little twist. It would have leaders and a storyline. I also was trying to see how much flickerfree animations I could make w/o the use of page swapping. It was how it all began.... 
+
+Note: I refuse to call this a pong clone since I have never played the original Pong.
+
+Botón derecho y seleccionar LVLDESGN.EXE para el editor de niveles.
+

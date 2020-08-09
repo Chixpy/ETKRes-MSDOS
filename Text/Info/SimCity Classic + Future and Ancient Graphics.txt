@@ -1,0 +1,7 @@
+SimCity Classic is a bundle consisting of a late revision of Maxis"s original SimCity and its accompanying Terrain Editor. 
+
+It was itself included in compilations such as SimClassics 1 and 2.
+
+Future and Ancient Graphics is an update to the original SimCity Graphics Sets 1 and 2, and only works with SimCity Classic. This adds six new alternate looks to the game: Ancient Asia, Medieval Times, Wild West, Future U.S.A., Future Europe and Moon Colony. Gameplay is unchanged by installation of the Graphics Set, but all in-game graphics and text are replaced. Buildings all look different, and the various events and disasters are reinterpreted and given a different flavor.
+
+

@@ -1,0 +1,1 @@
+Dos-based bridge card game. Uses a single bidding system similar to Standard American and includes a series of options that include different difficulty settings, suit counts and attitude signals. Graphics are 2d sprites over a flat background and the game includes a book explaining the basics of Bridge.

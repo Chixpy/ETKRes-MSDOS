@@ -1,0 +1,2 @@
+AntiC is a cross between Othello and Life. Each square sends its color to the neighboring squares in the network. If only one color comes into a square, it takes that color. If two colors come in, they cancel and the square assumes the third color. Each time you change a square, all squares in the pattern are recalculated and redrawn. Mouse/EGA required.
+

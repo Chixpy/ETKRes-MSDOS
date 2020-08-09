@@ -1,0 +1,2 @@
+Maze of the treasure is a challenging maze game which throws you into the middle of a *randomly generated* maze, chasing a moving treasure chest through 20 levels.
+

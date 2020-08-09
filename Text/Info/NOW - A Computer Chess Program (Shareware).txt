@@ -1,0 +1,7 @@
+"NOW is a state-of-the-art (?) computer chess playing program for the IBM-PC line of computers. NOW will work on any 8088, 80286 or 80386 machine with CGA, EGA or VGA displays. For text only displays, the program will use a simple text only representation of the board instead of the fancy graphics.
+
+NOW is not a profit making program. Funds received on this shareware program are used to pay duplication costs, salaries of a business manager and to buy new development hardware. Your contribution will help develop a stronger, more feature-filled program. End of commercial.
+
+NOW did rather well in the 1991 Microcomputer Chess Championship. It finished with the best score for an amateur program running on a PC with only M-CHESS beating it on a PC. Other programs which beat NOW ran on very fast RISC-based processors, much faster than NOW"s 40 MHz 80386 machine.
+
+NOW is not meant to compete with other powerful commercial programs, such as M-CHESS, ZARKOV or Chessmaster 2100. It is simply a shareware option."

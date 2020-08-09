@@ -1,0 +1,1 @@
+Concentration solitaire game with every imaginable playing option. Also multi player games and play versus the computer. VGA/SVGA graphics and digitized sound effects for SoundBlaster. Photo backgrounds and sharp, detailed tiles for playing pieces with tile editor included.

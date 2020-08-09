@@ -1,0 +1,1 @@
+Traditional snake game, where the goal is to eat fruit in order to grow. Has some nice extras not usually found in this kind of games.

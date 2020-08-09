@@ -1,0 +1,5 @@
+The object of MORPHELLO is to gain a majority of pieces on the playing board.  The score is kept on the top of the screen.
+     
+Opponent pieces may be morphed into your own pieces by "capping" both ends of a contiguous row of opponent pieces.  This row may be in any 8 directions.  Moves that cause the surrounding of opponent pieces are the only valid moves, and if no valid moves exist the player"s turn is forfeit.  The game ends when the board is full or neither player can make a move.
+
+

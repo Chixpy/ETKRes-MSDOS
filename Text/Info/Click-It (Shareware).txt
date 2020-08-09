@@ -1,0 +1,2 @@
+This package contains a full unrestricted version of Click-It, a graphic game by Harvera Associates. Also included are several sample-sized game files which show the range of entertainment and educational possibilities for the game.
+

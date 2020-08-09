@@ -1,0 +1,17 @@
+Caleb was once a feared gunslinger, until he met a woman who was involved with a mysterious cult known as Cabal. Caleb, too, is sucked in, and soon becomes one of the Chosen - the most favored worshippers of the evil god Tchernobog. But one day, Tchernobog inexplicably kills the four Chosen, including Caleb. Mysteriously resurrected years later, Caleb is out to get revenge, and learn why his lord cast him down so abruptly.
+
+Blood is a first-person shooter with horror elements, which uses the Build engine. Similarly to Duke Nukem 3D, the environment is interactive: many objects can be physically moved or affected in other ways. Destruction of landscapes is possible (although only in specific spots), with bullet holes being left by misplaced shots. The Build engine version is 2.5D, so there are rooms above rooms and puzzles which are based on this.
+
+The game consists of four episodes, each containing a set of maps that have to be traversed by the protagonist in a specific order. The levels are usually realistic-looking structures, e.g. a carnival complete with twisted attractions, a city district, a moving train, etc.
+
+Throughout the levels, Caleb will have to find keys (up to six in a level) and hit switches in order to work his way to the exit. On the way, he will meet a variety of enemies, such as zombies that tend to come back to life after killed, cultists armed with shotguns and tommy guns that shout in pseudo-Latin language, crawling hands that attempt to choke him, hell-hounds that can set him on fire with their breath, and many more. Boss battles await Caleb at the end of each episode.
+
+To defend himself against this menace, Caleb utilizes a variety of weapons: a pitchfork; a flare gun that can set enemies on fire; a sawed-off shotgun; a tommy gun; a napalm launcher; TNT bundles which come in three different varieties; a home-made flamethrower made of an aerosol can; a tesla cannon that electrocutes enemies; a magical staff dubbed "Life Leech"; and a voodoo doll. 
+
+There are items to pick up strewn around. Unlike most other 3D shooters, the protagonist"s health is not replenished via medikits, but by "Life Essences", heart-like power-ups randomly dropped by enemies upon their death. It is also possible to find armor, which comes in three different varieties - Physical, Fire, and Spiritual, each one defending Caleb from different attacks. There are also other power-ups: some (such as Jumping Shoes or Doctor"s Bag) can be picked up and activated at any time, while others (such as Partial Invisibility) activate immediately when taken. 
+
+As the title implies, violent and gory imagery plays a significant role in the game. Enemies might explode when taken out; it is possible to kick severed heads; impaled victims can be found lying around; enemies die in different ways depending on how they are attacked and in which part of their body, etc.
+
+The official level pack from Monolith for the horror shooter Blood. Blood: Plasma Pak  adds 13 levels, seven new monsters, and some additional firing modes for the existing weapons.
+
+NOTA: Este perfil necesita la versión de DOSBox de Ykhwong.

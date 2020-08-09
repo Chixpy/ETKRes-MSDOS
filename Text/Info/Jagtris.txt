@@ -1,0 +1,1 @@
+A simply amazing Tetris variant. If you are/were a fan of Tetris, you"ve gotta try this. The blocks are now 3x3 squares, of many different colors. You have to match up the colors to make groups. It"s addictive, even more so than the original Tetris! It was even made by a Canadian group! :) 

@@ -1,0 +1,5 @@
+Between 1987 and 1990, Bob Lancaster wrote 6 games that he released under the name of ?MicroLink,? a PC user group he belonged to.All the games boast simple, ASCII-character graphics, but the excellent gameplay and range of options make them stand the test of time. 
+
+The first MicroLink game, ML Yaht remains to this day one of the best computerized versions of Yahtzee dice game ever made. As in the actual Milton Bradley game, players (up to 6 can compete in this game, any of which can be computer-controlled) roll five dice trying to get certain combinations for their scorecard. Players may reroll any of the five dice twice after the first roll. (They may also choose to stop rolling at any point before that.) Deciding where to put a score can be just as important as actually rolling a certain combination. If you roll particularly well, you can get bonus points. 
+
+The combination of luck and strategy that characterize the board game is intact in ML Yaht. The game even supports mouse ? a rarity in 1987! If you like dice games, ML Yaht is a must-play. Two thumbs up!

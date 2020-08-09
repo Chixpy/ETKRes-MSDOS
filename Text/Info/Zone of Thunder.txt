@@ -1,0 +1,12 @@
+ZONE OF THUNDER (ZOTH) is a GladiatorActionGame for two RemoteControl- Pilots, whose fascination is unparalleled by other multimedia games. It features nice graphics, bombastic sound and paralyzing action.
+
+Each pilot has a FightBike wherewith he is cruising in a fighting arena. The task is to pick up weapons which lie around, to attack the opponent and to turn him into a pile of dust.
+
+The fight takes place in a futuristic 2D arena, filled with random walls and framed by DisplacerGates which beam you from one side of the field to the other. As soon as a weapon is shot empty you have to pick up further ammunition or replace it by another. If you don"t want to be killed by the first hit,
+you have also to collect ProtectionShields.
+
+Unfortunately, with each hit, one shield is destroyed again.
+
+Luckily enough, new weapons, ammunition or shields appear everywhere, so you have always enough material to continue your fight.
+
+The RealitySound provides the very cool MadMaxFeeling that makes you sweat. Whoever"s frightened by the use of Machineguns, Cruise Missiles, Pump Guns, Rocket Launchers, Light Swords or Bazookas should better play Tic-Tac-Toe...

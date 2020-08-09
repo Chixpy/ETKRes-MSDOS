@@ -1,0 +1,4 @@
+3D-Mania is a strategy-game, which was raised from the idea of Tetris and which has been mixed with elements of role games. 3d-Mania offers many new interesting possibilities to test and/or improve your strategic skill.
+
+NOTA: Este perfil utiliza la versión de DOSBox de Ykhwong y no funcionará con versiones oficiales de DOSBox.
+

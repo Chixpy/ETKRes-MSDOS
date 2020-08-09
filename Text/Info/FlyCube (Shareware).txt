@@ -1,0 +1,1 @@
+FlyCube 1.0 is a Rubic"s Cube puzzle game with its own scoring system. It can used by both beginners and professionals to test their skills in solving the puzzle. Even if you don"t manage to solve it you can be assessed and given a score by calculating the percentage you completed and the number of turns you took to get there.

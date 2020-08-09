@@ -1,0 +1,3 @@
+An enhanced version of Super Stack. Features even better graphics and few more game modes. It also features very nice Sound Blaster sound effects. This game is very close to score 10, but the game concept just doesn"t do it for me. Still, Ultimate Super Stack is definitely one of the best QBasic games ever made (top 10).
+
+NOTA: Este perfil utiliza la versión de DOSBox de Ykhwong.

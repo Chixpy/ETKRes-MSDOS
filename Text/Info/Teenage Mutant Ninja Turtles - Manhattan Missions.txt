@@ -1,0 +1,7 @@
+Shredder will assume control of New York City in 48 hours. The Ninja Turtles must stop him and at the same time fight even the lesser crimes taking place in New York City. No surprise that each of these crimes leads to Shredder.
+
+Along with the standard side scroller, each turtle uses a different weapon (just like in comics, Leonardo has swords, Michelangelo nunchakus, etc.) to fight criminals. Each turtle has stats (strength, speed, energy) that increase the more they fight; furthermore, when they reach a certain level of strength, they gain additional attacks!
+
+The player has 48 hours to complete the game. These are 48 realhours, but you will spend lot of them resting the turtles to regain their health (with the "rest X hours" command) in-between missions. However, you can even save game for later reload.
+
+There are 16 levels for exploration, their path frequently deviates from simple left-to-right walking: they"ll have to enter doorways, windows, and sewer tunnels, climb ladders, and even locate the occasional item needed to cross a barrier.

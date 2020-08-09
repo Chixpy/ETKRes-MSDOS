@@ -1,0 +1,1 @@
+Ataca a los soldados enemigos de la trinchera de enfrente. Usa CTRL y ALT para disparar y cambiar de arma respectivamente.

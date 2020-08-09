@@ -1,0 +1,1 @@
+This game has two modes. The first is to select state capitals, and the second is to select the states. You can either choose which state/capital you want to find, and the click it"s location on the map or play in a random order where the computer will give you the picture and you type the name.

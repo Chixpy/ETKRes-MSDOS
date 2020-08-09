@@ -1,0 +1,8 @@
+Estamos ante un juego amateur tremendamente surrealista.
+
+En la primera pantalla, hay una serie de objetos con los que interaccionar; al pulsar sobre ellos te comentarán algunas cosas.
+
+Una de esas pulsaciones te llevará a otro apartado del juego, donde manejas a un ¿espermatozoide? que tiene que esquivar diversos obstáculos.
+
+El propio autor comenta en el manual lo disparatado del desarrollo, y la necesidad de descubrir por uno mismo el objetivo del juego.
+

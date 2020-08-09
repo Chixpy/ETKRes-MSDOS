@@ -1,0 +1,7 @@
+One of the world"s first chess games designed for experts, Cyrus is also unfortunately one of the least known due to limited distribution.
+
+The IBM version can be played from a isometric 3-D perspective, or a traditional boring 2-D overhead view.
+
+There is a clock, which can be turned on or off.You can view analysis mode, examine game, or watch the computer play itself.
+
+The game has 16 difficulty levels!

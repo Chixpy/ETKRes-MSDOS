@@ -1,0 +1,5 @@
+Pako is a single player Pac-Man clone.
+
+Pako is a friendly looking yellow blob. His job is not to kill space pests but to eat their eggs. If he succeeds in passing 100 tests he will be cloned and allowed out into the world, if he fails he will be terminated.
+
+This game features one hundred levels and sixteen kinds of space pest together together with an array of bonus food items.

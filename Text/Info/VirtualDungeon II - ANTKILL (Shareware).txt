@@ -1,0 +1,9 @@
+"Welcome to the second of the new VirtualDungeon series of games from NEUROSPORT!
+
+A DOS Compatible, EGA HI RES or VGA STD Color Graphics, 286(AT)/386 or faster is recommended for this game.
+
+In VirtualDungeon II: ANTKILL, you will climb into a gigantic Anthill and find your way to the Brood Queen and her children to save your town.
+
+An explanatory note on VirtualDungeon:
+
+The VirtualDungeon is best described as a 3-D simulation of reality, in this case a Fantasy. Many actions you would think to do will have similar results AS IF YOU WERE THERE! A list of commands is available by pressing \u00e2?\u00e2 and is also at the bottom of this file for you to print out, if desired. "

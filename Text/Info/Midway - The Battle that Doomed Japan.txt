@@ -1,0 +1,5 @@
+"Midway: The Battle that doomed Japan" is a 2D naval simulation. Scenario is the battle of Midway during World War II.
+
+You take the command of U.S. - or the Japanese strike fleet.
+
+The Japanese fleet is on the way to the Midway Islands ... U.S. Forces have to defeat them there. The simulation takes place over a three to seven day period. Each day is divided into twelve turns. Each turn consists of operational orders from the American player, followed by the Japanese player.

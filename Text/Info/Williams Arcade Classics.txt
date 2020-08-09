@@ -1,0 +1,13 @@
+The first big commercially-available emulator collection (and a direct outgrowth of Digital Eclipse"s early emulation work on the Macintosh.)
+
+DOS version
+
+Defender - side-scrolling shooter
+Defender II - side-scrolling shooter
+Joust - joust on flying ostriches
+Robotron: 2084 - single-screen manic shoot "em up
+Sinistar - overhead free-range space shooter
+Bubbles - play a scrubbing bubble in a game similar to the arcade Reactor
+Also contains FMV supplements, including interviews with the original programmers.
+
+

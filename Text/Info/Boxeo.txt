@@ -1,0 +1,11 @@
+Boxeo es un programa pugilístico de factura espartana, que nos muestra la acción desde una perspectiva cenital (cosa que trae a la memoria al clásico Boxing de la vetusta Atari 2600) y que hace alarde de una sencillez pasmosa en todos y cada uno de los aspectos que lo componen.
+
+De hecho los boxeadores solo pueden realizar cuatro tipos de movimientos, tres de ataque (gancho de izquierda, gancho de derecha y golpe bajo) y uno defensivo (bloqueo). Además, el único parámetro de combate que podemos alterar desde el menú es el número de asaltos (que no su duración).
+
+Nuestro objetivo en el juego es ganar un combate de boxeo, y digo bien, uno.
+
+El juego, ni ofrece modo alguno de campeonato, ni tampoco nos da la posibilidad de ajustar el nivel de dificultad, presentando, para más inri, un único adversario bajo el control de la CPU.
+
+Esto supone que en cuanto juguemos un par de partidas y nos hagamos con el control de nuestro púgil, no tardemos demasiado en acabarlo.
+
+Afortunadamente el programa incluye un modo que permite enfrentar a dos jugadores humanos, y es aquí donde Boxeo muestra todo su razonable potencial de diversión.

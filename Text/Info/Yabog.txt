@@ -1,0 +1,1 @@
+A smooth and mostly uneventful Arkanoid clone. There are some cool things about this game, though. First of all, you can design your own levels using an included level editor. Secondly, there ARE some cool powerup blocks ... they"re just not used enough in the default levels to make them exciting. Cool if you"re creative and would like to make your own levels.

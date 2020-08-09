@@ -1,0 +1,2 @@
+Blockade is a strategy board game similar to Othello. Each player takes turns to place his pieces on the board, with the objective of ending up with the highest score.
+

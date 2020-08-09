@@ -1,0 +1,9 @@
+Jetset is a text mode 747 flight simulator, possibly the very first made for PC. Its code, in BASIC, was published on November 1982"s issue of the BYTE magazine.
+
+Except during take off / landing, where the runway is visible, all you can see are the plane"s panels and controls, which you can operate using the keyboard. Despite its minimal interface, Jetset is realistic as it relies on a good physics engine.
+
+Developed by BYTE Magazine and published by BYTE Magazine, Jetset is a simulation game revolving around flight. It was published in 1982, feel free to download and play it now!
+
+Jetset is a primitive ASCII-only flight simulator program coded entirely in BASIC. This version is coded from the BASIC codes printed in an early BYTE! Magazine, sometime around 1979. You control the plane from a first-person perspective, watching all the gauges and dials as you try to take off, fly the plane, and eventually land. Although short on realistic scenery (there"s not much you can do with ASCII graphics to represent terrain), the game is long on realism and playability, offering a surprisingly robust physics model given the limitations of BASIC language. Well worth a look, especially to armchair pilots who collect mouldy oldie flight programs. Who knows, this could very well be the first PC flight simulation game in existence ;) 
+Review by HOTUD
+

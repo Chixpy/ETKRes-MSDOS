@@ -1,0 +1,2 @@
+Baseball simulation that allows you to test your skills as a big league skipper. Select lineups, pitchers, steal bases, bunt, hit and run, etc. View tons of stats any time! Expanded boxscore, detailed score card, cool ballpark window shows outcome of plays, automatic lineup selection! Easy-to-use user interface. All 1992 AL & NL teams!
+

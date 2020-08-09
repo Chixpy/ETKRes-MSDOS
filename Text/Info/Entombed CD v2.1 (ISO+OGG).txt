@@ -1,0 +1,5 @@
+In this adventure game the player controls an archaeologist who is looking for artifacts on Tarsus. But while searching the ruins he falls into a trap door and is suddenly in a big underground complex. Now he has to find a way back to the surface and discover the real purpose of this apparent tomb.
+
+The puzzles are mostly Myst-style logic puzzles on a big scale. To solve these puzzles the player has to search the tomb and perceive and understand the engravings of this old civilization. This knowledge is mostly used to put old machines into operation or deactivate deadly traps. The player quickly finds a notice book of another archaeologist who apparently already explored most of the complex. This serves as a subtle ingame help system - it doesn"t give the solutions but hints to the nature of the puzzles.
+
+The CD-ROM version adds additional music and voice acting and is not to be confused with the Entombed Enhanced.

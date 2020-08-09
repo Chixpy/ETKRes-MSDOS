@@ -1,0 +1,6 @@
+Master Mouse is a friendly game, where your Mouse is meant to collect as much Cheese and Dollars as possible.  A nasty Boa is trying to catch your Mouse.
+
+Collecting 20 pieces of Cheese, you are allowed to the next game level.  Each piece of Cheese brings you 100 points, each Dollar - 1,000 points.  Every 20,000 points you are awarded with an extra Mouse.
+
+Your Mouse is a peaceful creature and has no weapons.  His only defense is to drop a Stone behind, that delays Boa for a few seconds.
+

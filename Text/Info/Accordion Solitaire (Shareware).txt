@@ -1,0 +1,2 @@
+Accordion Solitaire uses a standard deck of fifty-two cards. The cards are shuffled and dealt from the deck, one at a time, face up, and placed on the game table. If the card just dealt off the deck is the same suit or same rank as the first card to its left or the third card to its left, it is placed face up on that pack. The cards are dealt and played in this fashion until all fifty-two cards have been placed on the game table.
+

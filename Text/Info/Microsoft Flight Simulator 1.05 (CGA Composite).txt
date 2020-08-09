@@ -1,0 +1,3 @@
+Even back in 1982, Microsoft"s first release of Flight Simulator was advanced enough to meet FAA regulations, giving players full control of the instrument panel. The sim is loaded with features, configurable for any experience level, and includes more than 20 airports with varied terrain.\u000d
+\u000d
+NOTA: Este juego necesita una versión específica de DOSBox para funcionar.

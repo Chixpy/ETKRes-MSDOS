@@ -1,0 +1,5 @@
+Rules of Engagement 2 is a mouse-driven starship command simulation in which the player assigns ships and captains to task forces under his/her command, while maintaining direct control of a flagship. The user interface is something like a functional version of the LCARS system from the TV show Star Trek: The Next Generation.
+
+The game is also part of the IGS (Interlocking Game System) and compatible with Breach 2, allowing the player to command the troops via that game (e.g. when boarding an enemy ship).
+
+A full campaign editor is included with the game, making it possible to create missions and campaigns and even share them with others.

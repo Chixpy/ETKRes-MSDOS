@@ -1,0 +1,1 @@
+NOTA: Este perfil utiliza la versión de DOSBox de ykhwong, y no funcionará con otras versiones de DOSBox.

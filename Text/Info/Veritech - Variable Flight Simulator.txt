@@ -1,0 +1,3 @@
+This game is usually known as "Variable Flight Simulator," and indeed, at the top of the documentation it says so, but everywhere else, and on the game title screen, it is referred to as "Variable Fighter Simulator."
+
+"Variable Fighter" and "Veritech" are terms from the Macross universe, which is where this flight simulator is located. It was created with Domark"s then quite new Flight Sim Toolkit, which is the reason why it is completely free, since the developers were unsure about Domark"s policy regarding distribution of games created with the Toolkit.

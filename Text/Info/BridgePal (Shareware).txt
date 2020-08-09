@@ -1,0 +1,2 @@
+Welcome to BridgePal, the computer version of the card game of bridge. Here"s your chance to learn, practice, or just enjoy the game of bridge without needing three other players. BridgePal is played just like bridge, except the computer shuffles and deals the cards, bids and plays three hands, and does the scoring. You will bid and play the South hand. If your team gets the bid, then you play both the North and South hands.
+

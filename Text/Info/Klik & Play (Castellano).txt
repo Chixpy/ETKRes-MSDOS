@@ -1,0 +1,43 @@
+Klik & Play is a games creation package that enables games to be created easily without any programming knowledge whatsoever.
+
+The product comes with ten games that are both playable and available, customisation, and for use as example programs for developers to learn from. These games are:
+
+1) Gracillis V
+
+This is an arcade space shooter. The player has five lives and must shoot as many alien ships as possible.
+
+2) Hungry Hedgehogs
+
+This is a two player math game. Simple math questions are displayed and the player must select a combination of numbered hedgehogs that will add up to the same answer as the sum displayed. Each correct answer moves the player"s hedgehog along the bottom of the screen and the first to complete the trip gets to eat a juicy worm.
+
+3) Klik & Play Card game
+
+This is a version of the classic card game known as Memory in the UK and Concentration in the USA. A number of cards are placed face down in the lay area and the player must find the matching pairs.
+
+4) Music Madness!
+
+This game allows the player top record a simple tune and play it back.
+
+5) Racing Line
+
+This is a two player top-down racing game. There are four tracks and the action keys can be redefined
+
+6) Reversi
+
+The classic board game where players take turns to place a black or white tile. By placing the tile strategically a player can win an opponents tiles. The player with the most tiles of their colour on the board when all positions are occupied wins the game
+
+7) Romeo
+
+This is a puzzle game. The Pie Devil has kidnapped Juliette and Romeo must rescue her. This involves climbing ladders, collecting keys etc. All the while the player must avoid the pies that the Pie Devil is throwing at him. If he"s hit, Romeo must eat the pie which makes him too fat to climb ladders any more so, at the cost of a life, he"s replaced with a slimmer version with which the player can attempt the puzzle again.
+
+8) Slot Machine
+
+This is a basic slot machine game. The player starts with \u00a31.50 and plays at \u00a30.10p per spin. There is no feature win in this game
+
+9) The Face Game
+
+This is a "Simon says" memory game in which the player has to repeat a progressively more complex sequence
+
+10) Toyland
+
+In this game, which is similar in style to Breakout, the player must keep a ball in play until all toys have been knocked from the shelves.

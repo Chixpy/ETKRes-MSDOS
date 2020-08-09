@@ -1,0 +1,2 @@
+A maze game featuring 25 levels.
+

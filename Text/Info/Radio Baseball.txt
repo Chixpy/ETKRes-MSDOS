@@ -1,0 +1,3 @@
+Radio Baseball is a text-based baseball coaching simulator. Each team has a list of players, and as the coach, it"s up to the player to assign them to field positions. The game itself is a fairly automatic and graphicless representation of a baseball. The coach has some influence over the game"s proceedures such as being able to call in pinch players and suggest strategies for the ballplayers to undertake. However during each action, the player"s individual skills value are applied against one another and the resulting game algorithim determines the success or failure of various plays.
+
+The game is standard baseball with each game lasting nine innings and each inning lasting until a team is penalized with 3 "outs".

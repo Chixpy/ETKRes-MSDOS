@@ -1,0 +1,5 @@
+Welcome to Search for Freedom, a fantasy RPG programmed by Howard Feldman inspired by such RPGs as Pool of Radiance by SSI, Shard of Spring by SSI, and Bard"s Tale by Electronic Arts.  This game follows many rules similar to those of TSR"s Dungeons and Dragons.  This game is Shareware, it is not Public Domain.  You may try the game, up to the end of the first dungeon, and then you must register it to play the remainder of the game.  
+
+Details on this may be found either at the main menu, or by typing REGINFO.TXT.  Search for Freedom is a big game and will require a minimum of 60 hours to complete successfully.  In all, there are 4 towns, 22 dungeon levels, each 20 squares by 20 squares, and 2 outdoor areas, each 32 squares by 32 squares.  
+There are well over 60 magical spells to master, over 120 monsters to battle, each with unique skills and icons, and dozens of characters to interact with.
+

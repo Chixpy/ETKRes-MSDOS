@@ -1,0 +1,18 @@
+Fly through space in your starcraft as you battle alien rockets, visit worlds, blast meteors & comets,and fight your way home. Soundblaster music. 3rd person. Platform. 4-way scrolling screens. 20 levels. Shareware. $10 registration gets games 2 and 3. Acord Games. Gary Acord. 1992.
+
+Controles:
+---------------
+
+Arrow keys - move around.
+<X> - jump right.
+<Z> - jump left.
+<Space Bar> -  shoot low. 
+<A> - shoot high.
+<P> - pick up objects.
+<N> - small right jump.
+<F1> - instructions.
+<F2> - inventory.
+<F5> - save game.
+<F6> - load gane.
+<F1O>- read about Acord Games.
+

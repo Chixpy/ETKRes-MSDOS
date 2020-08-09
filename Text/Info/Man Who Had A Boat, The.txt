@@ -1,0 +1,1 @@
+It"s a short and simple game where you control a boat using one key. With that key player changes the direction of rowing and according to direction of rowing inertia of the boat is changed.

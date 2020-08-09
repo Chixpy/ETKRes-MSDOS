@@ -1,0 +1,11 @@
+. . . . . In L:TIC, you are Dr. Armund Hammer. After another uneventful day of goofing off and not attending to the mental patients in your asylum, you awaken from an afternoon nap. It"s time to go home. Unfortunatly, your keys are missing and you find yourself locked in Imenz Aine. You are about to get a taste of what it"s like to be a patient. L:TIC is a Text Adventure game (with graphic illustrations), also known as Interactive Fiction. You play by typing commands such as GET KEY, UNLOCK DOOR, and so forth.
+If you like Text Adventures (interactive fiction) be sure to check out the usenet groups rec.arts.int-fiction and rec.games.int-fiction, as well as the \u201cIF\u201d archive at ftp.gmd.de/if-archive/.
+
+In L:TIC, you are Dr. Armund Hammer. After another uneventful day of
+goofing off and not attending to the mental patients in your asylum, you
+awaken from an afternoon nap. It"s time to go home. Unfortunatly, your
+keys are missing and you find yourself locked in Imenz Aine. You are about
+to get a taste of what it"s like to be a patient.
+
+Añadida la opción de jugar con solo textos, botón derecho y ejecutar textonly.bat
+

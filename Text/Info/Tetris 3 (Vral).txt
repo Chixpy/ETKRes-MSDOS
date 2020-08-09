@@ -1,0 +1,4 @@
+Tetris 3 is just like any other Tetris game, it just has one more dimension to control.
+
+You are supposed to get the ramdomly-coloured boxes to land in pairs, blue with blue and so on. There are 6 sides on a cube (in case you didn"t know) and any of them counts when facing another box with the same colour. The two boxes disapears, and leaves room for other boxes. Also, you may line up boxes to make more boxes disapear at once. The speed of the falling boxes are increased while you play, but you can switch this off (in case you want to build nice-looking castles with the boxes). In the upper left corner, you will see the game from three points; the upper left is front view, the upper right is from the left and the lower is from top. The views change when you move, so you"ll only see the row/column you are currently on.
+

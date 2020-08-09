@@ -1,0 +1,3 @@
+Mystic Midway: Rest In Pieces is basically a shooting gallery with a B-movies/TV horror theme - complete with a demonic host called Dr. Dearth, zombies, and other spooky things that glow in the dark. Like a typical shooting gallery game, your goal is to move a gun across the screen, shooting skulls, bugs, ghosts, and other creeps that pop up at random intervals. You"ll have a limited amount of time and ammunition to do this.
+
+Every time you hit a target, you score points. Shooting a target usually results in an animation and sound effect. In some stages, gravestones move across the bottom of the screen to block your shots. Each stage requires a certain number of points to complete and stages will get harder as you advance through the game.

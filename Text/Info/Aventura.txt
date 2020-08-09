@@ -1,0 +1,11 @@
+Este juego es un clasico dentro del genero de aventuras de texto. Para mas detalles sobre el ¡juegalo! (puedes poner "ayuda" para saber mas).
+
+A la vez es un banco de pruebas para la libreria Spanish para Inform.
+
+Ha sido compilado con Inform 6.14, y la ultima version de la libreria (6/7). Si supera las pruebas de los beta-testers, publicare el codigo fuente de la libreria y del juego.
+
+Para jugar necesitaras un interprete que acepte la extension de codigos para letras acentuadas, o de lo contario en pantalla solo podras ver interrogaciones en lugar de las vocales acentuadas y la eñe.
+
+Sin embargo, para los comandos que introduzcas el uso de acentos es opcional. La libreria entiende automaticamente las palabras con acento o sin el. Si tu interprete no te deja introducir acentos o no comprende correctamente las palabras acentuadas, simplemente no uses los acentos.
+
+El unico interprete de los que he probado que comprende correctamente los acentos y la eñe es AmigaFrotz (ejecutable en Amiga). Las versiones de Frotz para Windows y para DOS muestran correctamente los acentos en pantalla, pero no dejan introducirlos al usuario o no los comprenden correctamente. Aun asi, como se ha dicho, esto no es una limitacion para jugar.

@@ -1,0 +1,9 @@
+Some interesting info on this obscure Roguelike RPG from Balrog"s page:
+ 
+"Here"s an obscure Telengard clone for the PC, possibly written before Telengard itself was ported to MS-DOS.Released in 1984. Telengard-like in most ways, a historical footnote.
+ 
+[The author"s response]: For what it"s worth, this started out as a TRS-80 game, Dungeon of Mirandor, which never quite made it out. The TRS-80 market fell off a cliff about the time I finished it. Mirandor owed a lot, conceptually, to the DEC VAX 11/780 version of Telengard, which I"d played extensively around ?1983?. Zoarre was an expanded version, finished painfully at intervals over the course of a year or so. The "fight" handler was unduly tedious to program, and balked me for too long. 
+
+I wrote Zoarre using the IBM BASIC Compiler, a renamed version of one of Microsoft"s early BASICs. The compiler went through DOS and BIOS services for I/O, and was so unspeakably slow at updating the screen that I had to write assembly language routines for direct screen writes. Plus, it didn"t support the new DOS 2.0 features like subdirectories... albeit this wasn"t a major issue on the typical floppy-only system of the time. Anyway, the assembly language routines eventually made it out as a separate product, AdvBas, which was far more successful than Zoarre. AdvBas later went commercial, and started me on my career in writing tools for programmers. 
+
+But, that"s certainly a great deal more than you wanted to know. Anyway, it"s nice to have a copy of Zoarre again. I"ll bet it cranks along very smoothly on a Pentium. :-)"

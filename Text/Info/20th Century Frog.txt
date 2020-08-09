@@ -1,0 +1,7 @@
+A frog jumps through different levels and has to eat several insects, without being killed by one of his enemies.
+
+Controls: To move the frog, you use nearly every key on your keyboard. To jump, you press one of your letter keys or one of the number keys above the letters. The top line of keys (the numbers) let the frog jump as high as possible, the lowest line let him jump just a very little. The further a key is on the left, the further the frog will jump to the left, same for right side. To swim, you use the cursor keys.
+
+To get to the next level, you have to eat all flies, bees, grasshoppers and bats. The number in the upper right shows you how much animals you still have to eat.
+
+If you manage to eat a ladybug, you will receive a gimmick. You can access your available gimmicks via F3. Gimmicks can come really handy in certain situations. The broom, for example, will remove a spider web in the level.

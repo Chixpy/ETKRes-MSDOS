@@ -1,0 +1,13 @@
+INSTRUCCIONES
+
+Con decir que es una nueva versión de "Pac Man", el popular comecocos creado por Namco a principios de los 80, creo que a todos os quedará claro el objetivo y desarrollo del juego.
+
+Como novedades, destaca especialmente el hecho de que dos personas pueden jugar a la vez, bien colaborando entre ellas para hacer más sencilla la misión, bien "a cara de perro", en la que aparte de luchar contra los fantasmas, los dos jugadores pelearán entre sí, pudiendo llegar a comerse el uno al otro.
+
+
+
+COMENTARIO
+
+Una pantalla de presentación acorde con los nuevos tiempos imperantes en 1996 da paso a un juego prácticamente idéntico al original en lo que se refiere al apartado gráfico, con buena música y efectos sonoros (hace uso de las tarjetas de sonido, ya muy comunes en aquellos tiempos) y unos escenarios que se generan aleatoriamente.
+
+Como decía anteriormente, lo verdaderamente destacable de esta versión es la modalidad de dos jugadores, que os proporcionará buenas dosis de diversión.\u0009

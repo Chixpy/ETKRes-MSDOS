@@ -1,0 +1,5 @@
+If you look too hard for a plot you might strain yourself; in what was pretty par for the course at the time, you guide a projectile-firing hero (nuanced shot types: little, big, and Really Big) through 10 levels in the DOS version or 15 levels in the Apple II and Apple IIgs versions (30 more in its look-alike sequel The Catacomb) of twisty, monster-filled mazes in what might critically be reduced to a pretty diluted Gauntlet derivative: advance through stages, avoid getting killed, rack up points and offensive bonuses.
+
+The game is mostly of interest for historical value: its preoccupation with secret passages (here revealed by being shot) and an unprecedented "strafe" functionality hint at what lay ahead for its crew, for when you extrude the maze into three dimensions and shift from third-person to a first-person perspective, what you end up with is Catacomb 3-D... from which it is (and was, as it turns out for wunderkind Carmack), only a hop, skip and a jump to Wolfenstein 3D and DOOM.
+
+

@@ -1,0 +1,9 @@
+¡Qué buenos momentos nos hizo pasar la añorada Gunstick! Esperando a que algún emulador incorpore la opción de utilizarla, de momento sólo aquéllos que conserven la versión para PC (o los ordenadores originales) podrán disfrutar de juegos como Trigger, en los que el argumento era lo de menos y en los que estaba claro el objetivo: disparar a todo aquél que nos mirase con mala cara... y disfrutar de ello.
+
+Un buen juego, en definitiva, que nos hizo pasar muy buenos ratos delante de la pantalla, al más puro estilo 007.
+
+Como curiosidad, comentar que este programa fue lanzado al mercado al mismo tiempo que Solo, otra producción de Opera para la pistola óptica.\u0009
+
+Todas las versiones son idénticas, exceptuando el apartado gráfico (y más concretamente el colorido). En éste se llevan la palma el Spectrum y el MSX, destacando en el segundo un aprovechamiento completo de la capacidad del ordenador en los elementos fijos de la pantalla.\u0009
+
+NOTA: Este juego requiere una versión de DOSBox con soporte para Gunstick, la pistola óptica desarrollada por MHT Ingenieros.

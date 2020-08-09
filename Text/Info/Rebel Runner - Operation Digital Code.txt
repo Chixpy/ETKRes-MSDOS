@@ -1,0 +1,4 @@
+The planet Ranax is under attack from the evil Maaron empire. The last Ranaxian soldier must find and use a digital code to shut down the empire"s mind-controlling satellite.
+
+Rebel Runner - Operation: Digital Code is an arcade game where the main character shoots fireballs from his hands at extraterrestrial enemies, while crossing pre-rendered 3D levels. The character is controlled by either the keyboard (default buttons: CTRL for fire and ALT for jumping) or joystick. Each stage starts with three lives and the game saves progress between levels.
+

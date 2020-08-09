@@ -1,0 +1,7 @@
+"ADDIX is one of those neat strategy games with deceptively simple rules! Each player takes turns to capture numbers from the grid. You may only take numbers from the HORIZONTAL ROW of the last move, whereas the computer takes numbers from the VERTICAL COLUMN of the last move. The numbers captured are added to the scores, and when one side runs out of moves, the game is over and the highest score wins.
+
+If a NEGATOR is captured, subsequent numbers captured DEDUCT from the score! NEGATE mode is toggled off by capturing another NEGATOR. Note that the board is symmetrical along the A1-H8 diagonal - this ensures that both Horizontal/Vertical players have the same choices If you want, you can make the computer go first by hitting F2 - then you will be the vertical player.
+
+Note that you can disable NEGATORS (F1 on menu) and select various board maps (F2 on menu).
+
+Play tends to center around attempts to capture the biggest numbers - watch out for cunning tactical combination"s! When playing, select move with CURSOR keys, and hit RETURN to place your stone."

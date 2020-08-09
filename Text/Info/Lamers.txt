@@ -1,0 +1,4 @@
+A small "Lemmings" clone with a twist. This time around you have to kill the "Lamers" instead of saving them, " in order to prevent the lamers from reaching the computer. If enough of them reach it, they will destroy it and you will lose."
+
+You have several weapons at your disposal, which include a hand-gun, a machine-gun, bombs and mines.
+

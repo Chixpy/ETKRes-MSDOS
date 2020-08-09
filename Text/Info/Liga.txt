@@ -1,0 +1,4 @@
+Versión precursora de LigaPro, que marcó las bases de este. De nuevo nos encontramos ante un manager de fútbol, en el que tenemos que tomar el mando de un equipo de la Bundesliga. Como en LigaPro, pueden participar hasta 4 jugadores.
+
+Originalmente shareware, Liga es a día de hoy freeware, con lo que podemos descargar la versión completa desde su página oficial.
+

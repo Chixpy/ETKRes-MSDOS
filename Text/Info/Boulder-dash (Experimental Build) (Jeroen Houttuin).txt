@@ -1,0 +1,4 @@
+The goal is to collect the more of diamonds, the exit to next
+level will blink when you will get enough diamond. New level
+gives you one life more. For each level you have a limited
+time, and a limited number of lives.

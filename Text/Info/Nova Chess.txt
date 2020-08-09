@@ -1,0 +1,3 @@
+Nova Chess was not designed to replace professional chess programs according to strength and functionality.
+
+New versions will be uploaded to the ChessForum on CompuServe. 

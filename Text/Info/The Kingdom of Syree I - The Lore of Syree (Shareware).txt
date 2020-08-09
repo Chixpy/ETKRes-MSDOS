@@ -1,0 +1,5 @@
+The Kingdom of Syree is a RPG based on the novels by Lord Steven and heavily inspired by the earlier Ultima games.
+
+After many years of peace evil is threatening the kingdom of Syree: an evil wizard wishes to conquer the kingdom. None of the kingdom"s great heroes have returned from their search for the wizard, and now it is your time to search for him and kill him.
+
+The screen is divided into three parts. To the upper left is the game area where all the action takes place. To the upper right is the status area where you can see your equipment, health and wealth, and at the bottom of the screen is the message window where conversations and such will show up. The game features lots of exploring and monster killing.

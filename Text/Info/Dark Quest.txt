@@ -1,0 +1,9 @@
+Dark Quest is a top view,action battle game set in a fantasy world. It"s a mixture of several genres:action,strategy and RPG.
+
+You control a hero and party of 4 men.You have 4 spells,you gather mana from kills and battle with numerous enemies through several levels and scenarios.
+
+Dark Quest also offers 2 players mode.
+
+Still it"s not a large game so don"t expect to spend hours and hours playing it.It"s my first,small but professionally done game. Play it if you want a not too demanding game or something to relax yourself.
+
+Dark Quest is coded in QBasic using Rellib,a QBasic library by R.E.Lope which uses a lot of assembler code.

@@ -1,0 +1,7 @@
+"Back around 1870, master game inventor Sam Loyd unleashed upon the world a little hand-held puzzle known simply as ""14-15"". It caught on like wildfire, and was the Rubik"s Cube of it"s time.
+
+At one time or another, most of us have owned a version of the ""14-15"" puzzle. You remember, the little plastic square with 15 smaller numbered squares inside, and you had to shuffle them around to put them in order?
+
+I recall one I had as a kid that I took on long car trips, and another I bought at Disneyland, which when solved, showed Donald Duck"s face! Wow!
+
+Anyway, it was with these fond memories that I decided to write MicroLink Loyd, a PC-based version of ""14-15""."

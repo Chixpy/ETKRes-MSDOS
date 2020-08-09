@@ -1,0 +1,6 @@
+SCENARIO...Diggory is a sort of mole-like creature that lives underground on a diet of magic mushrooms and doombug eggs.\u0009She has become trapped in the doombugs" caves and must escape.  The caves are infested with doombug eggs, which creep about looking for other eggs.
+
+When two eggs meet, a grub is formed.  When two grubs meet, a fully grown bug is formed.  The grubs will try to eat Diggory"s mushroom supply, thus preventing her escape. The bugs will try to eat Diggory!
+
+TECHNIQUE...Diggory can only escape from a cave by eating a mushroom and charging head-first at the gate. She must do this eight times for each gate. In the meantime, she must eat as many eggs as she can to stop grubs and bugs from being created. She must also keep a watch on her air supply: if this runs out she"s done for! On escaping from a cave, she will enter a bug-infested passage, from which she can only escape by collecting a magic key. In seemingly impossible situations in the passages, it is often advantageous for Diggory to lure the bugs towards herself before making a run for it.
+

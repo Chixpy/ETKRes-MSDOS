@@ -1,0 +1,3 @@
+A 3D military tank simulation which looks like it uses a modified Falcon AT engine. Control up to 16 tanks, head to head option, command the company, platoon, or individual tank parts, three theatres of war, 15 different missions, real-time gameplay and night mode thermal imaging.
+
+

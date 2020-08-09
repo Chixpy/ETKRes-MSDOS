@@ -1,0 +1,5 @@
+Cornelius the Elf was living peacefully in a forest with his sweetheart Elisa. However, an evil creature known as Necrilous the Not-Very-Nice kidnapped Elisa and disappeared with her. Cornelius must embark on a perilous journey to rescue the love of his life.
+
+Elf is a platform action game with light adventure elements. Cornelius is armed with a ring that fires projectiles at enemies. During the course of the game he can collect herbs and animals (called "pets"), which can be traded in shops for upgrades such as stronger attacks, extra speed, magic spells, or devices such as a flying machine. In addition, certain segments require the player to communicate with NPCs populating the game world and fulfill their requests, usually by obtaining specific items for them.
+
+The game keeps track of the player character"s behavior, assigning the player a rating and affecting the ending scene depending on the protagonist"s actions, which mainly involve killing or sparing the lives of the game"s non-hostile characters. The protagonist"s health is measured in hearts and lives, which can be replenished or increased. The player can save the game between stages.

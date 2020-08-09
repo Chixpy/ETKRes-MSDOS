@@ -1,0 +1,5 @@
+Microsoft"s first golf simulation, already built on Access" Links engine, and fully compatible with its courses.
+
+The game, which brings Windows 3.x support for the popular Links series, is a detailed simulation, allowing the player to enjoy the official PGA Torrey Pines Golf Course.
+
+Includes many features one would expect of a true sports simulation, like practice ranges, aerial course previews (with terrain analysis) and hot-seat multiplayer.

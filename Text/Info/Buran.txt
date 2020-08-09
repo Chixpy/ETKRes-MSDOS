@@ -1,0 +1,7 @@
+Tras cargar la pantalla obligatoria, con el dibujo de la portada, se nos da a elegir entre dos tipos de juego: presionamos la tecla "1" para el juego de Despegue y Colocación del Satélite"; y "2" para el juego arcade, un shot"em"up espacial. El juego de "Despegue" se basa en pulsar muchos botones para que la nave se eleve. Perderás muchas partidas hasta encontrar los correctos. La colocación del satélite es más de lo mismo. Es una especie de "pulsa y memoriza los botones correctos para la siguiente partida".
+
+La segunda parte es, como he dicho, un juego de disparos convencional, en el que tú solo debes de aniquilar a miles de enemigos, mientras coges power-ups para recuperar energía, acceder a armas de disapro más potentes y obtener vidas extra.
+
+Ni los gráficos ni el sonido destacan en este juego. Se nota mucho que la programación carece de optimización por los parpadeos de los sprites, el mal movimiento de nuestra nave y el entrecortado scroll. Esto varía ligeramente en cada versión, pero no lo suficiente para destacar en demasía a alguna de ellas. 
+
+Hemos añadido la versión PC DOS del juego. A diferencia de otras versiones de la época, ésta cuenta con gráficos CGA... Y EGA, una auténtica sorpresa que aporta más colorido, pero que en ningún caso mejora el resultado final de una versión de la misma calidad que las demás... Como mucho.

@@ -1,0 +1,2 @@
+This Monopoly game can be played by 2 to 4 players and includes a Save Game feature. It includes all of the official rules of the Parker Brothers original game. The options and features are completely menu driven and are shown within various colored pop-up "windows" in text mode, reminiscent of the early Norton Batch Enhancer program. Selecting a letter from a menu invokes another menu. The only real graphic is the simple CGA board.
+

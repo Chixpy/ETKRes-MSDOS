@@ -1,0 +1,2 @@
+Distributed by HomeBrew Software, Dschump! is a fast "action"/puzzle solving game from South Africa. This version has 20 levels, MIDI, and digitized sound. Registered users get 100 levels, a hint sheet and passwords to skip to a level. Joystick support. VGA, 500K RAM required. Sound card and joystick optional
+

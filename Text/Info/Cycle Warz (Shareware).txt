@@ -1,0 +1,1 @@
+This is a clone of the Tron light-cycle style game where the object is to make your opponent(s) crash into your tail as you move around the playing field. This version includes many options that you can set (including up to four players, any/all of which can be controlled by the computer), and you can save your options so you won"t have to set them each time you play

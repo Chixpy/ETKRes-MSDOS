@@ -1,0 +1,5 @@
+Rockets is a single-player, space based, shooter that is entirely keyboard controlled.
+
+The game starts by drawing a star-field on screen and populating it with a planet and asteroids. The planet is an obstacle that a spaceship cannot fly over but the asteroids are effectively just scenery. It then positions the player"s ship and an enemy ship on screen and the object is to destroy as many enemy ships as possible before all ships are exhausted. As the player progresses the enemy ships become faster at tracking and firing.
+
+The game features destructible scenery, when a ship explodes near a planet, or asteroid, a chunk of that object is destroyed. It also has a speed up / slow down feature that allows it to be played on different systems.

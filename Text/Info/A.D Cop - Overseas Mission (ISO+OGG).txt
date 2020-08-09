@@ -1,0 +1,1 @@
+This is an obscure virtual shooting game like Virtua Cop. It was made in Taiwan and features: 6 three-tier mission, and animated CG cutscenes. It"s bundled with DirectX3 and GameBIOS to support joysticks, light-guns, 3D glasses and Head Mounted Displays. Also, it has support for multiplayer (hotseat, TCP/IP, IPX, modem connection, serial connection).

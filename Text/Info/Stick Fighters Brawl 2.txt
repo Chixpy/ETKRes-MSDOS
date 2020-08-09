@@ -1,0 +1,12 @@
+SFB2: Vector Warriors is a Fighting game coded in QBASIC Extended. Unlike other BASIC fighting games that look bad, play bad and are deleted often, I slaved over SFB2 untill I had a game that"s fun and easy to play yet unique. 
+
+It"s not another wanna-be Mortal Kombat (Which I personally don"t like as a game). 
+
+Two fighters get put in a given stage and beat the piss out of each other until one of them wins the match or is dead.
+ 
+Matches are best out of three rounds. When one of the fighters KO the other they win the round. 
+
+On some stages the fighters may step out of the ring resulting in a Ring Out. This may result in the opponent winning the round or some kind of an ass kicking. 
+
+In the event of a death, the fighter still living wins the match regardless of how many rounds anyone has won.
+

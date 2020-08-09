@@ -1,0 +1,1 @@
+A quite ordinary football management game similar to an early version of Championship Manager. Like Championship Manager it uses commentary, but highlights are showed using a graphical engine. The game offers you the opportunity to play any team in the English Premier League. You could choose to play with normal teams or to buy all your players from scratch. 

@@ -1,0 +1,5 @@
+Con este programa se pueden construir diferentes circuitos de ferrocarril y ver cómo la CPU los recorre.
+
+Para jugar, primero cargamos un recorrido (File --> Load layout), y luego escogemos Run --> Game.
+
+Para crear o modificar un recorrido, escogemos Edit --> Track.

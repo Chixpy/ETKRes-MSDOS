@@ -1,0 +1,5 @@
+"Poker. The final frontier...
+
+""Not ANOTHER poker game!"" you cry out. No, not another poker game. We swear. Well, OK: it"s got SOME poker in it, but at least you don"t play against a make-believe character for make-believe money. Here you play by yerself in a gripping struggle against the awesome forces of chance. You don"t stand to gain anything other than the grim satisfaction of a job well done and the escapism of a few hours locked in mortal combat with a computer-generated deck of cards. Pretty heady stuff for someone like you. We take as our inspiration the words of a (till recently) powerful dictator: This is THE MOTHER OF ALL CARD GAMES.
+
+Gridly is a game wherein you attempt to impose yer will on a deck of cards and a grid-like object. You place the cards into the grid as they are dealt in an effort to score points in a pokerish manner. Failure to do so will result in the annexation of hours of yer time in shocking frustration. Success may lead to a new world order."

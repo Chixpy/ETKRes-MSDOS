@@ -1,0 +1,3 @@
+BANDOR is the first part of a D&D trilogy that features 3-D viewing, VGA graphics, mouse & SoundBlaster support. Requires mouse, 2.5 MB free on hard drive, and 580KB RAM. Sound card optional. 
+
+Shareware ($25) from Magic Lemons Software.

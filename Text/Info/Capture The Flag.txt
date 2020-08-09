@@ -1,0 +1,10 @@
+Capture the Flag is a strategy game, where two teams try to capture the other"s flag before the other team captures theirs. The game takes place on a large field, with various types of terrain. You control one of the teams; the other team can be either controlled by the computer, or by another human player. 
+
+The game is turn-based. During each turn, you can move each of your characters. Each of them has a limited number of movement points, so you can only move them up to a limited distance. Note that you move slower or faster (use more or less movement points) depending on the terrain you"re moving through.
+
+The playfield is divided into two sides, one for each team. Initially, you know what"s on your side of the field, but the opponent"s side of the field is shrouded in darkness. By exploring the opponent"s terrain, you can uncover the terrain there (and hopefully find out where his flag is). 
+
+If you spot the opponent"s flag, capture it by moving one of your characters onto it. However, if the opponent"s character notices you snooping on his side of the field and catches up with you, your character will be sent to "prison" (which means that he"s out of the game). Of course, you can do the same to his men that you find on your side of the field. Note, however, that if your opponent finds your "prison", he can free all his captured men. 
+
+Trying to avoid notice by your opponents is a quite important factor. You can choose various modes of movement: when you run, you are fast, but more visible; if you"re crawling, you"re hard to see, but very slow (moving costs you more movement points). And vice versa - you don"t always know where your opponent"s men are, although you know where did you see them last. 
+

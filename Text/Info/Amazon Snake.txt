@@ -1,0 +1,7 @@
+Amazon Snake is a public domain game of the Snake genre. 
+
+The player starts with a small snake that is constantly moving. Using the arrow keys the player must feed the snake to score points, however feeding the snake makes it grow longer. The challenge is to keep the ever growing, ever moving snake alive by feeding it yet avoiding any contact with the walls or itself.
+
+The food available to the snake is an odd mixture; 
+
+A Pumpkin scores 1 point and increases the snake"s length by 10 pixels. A Pear scores 2 points and increases the snake"s length by 20 pixels.An Apple scores 3 points and increases the snake"s length by 30 pixels. A Fish scores 5 points and increases the snake"s length by 50 pixels.

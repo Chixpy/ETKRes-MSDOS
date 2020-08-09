@@ -1,0 +1,15 @@
+Chess Housers is a puzzle game from Spain. The player guides a disembodied glove with the ARROW keys through a isometric labyrinth with a checkerboard pattern on the floor and lots of chess pieces placed. The glove has to push (ARROW keys + SPACE bar) this pieces to clear its way to the exit. The pieces move with the same pattern that they have on chess: pawns move forward, horses have an "L"-shaped movement, and so on. The glove can be killed if it is in their path. The chess pieces are set up in small rooms as a series puzzles that must be solved. Other objects in the rooms include: 
+
+\u25ba Boulders that must be smashed by the horse pieces, if they"re in the way;
+
+\u25ba Transparent boxes, usually found stopping the movement of a piece, that can be destroyed by the glove;
+
+\u25ba Pyramid teleporters to transport the glove to other parts of the maze;
+
+\u25ba Maps show the maze layout to the player;
+
+\u25ba Temporary save points in the shape of a glove stuck with a knife;
+
+\u25ba A cross is the maze exit.
+
+The game has temporary save points that disappear once the player exits to DOS. There is a password system: the code is displayed after the completion of each maze.

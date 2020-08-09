@@ -1,0 +1,5 @@
+The game simulates the 15 Puzzle, a sliding puzzle that consists of numbered square tiles located on 4x4 board in random order with one tile missing. The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
+
+This game includes the pictures of naked women (originally found in Playboy magazine) in background of the board. When tile is placed in order, it is converted in part of picture, but it still can be moved. There are 8 levels in the game, and certain tiles can"t be moved on the board with level increase.
+
+The number of moves in counted, and the best scores are stored in hi-score table.

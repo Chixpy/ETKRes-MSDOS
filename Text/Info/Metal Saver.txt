@@ -1,0 +1,3 @@
+Metal Saver is a fun arcade-style game from Korea that plays like a cross between Bubble Ghost and Dinosaur Balls.Controlling either a male or female fighter (or play both in 2-player mode), your job is to blast all the enemies on each level without getting killed. The graphics are cutesy anime style, and the action is quite fun and varied, with many different power-ups and hidden secrets. If you enjoy mindless but fun arcade games, Metal Saver is a good candidate. Recommended, but make sure you use a slowdown program to play the game.
+
+NOTA: Este juego emplea la versión de DOSBox de Yhkwong.

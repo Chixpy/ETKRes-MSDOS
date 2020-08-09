@@ -1,0 +1,9 @@
+"ROTO is a sliding block puzzle - the objective is to order numbers as:
+
+1 2 3
+4 5 6
+7 8 9
+
+You can move numbers only entire row (or column) at a time. To do that hold Shift key and one of the arrow keys (Num keypad only). The row (column) indicated by the square window will rotate in the specified direction. You can also move the square window around using plain cursor keys.
+
+The 3x3 puzzle is fairly easy to solve, most people figured it out within 15 to 30 minutes, although I"ve seen some struggle for an hour, probably has more to do with starting configuration than the intelligence."

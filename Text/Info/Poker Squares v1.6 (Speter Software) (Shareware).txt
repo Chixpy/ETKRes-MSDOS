@@ -1,0 +1,1 @@
+The game is played between two players who each receive (the same) 25 cards and position them in a 5 x 5 grid, which makes up 10 hands of poker (5 horizontal and 5 vertical).  The winner is the player who gains a higher total score for the 10 hands.

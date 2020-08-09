@@ -1,0 +1,3 @@
+A puzzle game, similar in design to The Fool"s Errand.  Follow the Mallards, Mom, Dad, Tiffany, and Blip, on their journey to all 50 states, solving puzzles at two tourist traps in each state to find tacky souvenirs needed for the final puzzle.  Solving puzzles reveals the Mallards" wacky diary entries and tourist trap trivia.
+
+Puzzles include Block Crosswords, Crosstics, Crosswords, Cryptograms, Hangman, Jigsaw, Anagrams, Rebuses, Mazes, Magic Squares, Word Searches, and others.

@@ -1,0 +1,6 @@
+"Your mission is to maneuver through the hostile Roxx belts and destroy as many Roxx as you can. Hindering your efforts will be enemy craft which navigate the Roxx belts and take shots at your ships, as well as at nearby Roxx, in an attempt to destroy your space ship. They are worth a lot of points if you shoot them.
+
+Note that due to a bizarre space warpage, traveling off the edge of the universe will cause objects to reappear on the opposite side of the universe. This may be used to great advantage in ambushing enemy space ships, which are immune to this bizarre warpage."
+
+In 2007 the author made this game freeware (was previously shareware).
+

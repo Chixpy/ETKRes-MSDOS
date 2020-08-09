@@ -1,0 +1,3 @@
+Inside a vast network of caves lies hundreds of valuable gold nuggets waiting to be found. But also awaiting the adventurer is the fearsome Wumpus, a cave creature no one has ever seen and lived to describe it.
+
+Your goal is to locate the Wumpus and shoot him with an arrow from a connecting cave. Do not enter the cave where the Wumpus is as he will kill you. There are also bats in the cave that will pick you up and dump you somewhere else, and bottomless pits that will also kill you. You can collect gold nuggets that will increase your score.

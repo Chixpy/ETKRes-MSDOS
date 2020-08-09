@@ -1,0 +1,3 @@
+"Blocks of three colors fall from the top, and your job is to move and rotate them to align three or more blocks, of the same color, in a row. A row may be vertical, horizontal or diagonal.
+
+Every time a row of three blocks is aligned, they disappear and the blocks above them fall down. Plus, you get one point for your troubles!"

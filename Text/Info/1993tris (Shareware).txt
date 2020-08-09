@@ -1,0 +1,5 @@
+1993tris is one of the more innovative Tetris-clones, similar to Columns.
+
+Your objective is to kill flies. Blocks consisting of four flies fall down the screen and by turning them you have to try to get three flies of the same colour in a row, a column or a diagonal to make them disappear. From time to time one of the many extra objects appear. For example there are bombs and guns that shoot particular flies or simply blow them up.
+
+The shareware version features the first two levels, three speed settings and a freeware program named Modplay in which you able to listen to Korean music. By registering you are able to play all 18 levels and nine speed settings and get five more songs.

@@ -1,0 +1,3 @@
+Welcome to Modern Conquest.  I started MC back in January of 1990 as a project to learn a new language.  It took the first three months to write the map editor and learn "C" to some basic level.  After that, well, contrary to my normal after work experiences, I actually found the motivation to continue the project through to this Beta release of the game in September.
+
+I would say the most enjoyable part has been when I started getting friends to play test it.  It is incredibly comforting after many months of work to have friends who actually wanted to play this game above commercially available stuff.  It was then that I realized that this game was destined to be cleaned up enough for the rest of the public.  I sincerely hope you will enjoy the game as much as I have.

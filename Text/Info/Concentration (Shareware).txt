@@ -1,0 +1,3 @@
+"The object of the game is to match two squares of the same color. If
+you make the match you acquire 100 points. For every wrong guess you
+lose 50 points."

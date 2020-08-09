@@ -1,0 +1,1 @@
+A conversion of the classic game "Asteroids" specifically written to take advantage of (then-new) EGA"s high-res mode. You won"t find any bells & whistles here, as it focuses on core gameplay. The key controls are in a non-standard placement and are non-configurable.

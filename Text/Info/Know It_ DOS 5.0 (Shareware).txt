@@ -1,0 +1,10 @@
+"Know It? DOS 5.0 Volume 1 is a unique and fun learning game in which one to six players can test their knowledge of DOS 5.0. The presentation and organization of Know It? DOS 5.0 make it an excellent learning tool for those that want to develop more proficiency with DOS 5.0.
+
+Know It? DOS 5.0 covers many aspects of DOS 5.0, but firmly concentrates on the commands that will help the user in their day to day tasks. Common commands, short cuts, and other tricks are covered. To promote well-rounded learning, a variety of other DOS subjects are included such as memory management, AUTOEXEC.BAT (and Batch files), files, and directories, and the DOS environment.
+
+Know It? DOS 5.0 is organized as a multiple choice game in which up to six players can play. When answering a question, the player can look at the ""help"". The helps are full of useful information and make an enjoyable reading and learning tool! Questions, helps and answers (correct and incorrect) were written with the intended goal of increasing the user"s understanding of computers, no matter what level of computer knowledge and sophistication the individual user possesses. 
+
+With its format, Know It? DOS 5.0 makes a great supplement to books written about DOS 5.0. Know It? DOS 5.0 has something to offer every level of knowledge. Advanced users can test the breadth of their knowledge. Intermediate users are sure to discover some new tricks and newer DOS users will enjoy being presented things that all users can benefit from.
+
+If you are really advanced and want to test your speed, set the program option to limit the amount of time you can answer. Know It? DOS 5.0 Volume 1 is supplemented by Know It? DOS Volume 2 for further challenge and learning!"
+

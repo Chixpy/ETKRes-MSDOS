@@ -1,0 +1,14 @@
+The Hidden Below ("THB") involves finding a large army of evil aliens under a factory, and sending them back to where they came from. 
+
+The custom built engine used for the game, the "VR-6" engine, can be described as a hybrid of the "Wolf3D" and "Doom" engines, in some ways more advanced than the later but in some ways being more akin to the former.
+
+Features in THB include VGA graphics, several resolutions with the ability to set height and width separately (80/160/320x240/400), stairs, diagonally angled walls, slopes, teleporters, switches, damaging terrain, controllable security cameras, crouching, light levels, flickering lights, rendered cut scenes, targeting assist\u2019s, auto map providing pickups, ambient sounds and the ability to look up and down. The game also keeps a score and displays the best on a high score table.
+
+In terms of content, THB has 20 large levels with radically changing texture themes, 40 different opponents with individual AI (though this includes a number of re-coloured opponents) and 14 different weapon systems.
+
+The run and gun in THB is considerably slower paced than the above mentioned games, relying more on each individual bad guy being of high toughness and limited amounts of health pickups, rather than large numbers of foes.
+
+The visuals of THB are a little disjointed having been done in several different styles from gritty to cell shaded, digitized to hand drawn etc.
+
+The sound is stated as being 16bit, though the game actually has three different quality settings for sound effects.
+

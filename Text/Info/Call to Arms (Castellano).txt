@@ -1,0 +1,5 @@
+Call to Arms is a militaristic turn based strategy game with a gameplay similar to that of board games. You simply control your army by moving your forces from region to region, engaging the enemy units at the destination. The objective is to occupy all the regions of the map.
+
+There are two scenarios (maps) available in the game: Europe 1942 and Scotland 1750. There can be from 2 to 4 factions in a game, each one controlled either by a human player or the CPU. Every faction must fight against all others, to the bitter end.
+
+NOTA: Pulsar F3 e introducir el nombre de archivo CTA.BAS. A continuación, pulsar F2 para jugar.

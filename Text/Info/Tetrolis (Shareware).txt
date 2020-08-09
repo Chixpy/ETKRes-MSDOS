@@ -1,0 +1,1 @@
+This Tetris runs in an uncommon 320\u00d7400 mode, has GUS music and a two-player mode.

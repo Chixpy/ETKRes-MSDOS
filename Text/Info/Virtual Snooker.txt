@@ -1,0 +1,2 @@
+A 3D Snooker simulation, the most realistic available at the time. The snooker version of the popular Virtual Pool game.
+

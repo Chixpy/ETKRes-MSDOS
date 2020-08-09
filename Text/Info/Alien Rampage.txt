@@ -1,0 +1,7 @@
+Advanced 2D side-scroller with large animated sprites and multiple layers of parallaxing backgrounds.
+
+You are a lone angry alien dude with a bad attitude. You crash landed on an inhospitable planet, and thus you set out to get back to a ship so you can leave this horrible place. To make it, you"ll blast hundreds upon hundreds of nasty creatures, enemy bounty hunters, and you"ll use some pretty impressive weaponry to do it.
+
+You"ll also get to buy power ups and get help from the goofy local troll-like natives, to solve puzzles.
+
+The gameplay is side-scroller, run, jump and shoot, with a big emphasis on shooting. The action is very gory, and is akin to "Doom" in 2D. 

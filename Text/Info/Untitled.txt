@@ -1,0 +1,1 @@
+A very cool RPG demo with excellent graphics and MIDI background music. It offers a small piece of storyline, though the number of locations in this demo is much more than many poor QBasic RPGs feature. Still, a quite short and easy (on purpose) RPG demo. Worth being checked due its quality and the fact Tsugumo worked on it.

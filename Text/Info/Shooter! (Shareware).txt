@@ -1,0 +1,4 @@
+The game of craps is played with a pair of dice and lots of money on a large table labeled with cryptic names like PASS LINE, COME LINE, DON"T PASS LINE, FIELD, etc. It can be a very scary place to be for the first time player. While this program is not intended to give a winning system for playing the game (if I knew that - would I be writing programs?), it does give you a place to get your feet wet and spend some computer money while you learn the game and what works for you and what doesn"t.
+
+Botón derecho y seleccionar TUTOR.BAT para un tutorial...
+

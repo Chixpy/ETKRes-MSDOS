@@ -1,0 +1,1 @@
+A poor 3D maze game. The graphics are very unappealing and the movement jerky. The game is playable but boring. Uranium 3D features 4 mazes (levels).

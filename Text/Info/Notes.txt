@@ -1,0 +1,4 @@
+. . . . . This game is very unique. It"s a game in which you fill up music measures with music notes, sort of like Tetris but quite a bit different once you actually see it. It"s easier if you know how to read music (even a little) but if you don"t, you can still play. I thought it was very original, but maybe a little complex. You be the judge. NOTE: Source Code (QuickBASIC) for this game is included!
+
+Botón derecho y readme.exe para el manual interactivo... Cuando salga el readme has de poner que lea el archivo notes.doc
+

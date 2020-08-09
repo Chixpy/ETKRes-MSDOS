@@ -1,0 +1,6 @@
+"Sink as many enemy submarines as you can! Each level requires that you sink a certain number of submarines. Some levels have a ""boss"" submarine that requires many hits to destroy before you can advance to the next level.
+
+Make sure to go up to the surface periodically for air!"
+
+In 2007 the author made this game freeware (was previously shareware).
+

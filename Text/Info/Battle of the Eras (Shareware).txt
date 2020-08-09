@@ -1,0 +1,1 @@
+Fully playable demo of a video captured fighting game. It was worked on for over a year. Battle of the Eras is by Belleville, Ontario based Procryon. It features live actors, a 16 channel soundtrack, modem play,0/1/2 players. Requires: 386 (486 pref), VGA 9MB HD, 1.1MB XMS

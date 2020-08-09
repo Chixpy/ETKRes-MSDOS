@@ -1,0 +1,2 @@
+Lunar Command is the updated version of Moonbase, a Lunar Colony Simulator where you have to supply the oxygen, water, power, heat and shelter for the entire colony. Starting with a virgin lunar plain rich in minerals and elements (but alien to everything human), you establish your shelters and life support facilities while keeping an eye on your population, supplies, and support levels from earth. You succeed only if your city becomes self-sufficient.
+

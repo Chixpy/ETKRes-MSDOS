@@ -1,0 +1,3 @@
+Interactive text adventure with graphics.  Very much influenced by infocom whodunnit type games.
+
+A woman is in jail after her rich husband is found dead.  Prove her innocence!

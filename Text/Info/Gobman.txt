@@ -1,0 +1,3 @@
+Gobman is a 90"s clone of Pac-Man. Like in Pac-Man, you play a yellow circle going around a maze eating dots, except every time you advance a maze the maze changes its color and shape.
+
+There are also small items around the maze to help Gobman collect the dots like Hourglasses and bombs. It is also a little easier to collect the dots because of the speed of the Ghosts.

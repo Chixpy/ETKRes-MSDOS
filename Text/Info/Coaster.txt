@@ -1,0 +1,1 @@
+The basic goal of "Coaster" is quite simply to build a rollar coaster. After designing your coaster you have it ridden by a panel of experts which assign it a score. You can also ride it yourself.

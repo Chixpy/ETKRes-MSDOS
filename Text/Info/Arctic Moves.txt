@@ -1,0 +1,56 @@
+INTRODUCCI\u00d3N
+
+Corría el año 1995. Mucho tiempo había pasado desde que Dinamic nos deleitase a todos con dos de sus grandes obras maestras: Army Moves (1986) y su esperadísima continuación Navy Moves (1988). Desde entonces, un sinfín de cosas ocurrieron en la compañía madrileña: éxito europeo, tentativa fallida en el campo de las recreativas, lanzamiento mundial de Risky Woods y, ya en 1992, quiebra y desaparición. En absoluto fue agradable ver como la más grande, la mítica, desaparecía sin dejar rastro, pero al poco tiempo resurgieron de la mano de Editorial Jackson con el Simulador Profesional de Fútbol, programa que sería el germen de la famosísima saga PC Fútbol (con Dinamic convertida ya en Multimedia), de la mano de la editora de Microhobby y Micromanía.
+
+Con el respaldo económico y de público, se decidieron a hacer un guiño a los que antaño habíamos disfrutado con los dos juegos de la saga Moves, lanzando al mercado un extraordinario arcade para PC llamado Arctic Moves.
+
+El juego pasó, sin pena ni gloria, por los quioscos y tiendas especializadas. Sin pena ni gloria para la mayoría, pero no así para aquéllos que todavía recordábamos con nostalgia los que sin duda habían sido los mejores momentos del soft español.
+
+Pasaron cuatro años más hasta que me decidí a crear la página en la que os encontráis en este momento, Computer Emuzone. Lo que empezó como una pequeña contribución a la nostalgia de los juegos de Spectrum, con el tiempo llegó a convertirse en el pequeño gigante que es ahora, dedicado a 7 ordenadores y con más de 1000 juegos y 250 fichas y soluciones formando su columna vertebral. Dentro de la ampliación de secciones que un día decidí hacer se encontraba la de entrevistas, en la cuál podéis encontrar una con el autor del juego que ahora comentamos, Luis Mariano García Corral. Aún mantenemos el contacto, y fruto de ello son algunas de las cosas que podréis encontrar en esta ficha. Pero, sobre todo, la conversación que mantuvimos tuvo trascendencia en un aspecto...
+No era 1995 el año al que teníamos que remontarnos, sino cuatro años más atrás; o lo que es lo mismo, 1991.
+
+Por aquel entonces Luis Mariano ya había trabajado para Dinamic dando forma a varias de las mejores conversiones para Commodore 64 de los éxitos de Dinamic, y su próximo objetivo era, precisamente, continuar la saga Moves. El juego se llamaría Arctic Moves, y vería la luz, según los cálculos de la compañía, en 1991-1992, ¡para los ordenadores Atari ST y Commodore Amiga!
+
+¿Cómo es posible? ¿Estás hablando en serio?, os preguntaréis los que no habéis leído la entrevista. Pues sí, como ya os he comentado, la crisis sobrevino a Dinamic -y a todas las casas españolas- por aquellas fechas, y el proyecto nunca vio la luz. Posteriormente, ya en Dinamic Multimedia, Luis M. retomó el proyecto con la anuencia de los hermanos Ruiz, y finalmente vio la luz en PC y compatibles en el mencionado 1995.
+
+¡Qué pena!, diréis algunos. ¡Estaría bien haber podido disfrutar del juego en las versiones para las que estaba proyectado!
+
+La verdad es que sí; eso mismo pensé yo cuando me enteré... Pero, jeje, cosas de la vida, se me ocurrió empezar a preguntarle a Luis por el estado de desarrollo en que habían quedado las otras versiones. "La de Amiga estaba poco avanzada", me dijo, "pero la de ST estaba casi terminada".
+
+¿Y por qué no la terminas?, le dije. A partir de ahí no hay mucho más que contar. Como buen programador, enseguida le picó el gusanillo y se puso a reflexionar. Meses más tarde, el producto de esa reflexión se hallaba en la bandeja de entrada de mi buzón de correo electrónico: Arctic Moves para ST por fin había visto la luz, 10 años después de su fecha proyectada, y listo para que podáis descargarlo en rigurosa primicia de nuestra página.
+
+
+
+ARGUMENTO
+
+El mensaje utilizaba nuestra misma frecuencia pero no provenía de ninguno de nuestros comandantes. ¡No podía ser!. Tras verificar su contenido no quedó lugar a ninguna duda: una nave espacial de nuestras fuerzas de defensa del futuro tenía problemas, pero tenía problemas en nuestro tiempo.
+¿Cómo era posible...? Quizás el paso a través del tiempo no fuera ya problema...
+
+La nave había sufrido una infiltración alienígena e iba a impactar en la zona ártica bajo control enemigo. La pregunta surgía de inmediato: ¿podrían apoderarse de nuestra tecnología del futuro...? ¡¡ No se puede permitir !!
+
+Nuestro mejor hombre debe internarse en la base enemiga para alcanzar los restos de la nave y conseguir hacerla despegar. Objetivo: conseguir nuestra tecnología del futuro.
+
+La misión no parece fácil. Por eso ha sido encomendada a Derdhal, que ya salió victorioso de misiones tan arriesgadas como ARMY MOVES Y NAVY MOVES, en las que demostró un profundo conocimiento de todas las técnicas de la guerrilla y un gran manejo de las redes de ordenadores.
+
+El submarino U-92 te conduce a la base enemiga. Cuando pises la superficie helada del \u00c1rtico no habrá retorno. Habrá comenzado tu primera misión. ¡Suerte! ¡No puedes fallar!
+
+
+
+FX DOBLE CARGA
+
+No, lo de FX no lo pone en ninguna parte del manual del programa, pero todos conocéis la querencia de la mítica Dinamic por los juegos divididos en dos fases, así como por la denominación estrambótica de cada uno de los extras que les incluían (sistema Poliload, FX Syncro Sprites...).
+
+En esta ocasión, al igual que en las dos partes anteriores de la saga, se decidieron a dividir el juego en dos fases completamente distintas. Mientras que la primera tiene todas las características de un arcade de plataformas, desarrollándose en una base situada en el hielo ártico, la segunda recuerda muchísimo a la atmósfera de las películas de la saga Alien, mezclada con la combinación de puertas y claves que ya se utlizase con muchísimo éxito en la segunda carga de Freddy Hardest.
+
+
+
+POST DATA
+
+Sólamente tres cosillas más:
+
+1. Si queréis saber cómo tenían pensado continuar la saga los chicos de Dinamic (muy probablemente ya no podrá ser, desgraciadamente), sólo tenéis que llegar al final del juego, o bien echadle un vistazo a la entrevista con Luis Mariano García.
+
+2. El juego en versión PC está ya crackeado, gracias a nuestro colaborador WYZ. Si por alguna circunstancia no pudieses pasar de la protección anticopia, ejecuta el archivo "Arctic_crack.exe", y selecciona en el subdirectorio "Arctic-0" el fichero "A0". Si aun así no pudieses pasarla, imprime el contenido del archivo "claves.txt", y evita la protección tecleando la clave correcta.
+
+3. La versión PC viene con una sorpresilla que estuvo muy bien en su momento. Si ejecutáis el archivo "clasicos", os saldrá un menú en el que podréis escoger entre jugar al Army Moves o al Navy Moves, en sus versiones Spectrum, a través del recordado emulador realizado por Pedro Gimeno. Hoy en día hay emuladores mejores, y los juegos para el ordenador de Sinclair están disponibles en la página... Pero no deja de ser algo curioso.
+

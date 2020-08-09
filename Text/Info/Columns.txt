@@ -1,0 +1,3 @@
+This is the oldest and most original Columns you can play on PC. It was ported by Nathan Meyers directly from Jay Geertsen"s original X Windows version. It can run in VGA, EGA, or text mode.
+
+John Rotenstein Columns for Windows came not long afterwards, you can download it here as well.

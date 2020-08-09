@@ -1,0 +1,3 @@
+Basically, JOSHUA is an interactive Psychologist/Conversationalist that you can talk to however and whenever you would like.
+
+Also, JOSHUA now recognizes almost 200 keywords, so you shouldn"t have any problem talking to him.

@@ -1,0 +1,1 @@
+Symbols are displayed on the screen and you need to press the number on the keypad that they correspond to. Every other round the sequence of symbols gets a little longer. The game is timed, so the goal is to see how many points you can get before your time expires.

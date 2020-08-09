@@ -1,0 +1,24 @@
+Nmongo Bongo puede considerarse como una variante, un tanto bizarra, de clásicos como Operation Wolf (también, dada su ambientación, de juegos menos conocidos como Safari Guns o Wild Life) o incluso de Cabal, teniendo en cuenta que tenemos visión de nuestro protagonista en pantalla.
+
+Evidentemente hay cambios sustanciales, sobre todo en cuanto a temática. En este caso sustituimos al típico soldado de élite por un miembro de una tribu africana, y a las tropas enemigas por leones, cebras, cazadores blancos y oponentes de otras tribus.
+
+Por otro lado, nuestra única arma es una lanza, que, eso sí, podemos usar una y otra vez.
+
+Por cierto, el mecanismo para usar nuestra lanza es el siguiente, en primer lugar hemos de tener pulsado el botón de disparo el tiempo que consideremos oportuno, para darle más o menos fuerza, y a posteriori, debemos pulsar otra vez el botón de disparo para lanzarla.
+
+Durante el desarrollo de las partidas, nuestro personaje irá perdiendo energía, aunque no sea alcanzado por proyectiles, lanzas o leones. La única forma de recuperar dicha energía será cazando a una de las muchas cebras que cruzarán el área de juego.
+
+Si por algo destaca Nmongo Bongo es por la escasa variedad que encontramos en el devenir de los niveles del juego. Así la mecánica es siempre la misma, los enemigos son los mismos, más un tipo de adversario nuevo por nivel, y los escenarios apenas varían. Con lo cual, nos parecerá, estar jugando a la misma fase una y otra vez, con un nivel de dificultad algo más elevado, claro está.
+
+
+ASPECTO T\u00c9CNICO
+
+He de reconocer que me resulta dificultoso valorar este tipo de títulos, de baja calidad, escasa difusión (solo en quioscos) y poco presupuesto, ya que tiendo a compararlos con referentes mucho más elaborados. Con todo, eran títulos comerciales, así que...
+
+GR\u00c1FICOS: La definición de los personajes, es pasable, aunque no deja de tener un cierto tufillo amateur. Los decorados se presentan en pantalla un tanto enmarañados, además varían muy poco de un nivel a otro.
+
+ANIMACI\u00d3N: El scroll de pantalla es algo brusco. Las animaciones de los personajes, no son muy detalladas, pero cumplen, dentro del limitado nivel del programa.
+
+SONIDO: Como casi todos los títulos de éste editor, el apartado sonoro es muy flojo saldándose con tres o cuatro ruidillos de speaker.
+
+JUGABILIDAD: Lo repetitivo del desarrollo y el escaso brillo a nivel técnico, no ayudan precisamente a jugar una y otra vez a éste título. Por otro lado, la puesta en escena, sobre todo en lo que concierne al protagonista, resulta relativamente original, con lo que si te gusta el género, has jugado al resto de juegos contemporáneos y eres un fan incondicional de los juegos con gráficos CGA, puede que te entretenga un rato, aunque, como decía aquel, la vida es muy corta para malgastarla jugando a malos juegos. 

@@ -1,0 +1,3 @@
+Battle of the Eras is a long-lost digitized indie fighting game for DOS PCs. Originally released in 1995, it managed to sell a grand total of zero copies.
+
+NOTA: Necesita la versión de DOSBox de Ykhwong.

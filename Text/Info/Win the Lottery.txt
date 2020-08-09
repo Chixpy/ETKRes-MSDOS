@@ -1,0 +1,5 @@
+This package is designed for anyone who enjoys playing the National Lottery.  A very simple and easy to use package. From the lottery menu just select an option and follow the prompts.
+
+The computer can pick a line of balls using a graphical display, or if you are in a syndicate the computer will pick as many as 50 lines of numbers.  These numbers can then be printed out.
+
+An extra feature is the Hot Numbers option, by saving previously drawn numbers in a file the computer will find the Hot Numbers.

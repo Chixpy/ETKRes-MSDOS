@@ -1,0 +1,4 @@
+Iron Blood is a side-scrolling action game where the player is given the opportunity to control two different robots through a futuristic society. Each robot has different weapons, different levels, and a different look.
+
+The levels range from standard side-scrolling ones where the player moves from one side of the screen to the other, fighting the enemy robots that get in the their way, to auto-scrolling flight levels where the player must move quickly and shoot down attackers. There are numerous bosses to face along the way.
+

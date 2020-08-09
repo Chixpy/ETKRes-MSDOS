@@ -1,0 +1,2 @@
+Dueling game with space ships. Play against a computer or a human.
+

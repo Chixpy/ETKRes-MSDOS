@@ -1,0 +1,2 @@
+Turn based space ship dueling. Played against a computer or a human. Before each battle you can modify various ship components.
+

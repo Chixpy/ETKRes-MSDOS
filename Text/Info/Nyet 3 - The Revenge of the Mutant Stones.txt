@@ -1,0 +1,5 @@
+At it"s heart, Nyet 3 is a Tetris clone.  It does however add a whole lot of variation to that venerable classic.  
+
+The game is divided into 7 sets of 18 levels, and lets the player go through the levels in a set in any order.  To beat a level the player usually has to make a given number of rows disappear, much like in any other Tetris clone.  The difference is in the levels themselves.  Some levels might have invisible blocks, others an indestructable snake that the player have to trap before theres a chance of making a row disappear.
+
+For beating a level, the player receives money, the amount depending on how well they did during gameplay and the difficulty of the level.  The money can be used to buy powerups, of which there is a great variety.  Some powerups are permanent, such as the monitors previewing the next block.  Other powerups are bound to the Function Keys on the keyboard, and can be activated at any time during gameplay.  These range from level type specific powerups like the Fork which traps a snake, to general powerups like the Bomb, which destroys the top row of squares.  To save the game the player need to buy a powerup as well.

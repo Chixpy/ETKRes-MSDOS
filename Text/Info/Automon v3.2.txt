@@ -1,0 +1,2 @@
+AUTOMON is yet another version of Monopoly on computers.  It does however have some features not found in other Monopoly programs.
+

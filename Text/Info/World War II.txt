@@ -1,0 +1,11 @@
+Aaah, those were these days....Here is a true gem for all you oldtimers who, like myself, have started gaming back when ZX Spectrum or Commodore"s C=64 were state of the art.
+
+World War II is an amateur remake of the all time classic Who Dares Wins II originally created by Steve Evans for Amstrads CPC. The author, Christophe Plattet, released this game as freeware in French only. Even though it has been translated to English, some rudimental knowledge of French comes in handy.
+
+What I like most about this remake is that the author did not even try to boast the original graphics as you may be able to tell from the screenshot. Even though I didn"t check back on my C=64, I am pretty sure that he used the original graphics from the old classic. So be prepared to have your memories striking back as soon as you start the game. The only drawback is the missing sound but gameplay compensates for that easily. It"s still as stupid and wonderful as it used to be: basically blast the baddies in Cannon Fodder style (long before Sensible Software came to be) and rescue the hostages. Be careful: time flies while you try to survive 8 scenes (levels) with 4 screens each.
+
+The game was done in Borland Pascal, and even though a patched version is up on this site for download you may experience speed problems with PC which run significantly faster than ~PII 233 Mhz - so make sure to have a slowdown utility at hand. The good news is that it will most likely run from within Windows.
+
+All in all: three cheers to the author and two thumbs up.
+
+Here you go Marine: Save your country and rescue the hostages!

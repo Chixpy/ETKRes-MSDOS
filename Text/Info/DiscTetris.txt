@@ -1,0 +1,3 @@
+Joakim Hagdahl wrote this game as a project for school, thought it needed some testing, and released it to the public with the request to report any problems. Neat. Would he have thought, at the time, that so many years later it would still be distributed and played?
+
+Knowing the history of the game, you might not expect much. Well, it"s simple Tetris, no music, no sound effects, no extras. But it looks good, isn"t too large and plays better than several others that were written for gain.

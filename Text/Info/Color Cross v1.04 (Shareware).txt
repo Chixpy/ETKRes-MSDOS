@@ -1,0 +1,1 @@
+Color Cross v1.04 is a unique abstract and kinetic two-player color strategy game whose objective is to freeze all of your opponent"s pieces. Requires: 8086 series CPU 300K free RAM VGA color graphics and a Microsoft compatible mouse and DOS resident driver.

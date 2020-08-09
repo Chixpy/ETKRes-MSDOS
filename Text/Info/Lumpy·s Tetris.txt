@@ -1,0 +1,3 @@
+This game was Paul Egan"s entry to the X2 Support Group 1995 Programming Contest. Since he only had an XT with CGA, this is what the game uses. Like Fretris and TinyTris, it is fashioned after the Gameboy version of the original Tetris.
+
+Pascal code is included in the archive.

@@ -1,0 +1,5 @@
+This is part two in the computer version of the trilogy based on Germany"s N\u00b01 RPG "Das Schwarze Auge", and the sequel to  Realms of Arkania: Blade of Destiny.
+
+The game uses an advanced version of the interface first introduced in part one. You create a party of adventurers, navigating them from first-person perspective, and entering isometric view when in combat mode. The combat is turn-based and allows you to move your characters freely over the battle field.
+
+The player has to end a dispute between elves and dwarfs and must find a stolen relic, called "Sternenschweif". 

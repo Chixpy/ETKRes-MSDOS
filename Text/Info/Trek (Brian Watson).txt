@@ -1,0 +1,26 @@
+This game is a stategy turn based simulation. The computer keeps track of every detail of each ship. There are no random numbers used. An artificial intelligence routine controls the behaviour.
+
+Ships will attack, run, dock etc.
+
+The battle will take place if you participate or not.
+
+There are ten levels. The object of the game is destroy all Klingon and Borg ships. You do not need to destroy enemy bases but it is helpful. Both the federation and the enemy get 1 new base each level. 
+
+As you kill enemy ships, you will control better ships. If you kill your friends, you will get demoted and get a crappy ship.
+
+There are four classes of federation ships and four classes of Klingon ships.
+
+As you take hits, your shields will go down. Once your shields go down, your armor will decrease. Once your armor is gone, your dead.
+
+When shields are down, you will take damage to various systems: long-range sensors, scanners, phasers, warp drive, lifesupport, and torpedoes. When these systems are in the red they will not function. When phasers are damaged, they will not be very effective.
+
+When lifesupport fails, your crew will begin to die.
+
+You must get to a base to save them.
+
+The last status bar is morale. Morale and the amount of crew left alive control how fast systems get fixed. Also morale controls how many crew will leave your ship when you dock.
+
+You must dock to repair armor damage. To dock, you must be within 1 space of a base. Then press the PASS button until your fixed. Docked ships are vulnerable to attack. To undock, press dock again or just move.
+
+On the map, you are the white circle. Grey circles are docked ships.
+

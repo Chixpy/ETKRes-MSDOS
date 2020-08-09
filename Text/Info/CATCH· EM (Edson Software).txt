@@ -1,0 +1,2 @@
+You control a paddle with the mouse and need to catch all of the shapes except for the stoppers.
+

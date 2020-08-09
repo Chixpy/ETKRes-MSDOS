@@ -1,0 +1,6 @@
+ok moving is pretty simple (arrow keys) but it may take you a while to get used to the movement of the rocketpack, but just play the first few levels and you should get the hang of it.
+
+the aim is to collect all the level orbs which says how many you have left to collect up the top-left corner. Once it glows yellow then you have all of them and you may find the portal and enter the next level.
+
+Botón derecho y seleccionar Editor.exe para el editor.
+

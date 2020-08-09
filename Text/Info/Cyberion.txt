@@ -1,0 +1,16 @@
+This is a nigh on complete version of Cyberion and is by far the best Lutasarts game yet!!
+
+This game is a mixture of Asteroids, Elite, Lander and my very own game, Dodgem. 
+
+There are 30 different types of stock that you can buy across 9 different types of planets.
+
+At the start of the game you are asked to enter your name. If you already have played before with a save game then this will be loaded automatically for you. You start off next to the planet Cyberion and you can fly around to other planets. If you have already seen a planet then you can view it and its details by accessing the map screen (F2). If you want to land on a planet, press SPACE and you then have to manually land your craft.
+
+If you have stock and can"t remember what you have bought, then access the information menu (F6)
+
+By the way, I recommend you print out Stocks.xls as it tells you the average prices for each stock on each type of planet!!!
+
+Note: If you hit an asteroid, you don"t die, but you lose credits. However if you crash in Hyperspace or Landing your craft you will have to restart - don"t forget to save your game!
+
+NOTA: Este perfil utiliza la versión de DOSBox de ykhwong.
+

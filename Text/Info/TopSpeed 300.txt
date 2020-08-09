@@ -1,0 +1,4 @@
+TOPSPEED 300 is a little racing game I wrote in 1996-1997. It was basically a project designed to make use of the 3D engine I had developed the year before. All this took place shortly before 3D accelerators became a mainstream PC accessory.
+
+The game was developed for MS DOS. It does work with older Windows versions (95, 98, ME, XP), but not with current-generation operating systems. I therefore recommend using an emulator such as -> DOSBox.
+

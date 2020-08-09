@@ -1,0 +1,4 @@
+Super Tank is a version of the classic tank combat game.
+
+The object is simple enough: shoot the other tanks before they can shoot you.  Variations on the theme include guided shots and a new method of scoring.
+

@@ -1,0 +1,1 @@
+DOS-based Mine-sweeper clone. Cross the minefield as well as clearing it. Automatically open and mark squares. Records the five fastest and slowest times. Custom games are remembered. Random games. Wrap-around option.

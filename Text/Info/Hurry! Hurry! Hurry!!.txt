@@ -1,0 +1,3 @@
+"""Hurry! Hurry! Hurry!!"" is an illustrated, musical text adventure about a mystery at a traveling circus by Dave Malmberg. The game was created using the new ""Master"s Edition"" of the Adventure Game Toolkit (AGT).
+
+The game requires a hard disk with at least 2.5 meg of space, an EGA or VGA display and at least 512K of ""free"" memory (i.e., after accounting for all of the TSRs and othe memory resident programs)."

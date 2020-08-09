@@ -1,0 +1,1 @@
+The goal is always to get one block (Block A) to a particular place. To determine the winning destination for a particular puzzle, ask for instructions at the beginning of your attempt to solve it. If you forget where you"re headed in mid-game, hit F1 for a reminder.

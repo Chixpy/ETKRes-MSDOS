@@ -1,0 +1,7 @@
+Would you like to try playing RISK without knowing how many armies your opponent controls?  Here is your chance.
+
+Blind Wars is very similar to RISK, except that you cannot see your opponents" armies, nor can your opponents see yours.  This makes for unpredictable outcomes to the game.  This game is a four player game, where three of the players are computer-controlled.
+
+Although it is similar to RISK, you are not playing on a true world map.  You play on a group of countries and you are trying to take control of the 77 cities.
+
+Also in the game are various random occurrences that can affect the outcome of the game.  Occurrences such as a city defecting to the enemy, or increased armies in a city or country happen randomly throughout the game making the game even more unpredictable.

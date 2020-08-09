@@ -1,0 +1,8 @@
+MegaRace 2 is a 3d racing game with detailed graphics. You can choose between 14 armored cars loaded with weapons of mass destruction, and race on 6 different tracks.
+
+Only the cars are rendered in real-time 3d, while the tracks are actually pre-rendered. This allows the player to have very detailed cars and tracks, but limits the interaction with the scenery.
+
+The game also features a TV Show in full motion video between the races. 
+
+NOTA: Pulsar CTRL+F4 cuando el juego pida cambiar de CD-ROM.
+

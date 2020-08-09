@@ -1,0 +1,2 @@
+Collect the flags and avoid the other vehicles.
+

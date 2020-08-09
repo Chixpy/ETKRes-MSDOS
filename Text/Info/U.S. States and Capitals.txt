@@ -1,0 +1,5 @@
+If you haven"t play U.S. States and Capitals already, go ahead and download it now! Published in 1983 by , U.S. States and Capitals features in a genre.
+
+NOTA: Este es un juego de BASIC. Hay que cargar primero el BASIC y luego RUN "STATES.BAS" para ejecutarlo.
+
+

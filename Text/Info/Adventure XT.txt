@@ -1,0 +1,5 @@
+The sinister wizard Mordimar, having come into possession of the powerful magical artifact the Orb of Destiny, is slowly sapping the life-force from the forests of Blarg.  Your goal: to retrieve the Orb, for the sake of the blighted woods!
+
+Author Paul Panks is known in IF circles for having settled on an early form of the text adventure (perhaps that contemporary to the game"s maybe namesake, the IBM Personal Computer XT?) as the pure, classic ideal to be visited and revisited in permutations of his many experiments, unhindered by modern developments in interactive fiction authoring systems, advances in game design, and even improvements on primitive dialects of BASIC, his apparent development environment of choice.
+
+In most of them, sparse locations, mute NPCs and to-the-death monsters turn up in predictable (classic?) configurations, fortified with occasionally inspired, occasionally jarring train-wreck often-anachronistic mashups of cognitive dissonance -- here special unlicensed cameo appearances from Gargamel, Azrael and several Smurfs... also rising to North American fame in a period roughly contemporary to the IBM XT.

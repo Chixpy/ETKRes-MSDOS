@@ -1,0 +1,3 @@
+Cavewars is a turn based strategy game that combines elements of several different games of it"s era. The turn based strategy element mirrors that of Heroes of Might and Magic while the ability to research new units and improve armies is similar to that of Master of Orion.
+
+The unique element that separates this game from others is that the battles can take place on a number of different levels of a cave. All may be well on level 1, with both sides having a city there; meanwhile, battles rage every turn on level 3. Randomly generated maps and 8 different races to choose from ensures the same game is never played twice.

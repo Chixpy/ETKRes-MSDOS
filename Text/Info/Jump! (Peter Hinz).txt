@@ -1,0 +1,9 @@
+The idea behind jump is that you have to keep the bouncing ball on the moving surface.
+ 
+Special tiles on the surface have specific actions, like:
+
+A double arrow : invert the world movement from up to down and vice versa.
+
+A black hole : jump into a black hole and reappear somewhere else.
+
+A toggle/switch : jump on a toggle to create or destroy some part of the world, etc.

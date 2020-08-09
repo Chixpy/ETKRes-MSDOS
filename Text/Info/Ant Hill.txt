@@ -1,0 +1,13 @@
+"Ants are small little harmless insects..."
+Not in the Amazon! You are an explorer investigating the burning of the Amazon Rain Forest. Many times you have heard the natives telling stories of over grown menacing ants, as large as wolves! Curious, you ask a native to lead you to one of the large ant hills. With much hesitation, he decides to bring you only within sight of the hill. Swallowing, you venture down into the depths...
+
+Ant Hill Features:
+
+- 640x350 16 color EGA graphics.
+- Mouse support.
+- Joystick support.
+- Interrupt driven sound.
+- Auto-timing or user controllable speed.
+- High score screen.
+- A nice helpful help screen.
+- 10 intriguing "levels" to amuse the most serious professional.

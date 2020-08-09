@@ -1,0 +1,5 @@
+A traffic control simulation in which the player must manage the flow of vehicles throughout a busy city block, during the rush hours of 7:00-9:00 AM. Every car has a particular destination, and as the clock ticks, traffic density increases and the streets jam up.  Score is determined by the number of waiting cars during each game minute (the lower, the better).
+
+Each traffic light may be toggled individually or using an automated control system. After 7:40, all unlit lights come on automatically; at 8:00 the automated system fails - the lights must be controlled manually, and cannot be turned off until 8:46.  The simulation ends at 9:00, and success is determined by the number of waiting (and total) cars at that point; if too many cars line up at any of the entry points during the game, the player loses.
+
+It is possible to redirect traffic between the entry points to clear up particularly heavy jams. A tow truck can be used to remove individual cars and resolve gridlocks (at the cost of a score penalty).

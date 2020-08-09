@@ -1,0 +1,9 @@
+A High-Res EGA version of Klondike Solitaire. Supports a mouse but can be used without. Settings may be configured in the game or with command-line switches. It has several scoring methods and gameplay options plus a "peek" button that shows where all the cards are.
+
+Klondike, also known under a variety of local names such as Fascination and China-Man, is probably the best known solitaire card game (actually, many people are not aware of the fact that Klondike is just one of dozens of solitaire games, and use the name "Solitaire" to refer to it). 
+
+There are several implementations of Klondike available for MS-DOS machines, but most of them have very crude graphics (when they do have graphics at all!) and cumbersome user interfaces. This prompted me to write a version that would take full advantage of high-resolution EGA graphics and was intuitive and easy to use. 
+
+Several months and a few thousand lines of Turbo Pascal 4.0 source code later, Klondike 1.0 was released. User response was very enthusiastic, and several users made suggestions\u00a0that were incorporated in later\u00a0versions. This latest incarnation incorporates a few more enhancements, and is generally regarded by its users as the best solitaire card game available for the IBM PC and compatibles. I hope you"ll agree, and enjoy Klondike 3.1! 
+
+A little plug: if you enjoy solitaire games, chances are you will like my other games, Poker Solitaire (current version as of March 1992 is 2.1) and Pyramid (current version is 1.1).

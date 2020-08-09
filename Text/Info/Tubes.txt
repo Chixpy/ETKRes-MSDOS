@@ -1,0 +1,7 @@
+Tubes is a shareware color matching puzzle game. The main screen shows a series of overlapping transparent tubes climbing from the bottom and curving at the top towards the center. Colored balls, or elements as the game calls them, travel through these tubes to their exit holes.
+
+The objective is to catch the falling spheres with a test tube, moving it sideways underneath the tubes exits with the mouse, keyboard or joystick. The test tube can hold up to five elements. The player has to press a button and drop the elements inside a beaker at the bottom, aligning them vertically, horizontally or diagonally by three or more of the same color. Every level has a number of drops allowed, and when the player fails to catch too many elements the game is over.
+
+Besides the elements, special balls also appear randomly inside the tubes that help or hinder the player. The multicolored element acts as a wildcard, and can be matched with any color. The F element removes space inside the test tube. The M element fills the test tube with assorted balls. The C element creates a gray ball that can"t be matched.
+
+The game comes with two modes. In endurance mode, the goal is to make as many points as possible, by making matches until all the allowed drops are spent. In wave mode, each level (or "wave") has objectives, like making a specific type of match, that must be completed before finishing and moving to the next one.

@@ -1,0 +1,4 @@
+DRAUGHTS is traditionally played on the BLACK squares of an 8 by 8 chess board - BLITZ can re-size the board, but for clarity let us discuss the 8 by 8 game. The squares are numbered from 1 (bott right)
+to 32 (top left), with black men on squares 1-12 and white on squares 21-32. Men move diagonally forward onto empty squares, or jump over and capture an opponent if there"s a clear space behind it. One VERY
+important rule - IF YOU CAN JUMP, YOU MUST! If, after jumping, the same piece can jump again, IT MUST! One exception to this rule - when a man reaches the KING-ROW (the 8th), and is made into a KING, it may NOT make any further jumps - until the next move! When a man becomes a KING, it can move in all 4 diagonal directions. When one side has no legal moves left, that side loses the game!
+

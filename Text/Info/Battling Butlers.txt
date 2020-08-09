@@ -1,0 +1,3 @@
+Battling Butlers is a one-on-one fighting game, featuring five different playable objects as fighters.
+
+The roster includes "Ace High" the playing card, "Slammer" the door, "Ringo" the phone, "Jumpy" the spring and "Tock" the clock.  Each fighter has individual attack moves and a special attack.

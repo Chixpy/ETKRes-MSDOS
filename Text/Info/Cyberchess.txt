@@ -1,0 +1,1 @@
+A chess game with cyber-/Tron-like theme.  The layout of the board has been modified to have pieces rest on intersections instead of squares, but the gameplay is identical to chess.

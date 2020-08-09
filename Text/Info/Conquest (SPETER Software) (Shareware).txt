@@ -1,0 +1,5 @@
+"This game is a strategy war game played on a map.
+
+The objective of the game is to capture all the enemy cities.
+
+The game is written in Turbo Pascal."

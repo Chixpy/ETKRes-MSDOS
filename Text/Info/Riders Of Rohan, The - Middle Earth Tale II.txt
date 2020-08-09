@@ -1,0 +1,9 @@
+The Riders Of Rohan [Middle Earth Tale II.] is a qbasic game made using TEK"s N!media and Crows 4id19.
+
+The story is made up (by me) but all characters/races/creatures are directly transferred from J.R.R books.
+
+GAME FEATURES:
+MAP - with 40.500 tiles 
+NPC - over 40 Npc"s with full script
+TILES - over 150 tiles (CroWs:4id19 90 -tiles)
+SOUND - SoundBlaster SFX

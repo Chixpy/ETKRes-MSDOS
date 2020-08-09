@@ -1,0 +1,6 @@
+In this game you play either a male or female commander sent to investigate the situation of the Aragon mining colony were mining robots run rampant, most humans have been anihilated, and an alien threat to the universe begins to surface.
+
+Gameplay can be described as a cross between Wolfenstein 3D and System Shock. You see the world from your bio-suit and access features and perform actions similar to those in System Shock, except that you do it in a 2.5D engine (no jumping, looking up or down, etc...). 
+
+Some creative additions include talking to other NPCs, guided weapons, sonar (yes, sonar), and a plethora of status displays.
+

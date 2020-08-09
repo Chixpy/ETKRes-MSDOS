@@ -1,0 +1,9 @@
+Castle Ralf is a shareware interactive fiction first released in 1987.
+
+The background story: While driving out on holiday, you get lost in the middle of nowhere, when suddenly your tire has a puncture. Remembering a driveway just before the tire blew, you return to it, and guess where it leads? Right, to Castle Ralf. (Reminds me of Rocky Horror Picture Show, that.) The game starts with you trying to enter the castle.
+
+Once you did it (this won"t be too difficult, but will cut off the way back), you"ll quickly find that Castle Ralf is quite big and peculiar, extending onto three floors and a basement, including a Grand Central Closet and a sauna. You"ll find some keys, enough burnt pizza for 87 people and a gigantic cheese, a video game called "Chiwawars!" which you can play, but also some technical puzzles which you will have to solve, designed by the castle"s slightly eccentric owner, some Dr. Bellefleur.
+
+Castle Ralf features an innovative user interface: Besides typing your commands the traditional way, you can also select verbs with the cursor keys. This comes with a simple but well-done parser which understands some unusual and/or useful words, like IT, MAP (which gives you a map of the places you visited so far -- interactive fiction with automapping!), SMELL or COGITATE (which may or may not give you some hint). You can also use multiple commands, as " N. W. S. GET BEANS." All in all, the parser / verb selection combination works quite well, once you got used to it.
+
+The game"s puzzles are quite challenging, but logical. As you will die a lot, you should SAVE often.The texts are short and to the point, being often quite funny and even a little Zorkian. They thus manage to convey a unique atmosphere while you are exploring the vast castle and try to solve Bellefleur"s devious mechanical puzzles.

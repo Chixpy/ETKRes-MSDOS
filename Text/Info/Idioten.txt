@@ -1,0 +1,5 @@
+"Idioten" es un juego de cartas que contiene hasta 40 modalidades distintas de solitarios, desde el clásico "Klondike", pasando por "Canfield" o por "Idiot" que es el que da el nombre al programa.
+
+El juego es altamente configurable en todos sus aspectos (tanto estéticos, como jugables), pero cuenta con el handicap del idioma. Los menús están completamente en sueco.
+
+Por cierto, para acceder a la versión completa, hemos de descargarnos desde la página oficial, además del juego, un pequeño programa llamado "idiotreg.exe", copiarlo a la carpeta donde tengamos instalado el juego, ejecutarlo, e introducir el código que se nos proporciona en la página (Como nombre "Gratisversion", y como número de registro "W6R9D-8ZI8Y-Y4YFX", todo ello sin comillas y respetando las mayúsculas).

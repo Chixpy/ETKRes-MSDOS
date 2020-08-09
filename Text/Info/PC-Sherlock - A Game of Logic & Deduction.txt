@@ -1,0 +1,3 @@
+Call it a version of "MasterMind", "Break-the-Code", or "Bulls & Cows", PC-Sherlock pits the player against the computer in a race to deduce a four digit password.  The player creates a four-digit number (with no repeating numbers) and then guesses the computer"s number.  The computer responds with the number of Bulls (correct numbers in the correct spot) and Cows (correct numbers in the wrong spot) and then guesses the player"s number.  Using the clues provided, can you deduce faster than the computer?
+
+In addition to the standard game (with 3, 4 or 5 digit variations), there is also single-player practice game and a series of skill-building tutorials.

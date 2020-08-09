@@ -1,0 +1,6 @@
+The galaxy is a rough place and nobody knows this better than General Tegel. He"s heading a major offensive to destroy an alien threat known as the K"kistik. But Tegel needs soldiers. Good soldiers. So he"s willing to hire anybody of any race and ship them halfway across the galaxy to get the needed missions done. The toughest soldier for any job will have to be Tegel"s Mercenaries.
+
+Tegel"s Mercenaries is a top-view real-time strategy game. Assigned missions by General Tegel, the player must hire up to six soldiers from Tegel"s personnel listing to take on the mission. Each comes with their own equipment which cannot be changed. During gameplay, selecting any of these soldiers, will allow orders to be issued (Move, Use, Attack, Search, Give, Follow). Each mission features it"s own objectives to be completed, often with bonus opportunities to earn more money. Money is only used to keep track of the player"s score and to hire tougher mercenaries from the personnel list.
+
+The game also contains the Scenario Kit & Working Interface Developer (Skwid) allowing custom missions to be built.
+

@@ -1,0 +1,3 @@
+Warpath is a shareware science fiction space strategy game of the 4X (xplore, xpand, xploit, xterminate) mold for up to four players.  It is played in real-time, and contains some real-time strategy/action elements.  Multiplayer mode is playable over LAN (IPX only) or serial/modem connection. It was written for Windows 3.1, but works well in any Windows environment.
+
+Like Spaceward Ho!, it doesn"t take itself too seriously and has cutesy graphics.  Unlike most 4X games, though, it is a "beer-and-pretzels" game, designed with a short-but-adjustable time limit (the default is 30 minutes).

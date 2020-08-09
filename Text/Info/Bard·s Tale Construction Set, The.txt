@@ -1,0 +1,11 @@
+The Bard"s Tale Construction Set is computer software that allows the user to create simple dungeon crawl video games using The Bard"s Tale game engine. It was created by Interplay Productions in 1991 and distributed by Electronic Arts. It was released for the Amiga and DOS.
+
+Since it was not required to own The Bard"s Tale Construction Set in order to play games which were created with it, one could easily distribute his or her own created games among other people.
+
+Included with the software was a sample scenario for the purpose of playing and learning from, entitled Star Light Festival.
+
+Set in the small rundown village of Isil Thania, a band of adventurers has traveled from afar to witness the annual Star Light Festival in which an eerie light comes down from a star for one night only making the night into day.
+
+While awaiting the Festival at the Rainbow Bar, a small twisted man leads the characters into the sewers (which feature the same maps found in the original Bard"s Tale game), and from there the chracters engages upon a quest that takes them from one location in the city to the next, eventually to find the secret truths behind the Star Cult and the town of Isil Thania.
+
+Playing the sample scenario reveals that several changes have taken place since Bard"s Tale III. Characters accumulate experience much more slowly, and the scroll message window seems unpolished, often dropping parts of words down to the next line without a hyphen, an effect that some players find distracting.

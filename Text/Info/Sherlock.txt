@@ -1,0 +1,7 @@
+Sherlock is a game of logic and deduction. It is your task to determine the locations of 36 blocks, based upon the information available in provided clues. Every puzzle can be solved by using the clues to eliminate possibilities until the location of a specific block can be determined.
+
+The game screen is divided in several areas. The top-left area is the puzzle solve board. In the top-right area contain the horizontal or multi-column clues. The bottom row contain the vertical or 1-column clues.
+
+A vertical clue tell the player that two squares are or are not in the same column. There are five types of horizontal clues. The "is next to" and "is not next to" clue says that two tiles are or are not adjacent to each other, but it doesn"t say which one is on the left and on the right. The "is left of" clue (middle tile is yellow with 3 dots) says that one tile is to the left of another tile, but it doesn"t say how far or close to the left.
+
+The "is between" clue (three tiles with two sided arrow) says that three tiles are adjacent but this can be from left to right or from right to left. The "is not between" says the same except that the middle tile is not between the other two.

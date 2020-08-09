@@ -1,0 +1,5 @@
+Sequel to the original Universal Military Simulator of 1988, this release continues the game concept of its predecessor and allows the player total control of nearly every aspect of a battle.
+
+In the original program, three scenarios are included: Invasion of the Allies in Normandy 1944, Battles of Alexander the Great in 334 B.C. and Napoleon\u00b4s greatest battles at Trafalgar, Austerlitz, Borodino and Waterloo.
+
+Also included is the UMS Planet Edition which lets the player create their own scenarios.

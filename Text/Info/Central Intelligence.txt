@@ -1,0 +1,8 @@
+A strategic game of espionage and undercover operations with a lot of political undertones. You play a CIA chief sent to the island of Sao Madrigal, which is currently under a dictatorship. This dictatorship is supported by the Chinese government and it seriously jeopardizes the U.S.A."s interests on the region, thus it is your mission to organize the recuperation of democracy, by any means necessary.
+
+You have at your disposal a series of CIA agents divided in three branches: Political, Propaganda and Military. But the object of the game is not to organize a military uprising, but instead to support and organize the island"s many opposing factions (like angry students, guerrillas, political parties,etc.) against the dictatorship (with or without their knowledge of your interventions) via propaganda, bribes, subterfuge, assassinations, blackmails, etc.
+
+The main interface consists of a top-down satelite image of the island from where you can zoom in on any building, and from where you dispatch your agents and access the relevant information on each and every building on the island (provided you spy them).
+
+The game runs against a real-time clock as you have a time limit to depose the dictator, but you can select the speed at which the game counts the hours and days, as well as the overall difficulty of the game, by selecting among a set of options that regulate the population"s overall loyalty towards El Dictador.
+

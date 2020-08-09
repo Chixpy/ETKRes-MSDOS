@@ -1,0 +1,2 @@
+MASAGO presents you with a multi-level puzzle to solve. The board holds twenty-five tiles, each of which can be flipped to show one of two colors. You start with the board all one color, and try to get it converted completely to the other color.
+

@@ -1,0 +1,5 @@
+¿Os imagináis a un guerrero a lo \u201cConan\u201d con patines recorriendo castillos?, pues esta es la idea de este arcade de plataformas casi injugable, basado ligeramente en la recreativa City Connection de Jaleco, en el que tenemos que ir pintando plataformas, sólo que en esta ocasión la ciudad ha sido transformada en un castillo y el coche en un bárbaro medieval con grandes habilidades para el patinaje.
+
+El juego, hasta podría ser divertido, si no fuera por la infernal inercia del guerrero, que hace que nos caigamos continuamente de la plataforma, al no poder frenar bien cuando llegamos al borde de esta. Además los recargadísimos fondos casi hacen desaparecer al sprite del protagonista al pasar sobre ellos, haciendo más dificil si aún cabe el juego.
+
+Con Skate Dragon pasa algo muy curioso, y es que encontré otra versión, al parecer, publicada por Idealogic, mucho más simple visual y sonoramente, pero con el autor del juego bien visible en la pantalla de inicio, algo que no está en la versión de OMK, ¿cual será la original?, y ¿como dos compañias pudieron publicar esto?, en especial Idealogic, cuyos lanzamientos en MSX eran muy cuidados. 

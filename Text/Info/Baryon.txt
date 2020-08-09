@@ -1,0 +1,3 @@
+Baryon is a straightforward vertical shooter which features a smooth graphical engine, a short digital sound track and various types of enemies. There are two types of ships, each with its own weapon types, as well as missile upgrades (homing as well as regular, more powerful ones), bombs and shield.
+
+The shareware version of Baryon features only one level, but the registered version promises more action-packed levels with more enemy types.

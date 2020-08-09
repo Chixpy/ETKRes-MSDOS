@@ -1,0 +1,3 @@
+Amulets and Armor is a mission-based role-playing game. The game comes with a number of missions of varying difficulty levels that the player can take in unrestricted order or repeat them. They each have four to five chapters, in which the player basically explores a dungeon, kills a lot of enemies, grabs some new loot, and find the exit.
+
+The game comes in full, textured 3D, and the engine does allow the player to go "up and down", as in over a spot where you were before. Enemies and items in the game are 2D sprites. Combat is action-based.

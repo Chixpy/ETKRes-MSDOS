@@ -1,0 +1,2 @@
+A duel game where you and your opponent jump on trampolines and shoot at each other. Features a tournament mode with progressive opponents and different backgrounds, as well as a two players duel mode.
+

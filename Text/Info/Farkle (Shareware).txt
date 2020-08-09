@@ -1,0 +1,1 @@
+Farkle is a dice game employing six dice by which a score is accumulated. By rolling certain dice and combination"s of dice, a predetermined score is achieved to win the game.

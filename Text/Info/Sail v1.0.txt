@@ -1,0 +1,8 @@
+SAIL is a sailing simulation.  While playing this, keep in mind that I studied physics, not sailing.  I worked out the simulation as best I could, but it may not be perfect.
+
+This game is for one to four players, and requires VGA graphics.  I recommend more than one player, although you can race the clock.  The problem is that the wind is unpredictable, so times are not necessarily equivalent.
+
+There are four courses available, a straight sprint, which is really not very exciting, a race up and back, a more traditional three leg course, and a nice four leg course, which fits computer monitors nicely.  For all but the straight course, the number of laps is also entered.
+
+The computer then asks for the number of players, and each player enters his name and whether or not he wants the computer to control his sails.  If the computer controls sails, the sails will be adjusted so as to get the most speed, but the boat will be penalized 10% in speed.  Then the race begins.  The first two courses have start/finish lines, and the last two have buoys which must be circled.
+

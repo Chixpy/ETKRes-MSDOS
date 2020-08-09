@@ -1,0 +1,1 @@
+BREATH PIRATES 1.2 - text ADVENTURE game, written by Mike Snyder (author of Lunatix and other BBS games). This is a stand-alone game, not a BBS game. It"s an adventure, also known as "Interactive Fiction" these days. You play the role by typing commands GET KEY, GO WEST, LOOK AT TREE, CLIMB TREE, and so forth. You"re in control! Requires IBM PC 286 or better to run.

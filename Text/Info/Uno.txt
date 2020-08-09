@@ -1,0 +1,3 @@
+This is a simple computerized version of the card game UNO, and incorporates the official rules from that game.  In this rendition, one player plays against a computer opponent, so it is essentially a solitaire game.
+
+Complete instructions on playing the game are provided when you begin. Keyboard keys perform all actions - choosing cards from your hand, drawing from the pile, etc. The current card is in the center of the screen.

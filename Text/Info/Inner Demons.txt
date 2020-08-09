@@ -1,0 +1,5 @@
+Inner Demons is a shareware text and graphics adventure game designed for entry level players of games of this type.It comes with the warning that it contains graphic descriptions of violence and may not be suitable for young children.
+
+The player is put into the mind of a madman and must either overcome the demons that haunt his life or succumb to them. Eighteen months ago the main character, who is not initially identified, was involved in a serious car crash. He escaped serious injury, however his daughter Patricia was not as fortunate and she perished. Hallucinations and visions followed culminating in a serious mental breakdown.The story starts shortly after his release from a mental institution and subsequent return home to recuperate.
+
+This game"s parser system uses small verb/noun  sentences such as "take the rope" or "use the key" and to make the game easier to play a menu of common commands and keystroke shortcuts is displayed in most locations. Key items in the game are labelled as "visible objects" which helps to ensure that they are not missed.

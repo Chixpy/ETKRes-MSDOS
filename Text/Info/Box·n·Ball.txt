@@ -1,0 +1,5 @@
+If you want to check your space imagination this game is exactly what you need.
+
+Big cube is divided in small cubes.  There is a ball, which is placed in some small cube.  The ball can move only under gravity force, so you can change its position if and only if there is a hole under the ball.  You can rotate the cube over three coordinate axes.
+
+In every move you get some information about the inner construction of the cube.  The information is based on methods of computer tomography.  On the display you can see three maps.  These maps show the sections of the cube by planes which move through perpendicular coordinate axes.  After every rotation these maps change according to the balls position.

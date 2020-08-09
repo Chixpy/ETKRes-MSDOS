@@ -1,0 +1,4 @@
+Arkanoid clone with a level editor
+
+Botón derecho y seleccionar Qbbedit.exe para el editor.
+

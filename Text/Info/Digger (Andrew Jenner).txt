@@ -1,0 +1,16 @@
+Digger is a remake of the classic Digger, your task is to collect diamonds, try to stay alive from falling diamonds/rocks and avoid ghosts.
+
+The game offers 32 levels, once you completed a level, you get the level code for the next, so you can skip levels the next time you play.
+
+Once you started a level, you have 3 minutes time to collect the amount of diamonds needed to complete the level. At the time you"ve done this, the exit is accessible and you can leave the level, but you can still collect the rest of the diamonds. You get 10 points per diamond, but only 1 point per second from the time from the 3 minutes you have spared when you exit fast enough. So for highscore purpose, it"s good to collect most (or all) diamonds. After you gain a certain amount of points, you gain an extra life. Once you completed level 32, all remaining lives will be added to your score.
+
+Make sure, that you don\u2019t block your exit with a rock, or that you don\u2019t get trapped. If so, your only way to complete the level is by committing suicide and replaying it again.
+
+To make your diamond-collecting challenging, there a rock balls in the game. You can stand directly beneath them, but when you move just one square down, the rock will fall, and when you get hit, you"re dead. This also happens to falling diamonds. So, if you must go down, move fast, and move then left or right to prevent impact. If it\u2019s only one rock, you can move them horizontal, as soon as there is more than one rock, it\u2019s impossible to move them further.
+
+Sometimes there are not enough diamonds in the game, in this case there are some sieves in the level, where you must put a rock on top of it, and if there is space beneath the sieve, the rock will fall through it, and gets transformed into a diamond. But of course, this is also a good idea to do this, when you already have the certain amount of diamonds to collect.
+
+And for a bit more challenge, there are ghosts in some levels, which you must avoid, or they kill you. The good news is, that they don\u2019t hunt you, they just follow a patrol route. The bad news is, who knows their route since most of the time, their route is blocked by a diamond or rock, once it\u2019s removed, they coming\u2026 But you can kill them, if you good enough to let a rock or diamond fall on their head, then they \u201cexplode\u201d and destroy all 8 squares around them, so make sure, you are not in one of them. But be careful, the explosion will destroy anything, including solid walls, and this may trigger more fallen rocks/diamonds.
+
+If you once become tired of the levels, make your own ones, with the included level editor.
+

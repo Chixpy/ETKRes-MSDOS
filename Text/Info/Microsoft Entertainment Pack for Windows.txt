@@ -1,0 +1,12 @@
+This compilation contains:
+
+Cruel Solitaire
+Golf
+IdleWild (A screensaver utility)
+Minesweeper
+Pegged
+Taipei
+Tetris
+TicTactics
+
+The pack also includes several screen savers.

@@ -1,0 +1,14 @@
+The rules of Life are ridiculously simple. There is a cell map, which consists of matrix of cells. Each cell may be on (alive) or off (dead)
+    
+Each cell has eight neighbor squares: four orthogonal and four diagonal.   
+
+For each generation, the future of each cell is determined by the two simple rules:
+
+1st: If the cell is alive and it has either two or three alive neighbors, it will stay alive in the next generation, otherwise it will die.
+
+2nd: If the cell is dead, it will turn alive in the next generation, if it has exactly three alive neighbours, otherwise it remains dead.
+
+That"s all. So, what"s the big deal? Well, try the program and you will be amazed how many variety of Life forms these simple rules can generate!
+                                                                          
+The game of Life is the creation of John Horton Conway, a mathematician at the University of Cambridge. These rules were first published in the Scientific American in 1970.
+

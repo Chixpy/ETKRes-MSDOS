@@ -1,0 +1,1 @@
+A twist of the usual hangman.

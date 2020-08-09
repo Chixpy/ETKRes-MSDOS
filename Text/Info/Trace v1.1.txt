@@ -1,0 +1,4 @@
+TRACE is a program that teaches children letters and numbers while they trace them. Of course, the child does not realize he/she is learning, they are just having a lot of fun!
+
+TRACE requires the use of a printer to create tracing sheets that contain letters and numbers that you design.
+

@@ -1,0 +1,22 @@
+A Snakes duel game for two human players only. You and your opponent move around the screen while leaving a trace. The goal is to survive longer than the opponent. Worms die if they hit the wall or any piece of trace. Despite few interesting features in the gameplay, the poor graphics, poor choice of control keys and lack of the computer opponent make this game very unappealing.
+
+" Object of the Game: Survive by not running into anything
+" This is a two player game
+"
+" F1 - toggle Disease on/off
+" F2 - toggle Box Traps on/off
+" F3 - toggle Erase on/off
+" F4 - Start playing
+"                     Mode 1          Mode 2
+" Player 1 controls:  s = up
+"                     x = down
+"                     z = left        z = turn left
+"                     c = right       c = turn right
+" Player 2 controls:  (Arrow keys)    Left = turn left
+"                     up/dn/lft/rght  Right = turn right
+"
+" Toggle player control modes at the main menu by pressing any
+"  of the respective players" controls.
+" Disease causes a worms tracks to be "eaten", making it ineffective
+" Box traps cause barriers, and may even trap the head of your worm
+" Eraser periodically erases sections of the mess, making escape routes

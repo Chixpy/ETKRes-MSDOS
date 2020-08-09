@@ -1,0 +1,4 @@
+"A basic clone of the popular Dr. Mario game.
+
+Pills of different colors drop, and you need to line them up with the color of the viruses inside of the bottle for them to cancel each other out.
+"

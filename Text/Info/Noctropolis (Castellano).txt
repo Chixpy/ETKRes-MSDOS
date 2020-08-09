@@ -1,0 +1,10 @@
+Noctropolis is an adventure game, with game mechanics that will be familiar to anyone who has ever played LucasArts" classic games or any other representative of the adventure game genre. You play the part of a character in a piece of "interactive fiction," and it"s up to you to solve the puzzles and overcome the obstacles your character will have to face throughout the game. Noctropolis has a verb-based menu interface that appears if you right-click on the screen. It features live actors filmed over digitized graphics; many conversations and cut-scenes are displayed as short movies shown inside a smaller screen.
+
+When you begin Noctropolis, you"re just some guy who owns a bookstore. You also happen to be a huge fan of the "Darksheer" comic book series. Darksheer is a Batman-esque superhero (i.e. he doesn"t have any actual super powers), and, with his partner Stiletto (a former supervillain converted to the side of the good guys), he is the sworn protector of Noctropolis. And Noctropolis is a city where it"s always nighttime, thanks to a permanent ash cloud that hangs over the city (the result of some volcanic environmental catastrophe which occurred decades before the timeline of the story).
+
+So one night, as you"re leafing through the newest issue of "Darksheer" to hit the stands, a courier brings you a package which, to make a long story short, eventually transports you into the city of Noctropolis as...you guessed it...Darksheer.
+
+Coincidentally enough, your arrival as Darksheer occurs at the same time that five of Darksheer"s deadliest arch-villains decide to gang up on him after they"re mysteriously released from incarceration.
+
+It turns out that the real Darksheer had disappeared several weeks prior to your arrival. Nobody knows why, not even Stiletto. But now he"s back! Only he"s not, "cause you"re him and you have no clue what"s going on. It"s up to you to find out who released your enemies while simultaneously trying to keep the newly freed criminals from wreaking havoc across the city of Noctropolis. And maybe, in the process, find a way back to the real world... 
+

@@ -1,0 +1,13 @@
+"This is a simple word find game... when you start the game you have 3 choices..
+
+A - Enter Words
+
+You will have 5 minutes to find all the words in the maze. Simply type the word and hit enter. The game stops when you have found all the words or time runs out.
+
+You may hit Q followed by enter to quit during this phase.
+
+B - Computer Solve
+
+If you choose this option the computer will find all the words in the maze and print out the solved maze.
+
+Q - Quit"

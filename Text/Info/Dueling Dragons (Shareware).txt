@@ -1,0 +1,1 @@
+Dueling Dragons is designed for two players.  However, the computer creates a pretty good opponent if you"re playing without a friend.  The object is to wrap your dragon around the other dragon so it cannot move long enough to be declared the winner.  When both dragons get pinned, the dragon that can make the last move will win.

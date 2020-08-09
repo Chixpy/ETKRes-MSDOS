@@ -1,0 +1,2 @@
+Ogre is a game of tank warfare in the 21st century. You command a force of infantry, armor, and howitzers pitted against a giant cybernetic tank, the Ogre. Your mission is to destroy the Ogre, or at least render it immobile, before it reaches and destroys your command post.
+

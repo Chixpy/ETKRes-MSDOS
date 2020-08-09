@@ -1,0 +1,9 @@
+Pensator es un juego para dos jugadores en el que hay que adivinar las palabras propuestas por el ordenador. \u00c9stas son siempre de cinco letras, y a medida que vayas probando -dentro de un tiempo limitado- te irá diciendo las letras que coinciden y si están en el orden correcto.
+
+Lo cierto es que el hecho de que sea para dos jugadores le hace perder bastante interés. Lo ideal sería que pudieses jugar contra el ordenador, y que fuese éste quien supiese si la palabra introducida existe o no (evidentemente, esto habría supuesto un esfuerzo ingente al programador).
+
+No obstante, la idea es buena. No es más que un ahorcado adaptado a los nuevos tiempos, pero es entretenido.
+
+En el aspecto técnico, los gráficos no son nada del otro mundo -tampoco hace falta-, y las músicas son prestadas -la melodía de inicio es la de Expediente X-.
+
+Para pasar el rato. 

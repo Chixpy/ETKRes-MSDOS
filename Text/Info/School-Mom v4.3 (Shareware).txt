@@ -1,0 +1,23 @@
+This colorful, award winning children"s educational software is one of the world"s best.  SCHOOL-MOM version 4.3 is a complete educational tool for children ages 4 to 14.  It contains multi-level modules for Math, Music, English, Alphabet, Art, and Time.  It also contains an exam generator with some exams already provided.  Tunes are use for rewards.
+   
+With this software you can have fun and learn at the same time.
+
+MATH - This module contains four levels of addition, subtraction, multiplication, division and algebra.  It also contains arcade-style math games and animated instruction.  
+
+MUSIC - This module has three levels of difficulty.  Each level allows you to use the keyboard to write tunes as you watch the notes appear on the screen.  As the learning increases so does the complexity.  Tunes can be edited,  stored and played back for later use.
+
+ENGLISH - This module contains four learning levels.  The first level allows you to choose from lists of nouns, verbs, adjectives, and adverbs.  The computer then makes sentences from the chosen words.
+
+The second English level in an exciting game that requires you to race a clock and unscramble words into a sentence while watching out for flying arrows.
+
+The third level teaches sentence structure by showing a random sentence from the data files and asking you to choose the proper structure.  
+   
+The fourth level teaches subject-verb agreement by displaying a random sentence from the data files and asking you to choose the missing verb. 
+
+The Alphabet option is for preschoolers and teaches upper and lower case alphabet.  The upper case letter is shown and you must choose it"s lower case equivalent.
+
+ART - This module allows you to show creativity and have fun while doing it.  You can choose from one of 5 options.  These are Doodle, Spider Webs, Space Tunnels, Space Worms, and Space Ribbons.  The Draw option allows you to draw freehand with either the joystick or the mouse.  The Spider Webs options allows you to control the actions of a spider who leaves a web behind him.  The last three options allow you to create beautiful screen art with three-dimensional qualities using either a joystick or the keyboard.
+
+TIME - This module has four learning levels that teach you to tell time.  A clock is shown on the screen and you must choose the correct time from a list of three answers. The difficulty increases with the learning level chosen.
+
+EXAM - This module allows teachers or parents to create multiple choice examinations.  The exams are graded with the scores placed in a score file.  Some exams are already provided on the disk.  After you create an exam you can also print a copy of it for class use.

@@ -1,0 +1,11 @@
+Spider Run is a single player, shareware game for DOS that has elements of Pipe Dream in its game play.
+
+The game takes place on a grid that"s six cells deep and eight cells across with the corner cells unused. Into this grid are placed web elements. These are right angle bends, straight lines, or cross roads. The spider starts from a randomly placed green start cell and the player must extend the path from this cell by rotating the web elements in front of the spiders path.
+
+When the spider travels through a cell the cell turns solid blue and cannot be re-used. By ensuring that the spider has travelled twenty inches along its current path and then taking it off one edge of the screen and back onto the other side the player can reset most of the solid blue cells. This means that they can be used again to prolong the game and achieve a higher score. Some squares, when reset, are completely blank and these must be avoided as the game ends when the spider"s path comes to an end.
+
+Elements are rotated by clicking on them with the mouse, each click rotates the element through ninety degrees. Points are scored the longer the game lasts. Bonus points are scored by exceeding the specified target and by picking up flies along the way.
+
+The game sets a minimum number of points for the player to achieve. Once that has been accomplished the player is able to advance to the next level. The shareware release had seven levels while the full release has thirty.
+
+The game is entirely controlled via the mouse.

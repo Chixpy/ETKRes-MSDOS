@@ -1,0 +1,4 @@
+This game is extremely simple to play. Use the arrow keys to eat up all the goodies and avoid slamming into your tail or the walls. Each piece of fruit you eat causes your tail to grow. Eating a butterfly will give you an extra life.
+
+David Hoogvorst generously made this shareware game freeware in 2007.
+

@@ -1,0 +1,1 @@
+This is a much improved version of the "oldest" video game ever. (Pong wasn"t REALLY the first video game, but it was the first popular one.) Anyways, this one features better graphics and some new gameplay ideas, like "super moves" and better paddle physics. Really, the improved paddle physics make a big difference in the game.

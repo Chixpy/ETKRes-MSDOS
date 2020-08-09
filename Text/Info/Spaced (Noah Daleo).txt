@@ -1,0 +1,4 @@
+Avoid enemies while gravity pulls your ship to the bottom of the level.
+
+Botón derecho y seleccionar NOMUSIC.BAT para jugar sin música.
+

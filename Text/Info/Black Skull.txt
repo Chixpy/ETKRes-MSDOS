@@ -1,0 +1,2 @@
+"A very poor RPG with a small world map and two small "cities". Only two types of enemies. Poor graphics, tile by tile movement and a lot of flickering. No story, no quests. Endless battles for no reason." - Dean Janjic
+

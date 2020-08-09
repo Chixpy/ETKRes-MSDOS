@@ -1,0 +1,9 @@
+A.R.S.E.N.A.L: Taste of Power es un juego de estrategia en tiempo real basado en unidades de la Segunda Guerra Mundial. Se cuenta con 40 unidades diferentes para terreno, aire y mar: 15 unidades de terreno, 10 unidades de marina, 10 aviones y 5 unidades de defensa. Sus principales características son:
+
+- 4 Modos de Video: 640\u00d7480 \u2013 800\u00d7600 \u2013 Varios Mapas con diferentes paisajes.
+
+- Modo Network multiplayer: Hasta 32 jugadores por equipo.
+
+- Ranking de unidades, administración de combustible y movimiento de formaciones.
+
+- Interfaz de negociación con opciones de diplomacia.

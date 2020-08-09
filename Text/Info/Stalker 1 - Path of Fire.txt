@@ -1,0 +1,3 @@
+"In a world contaminated by the radiation of a nuclear power plant accident, you are a "Stalker."  Much of the land is highly radioactive and mutated creatures roam in search of food.  You look pretty tasty to them.  As a Stalker, you wander from zone to zone, seeking nourishment and what treasure you can find.  There are many hazards along the way."
+
+A strange platform game in which you have to gain enough points to access the "exit zone." To do this you must destroy the creatures that come after you, avoid the "radiation zones", the radioactive pools, and try to keep going.

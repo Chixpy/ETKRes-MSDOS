@@ -1,0 +1,7 @@
+Hunchback 96 is a single player, freeware, side-scrolling platform game inspired by Ocean Software"s 1983 title, Hunchback. The player controls the eponymous Hunchback who races through the game to rescue his beloved Esmeralda. Along the way he must dodge fireballs, leap flaming pits, avoid angry birds - and that"s just in the first two levels! Though there are bad guys in the game this is not a fighting game, Hunchback can move left / right and he can jump and that"s it. 
+
+A level is completed by travelling as far right as it is possible to go, exiting the screen completes the level. The player starts with three lives, a new life is awarded after four levels have been completed.
+
+The game has music and sound effects, it is entirely keyboard controlled.
+
+While Hunchback 96 has the same playing mechanics as its 1983 namesake, it is not a remake, but rather an original product that pays homage to the classic titles from the eighties.

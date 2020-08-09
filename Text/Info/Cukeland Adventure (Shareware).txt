@@ -1,0 +1,24 @@
+You must find your way in a hostile universe, infested with carnivorous
+vegetables, and monsters.
+
+To complete a level, you must:
+   - eat all the candies on the level and find the exit.
+
+Vegetable monsters will try to stop you. To kill vegetables, 
+you must:
+     - pickup salad dressing bottles, and throw salad dressing on your
+     opponent. One bottle kills one opponent.
+
+Red monsters will also try to stop you. To kill red monsters, you must:
+   - pickup a carnivorous plant, and throw the plant on the floor. Wait
+     for the plant to do the job.
+
+To open magic doors, you must:
+   - pickup a key, and throw the key on the door.
+
+Hints:
+   - You are heavier when you carry things
+   - Doors can remove walls, create walls, create ladders, ...
+   - All the commands (SPACE, Arrows, Alt, Ctrl, D, K) are useful
+
+

@@ -1,0 +1,7 @@
+Dungeon Quest is a top-down dungeon crawl role-playing game written in BASIC that is most similar to the Warriors of Ras series of early computer RPGs.
+
+As usual, you"ll begin with creating your character, having a choice of seven standard classes. Re-rolling bad throws is not allowed here, but you may be able to transfer attribute points. You can create up to nine characters. Last thing to do before beginning your quest is a visit to the shop, to buy armor, weapons, light sources and other useful stuff.
+
+Now you"re ready to hit the dungeon levels. You can control a party of up to 9 characters. The full current level is shown in a top-down view, and you can start to do the usual timeless dungeon crawl routine: slay monsters, open doors, open treasure chests with or with out traps, everything with a somewhat eye-hurting red and green background, complete with simple graphics and a cumbersome user interface. Interesting, however, is the way of how the multi-character party is controlled: Focus is given to one character are controlled one after the other, with each having a few actions before control is passed to the next. This allows some hot seat multiplayer crawling.
+
+As to the background story... What background story? This game is not concerned with these trifles.

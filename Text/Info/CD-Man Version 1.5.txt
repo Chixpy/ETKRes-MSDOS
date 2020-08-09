@@ -1,0 +1,3 @@
+Pac-man, an arcade classic finds a new form in this very cute clone. CD-Man features 5 different worlds to pass each having nicely-drawn graphics in high-res EGA mode. 
+
+Created by two Swedish authors, Atilla Biro and Anders Moree.

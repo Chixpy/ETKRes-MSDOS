@@ -1,0 +1,1 @@
+A pinball game with two tables, Rocket and Graveyard. It was derived from an Amiga game by Digital Illusions called Pinball Dreams. Supports up to 8 players. 

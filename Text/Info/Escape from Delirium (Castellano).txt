@@ -1,0 +1,5 @@
+Amateur made, shareware imitation of Monkey Island 2 / Simon the Sorceror. But don"t let that put you off - this is a quality game in its own right. You are adventurer Paul Cole, the year is 1948, and you have been lowered down a pit to investigate a the discovery of a corpse. Then you find you cannot get out. The rest is up to you! 
+
+The main difference between this and another LucasArts" SCUMM engine game is the lack of obvious humor. It seems to take itself very seriously.
+
+

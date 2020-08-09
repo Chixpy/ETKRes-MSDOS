@@ -1,0 +1,13 @@
+Quick: When you think of Tic-Tac-Toe, what"s the first thing that springs to mind?
+    
+         > Stupid game?
+         > Stupid name?
+         > Impossible to win?
+   
+Well, all three are true.  In designing Tic, we tried to overcome all three of those obstacles.  Unfortunately, we had trouble with the first two, but hey, one out of three ain"t
+bad.
+
+Nice, simple game except for one huge problem.  Unless one of the two players is brain-dead, or just not paying very close attention, THE GAME IS IMPOSSIBLE TO WIN.  Every game ends up in a stalemate.  Just look at the above example.  Talk about a boring game.
+    
+Well, IguanaSoft just wasn"t going to take this sitting down. We knew that playing a game which is impossible to win, well...it sucks.  So we re-designed the game, made it even
+simpler, and most importantly, we made it easy to win.

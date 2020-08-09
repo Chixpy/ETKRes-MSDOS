@@ -1,0 +1,9 @@
+Using the 3D terrain modeling system designed for Bruce Artwick"s famous Flight Simulator series, subLogic created a whole new flight simulator - UFO.
+
+You control a UFO (with controls unlike those in any earthly vehicle), careening and skidding around the earth under the power of standard thrusters or a gluon disruptor propulsion system, avoiding detection by humans (you can use your translucer to become radar-invisible), in a search for fuel for your species" galactic ships. You can return to your mother ship and trade your scavenged fuel for additional supplies.  (Your mother-ship docking tractor beam can also be used to capture earthly aircraft... hmmm...)
+
+The controls are akin to (but different from) a helicopter"s. You can control the amount of anti-gravity; you can pitch, roll, and yaw; you can thrust back and forth, up and down, and side to side. (Thrusting up and down is preferable to the less precise use of antigravity - important while docking.)
+
+For advanced flying, it is possible to use anti-laminar transducers to completely eliminate drag (important to keep your hull from overheating), and use the aforementioned gluon devices to "fly" forwards (But watch out for spinout!)
+
+There are other options available, including landing pods, illuminator beams, probes, gravitons, shields, teleportation. UFO is also compatible with the subLogic Scenery Disks.

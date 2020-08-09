@@ -1,0 +1,28 @@
+Big Math Attack! is a shareware, single player, DOS, Missile Command style of game that teaches maths, spelling and touch typing.
+
+The game drops missiles from the sky one at a time. The player types in an answer and presses ENTER in response to which the game fires a missile. If the answer is correct the missile strikes home and the question disappears in an explosion, if the answer is incorrect the rocket misses and the player must try again.
+
+There are four games built around this central theme. The games are: 
+
+1) Maths
+
+The player is prompted to enter a difficulty level against the categories add, subtract, multiply, divide and mixed. The game then starts with sums like "15 + 28" dropping from the top of the screen. The player must type the answer 43 and press ENTER. 
+
+2) Metrics
+
+In this game the player must select from the categories Celsius, Length, Speed, Volume, and Weight.  In all these categories the player is presented with a question to which they must reply lower, higher or equals
+Each kind of game starts with some helpful advice. For example when playing with the Volume questions the game advises that  such as "1 pint = 0.5 liters, 1 quart = 1 liter, and 1 gallon = 3.8 liters". 
+
+The game drops questions like "1 gal _ 2.0 liters" to which the player must respond by pressing the appropriate key. The game then fires the word LESS, Greater or EQUALS at the question instead of a missile.
+
+3) Spelling
+
+Again the player sets a difficulty level at the start of the game. Words with a missing letter, eg "QU_NTITY", fall from the top of the screen. The player must press the key corresponding to the missing letter, which in this example would be an "A". The game then fires the letter at the word and, if its correct, the word explodes and the next one descends.
+
+4) Typing
+
+In this game single letters, numbers and punctuation marks fall from the top of the screen. The player must press the corresponding key on the keyboard to destroy it.
+
+All games use the same principle and play against the same background. At the start of each game the player is asked to set the game"s difficulty level. Each game consists of fifty questions and the number of correct and incorrect answers are recorded to give an overall score and a recommended difficulty level for the next game. Towards the end of the game the questions fall faster and faster.
+
+The game can be customised. Questions can be frozen, i.e. they pop onto the screen and do not descend, and the game"s increase in speed towards the end of the level can be disabled.

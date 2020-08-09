@@ -1,0 +1,7 @@
+"Welcome to Hold"em Poker, one of the most popular poker games found in Las Vegas, Nevada. Hold"em is played in most of the major casinos as well as many card clubs in many states. With the popularity of Hold"em, more and more card clubs have been trying to legalize this form of poker in cities where card clubs are legalized. I hope they all succeed.
+
+This computer game not only will give you hours of entertainment and enjoyment, but it will also allow you to sharpen up your skills as a Hold"em Poker player. For the novice, you can learn how to play the game in the comfort of your own home or office ( assuming your boss is on vacation ).
+
+Hold"em was written to follow the general rules set forth in most of the card clubs. Not all card clubs have the same exact rules as others. Although the rules may vary slightly between card clubs, you"ll find that these apply to most games.
+
+The documentation has been written with the novice in mind. Those that require more information on Hold"em may either write me or purchase one of the many books describing Hold"em in detail."

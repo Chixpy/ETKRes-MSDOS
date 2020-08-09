@@ -1,0 +1,3 @@
+This game allows the player to play the ancient game of Mahjong against three computer players.  Unlike many other games with Mahjong in the title, this game does not consists of picking matching tiles off of a pile of tiles to see if you can remove them all.  Instead, it plays similarly to the card game Gin where you must accumulate straights or runs to win.  However, Mahjong has its own special rules involving the special tiles used to play the game.
+
+The game has a number of pre-programmed opponents, each with their own portrait, voice, and play style.

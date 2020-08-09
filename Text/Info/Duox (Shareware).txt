@@ -1,0 +1,5 @@
+"Duox is played just like the classic tic-tac-toe, but on twelve times as many boards.
+
+The object of Duox is to win more boards than your opponent(s).
+
+You can play against two opponents or the computer. Each player takes turns selecting a number. You score that number for every board that that number is contained in."

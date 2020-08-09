@@ -1,0 +1,2 @@
+A true arcade type game featuring high resolution (VGA) vector and bitmapped graphics. Full SoundBlaster sound track and digitized sound effects. Fast action and very intense!
+

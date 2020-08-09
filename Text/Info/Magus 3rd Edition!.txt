@@ -1,0 +1,15 @@
+Magus isn"t so typical rpg, there is no real plot, you cant buy anything and talking to npc"s isn"t possible. At this point you are thinking that it isn"t a good game or what?
+
+But really it is quite amazing little rpg, though the skills are limited it still has something that many Hard-Core Rpgs dont have - it"s fun to play. The characters itself are comical, but at least when you get to the point where you try to say "boo" to death knight you will realize it.
+
+There is only one large map filled with different spells, mosters and items. You can have allmost infinite ammount of characters, but one is enough. The Graphics are nice but sounds seem somehow familiar ;)
+
+Cheats:
+Is Slaying Dragons Too hard?
+Here is the offsets to skills.
+Strenght: 000 00016
+Agility: 000 00024
+Wisdom: 000 00026
+And then just some hex-editing...
+
+You need to slay some big nasty dark mage who resides around 100,300 map coordinates (player starts at about 100,5).

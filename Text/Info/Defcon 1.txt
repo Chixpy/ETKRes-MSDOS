@@ -1,0 +1,6 @@
+Welcome to DEFCON 1, a missile command type game set in the near future.  Switzerland, long thought to be peaceful and neutral, has secretly been stockpiling nuclear weaponry.  Due mainly to slumping watch and army knife sales, they plan to take over the world starting by kicking our western butt (the U.S.)
+
+You are the Senior Defense Controller for Sector 3 of the United States, in charge of protecting six cities.  To protect your peace loving cities you must intercept the ICBM"s that are careening towards them.  The bad news: you have only a limited supply of anti-missile bombs to accomplish your goal.  The good news: your scientists have begun to work feverishly on new defense technologies.  These special weapons come on-line as you reach further rounds. Unfortunately, they cost more to use with regard to your total arsenal.
+ 
+Bonuses are given at the end of each wave for bombs conserved, people saved, and cities remaining.  
+

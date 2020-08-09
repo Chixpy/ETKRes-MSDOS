@@ -1,0 +1,3 @@
+Pole Chudes: Capital Show is a fan-made recreation of the TV-show of the same name (the Russian version of Wheel of Fortune).
+
+There are up to three players at one time, two controlled by a human and one by AI (characters from famous USSR cartoons). They have to guess the word by one letter or completely (without error) in turns, rolling the wheel with special symbols on it, which decide the sum of money rewarded for a right answer or its multiplier, skip turn, burn all the money, open any letter and a super prize (when chosen, the player should leave the game). As a part of the joke, all prizes are useless, like a toothpick or lace, but they are left with the address to pick them up.

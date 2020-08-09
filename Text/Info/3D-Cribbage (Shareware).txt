@@ -1,0 +1,1 @@
+3D-CRIBBAGE is a full featured cribbage card game with great graphics for DOS. Not only will it score your hands for you, but it will actually move the pegs for you too.

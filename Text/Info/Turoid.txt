@@ -1,0 +1,3 @@
+An Arkanoid clone, where the point is - as in many others - to bounce a ball with a paddle in order to destroy all the bricks on a given level and proceed to the next one. 
+
+The paddle is controlled with a mouse (the mouse sensitivity can be adjusted with 1-9 keys). The bricks you will have to destroy are various: the green, orange and white bricks can be destroyed simply by hitting them; the yellow brick can be destroyed only after picking up a certain powerup; the purple brick contains a ball that will fall down after destroying it - two hits with such a ball will destroy your paddle; the gold bricks are "special" and many various, benevolent effects may occur. The green, orange and white bricks are the only one that need to be destroyed. 

@@ -1,0 +1,3 @@
+Lode Runner clone. Move Roboman to pop various balloons on the level to find a key that will trigger the exit door. You can gain bonus points by popping all the balloons on the level, and there are quite a few nice touches, such as hidden suprises inside the balloons and springboards to jump to higher levels.
+
+

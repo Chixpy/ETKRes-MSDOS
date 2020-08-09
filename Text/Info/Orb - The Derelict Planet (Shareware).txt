@@ -1,0 +1,5 @@
+This is, basically, Metroid. An amateur Metroid, granted. And with a rather baffling protagonist; basically an eye inside a glass orb. Still, hey. Perhaps the most distinctive element of Samus is her morph ball ability. And the most expressive Metroid game is the second one, in which you spend half of your time in ball form, rolling around the walls and ceilings.
+
+Joshua Turcotte did a good job here; Orb is one of the more complex and fully-featured Game-Maker games out there, and also employs one of the most comprehensive storylines. Even the credits are uncommonly verbose.
+
+The visuals are clean and attractive. The level design is actually pretty good, if about as confusing as the original Metroid. Unfortunately, the full game is lost to time, hardware obsolescence, and narrow distribution. Yet what remains glows with ambition. 

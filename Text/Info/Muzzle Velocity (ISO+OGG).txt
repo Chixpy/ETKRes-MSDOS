@@ -1,0 +1,5 @@
+Muzzle Velocity is an action/wargaming hybrid were you can make the tactical strategic decisions of unit placement, composition, etc. from a strategic top-down map, as well as getting in on the action yourself from a first person perspective.
+
+Taking place on the European front in WW2, you get 150 single player missions sprawled on single scenarios or a career mode, where you step up in range with each succesful mission thus increasing the range of orders you can issue on the strategic aspect of the game. You can control 100 units from either the U.S., British or German side and though none has all aspects and characteristics simulated, each handles differently and has different armor/weapondry models.
+
+Graphics are 2d svga, and the game uses voxel technology to render the fps 3d sequences.

@@ -1,0 +1,3 @@
+"ZigSaw was developed on a Zenith Z-100 computer with UCI"s Easy-PC board enhancement kit. ZigSaw"s design has many possibilities for Educational development, Entertaining puzzle games, and Electronic circuit designing.
+
+ZigSaw is provided for demonstration to allow the user group members a hands on challenge of a computerized jigsaw puzzle. Enjoy your chance at solving the Pirate puzzle and all comments pro or con will be accepted. ZigSaw will continue to mature through user support. A conversion program is included with the production version of ZigSaw. ZSC will convert Run Length Encoded, Doodler V, and Basic BSave files to ZigSaw format. More puzzle files are also included."

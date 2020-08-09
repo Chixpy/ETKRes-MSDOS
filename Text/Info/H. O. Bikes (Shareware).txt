@@ -1,0 +1,2 @@
+H. O. Bikes is a fairly simple two-player game. The object is to avoid collisions with either the walls or the other bike. You are looking from the biker"s perspective out of either window.
+

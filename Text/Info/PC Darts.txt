@@ -1,0 +1,3 @@
+A simple dart game where you work using the x-axis and y-axis to get points on the dart board.  The game does not keep score for you, so you will have to count your own points.  After three darts, you can start again, or can quit the game.
+
+To play, you first select your starting y-axis (height).  Then you start a moving x-axis (horizontal) bar.  Every space the x-axis bar moves, your y-axis bar will move up one as well.  The goal is to get just the right spot for the x-axis and y-axis in order to get a good score.

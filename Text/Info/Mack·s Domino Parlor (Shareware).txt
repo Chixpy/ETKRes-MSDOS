@@ -1,0 +1,1 @@
+Domino is an excellent game of domino"s you play against the computer. Features include an initial draw of 7, 9 or 11, and an optional re-deal if dealt too many doubles. Game records may be saved to disk. Graphics are required.

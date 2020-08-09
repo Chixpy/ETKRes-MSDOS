@@ -1,0 +1,3 @@
+A scurillous mix of Lemmings and Tetris. Whenever you clear a row, a Lemming falls down. Depending on the chosen gamel\u00b4play mode, you are supposed to either kill them or keep them alive.
+
+Jan Cajti Zeithaml originally wrote Lemris in 1994 in Turbo Pascal 6.0. Lemris 2 is re-coded in Borland C++ and has some extra features like background music and an animated title screen. The version you can download here was compiled in 2000, the last one released by the author.

@@ -1,0 +1,1 @@
+A very simple clone without any animations. It features different kinds of objects, like bombs, indestructible steel walls, various monster types, etc. Each level has got a time limit. The game is still in development and there is also a version available with a level editor. The version you can download on this site does not have a level editor.

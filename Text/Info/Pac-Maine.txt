@@ -1,0 +1,13 @@
+This a game Pac-Man clone oriented to encourage you to seek a college degree. No kidding!
+
+You run around in the maze, and instead of dots, you have to collect as much as possible A"s, while avoiding the following monsters:
+
+Goofoff: Bad study habits advocate
+
+Chicky: Applier of peer pressure
+
+Boozer: Drunken "waste case"
+
+Junky: Drug dealing "slimer"
+
+Oh, and remember: "This diskette may only be copied in its entirety and only for the purpose of encouraging youth to seek a college education."

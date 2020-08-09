@@ -1,0 +1,3 @@
+1 Ton is a freeware game where the player controls a weight of one ton. There are multiple people walking over the screen and the goal is simple: crushing as many of them as possible. This is accomplished by hitting the people with the ton.
+
+NOTE: Use the mouse to play by dropping the weight on the plunger (to start a wave) and then on the "targets".

@@ -1,0 +1,7 @@
+"Star Fortress is a fly-around space shoot-em-up with elements of the original game Star Castle in the arcades back in the early 1980s.
+
+The player pilots a star fighter and must destroy the shields around the Star Fortress and then destroy the energy cannon within the fortress, all the while avoiding the fortress defenses. Each successive Star Fortress features tougher defenses, more aggressive and powerful armament, and more deceptive tricks and tactics.
+
+Star Fortress supports playing through the keyboard, mouse or joystick, and optionally supports SoundBlaster sound."
+
+In 2007 the author made this game freeware (was previously shareware).

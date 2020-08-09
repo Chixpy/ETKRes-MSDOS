@@ -1,0 +1,5 @@
+In the future, a series of nuclear disasters have devastated the Earth and forced it into an orbit nearer the Sun. The increased temperatures have formed vast deserts and transmogrified the planet into a barren wasteland. All hope seems lost for humanity until the discovery of  a metal ore that seems to protect against the Sun"s heat and radiation. Only one problem. The only place where the ore can be tested in time to save them is within the Sun itself. 
+
+As James Mariner, Earth"s selected test pilot, it is up to you to deploy a probe containing the ore into the Sun"s corona and acquire the necessary data. However, things don"t always go as planned...
+
+NOTA: Este perfil utiliza la versión de DOSBox de Ykhwong y no funcionará con versiones oficiales de DOSBox.

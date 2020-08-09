@@ -1,0 +1,6 @@
+"Welcome to the world of telegaming. Telegaming transforms the telephone network into your personal gaming arena.
+
+PC-ARENA Othello is a complete telegaming othello system from Mike&Jim. This system, when connected to a companion system via telephone lines, will play host to an inter-computer othello match. Communications, scoring, player prompting, move judging and board maintenance are all managed by the gaming system.
+
+The PC-ARENA series of telegaming systems require a minimum configuration of 96K of memory, one disk drive, a 300 baud modem, PC-DOS, and a color or monochrome monitor."
+

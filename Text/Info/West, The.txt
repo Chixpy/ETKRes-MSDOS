@@ -1,0 +1,3 @@
+"You start the game in the middle of a desert with no plot given to you. There are some places you can go where you will enter into a fight which the computer will randomly decide if you win. There are no puzzles and the only actions you control are what direction to go. The game and documentation are full of spelling errors.
+
+The documentation shows this was the authors first ""game"" and there is really not much here."

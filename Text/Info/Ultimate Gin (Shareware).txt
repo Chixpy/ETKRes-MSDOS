@@ -1,0 +1,29 @@
+1.  Play GIN RUMMY against one of 8 notorious characters(registered version.)
+2.  Select the GIN RUMMY variation you like to play.
+    a. STANDARD 10 KNOCK: The knock value is set to 10.
+    b. OKLAHOMA GIN ACE = 1: (knock value based on the value of the first 
+       card to be turned face up, if it"s an Ace then the knock value is 1).
+    c. OKLAHOMA GIN ACE = GIN: (knock value based on the value of the first
+       card to be turned face up, if it"s an Ace then the knock value is GIN).
+    d. HOLLYWOOD SCORING: A scoring device where 3 games are played at once.
+3.  Play up to 40 games per match against any one of the 8 computer generated
+    players.  
+4.  All completed matches against any of the opponents will be saved and 
+    recalled each time that opponent is played against.
+5.  Start a new match at any time (will delete all matches previously on file 
+    for that opponent and start with new data.)
+6.  The following items can be set to range of values noted below.
+    1. GAME SCORE: Range 100 - 300 (the point count that must be reached or
+       exceeded to win the game.)
+    2. GAME BONUS: Range 100 - 300 (the amount of bonus points received for
+       winning the game.)
+    3. SKUNK BONUS: Range 100 - 300 (the amount of bonus points received if
+       a player wins the game and his or her opponent has not scored during 
+       the game.)
+    4. BOX BONUS: Range 0 - 50 (the amount of points received for each hand 
+       won by either player during the game.)
+    5. GIN BONUS: Range 0 - 50 (the amount of points received for winning a
+       hand with GIN.)
+    6. UNDER KNOCK BONUS: Range 0 - 50 (the amount of points received for
+       winning the hand by having fewer or equal points in deadwood to your
+       opponent when he or she knocks.)

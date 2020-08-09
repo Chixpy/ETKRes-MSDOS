@@ -1,0 +1,7 @@
+Seal Team simulates American operations in the Vietnam war. Missions include Patrol (kill enemies), Ambush (kill enemies), Demolition (building or well), Rescue (friendlies), Recover (certain object), Snatch (capture enemy leader), and Observe (call in the fire support teams). The player controls a single character giving orders to the others, with his statistics improving as the game progresses.
+
+True to the danger of Vietnam, you can run into traps like tripwire, panji stake pits, and more. As point man, you"ll need to "mark" those so the follow-up don"t run into the trap.
+
+Seal Team is one of the few games in which you get to see the "riverine" attack boats, including the Swift and PBR"s. Sometimes they serve as infiltration and extraction vehicles, other times as fire support.
+
+To simplify gameplay, civilians and VC wear different colors of "pajamas". VC gets black, civilian gets purple. This makes target ID much easier.

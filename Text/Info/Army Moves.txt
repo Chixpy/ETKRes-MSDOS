@@ -1,0 +1,25 @@
+INTRODUCCI\u00d3N
+
+Tras el rotundo éxito de títulos como Abu Simbel Profanation, West Bank o Camelot Warriors, Army Moves puede considerarse como el juego que lanzó definitivamente a Dinamic al mercado internacional -y cuando decimos internacional, decimos Inglaterra-. Tanto fue así, que los distribuidores de Dinamic en las islas por aquel entonces -Ocean/Imagine- se encargaron de la conversión del juego a los sistemas que no eran demasiado populares en nuestro país -Atari ST, Amiga y Commodore 64-.
+
+El juego fue programado inicialmente para Spectrum por el genial Víctor Ruiz, uno de los miembros fundadores de Dinamic. Posteriormente realizó las versiones para Amstrad CPC y MSX, partiendo del original. Se puso a la venta a finales de 1986, alcanzando un inmediato éxito de crítica y público. Posteriormente fueron realizadas las ya mentadas versiones británicas, y por último vio la luz, ya en 1989, la versión para ordenadores PC, siendo una mera conversión directa del programa original.
+
+En 1988 se programó el que sería otro gran éxito de la compañía madrileña: Navy Moves, la segunda parte de este magnífico juego, viendo la luz en 1995 la tercera parte de la saga, el Arctic Moves.
+
+Al llegar al final de este último, se anunciaba la inminente aparición en el mercado de la que sería la cuarta parte de esta exitosa saga, el Desert Moves, juego que finalmente no se llegó si quiera a empezar, como bien nos comento Luis Mariano García, el programador del Arctic Moves.
+
+EL JUEGO
+
+La mayoría de vosotros -por lo menos los veteranos- conoceréis la querencia de los chicos de Dinamic por realizar juegos divididos en dos partes (Game Over, Phantis...), y este Army Moves no podía ser una excepción (parece ser que a excepción de las versiones ST y Amiga). En la primera fase controlaremos un jeep, el cual está provisto de dos tipos de proyectiles; los terrestres los utilizaremos para defendernos de los jeeps enemigos, mientras que los aéreos servirán para destruir a los numerosos helicópteros que sobrevuelan los cielos del escenario.
+
+La acción transcurre sobre un interminable puente, el cual se encuentra cortado en diversos puntos como consecuencia del conflicto bélico que se está desarrollando. Para evitar caer por esos numerosos puntos, deberás mantener a punto tus reflejos y saltar en el momento preciso, si es que quieres tener alguna posibilidad de conservar tus vidas y llevar a cabo con éxito la misión.
+
+Posteriormente, y tras culminar con éxito tu trayecto, dejas el jeep para pasar a pilotar un helicóptero, el cual será tu medio de transporte durante el resto de la fase. Si consigues llegar al final, se te proporcionará una clave de acceso que te permitirá jugar la segunda fase. En ella, abandonas los mandos del jeep, y te adentras en una aventura totalmente diferente. A pie, contando con tu metralleta y unas granadas como armamento, deberás infiltrarte en las líneas enemigas (los enemigos se cuentan por cientos), y deberás conservar la frialdad si quieres llegar hasta el final del juego, lo cual podemos asegurarte que no será nada fácil.
+
+COMENTARIO
+
+Los primeros juegos de Dinamic que llegaron a mis manos fueron el Game Over y el Fernando Martín -compré los dos el mismo día en El Corte Inglés-, por lo que llegué a este mundillo justo después de que el juego que nos ocupa hiciese su aparición. De hecho, hasta entonces -bueno, hasta que me compré el Fist II, que fue mi primer juego comercial- había estado deambulando entre "Videospectrums" y "Load"n runes", y no tendría conocimiento de su éxito hasta bastante tiempo después. El primer contacto con el Army lo tuve en forma de copia -ahora ya se puede decir :-D -, cuando un amiguete me lo pasó. Mentiría si dijese que me enganchó y me fascinó, porque no fue así. Me pareció un juego simple y poco atractivo, por lo que no le hice demasiado caso -a lo que contribuyó sin duda el hecho de que no me gastase un duro en él-.
+
+El paso de los años, como ya he dicho muchas veces, ayuda a aclarar las ideas y a poner las cosas en su sitio. Así fue como posteriormente comencé a apreciar el verdadero valor de este juego: su elevada y casi indescriptible adicción. Partida tras partida fui formándome una opinión más real, pudiendo corrobar hoy en día que se trata de una verdadera obra maestra de la programación.
+
+La clave para acceder a la segunda fase es 26362.

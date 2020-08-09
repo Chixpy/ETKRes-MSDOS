@@ -1,0 +1,2 @@
+Text adventure in more of a "choose your own adventure style". You are continually given two choices (one right and one wrong) and must work your way through the story.
+

@@ -1,0 +1,5 @@
+A remake of the Amiga/Atari ST game from 1989 (see Gravity Force).
+
+With a similar control scheme and feel to Thrust, the aim is to make your way through a series of levels, collecting all cargo containers and returning them to your home base. As if controlling your own ship wasn"t difficult enough, there are numerous enemies patrolling the cave system who seem intent on making your job hell.
+
+Instead of making a straight remake, the author has created some brand new levels and mission types (e.g. escort missions, bombing runs), to add variety. There is also a limited version of the original game"s "single player race" mode (in which you attempt to set new time records for completing levels) and a simple 2-player dogfight mode.

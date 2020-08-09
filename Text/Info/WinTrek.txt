@@ -1,0 +1,9 @@
+An enemy armada is invading the United Federation of Planets and Starfleet Command estimates that Earth will be attacked in about a month. So the player, controlling James T. Kirk, commander of the original NCC-1701 Enterprise, is ordered to stop that invasion.
+
+WinTrek is Star Trek simulation game, where the player virtually controls every aspect of the Enterprise, including those that would normally be done by the crew.
+
+For navigating the Enterprise through the sectors and quadrants, the player does not "drive" her, but instead controls the navigation station directly (setting course, whereby any of the 360 degrees can be used, and setting speed limits, both impulse and warp). During combat, the player has to manage shields, coordinate phaser fire and photon torpedoes, including the control of how much dilithium (fuel) is invested into shields and weapons. Finally, the player must manage the dilithium fuel (i.e. refilling at starbases) and make sure that the ship doesn"t break apart (damage system).
+
+The game is won when the enemy armada is destroyed, and lost when the armada attacks Earth, or when the player-controlled ship runs out of fuel or explodes. Both the number of enemy ships and the days available to the player are randomly set when the game is started. 
+
+The game offers six difficulty levels, ranging from Admiral (expert) to Expandable Crewman (easiest). In-game Computer Station acts like a computer operation system, allowing the player to get information not visible at the other stations (e.g. retrieve the position of the starbases). Information is displayed in 11 sub-windows of the game window, which are all re-sizable and movable.

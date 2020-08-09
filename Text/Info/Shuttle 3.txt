@@ -1,0 +1,2 @@
+Shuttle 3 is an arcade game, a classical shoot"em up fully written in BASIC. The game features 640*480 pixels Graphics with 16 colors and PC-Speaker Sound. You"ll explore 6 huge Levels with over 15 types of enemies. Your mission is to destroy the enemy"s fleets.
+

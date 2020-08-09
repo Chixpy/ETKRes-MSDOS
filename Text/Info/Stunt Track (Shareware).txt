@@ -1,0 +1,1 @@
+Object is to successfully negotiate two laps, by staying centered on the track when driving over obstacles, and by choosing the proper speed for each obstacle.  Attempt to beat the fast times.  It keeps times for lap one, lap two, and a total race time.

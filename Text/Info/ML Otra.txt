@@ -1,0 +1,5 @@
+Between 1987 and 1990, Bob Lancaster wrote 6 games that he released under the name of "MicroLink," a PC user group he belonged to.All the games boast simple, ASCII-character graphics, but the excellent gameplay and range of options make them stand the test of time. 
+
+ML Otra is a simple but fun clone of Simon, a popular hand-held electronic memory game in the 1970s that challenges you to reproduce an ever-growing sequence of flashing lights and musical tones, using four colored buttons. Otra (from the spanish "otra vez", or "one more time") is a computerized memory game in the spirit of the game. The game is played in rounds, each faster than the last and requires a longer sequence of panels to complete. Points are accumulated for every correct panel, and bonus points are given for completing a sequence.  At the end of four rounds, the player with the highest score wins. 
+
+As in Bob Lancaster?s other games, ML Otra is simple, but fun especially when you compete against other human players. It?s hardly original, but the excellent execution and the plethora of options make this a quality freeware underdog. Recommended, especially for the kids in your house.

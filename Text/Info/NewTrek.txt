@@ -1,0 +1,7 @@
+This is another clone of "Star Trek" strategy, as many others, but maybe this is oldest of them. You have your trusted Enterprise, and you need to destroy all evil Klingons in this galaxy. Invisible Romulans are here too.
+
+Like in other such games, the galaxy is divided into 64 (8x8) quadrants, and each quadrant divided again into 64 (8x8) sectors. Each sectors, aside from the mentioned ships, can also contain friendly Cruisers, Starbases, stars or an "evil Death Planet", if it is not empty, of course.
+
+You can hyperjump, scan, fire photon torpedoes or phasers and also have risen/lowered shield and make repairs.
+
+This game was created using BASIC one.

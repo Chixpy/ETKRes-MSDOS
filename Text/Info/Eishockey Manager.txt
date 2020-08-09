@@ -1,0 +1,11 @@
+Eishockey Manager is a managerial simulator for a team in the German Hockey League. The game contains the real player and team names of that time.
+
+Eishockey Manager allows the player to handle most of the relevant aspects of a hockey team both economic and sport-wise. The user has to trade players, organize the training, handle the team"s line-ups and tactics, negotiate contracts with players and sponsors, and expand the team"s stadium. 
+
+If the player has proven successful he gets the chance to manage the German national team competing in the world championships after the end of a season.
+
+Your team"s games can either be watched in a ticker-like text display only, or with animated, prerendered, goal-scenes.
+
+Up to four players can play simultaneously in hot-seat mode.
+
+As opposed to Software 2000"s six game soccer manager series, Eishockey Manager remained the only hockey manager ever released by this publisher. Technically Eishockey Manager represents a step between Bundesliga Manager Professional (1991) and Bundesliga Manager Hattrick (1995). 

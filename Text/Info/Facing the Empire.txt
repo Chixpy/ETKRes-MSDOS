@@ -1,0 +1,3 @@
+Facing the Empire is an interstellar space war simulator. As a Lyran you must protect your Star Bases from the invading Morte Star Empire and drive them out of this sector of the galaxy. At first you need to build up your forces by constructing bases and researching the whereabouts of the Morte. Then you must hunt them down while defending your Colonies and Bases.
+
+Taking turns the player as the Lyran forces chooses destinations to search and when located the enemies to attack. The Computer as the Morte Star Empire and the player roll within the game engine to determine the outcome of the battles and missions.

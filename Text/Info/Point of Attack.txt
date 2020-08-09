@@ -1,0 +1,3 @@
+Point of Attack is a wargame set in the Middle East, featuring a set of scenarios which depict actual and hypothetical scenarios (e.g. Desert Storm or another war between Israel and Syria). This is one of those programs which views itself as simulation first and game later. Therefore the focus is on simulating tactics and the impact of all those smaller and bigger influences, including morale, air superiority, supply lines and electronic warfare.
+
+Regarding gameplay, it follows the usual wargame steps: the player gives movement and attack orders to each units on a top-down map with abstract symbols. After ending the round, all orders are performed.Each turn represents one minute, meaning a match progresses relatively slow. The editor can be used to build new maps.

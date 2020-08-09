@@ -1,0 +1,5 @@
+Suppose you are child and want to play with your friend in "virtual sand-box". Cause you are not old enough to play chess or cards, you can use your beloved mechanical toys. They will help you to win a some sort of strategy game.
+
+In turn-based mode you have to activate different mechanical toys to get from one part of the sand-box to another. Your opponent do the same. If your toys pass their way twenty one times then you are winner. There are 12 types of toys. Every toy has own program of behaviour and out of control after activation. Some of toys has a program to deactivate the enemy toy.
+
+You can play against a computer and against your best friend.

@@ -1,0 +1,7 @@
+Bios es una muy humilde aportación al campo de los shoot"em up de scroll lateral (del estilo de Gradius o R-Type, por citar dos clásicos), que llama poderosamente la atención por el gran tamaño de nuestro caza de combate, y por poseer una rutina de detección de colisiones no muy pulida.
+
+El objetivo del juego (llegar hasta una puerta al hiperespacio que nos pondrá a salvo), no es más que un pretexto para desarrollar el concepto de siempre, es decir, superar fase tras fase, intentando acumular el máximo número posible de puntos.
+
+Un punto que deberemos tener muy en cuenta durante el desarrollo de las partidas, será el abusivo consumo de fuel por parte de nuestro caza (quizás su tamaño tenga algo que ver :)) . Por suerte, aleatóriamente irán surgiendo una serie de cápsulas marcadas con la letra "F", que al recogerlas nos proporcionarán combustible extra.
+
+En cuanto al armamento, decir que de partida contaremos con un cañón de disparo simple, que podremos convertir en triple, temporalmente, en cuanto recolectemos cualquier cápsula marcada con la letra "T". [Agamenon3]

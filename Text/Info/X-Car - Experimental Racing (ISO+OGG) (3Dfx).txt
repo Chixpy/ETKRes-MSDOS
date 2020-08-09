@@ -1,0 +1,5 @@
+As the name suggests, in XCar: Experimental Racing the player drives and races experimental cars. There are sixteen cars to race on ten tracks. Tracks range from "Mid-Ohio" to a Mayan temple and downtown Seattle. Cars can (and, at times, need to) be tweaked, tuned, and sometimes completely over-hauled to improve the various components that make up the car.
+
+The graphics can be rendered in software or accelerated in 3Dfx. While there is no track or car editor for the game, the player can edit car textures (only in software mode), to create a completely customized car.
+
+NOTA: Este juego necesita la versión de DOSBox de Ykhwong.

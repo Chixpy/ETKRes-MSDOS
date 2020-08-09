@@ -1,0 +1,4 @@
+This program builds a maze on your CRT.  After the maze is built, you may use the cursor keys to solve it.  Press "Q" to quit or press "S" to have the computer solve the maze.  If the computer solves the maze, you must press some key to exit.  A different random number seed will produce a different maze.  Each maze has exactly one solution that does not involve backtracking (passing through a doorway more than once).
+
+This program was written by James L. Dean.
+

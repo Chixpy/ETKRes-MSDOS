@@ -1,0 +1,14 @@
+CD DOT CHALLENGE, NOVICE VERSION 1.4, is an easy to play game with over 75,000 different game variations. As easy as it is to play, it requires great strategy to win and is very ADDICTIVE.
+
+The game board consists of a grid of dots. The object of the game is simple....to draw a line between any two dots. Each time a player draws a line that "closes" a square that player earns a point and another turn. As simple as this sounds, the strategy can be quite complex.
+
+The game begins by players alternating turns to strategically "close" a side of a square by moving the pointer (via the cursor keys) to an "unclosed" side and pressing the key thereby drawing a line on (closing) that side. In effect, players are "designing" a strategic maze of closed and unclosed square sides.
+
+Play continues until players are forced to close the "third" side of the square which effectively allows the following player to close the fourth side of the square thereby earning a point and another turn. Depending upon the moves, this may allow a player to close another square on his "extra earned" turn and continue etc.
+
+This is where the strategy at "designing" the maze is critical. Depending upon the "design" of the board, a player can force another player to give him a series of fourth sides to close.
+
+Quite simply...your mission is to force your opponent to give you a series of squares to close thereby earning points and extra turns. Conversely, you try to find sides to close that will not allow your opponent to score points. If it is necessary to give points (and it
+will become so as the game progresses) you must try to minimize damages by giving your opponent a single square or series of squares that will yield the fewest points.
+
+The object of the game will become quite clear as you play the game.

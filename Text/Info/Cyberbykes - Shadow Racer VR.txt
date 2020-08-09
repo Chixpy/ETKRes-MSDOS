@@ -1,0 +1,7 @@
+Cyberbykes was one of the earliest 3d games to support VR glasses and graphic resolutions higher than the VGA standard. It also includes network play and an editor.
+
+You control a robotic bike remotely. Blow up the opposition with 15 different weapons while recovering government secrets in a trendy-for-its-time cyberpunk nightmare future setting.
+
+Actual gameplay involves open 3D combat similar to Stellar 7 and Arctic Fox.
+
+

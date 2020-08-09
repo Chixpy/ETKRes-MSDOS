@@ -1,0 +1,9 @@
+T-Zero is a highly unusual piece of epic interactive fiction, playing in a Lewis Carroll-like surreal surrounding, with a strong emphasis on word puzzles.
+
+The game starts with you awakening in a River Bed. You have to explore your surroundings to find six objects, "scattered across ages and landscapes", to transport them "to progressively future time zones where they can right the troubled times."
+
+The puzzles are quite hard, as they often use puns (as in Infocom"s Nord and Bert) or elements of Western pop culture (like the Beatles). Non-native English speakers could have a hard time to solve this game.
+
+The parser of T-Zero is quite unusual, powerful but tricky. It understands uncommon verbs like IMAGINE (this one allows you to visualize objects and locations have not encountered). Still, it sometimes is quite touchy and requests you to type the exact phrase it wants.
+
+The game also contains a hint system.

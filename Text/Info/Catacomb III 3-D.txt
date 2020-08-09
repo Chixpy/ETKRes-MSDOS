@@ -1,0 +1,10 @@
+You are a mage descending into the dungeons of Grelminar the Lich, in order to kill him and save one guy named Nemesis. 
+
+Catacomb 3-D is a simple fantasy first-person shooter game. To get to Grelminar, you have to complete several maze-like levels. Your sole weapon is a fireball spell, which can be used an unlimited number of times and can be charged up to cause more damage. You can also find one-time use items: bolts and nukes. A bolt launches several fireballs in a machine-gun fashion, while a nuke launches a ring of fireballs in all directions. 
+
+The various enemies (such as orcs or trolls) that you meet while exploring are the main target for those fireballs. However, you can also destroy whole sections of walls, which is often necessary to complete the level. 
+
+Items you can find include (apart from bolts and nukes) healing potions, keys to open doors, and scrolls that provide hints. 
+
+There isn"t an overhead map in the game, but you have a compass to guide you. What"s more, various areas of the map have specific names displayed at the bottom of the screen, making it a bit easier to navigate. 
+

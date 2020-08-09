@@ -1,0 +1,11 @@
+History of Colossal Cave  The First Adventure:
+
+The first computer adventure game  came alive in a cave,  called the Colossal Cave.   Written by William Crowther,  it set off an explosion of "look-alike" clones,  though none remain as fanciful, as magical, or as wondrous as Colossal Cave, also known as Adventure.   It represented  a new kind of  computer program  --  a game of flowing, descriptive text  portraying a wonderful story  involving creatures, treasures, and magic.   Adventure is said to have inspired Dave Lebling, the creator of the ZORK games, to create adventure games.  
+
+But what exactly is Adventure?
+
+You are an adventurer on a mission to collect a number of treasures, learn a variety of magic words, and solve a myriad of puzzles.
+
+Please note:
+
+The programmers of  Colossal Cave  The First Adventure  have studied the original game to make this,  the most accurate  and most faithful version of the classic game.   We hope that it sparks an interest in some of the classic games for computers.

@@ -1,0 +1,12 @@
+Comet Busters is an Asteroids-style game for one to four players. The player must blast all the comet chunks to advance to the next level. But there are evil saucers, alien cronies, and flying chunks of dead planets all waiting for you.
+
+You can play single player on one PC, or multiplayer over modem, serial cable, or TCP/IP network (the Internet!).You also have four special abilities:
+
+Hyperspace
+Shields
+Disrupter
+Cloak (only useful for multiplayer)
+
+You can play full screen in any game. Another feature is tournament mode, where two to four players compete to see who is the last one left on each level. In this mode, you can choose between having the rocks bounce, be destroyed when you shoot them, or no rocks.
+
+It features support for sound cards, or the PC speaker. You can also have MIDI music, even make it random.

@@ -1,0 +1,7 @@
+Liero is like Worms but with players battling in realtime instead of turn-based.
+
+At the start of the game, each player chooses 5 weapons from a vast weapons array, 40 in total. The weapons range from simple pistols and shotguns to bazookas and the ever deadly cluster bombs (known in the game as the chiquita bomb)
+
+Players can dig through mud, jump and throw ninja ropes to navigate through the area. The players must seek each other out and destroy the opposing player. When a worm is hit, ridiculous amounts of blood spurts around. All weapons have infinite ammo, however they do need to be reloaded after emptying a clip. Reloading takes a few seconds, and during this time the player cannot fire. The more powerful a weapons is, the sooner it needs to be reloaded, sometimes after every single shot.
+
+During the game, players can pick up crates with weapon power-ups. When collected, the weapon power-up replaces whatever weapon is in the active weapon slot.

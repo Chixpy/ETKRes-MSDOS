@@ -1,0 +1,1 @@
+Shards is a strategic puzzle game for one player. Remove duplicate stone tiles using various strategies to advance to the next level. Your job in each of the levels is to make all of the tiles disappear. Requires: 500K RAM VGA. Adlib/Soundblaster or compatible card is recommended.

@@ -1,0 +1,5 @@
+Craps V1.3 - A game played with 2 dice
+ Place a bet on the outcome, and see how
+ long you last before losing the lot.
+This version replaces V1.2
+    -=[ From Psycho Ward Productions ]=-

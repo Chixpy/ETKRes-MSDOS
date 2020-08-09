@@ -1,0 +1,1 @@
+A DOS, text-based dice game where lowest score wins.

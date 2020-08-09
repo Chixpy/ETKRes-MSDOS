@@ -1,0 +1,1 @@
+Another game about the card game of Bridge. You can play against the computer (the A.I. has some 20 options for bidding conventions and just card play) or against human opponents (there is even a LAN option). Included are some tutorials for beginner and intermediate players; the tutorials are presented by Omar Sharif himself.

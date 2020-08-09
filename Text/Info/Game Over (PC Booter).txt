@@ -1,0 +1,21 @@
+¿Qué podemos decir de esta verdadera obra maestra de la programación? Han sido muchos miles de personas las que han disfrutado con él, tanto en España como en el extranjero, y lo cierto es que se ha hecho un hueco en los corazones de la mayoría de ellas. 
+
+En UK llegó a ser uno de los tres juegos españoles más famosos, junto al Fernando Martín y al Army Moves, y no había entrevista a programadores extranjeros en la que éstos no hiciesen mención a uno de ellos (bien es verdad que a insistencia de los reporteros patrios).
+
+En cuanto al juego en sí, se trata de un frenético arcade dividido en dos partes, en la que para llegar a la segunda (¡cómo les gustaba esto a los chicos de Dinamic!), necesitabas una clave de acceso que conseguías al final de la primera.
+
+Ranking de versiones
+
+No hay muchas diferencias entre las diferentes versiones, pero a la vez da la impresión de que aprovechan adecuadamente las posibilidades de cada ordenador.
+
+· SPECTRUM: Parece la versión original. Recuerdo que lo compré junto al Fernando Martín, y que no paraba de pensar en lo bien que estaba la carátula y lo curioso del nombre.
+
+· AMSTRAD CPC: El gráfico del protagonista está por debajo de lo que se puede esperar del Modo 0, parece poco definido. Nada que objetar por lo demás.
+
+· C64: Es la versión más fácil, puesto que se puede saltar por encima de algunos bidones, evitando el riesgo de encontrarnos con una mina. Fue programada en en Reino Unido.
+
+· MSX: Es igual a la de Spectrum, pero con el interesantísimo añadido de comenzar, tras perder una vida, en la misma pantalla. Esto la hace más sencilla.
+
+· PC: Lo típico de la época, con gráficos CGA y sonido a través del altavoz. Se aprovecharon los gráficos de Spectrum, pero sacando partido de la ausencia de color clash, por lo que -por ejemplo- nuestro protagonista cuenta con más colorido.
+
+Cualquiera de ellas es, en definitiva, igual de recomendable, aun contando con las diferencias mencionadas (actualizado en octubre 2011).

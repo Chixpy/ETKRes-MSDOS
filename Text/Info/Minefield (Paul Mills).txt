@@ -1,0 +1,1 @@
+Minefield is a DOS-based VGA version of the popular Windows game [Minesweeper].  The object is to find and mark all of the mines in the mine field and clear the remaining squares.

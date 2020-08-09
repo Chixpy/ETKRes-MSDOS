@@ -1,0 +1,7 @@
+Heretic: Shadow of the Serpent Riders is the expanded version of the original Heretic retail release with the addition of two new episodes. This gives Heretic: Shadow of the Serpent Riders a total of five episodes compared to the original Heretic"s three episodes (and a single episode for the shareware release). Owners of the original Heretic are able to download a free patch which will update the game to the Shadow of the Serpent Riders" full five episodes.
+
+Your world has been ravaged by the three Serpent Riders from the Abyss.  Afterwards two of the Riders have left, while one, D"Sparil remains to oversee the oppression.  It is your duty, as the Heretic, to destroy this demon.
+
+Heretic is the first game in the Heretic/Hexen franchise.  Here begins Raven"s tradition of taking id"s latest game engines, improving on them, and using them in a fantasy game.
+
+For Heretic, the Doom engine was used.  The Raven team enhanced the engine with the addition of an inventory system, the ability to look up and down, and the ability to fly, along with some lesser features such as powerful wind currents.  Not counting the inventory, the core gameplay that made Doom such a hit remained the same.

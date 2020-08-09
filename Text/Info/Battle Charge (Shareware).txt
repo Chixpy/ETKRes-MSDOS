@@ -1,0 +1,1 @@
+Battle Charge v1.03 is a two-player game played with two sets of opposing (red vs. blue) neutral and charged pieces. The game ends when a charged piece captures its opposing king. Requires: 80286 or later series CPU 300K free RAM VGA color graphics and a Microsoft compatible mouse and DOS resident driver.

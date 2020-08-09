@@ -1,0 +1,2 @@
+Includes 20 levels and a level editor. The object of the game is to setup directional tiles so that your bomb is guided to the exit.
+

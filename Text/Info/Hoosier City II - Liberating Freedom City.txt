@@ -1,0 +1,1 @@
+Hoosier City is a top-down action game in 3 episodes. You must rid a city of evil mutants in a post-nuclear-war era. You can move from screen to screen to collect keys and objects in order to move on. You can collect weapons and money to buy weapons: you start with only a sword, but in the end you will have machine guns and bombs.

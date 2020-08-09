@@ -1,0 +1,4 @@
+The object of the game is to prevent the lamers from reaching the computer.  If some of them reach it, you won"t proceed to the next level.
+
+You have four types of weapons you can use: Snowballs, buckets of ice water, fake presents and springs.
+

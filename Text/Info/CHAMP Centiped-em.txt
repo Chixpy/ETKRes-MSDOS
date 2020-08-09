@@ -1,0 +1,1 @@
+A colorful clone of Atari"s Centipede classic. You must get rid of all the insects invading a mushroom patch, including Fleas, Spiders, Scorpions and the Centipede. You can select a difficulty level and can have 1-2 players. The game also includes a option for classic like the original arcade version or champ for improved classic with more bugs and multi shooters. 

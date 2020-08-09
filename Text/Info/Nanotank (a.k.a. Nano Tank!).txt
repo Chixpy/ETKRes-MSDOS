@@ -1,0 +1,5 @@
+This puzzle game depicted the player as a miniature armored vehicle attempting to travel through the circuit boards of a malfunctioning computer, repairing each board (level).
+
+It was the only product actually shipped by Twin Dolphin Games, although they also completed an old-west target gallery game, but they ceased operations before the boxes arrived for the latter game.
+
+Nanotank was one of the few games intended for Windows 3.1 before the advent of WinG (the first thing Microsoft ever did to support game development on Windows). It was a very short project, leveraging knowledge gained from the abandoned attempt to make a high-visual-quality animated wargame for Windows 3.1.

@@ -1,0 +1,2 @@
+This archive contains the executable and documentation for an implementation of the game Core War, as described by A.K. Dewdney in his Computer Recreations column of Scientific American and in his book, The Armchair Universe.  Versions of this program have been used during the summers of 1989 and 1990 by high school students in the Governor"s Honors Program at Valdosta State College, Valdosta GA.  It"s gotten a pretty good workout so it"s fairly robust (I hope).
+

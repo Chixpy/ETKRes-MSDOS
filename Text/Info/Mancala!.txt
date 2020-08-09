@@ -1,0 +1,9 @@
+Strategy-based one or two person boardgame. DOS.
+
+Mancala! is a terrific strategy-based boardgame where you play against the computer or against a human opponent.
+
+The idea is to move as many stones as you can into your "mancala" (the storage area on the right-hand end of the board) until all the stones are gone.
+
+There are some rules/strategies to learn before you can master this program but it is very enjoyable and will keep you amused for hours.
+
+The interface is excellent, the options good, and the download is a tiny 46kB (even better!).

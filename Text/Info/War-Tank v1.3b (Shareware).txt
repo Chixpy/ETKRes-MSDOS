@@ -1,0 +1,7 @@
+WAR-TANK is a 2 player, Tank vs. Tank game. Each tank is equipped 
+with a high-power, plasma laser beam, not like the conventional shell 
+throwers. 
+The screen is split into 2 parts, the upper, battle, half shows the 
+two tanks, and the battle field. The lower, readout, half shows the armour 
+points, and the score. Each tank starts with 10 armour points, when these are 
+gone you are dead, the other player wins that round, 5 rounds are played.

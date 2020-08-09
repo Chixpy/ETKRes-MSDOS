@@ -1,0 +1,15 @@
+This game takes you back to 15th century apocryphal England. As one of the Knights of the Round Table, your goal is to take advantage of King Arthur"s departure for a Crusade to unite England under one rule -- yours.
+
+As a turn-based strategy game, this game is not impressive. It is after all a two-man job. You can find better strategy games in Abandonia. But a strategy game that you can play in 15 minutes or less? That"s what this game is: a shot of strategy insulin to play over the coffee break. If that"s what you"re looking for, this game is for you.
+
+The interface may come off as threatening, but this game is simplicity itself. You command one and only one campaign through the entire game, in which you are able to move to one territory per turn. But make sure to keep your army within reach of your castle; losing your castle means losing the game. As a defence measure, you can leave soldiers behind to defend your territories: you can re-ingress them back into your campaign once you pass back through the land.
+
+Adding to the difficulty of the game, four different kinds of mercenaries are available to do your bidding: knights, foot soldiers, bowmen and catapults. Foot soldiers are best for defence, bowmen and catapults for offence, while knights are middle-of-the-road soldiers. Here are the tuple table details for each of the four available units. The ratios are calculated based on the amount of peasent damage they can inflict or withstand relative to the cost in gold per soldier: (knight, A: 75%, D: 62%), (foot soldier, A: 50%, D: 100%), (bowman, A: 100%, D: 50%), (catapult, A: 80%, D: 10%).
+
+The developer must not have put much thought into this: there is no advantage in buying catapults. They may be very strong in absolute terms, but for the cost of 2 catapults you can hire 5 bowmen for the very same attack power and 5 times the defence power.
+
+As an Abandonia exclusive, this Deluxe version (the commercial version of the game) adds 4 buttons to the game interface allowing you to fortify a castle, challenge a player for a Joust (an arcade touch to the game), summon Merlin to help you weaken a territory (limited to a couple of times, depending on the difficulty level), and collect emergency taxes (at the cost of future taxes, and potential revolts). An additional level of difficulty is added to this version: Knight. Here you are completely blind, you do not even know where the other players are. You can also customize the number of computer players to play against, as well as select your own character (not only Sir Lancelot).
+
+Right-click the icons for more information, or press F1 for help. The kort.doc file is also rich of juicy details.
+
+While this is a very neat game, the game sins for its monotony. The computer players are too easily beatable -- so much so, even first-time players should be able to come out on top in most matches -- and the lack of maps other than that of England is a major omission.

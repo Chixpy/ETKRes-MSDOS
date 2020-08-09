@@ -1,0 +1,5 @@
+Operation Combat II: By Land, Sea and Air is an isometric timed turn-based wargame strategy, similar to Perfect General or Modem Wars.
+
+You choose one of six available battle terrains and face off against an opponent with only one objective - annihilate the enemy"s headquarters. You can play against computer or human player (modem and null modem connection). One of the most interesting features is a time limit per turn. You are given only 240 seconds to finish your turn.
+
+Game offers medium quality isometric 256-color VGA graphics, hybrid menu and point and click interface, variety of land, see and air support units, basic sound effects.

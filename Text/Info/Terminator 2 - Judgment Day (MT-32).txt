@@ -1,0 +1,3 @@
+The game consists of several actions parts linked together. All parts are different, each resembling typical games of the genre (for example: 1st level is like a side-view beat "em up). Between each level a small cutscene from the movie is shown.
+
+NOTA: Necesita la versión de DOSBox de Ykhwong.

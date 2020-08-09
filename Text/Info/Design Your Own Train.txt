@@ -1,0 +1,4 @@
+A model railroad simulation. The heart of the game is being able to sketch and design your own custom railroad track plan. From there, one is able to add terrain, buildings, rivers and more. Then place customizable trains onto the track and swap between them to change the switches on the track. There is even a simple trading simulation feature where goods must be transported between destinations on time.
+
+Tracks can be imported from Design Your Own Train, Run Your Own Train or Train Library.
+

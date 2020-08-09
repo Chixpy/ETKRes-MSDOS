@@ -1,0 +1,8 @@
+Ladder Man I is a puzzle game that was distributed freely, i.e. without a registration fee, to publicise Soleau Software"s Mindscape series of non-violent games for the family. It is the first in a series of three Ladder Man games, the other games in the series had to be purchased. 
+
+Ladder Man is a puzzle game. Each screen depicts a room around which are scattered objects among which are diamonds that Ladder Man must collect. Once he has done this then the player must guide Ladder Man to the exit which leads to the next room.
+Ladder Man"s ladder has a finite length and usually is not enough to reach the diamonds on its own. There are other objects in the room which will help him such as balls to stand on, blocks, ball holders, gondolas, and fire hydrants to quench fires. The puzzle is to use these objects correctly enabling Ladder Man to collect all the diamonds in the room in the minimum number of moves
+
+The game holds a score card for up to five players. 
+
+There are thirty rooms that can be attempted in any order.

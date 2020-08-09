@@ -1,0 +1,2 @@
+ATC-Game - is an Air Traffic Control simulation. You are in charge of the terminal area of a medium sized international airport. It is your job to vector the departing traffic to the appropriate airway and the arriving traffic to the appropriate runway, maintaining sufficient separation between aircrafts.
+

@@ -1,0 +1,5 @@
+How to best demonstrate the capabilities of your text adventure authoring system (the Master"s Edition of the Adventure Game Toolkit) but to port the latest and greatest hit title using it?  Well, one outta two ain"t bad -- the programmer focused on re-implementing ADVENTURE, the revolutionary mid-"70s faux-fantasy treasure-collecting cave crawl text adventure.
+
+But why ape a project if you can"t add anything new to it?  ADVENTURE was faithfully reproduced, and then enhanced: starting from the early tally of 350 points, the new content from David Platt"s 550-point version was incorporated... and then further subsequent embellishments and expansions added up ultimately to 1000 mighty points of puzzling.  (The Inform port goes one further, for a "lousy last point" total of 1001.)
+
+An additional bonus challenge to be the first to uncover 10 "secret words" contained in the game was incorporated into this release, initially boasting a cash prize of $100! ... and later left in as an optional, prizeless challenge atop the game"s classic hunt for virtual treasures.

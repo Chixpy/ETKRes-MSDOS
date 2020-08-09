@@ -1,0 +1,1 @@
+You play a worm that has to get to the bell at the top of the screen without hitting blocks that slide down at you ala Donkey Kong-style.

@@ -1,0 +1,19 @@
+TigerFox was written in 1984, originally to run on the HP 110 (The Portable), a very early notebook computer.  It was later ported to the HP 95LX and HP 100/200LX Palmtop computers.  This version runs under MS-DOS on a PC in CGA (an ancient video mode).  
+
+It probably won"t work on Windows XP, but should work under most earlier Windows (and MS-DOS, of course).  This game is copyrighted by Everett Kaser but may be downloaded and played for free.
+
+It"s a very simple game:
+
+1) You"re the little circle with a "nose" on it (indicating the direction in which you"re travelling).
+
+2) You"re trying to clean up the Fox"s trail and catch the Fox, while avoiding the Tiger.
+
+3) You move faster than the Fox, but at the same speed as the Tiger.
+
+4) You, the Tiger, and the Fox can all pass through Gates, around the perimeter of the maze, that are open.  Only YOU can pass through Gates that have a dotted-line across them.  This provides a method for you to gain distance from the Tiger.
+
+5) The Tiger ALWAYS takes the shortest path to YOU.  This can be used to "lead" the Tiger around while you clean up the Fox"s path.
+
+6) Some mazes have a "Maze Changer", which is represented by a square spiral. If you enter this, it will automatically change to the next maze, leaving you, the Tiger, the Fox, and all existing Fox Trails exactly where they are.  You get no points for doing this.
+
+7) You get 1 point for every Fox Trail you clean up.  You get 100 points for catching the Fox with all of the Trail cleaned up (you have to come up on the Fox from behind!), and you lose 250 points if you catch the Fox without cleaning up all of the trail.  The Tiger gets 250 points if it catches you.  You continue playing as long as your score is >= the Tiger"s score.  (If your score goes negative, that"s less than the Tiger"s and the game is over, but you"re given a score of 0, not a negative number.)

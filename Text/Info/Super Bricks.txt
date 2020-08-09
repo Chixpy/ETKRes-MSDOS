@@ -1,0 +1,3 @@
+This is a strategic game where you have to clear all stones in each level.
+
+You do this by walking over the stones.

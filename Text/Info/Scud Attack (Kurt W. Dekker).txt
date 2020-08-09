@@ -1,0 +1,14 @@
+"In Scud Attack you are in command of the vast defensive power of a linked network of three Anti-Ballistic Missile (ABM) Patriot Missile batteries, entrusted with the defense of your cities against the incoming ballistic Scud Missile threat.
+
+Scud Missile will come in separate waves, one after another, each more menacing than the last. For each wave you have 45 Patriot Missiles (distributed among the three bases for safety and redundancy) to repel the incoming Scuds. Your job is to target the Scuds and to knock them out of the sky before their deadly warheads reach your precious cities below.
+
+At the end of each Scud Attack wave you will be awarded additional points based on how many cities you successfully defended and how many Patriot Missiles you have left over. Those Patriots are expensive so use them wisely!
+
+Patriot Missiles coming from each of the bases are not quite identical. The central base"s missiles are faster than the outer bases. When you use either or the mouse button to fire a missile, the computer will make an instantaneous snap decision as to which missile base to use. This may work fine for the first waves but later on you will probably need to control which base is firing by using the 1, 2, 3 keys instead, in order to achieve maximum missile defensive effectiveness.
+
+If you fail to destroy a falling Scud Missile there is still a possibility that it will fall harmlessly in the countryside between your cities. However, if a Scud Missile hits one of your cities it will nuke that city and all of its innocent inhabitants out of existence. If a Scud Missile falls on one of your Patriot Missile bases it will destroy all the missiles at that base. It will not be replenished until the next attack wave.
+
+When all of your cities have been nuked it is game over."
+
+In 2007 the author made this game freeware (was previously shareware).
+

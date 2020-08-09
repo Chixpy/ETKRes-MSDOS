@@ -1,0 +1,2 @@
+The objective of Fly Catch is very simple - kill all the flies on the screen by making them hit the lines you draw. You draw a line by pressing the left mouse button and moving in the desired direction. All the time the flies follow you(a red dot of different size according to difficulty; a dot with whom you draw the lines) and you mustn"t allow them to touch you. So basically you need to lure the flies on the lines you draw.
+

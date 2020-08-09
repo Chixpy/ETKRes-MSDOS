@@ -1,0 +1,2 @@
+A basic pinball game with five different paddles which can be controlled independently. The goal of the game is to lock lock five balls inside chutes located around the table.
+

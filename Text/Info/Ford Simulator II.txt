@@ -1,0 +1,32 @@
+The second installment in the series represents the advertisement of the Ford"s 1990 product line and consists of five sections.
+
+DRIVING SIMULATOR
+
+Customizing the controls (i.e. using the keyboard, mouse, or joystick and related functions), sound, level of difficulty and type of driving, you may select the game of your choice from three different driving events: Test Track, City Challenge, or Back Roads. 
+
+Test Track event is divided on Drag Strip (you have to drive straight shifting the gears up as smooth as possible), Amoeba Track (you have to drive as fast as possible on the whirly track), Obstacle Course (you have to drive as fast as possible on the whirly track avoiding as much pylons as you can).
+
+City Challenge takes place in Airport, Shopping Center, and Downtown. Each place is a whirly road with other cars in your way.
+
+Back Roads have three distances: 5 miles, 10 miles, and 15 miles. They are also whirly tracks with the trucks.
+
+During gameplay you should drive in first-perspective view behind the wheel of the Simulator Car (S.C.). There are three levels of difficulty to choose from: Beginner, Intermediate and Advanced. Running off the road or hitting an object at the Intermediate and Advanced levels disqualifies you from the game. Also most of the events require manual gear shifting on Intermediate and Advanced levels and automatic one on Beginner level.
+
+Finishing the track, you may see the results such as your average speed, the number of avoided obstacles, and the score you earned. The score is calculated dynamically on the basis of difficulty level.
+
+ELECTRONIC SHOWROOM
+
+Menu of 16 vehicles allows you to see the picture and description of the vehicle you have chosen. 
+
+FORD BUYER"S GUIDE
+
+"Buyer"s Guide" provides you with names for each model category, giving you an overview of Ford and Lincoln- Mercury vehicles, trucks, and vans. It also provides you with a list of "specifications" on the vehicle and allows you to choose additional information such as standard features, optional features and packages, as well as compare two vehicles, or prepare a "financial spreadsheet". The Buyer"s Guide information may be printed out. 
+
+FORD INFOCENTER
+
+Electronic sampler of innovations in Ford Motor Company vehicles may be examined through menu of the desired features. Each feature is described by text with supporting animation sequences.
+
+CUSTOMER FEEDBACK
+
+This section will allow you to provide The Ford Motor Company with your opinions. You should complete the on-line questionnaire, then print out your answers or put them on a sheet of paper, and mail to the address indicated in the program.
+

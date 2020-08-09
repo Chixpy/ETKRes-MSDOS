@@ -1,0 +1,1 @@
+The purpose of this game is to disclose hidden words in a series of letters by deleting some letters from this series. The order of the letters in the series should always be respected in the words.

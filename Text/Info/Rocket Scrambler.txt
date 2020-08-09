@@ -1,0 +1,8 @@
+"ROCKET SCRAMBLER is derived from the many popular arcade games from the early 1980"s.
+
+The game includes a landscape editor (TERRAIN) which allows you to design your own landscapes for the game.
+
+You control a plane which is flying across a mountainous landscape and is hampered by rockets which fire from the ground. Also on the ground are fuel bases and mysteries. Hitting fuel bases magically increases your fuel. If you run out of fuel, you plummet to the ground and die. If you hit a mystery you get bonus points."
+
+Botón derecho y seleccionar TERRAIN.EXE para el editor...
+

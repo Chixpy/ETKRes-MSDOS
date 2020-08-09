@@ -1,0 +1,25 @@
+Throwland, es probablemente, el primer título que editó Noriaworks, compañía, que un año más tarde conseguiría un gran éxito, tanto dentro como fuera de nuestras fronteras, con el ya clásico Speed Haste.
+
+"PLOTTINGEANDO" QUE ES GERUNDIO
+
+Pero centrándonos en el título que nos ocupa, Noriaworks no arriesgó demasiado con este lanzamiento. Throwland es un título que, por decirlo de alguna manera suave, se inspira claramente en la clásica máquina arcade de Taito Plotting.
+
+Tanto la disposición de los niveles, como el estilo de juego es muy similar a la máquina mentada.
+
+Nuestro objetivo consiste, en conseguir hacer desaparecer un número determinado de bloques de colores por nivel, dentro del tiempo establecido, lanzando los bloques, que aleatoriamente nos vaya proporcionando el programa.
+
+Evidentemente, si conseguimos hacerlos desparecer a todos, obtendremos más puntuación al finalizar el nivel.
+
+El juego esta estructurado en fases compuestas de 4 niveles cada una. Al finalizar cada fase, cambiará el decorado de fondo.
+
+Uno de los aspectos que llaman poderosamente la atención cuando jugamos por primera vez, es la ausencia total de un menú de opciones en los que modificar la dificultad, el tipo de juego, el número de jugadores, etc...
+
+Throwland no es un título muy complicado a nivel técnico, es más, diría que es bastante simple.
+
+Los gráficos del programa tienen un look muy "arcade", con elementos de pantalla coloristas, que evolucionan sobre una foto digitalizada de fondo. La animación de nuestro personaje cumple sin más con su cometido, y el control del juego es siempre ágil.
+
+Sonoramente, Throwland cuenta con una variada cantidad de melodías que ambientan perfectamente las partidas. En cuanto a su calidad de reproducción decir, que apenas varía de si optamos por el altavoz interno, o por una tarjeta de sonido. Eso sí, por el altavoz, ya suena bastante bien.
+
+Jugablemente retiene gran parte del factor diversión de la máquina en la que se inspira. Aún así, Throwland resulta más sencillo, con lo que no será difícil, que en las primeras partidas avancemos un buen número de niveles. Además, las tres vidas que nos da el programa, en este caso, ayudan bastante.
+
+En definitiva, estamos ante una aceptable variante de Plotting, que sin destacar en ninguna faceta en especial, resulta agradable para una partida ocasional.

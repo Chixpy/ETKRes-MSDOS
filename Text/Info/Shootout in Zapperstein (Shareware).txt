@@ -1,0 +1,2 @@
+You are in a virtual reality maze. You have total movement and bullet firing capabilities. The objective is to shoot all the monsters before you can exit -- if you can find the exit.
+

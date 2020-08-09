@@ -1,0 +1,12 @@
+Have you ever dreamed of playing Tetris "with someone" and not "against someone"?
+
+Well, it is now possible with Teamtris!
+
+This exiting new variant of the most popular game of the world let you play
+in four different modes:
+
+   o One player  / small board (standard)
+   o One player  / large board (twice as large as standard board)
+   o Two players / competition mode (standard two players game)
+   o Two player  / team mode (two players on the same large board!) 
+

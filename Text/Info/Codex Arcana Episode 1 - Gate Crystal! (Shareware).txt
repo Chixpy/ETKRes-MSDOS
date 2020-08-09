@@ -1,0 +1,7 @@
+A 256 color VGA action/adventure game w/ digital music and sound effects that can play through soundblaster, adlib, internal speaker, and compatibles. In this game you have accidentally been sent to a world where the elemental forces collide, and you must battle your way past the elementals to reach the focal point and make your exit.
+
+"From the NecroBones website - 
+
+""\u0009This game was not actually PRE-NecroBones, but I"ve never really pushed it out into the shareware market. I was a little distracted and lost interest in the project about half-way through, and just ended up quickly finishing it off. However, you may still find it enjoyable. I was attempting to make a graphics based adventure game. For the most part it consists of fighting off elementals while navigating a maze of ever-changing terrain (corresponding to the elements) while trying to solve the puzzle of how to get home. This was the first (and so far only) game of mine to actually use my digital music system, and it features scrolling 256 color graphics, with vibrant background images and of course, I"m in the game too (look for the blue mage that wanders around in a crabby mood). (~220k)
+
+[Please note that for some reason, the sound-effects are missing from this archive. At a later date I will put the correct copy of the game up here, sound effects and all] """

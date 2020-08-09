@@ -1,0 +1,2 @@
+SIEGE! is a simulator that lets you design and build fortresses, hire troops, and defend them against attacking forces.
+

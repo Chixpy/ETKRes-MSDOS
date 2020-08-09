@@ -1,0 +1,3 @@
+NCAA-based basketball game. Includes 64 licensed teams (with fake players according to NCAA regulations) and several game modes like exhibition, tournament, and season play.Games can be played in either arcade or coach mode where you call the plays and make substitutions. You can also select the option to fully simulate games based on statistics.
+
+Graphics are vga and consist of 2d sprites over several pre-rendered courts for different viewing angles.

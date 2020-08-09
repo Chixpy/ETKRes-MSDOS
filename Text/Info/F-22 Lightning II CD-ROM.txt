@@ -1,0 +1,3 @@
+Yet another simulation of the yet to enter service F-22, probably the most advanced fighter of the world. As with most Novalogic games, however, the emphasis here is on action and graphics, rather than in simulating the real thing.
+
+The game offers a standard series of campaigns as well as a quick mission mode and multiplayer support for deathmatch and cooperative games using a feature similar to the "spawn" feature found on WarCraft 2.

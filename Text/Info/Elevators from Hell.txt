@@ -1,0 +1,5 @@
+The objective in Elevators from Hell is to collect all seven tokens (one on each floor) and then escape the building... alive!
+
+The building consists of seven floors, each floor has two elevators (left and right), the elevator panel (center) and a token (between left elevator and the panel). The panel will call the nearest elevator, regardless of left or right.
+
+Sounds easy? It would be if the player were alone in the building. Unfortunately, there is a Robo Guard patrolling the building. If the player comes too close to the Robo Guard, he will fire his red laser beam to kill the player.

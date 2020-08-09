@@ -1,0 +1,13 @@
+INSTRUCCIONES
+
+"Año 2017. La ingeniería genética ha conseguido mutar espermatozoides con inteligencia propia, a partir de las células de Walt Disney, Einstein y Jilitler, grandes genios en su campo. Pero ahora hay un problema, el esperma Pako Franko quiere dominar el mundo pero para eso antes necesita dominar al más grande de los espermas, el más valiente, su gran enemigo... Lloni Begood. Para conseguirlo ha raptado a su novia, su único punto débil, la óvula Galinda. Ahora Lloni está cabreado, ahora es tiempo de luchar, aquí y ahora la tercera guerra mundial".
+
+Como habéis podido leer, vuestro objetivo es acabar con el maléfico Pako Franko (¿a quién me recuerda este nombre? :-p). Para ello contáis con una mortífera escopeta y grandes dosis de ira, que os vendrán muy bien en este clásico arcade de scroll lateral del que poco o nada más hay que decir, en lo que se refiere a la mecánica del juego.
+
+
+
+COMENTARIO
+
+La originalidad es, sin duda, el punto fuerte de este trabajo de los chicos de Devilish games, grupo amateur de programación que se está destacando como uno de los más prolíficos de la escena freeware española. Y es que, ¿alguien había visto antes un arcade en el que el protagonista fuese un ¡espermatozoide!? Jajajaja.
+
+En lo que al juego en sí se refiere, se trata de un arcade más bien normalito, con scroll lateral y, eso sí, buenos gráficos y efectos sonoros. 

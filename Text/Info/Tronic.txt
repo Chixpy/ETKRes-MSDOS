@@ -1,0 +1,8 @@
+Tronic is a little Breakout-clone with additional bells and whistles. Goal of the game is to use a racket, controlled by arrow keys or mouse, to hit balls that destroy bricks. When all the bricks for a level have been cleared, the player will advance to a next level.
+
+The racket can fire rockets at any time by using a "Gigablitz" weapon. To activate it, hold down the "Alt"-key and wait for an indicator to reach the top. The trick is, in order to use Gigablitz, no balls must hit the racket, or the Gigablitz sequence will be aborted.
+
+When some bricks are hit, they release gadgets that can be collected. Many of them enable more balls on screen, enlarge balls or let you advance to the next level. Beware though, do not collect red-coloured gadgets as they can shrink your racket, invert racket movement or substract points.
+
+Finally Tronic also has a built-in level editor that lets you create, play and save your own Tronic levels.
+

@@ -1,0 +1,2 @@
+Race! is a game of miniature car racing. The cars can accelerate, decelerate, or turn through the race courses while many obstacles block their progress including walls, slopes, gates, tornadoes, and gas slicks. The more tracks a car successfully completes, the better the car becomes in areas such as acceleration, speed, traction, and helicopter speed. Also, Race! lets the user design his own race tracks on which the cars compete.
+

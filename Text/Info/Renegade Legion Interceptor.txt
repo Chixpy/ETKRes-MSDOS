@@ -1,0 +1,5 @@
+Adaptation of the board game from FASA, the game offers a space fighter phased combat, in both skirmish and a campaign mode.
+
+You can play as either side, The Terran Overlord Goverment or the Commwealth Rebels.
+
+

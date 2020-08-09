@@ -1,0 +1,6 @@
+Plot: You play as Nick, and you must save your true love, Xianna, from the hands of gangsters. 
+
+Gameplay: You choose from five different cities to start out in. They are, in order of difficulty, Denver, Atlanta, Detroit, Los Angeles, and New York. The difficulty lies in the number of "turfs" there are in each city. For instance, Denver, the easiest, only has two "turfs". This means that you must defeat two groups of thugs before you can beat Denver.
+
+Control: Controls are simple. You move with the arrow keys, kick with the "alt" key, and punch with the "space" key. Occasionally, you can find weapons (chain, crowbar, knife) which you pick up with the "ctrl" key.
+

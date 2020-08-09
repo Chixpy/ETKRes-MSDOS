@@ -1,0 +1,8 @@
+A quick DOS coffee break random dungeon crawl similar to Rogue, DnD, or Telengard.
+
+From the packaging:
+
+Battle through 9 levels (or more ?) of nasties, to defeat the evil Snap Dragon. Move your hero, represented by the cross on screen, using the cursor keys. When a menu is shown in the bottom right window, use the up/down cursor keys to choose the option. Quite simple.
+
+Released in PC Plus Super Disk 49 (October 1990)
+

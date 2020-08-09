@@ -1,0 +1,8 @@
+When you run it, you"ll see 28 cards, face up, in the shape of a pyramid, and the rest of the 52 cards in a deck at the top right of the screen.
+
+A mouse cursor arrow is at the top of the pyramid of cards.
+
+A "button" area is at the top left of the screen.  To exit, or to play another game, or to get some minimal help, move the cursor arrow to this "button" area and press a mouse key.  A menu will appear below it.  Move the mouse cursor to your choice and press a mouse key to select it.
+
+The object of the game is to remove all the cards by removing them in pairs of cards whose value add up to 13.
+

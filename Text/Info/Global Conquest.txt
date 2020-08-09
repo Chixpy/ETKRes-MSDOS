@@ -1,0 +1,7 @@
+Global Conquest is a board game of world domination by Dan Bunten.
+
+The goal of the game is to explore and dominate the world - which is inhabited by natives - before the other three players do so. You can play against computer players, or play your friends through modem link.
+
+You take control of "pieces", such as infantry, submarines, battleships and aircraft carriers. There are also special units, such as the spy who can slow unit production and steal secrets from opposing teams. You control your army through the "ComCen" or Command Center, analogous to the King in chess - if you lose your ComCen, you"re out of the game.
+
+Gameplay is turn based with the player managing different aspects of their kingdom each turn, such as the economics of their cities (called "Burbs"), their army, airforce and navy, any battles that are progressing, espionage tactics, treaties and alliances and random events. Random events are picked through a "card" system, a card being selected every five turns. Drought, plague, taxpayer revolt, pope visits and battle fatigue are a sample of the many random events that can occur over the duration of the game.

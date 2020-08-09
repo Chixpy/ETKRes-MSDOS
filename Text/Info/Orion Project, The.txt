@@ -1,0 +1,5 @@
+The Orion Project is a single player space shooter released as shareware.
+
+In this game the player controls a space ship which is controlled entirely with the mouse, although a game pad is optional. One mouse button fires the thrusters, another fires the guns, while moving the mouse rotates the ship. The game area is divided into nine quadrants. The objective of the game is to explore these quadrants for for alien ships and communications devices. These must be destroyed in order to save the Jason group in the Orion space station.
+
+The share ware game is a limited four quadrant version of the full game in which the objective is to destroy the alien"s main satellite.

@@ -1,0 +1,15 @@
+Poker Galore is a simulation of the classic Video Poker gambling machines. You have six different variants of Video Poker available for play:
+
+Jacks or Better: The most popular form of Video Poker, you must get a pair of Jacks as a minimum to win a hand;
+
+Joker Poker: Similar to Jacks or Better, but with an added Joker card, which can be used to represent any other card in the deck, therefore improving your hand.
+
+Deuces Wild: All deuces ("2" cards) are considered wild. However, you now require a hand containing three of a kind as a minimum to win a prize.
+
+Multi-Meter Progressive: This is almost the same as Jacks or Better, but you can bet up to six coins in this mode. Whenever you bet six coins, a special jackpot increases. The more you bet six coins, the larger the jackpot.
+
+Double Down: The game begins just like Jacks or Better. If you get a winning hand, you have the chance to double your winnings by playing against the computer. The dealer will draw a card, and you will have a choice between four different ones. If your card is higher than the dealer"s, you win double your prize. You can continue doing this as long as you wish, or until you lose.
+
+Second Chance: The game plays like Jacks or Better, but if you win and the computer notices you have a chance at getting a straight or better with a card, it"ll ask you if you want to try it. You can then bet again and if you win, you earn your original payoff plus the bonus one.
+
+The game also keeps a score of your total winnings, hands played, and other statistics.

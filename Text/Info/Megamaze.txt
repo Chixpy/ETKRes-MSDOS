@@ -1,0 +1,1 @@
+MegaMaze is a multi-player game for up to four players. Each player controls their own space ship using the keyboard, and travels through the many different mazes included, collecting gems, new weapons, and trying to annihilate all other opponents.

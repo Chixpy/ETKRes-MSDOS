@@ -1,0 +1,2 @@
+ISOLATE is a basic strategy game that poses you against the computer (Chips). Your piece (a yellow block) starts on the left side of the board while the computer"s piece (a cyan block) starts on the right. The game begins with a flip of a coin to decide honors. When it"s your turn you will first destroy a square. You will not be able move to a destroyed square at any time during the game for that point neither will the computer. The whole idea behind the game is to trap the computer between destroyed squares.
+

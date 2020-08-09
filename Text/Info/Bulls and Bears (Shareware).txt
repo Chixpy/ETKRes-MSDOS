@@ -1,0 +1,2 @@
+BULLS AND BEARS (BAB) is a stock market game intended for use by anyone wanting to learn a little about the effects of news headlines on different areas of the economy. It may reside on floppy disk or hard disk. It is completely "menu driven" and has five (5) phases of operation: (With lots of graphics).
+

@@ -1,0 +1,5 @@
+Moraff"s Pinball is a single player, shareware pinball game that is entirely keyboard controlled.
+
+This is not a simulation of a real table is an early, low budget game of its type where everything is displayed on a single screen. The VGA table occupies a square in the lower left of the screen and above it there are helpful messages such as "Light A,B,C,and D to release ball". Over on the left of the screen is the current score game"s name, high score table, a reminder of the action keys and the number of balls remaining.
+
+The player has five balls per game but if all trapped balls are released there could be as many as five balls in play at a time. The author claims it is the first game ever to support VGA in high resolution 640x480 sixteen colour mode, it also has an EGA mode which displays a slightly smaller screen and a little less information.

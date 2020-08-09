@@ -1,0 +1,14 @@
+"Math Challenge is a game designed to assist children in learning their math tables. It provides a color, fun filled environment that encourages youngsters to learn.
+
+The rate of progress is individualized to match the pace of each student. In advance of student usage, a parent or teacher decides:
+
+-- what subject to test (e.g., addition, subtraction, etc.)
+-- how many problems to include in test
+-- what part of the math tables to include
+
+The feedback given to that child is personalized by referencing the child"s name in the text.
+
+For added motivation, parents or teachers insert a code number that can be tied to some sort of reward. For example, we would allow our children to stay up and read another 15 minutes every night if they reached the code number."
+
+Botón derecho y seleccionar PARENT.EXE para los padres...
+

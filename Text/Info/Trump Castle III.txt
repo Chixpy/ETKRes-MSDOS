@@ -1,0 +1,9 @@
+Sequel to Trump Castle II introduces 640x480 cartoon graphics instead of real photos, dealer voices, and also allows you to play as female or male player inside Trump Castle - A Casino Resort by the Bay. Multi-player for up to 5 players (human/computer) may be flown at hot-seat or with a modem.
+
+As in previous games, you are allowed to win money in one of the six games - Roulette, Blackjack, Baccarat, Slots, Poker, and Craps. But now each of game has more variations and editions. For example, Poker has five modes: Texas Hold "Em, 5 Cards Stud, 5 Cards Draw, 7 Card Stud and Poker Slot Machine.
+
+From the very beginning player in 3rd-person perspective mode should explore the Trump Castle filled with different bright characters including Elvis-clone, singers, stewards, etc., find the proper room and stand in front of table or slot machine. The game view is switched either in 1st-person perspective or in above-the-table mode, where the main game process is flown. Player should set bets, play the games, and collect as much money as he or she can.
+
+The number of players, their looks, and modes may be adjusted with Character Editor.
+
+The game may be saved in progress to load it later.

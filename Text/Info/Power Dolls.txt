@@ -1,0 +1,7 @@
+Power Dolls is a turn-based strategy game in which the player takes role of a commander of an all-female military group manning giant mechanized battlesuits in a series of nine missions, with objectives ranging from destroying convoys to stalling enemy advance to rescuing captured military personnel. 
+
+Squads for each mission can be assembled from a total of twenty-one pilots, seven variants of mechanized battle armor (which can be armed with sixteen types of weaponry), four types of aircraft ranging from transport carriers to fighter-bombers and artillery units.
+
+Several different battle plans can be chosen for most of the missions. The differences between these may range anywhere from a slight change of the deployment time up to and including a complete change of mission strategy.
+
+Successfully completing a mission unlocks bonus piece of artwork depicting one of the women piloting the mechs ingame. There are nine of these graphics in total, one for each mission.

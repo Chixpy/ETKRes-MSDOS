@@ -1,0 +1,2 @@
+This program is a flight simulator. It puts more emphasis on the dynamics than on the cosmetics: just wire-frame. It can run on any machine but a 386DX is the minimum for any decent performance.
+

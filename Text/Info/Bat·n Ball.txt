@@ -1,0 +1,3 @@
+BAT "n BALL is a game that tests your reflexes as you attempt to guard a castle of sorts from a drug-crazed bouncing ball. You have at your disposal a crude but effective bat and (hopefully) nerves of steel. Your castle is surrounded by a brick wall which quickly crumbles when hit by the malevolent ball.Defend it valiantly, for a hit to the pretty blocks at its core will lose you a life.
+
+Stick around untill your opponents lose their castles and you will progress to a new screen - lose all three lives and you"ve blown your chances.

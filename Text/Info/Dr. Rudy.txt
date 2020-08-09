@@ -1,0 +1,5 @@
+Dr. Rudy is a clone of Nintendo"s Dr. Mario.
+
+You have a Tetris-like board with three different types of viruses. Your job is to get rid of them by putting four or more of the same colored pill on each of them. The pills are colored red, blue, yellow, and green. If you pile different colored pills on other different colored pills, they will not disappear. If the pills pile up to the top without disappearing, the game is over.
+
+1 or 2 players can play the game. There are three different graphic video modes to choose from VGA, CGA or Text mode. There are 15  levels to choose from and a level difficulty of easy, advanced or expert. There is also a highscore for fifteen names in the game.

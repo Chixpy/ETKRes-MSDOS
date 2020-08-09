@@ -1,0 +1,15 @@
+Annihilator Tank is a shareware game for DOS in which the player commands a tank and must destroy greater and greater numbers of enemy tanks in more complex situations. This culminates in the "Combat Unlimited" level where the number of enemy tanks is unlimited and the player must destroy as many as possible before losing their only tank.
+
+The tank controls include the standard left/right forward/reverse and fire in addition to turret right, turret left and turret centre. The game screen features a small radar which shows the location of enemy targets, a compass for orientation, and a status bar. The actual game screen contains features such as trees which can be destroyed, so neither the player nor the enemy can hide behind them. The game has four save slots.
+
+The full game consists of four levels:
+ 
+\u2022Country Carnage 
+
+\u2022Wasteland Warriors 
+
+\u2022Desert Destruction 
+
+\u2022Combat Unlimited 
+
+Only the Country Carnage level was included in the shareware release.

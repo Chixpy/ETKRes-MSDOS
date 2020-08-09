@@ -1,0 +1,1 @@
+Cosmic Mines is a space shoot-em-up that requires you todestroy an unending barrage of alien mines. Requires EGA or better, and a 286+.

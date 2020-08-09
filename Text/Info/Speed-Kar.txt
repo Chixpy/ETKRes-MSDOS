@@ -1,0 +1,14 @@
+"Speed-Kar is a tribute old simple action games of the 1980s and features a scrolling maze where you must play a variant of ""Capture The Flag"" by maneuvering your car around the maze to capture the flags (wow!) and avoid being run over (""tagged"") by the enemy cars.
+
+Additional hazards include stones and other obstacles that may destroy your car if you bump into them.
+
+As you drive your car uses fuel at a constant rate. When you run out of fuel your car coasts down to a much slower speed and avoiding the enemy cars becomes nearly impossible. Nearly...
+
+If the following enemy cars get too close you can spend a little bit of your fuel to emit a puff of smoke and hopefully buy yourself some time while they are confused.
+
+Each successive level features more enemy cars, different flags, different rocks, and different levels of speed, both for your car and the enemy cars.
+
+Every so often you will have a ""CHALLENGE"" stage, wherein the enemy cars will remain still until either you gather up all the bonus flags or else your fuel runs low. If you die during a Challenge stage you will be advanced to the next Regular stage immediately, if you have any remaining cars."
+
+In 2007 the author made this game freeware (was previously shareware).
+

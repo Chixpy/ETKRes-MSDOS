@@ -1,0 +1,5 @@
+Bricklayer for Windows is a port of Steve Chamberlin"s popular fast-paced falling blocks game for the Macintosh.  The Macintosh version was honorably mentioned in the 1993 MacUser Shareware Awards, and favorably reviewed in numerous books and magazines.  
+
+Guaranteed to get you addicted, Bricklayer for Windows features beautiful 256-color artwork, an original music soundtrack, terrific sound effects, and more.  Systems which are not 256-color or sound-capable are also supported.
+
+Version 1.50 adds an automated computer player and a game recording feature.

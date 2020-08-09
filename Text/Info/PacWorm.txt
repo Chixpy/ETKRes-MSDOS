@@ -1,0 +1,3 @@
+PacWorm is an early Snake-like game for DOS.
+
+You"re playing a worm. At the beginning, you enter the game through the bottom border. Your objective is to eat 10 "foods" that appear randomly on the field. Each time you gobble a food, your worm gets longer; if you hit anything except the food (like walls or yourself), you use a life. If you"ve eaten 10 foods, a door opens and you can leave the level, coming to the next level with additional walls. There is also time limit of sorts: if you"ll not eat next food in given time range, it will multiply and counter of "needed food" will go up.

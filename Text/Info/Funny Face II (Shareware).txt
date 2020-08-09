@@ -1,0 +1,10 @@
+This is the second release of Funny Face and it has been significantly enhanced over the first version. See the features list for new functions.
+
+Funny Face II was designed to provide kids with a creative form of amusement. It allows children to create animation style faces without requiring them to possess strong artistic skills.
+
+Many of the paint packages on the market today require some degree of skill to generate recognizable pictures. This often times creates frustration on the part of very young children when using the software. This was taken into consideration during the design of this software package.
+
+Funny Face II is achieving wide popularity. Download this program to see why!
+
+Funny Face II will run on IBM and compatible computers equipped with 512K of memory, a hard disk, and an EGA or CGA color monitor with a graphics  adapter.
+

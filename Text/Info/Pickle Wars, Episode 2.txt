@@ -1,0 +1,5 @@
+Aliens that look like giant dill pickles are about to conquer the human colony of Arcadia. Five hundred years of continuous peace led to complete disarmament, and humans find themselves unprepared for war. Only a brave lad named Dave, armed with a Salad Shooter, can face the murderous pickles. His task is to find ancient weapons and put an end to the war.
+
+Pickle Wars is a platform game using dual parallax scrolling. Dave jumps, shoots, and climbs his way through the large levels, locating weapons and unlocking areas. The game came in a trilogy of three episodes:
+
+Invasion of the Pickle People (shareware)Escape from the Pickle Planet The Search for the Doomsday Machine

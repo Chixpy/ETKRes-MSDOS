@@ -1,0 +1,3 @@
+The game takes place in a section of the galaxy surrounding the Earth.  The game map is a section of space 250 light-years by 150 light-years.  Game coordinates go from (0,0) in the bottom left corner up to 150 at the top of the screen and 250 at the right side of the screen.
+
+There are four different types of ships: Andromedan, Federation, Gorgon, and Orion.  The difference between each type is in the type of weapon they use.  There are six different classes of each ship type.  The value of each class is given when selecting a ship.  Class 5 is a base station and is worth the same amount as a class 4 ship. Class 6 is a star base and is worth twice as much as a class 4 ship. Star bases and base stations are immobile and have more crew than mobile ships do.

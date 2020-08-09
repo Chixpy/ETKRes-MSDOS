@@ -1,0 +1,2 @@
+DinoHunt is an arcade-style game. Help Nicky Neanderthal pursue dinosaurs across the prehistoric landscape. Get them before they get you! Requires VGA graphics.
+

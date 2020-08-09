@@ -1,0 +1,3 @@
+4 Queens Computer Casino is a virtual casino offering 12 different classic casino games from Video Blackjack to Craps and Slot Machines. The game supports from 1 to 4 human players.
+
+After entering your name(s) and deciding what your starting bankroll will be you then get to choose between any of the 12 games. You can play each game as many times as you wish and freely switch from one game to another.

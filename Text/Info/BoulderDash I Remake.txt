@@ -1,0 +1,15 @@
+B O U L D E R    D A S H
+========================
+
+is a remake of an old Spectrum game for PC.  The object of the game is to get as many diamonds as possible as fast as you can.
+Requirements: At least 286 processor, VGA card.
+Keys:
+RIGHT SHIFT: To start a game from menu or to restart a current
+cave.
+ESC: To exit from the game.
+Z,X,;,. or ARROW KEYS: Moves of a man. When combined with LEFT ALT, he picks a diamond in the indicated direction.
+
+The game was tested on 486/100. If it runs too slow, try to restart typing "dash 1" (faster) or "dash 2" (fastest).
+
+E N J O Y !
+

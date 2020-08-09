@@ -1,0 +1,5 @@
+Command giant HERCs in head-to-head combat over network / modem or against the computer. 
+
+The two-player aspect of this game (network or modem) was ahead of its time as a predecessor to NetMech. It would run respectably on a 486-33 as well, which was a bonus for its time. 
+
+Note that this was apparently never designed to satisfy single-player urges, but was meant from the outset as a two-player head-to-head game.

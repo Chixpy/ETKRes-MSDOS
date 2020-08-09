@@ -1,0 +1,10 @@
+Some time ago, FASA Corporation  brought out a game by the name of BattleTech. The game centers about 12m high humanoid robots packed to the brim with all kinds of destructive weapons, trying to stomp each other into the ground.
+
+I know this sound a lot like the Transformer Junk, but believe me, it"s lots of fun. Evidentially I"m not the only one who thinks so: the game is a huge success and is now also available as a role playing game.
+
+The only disadvantage, in my eyes, is that you need other people to play it, and they might not be prepared to spend 15h per day on it...
+          
+Also, I wanted to find a quick way of testing new Mechs and new strategies, and thus I started looking for a computer version.
+          
+I found several, but they were either Role Playing Games (Infocom) or Arcade Games (Activision). Thus I decided to write a straight translation of the board game.
+

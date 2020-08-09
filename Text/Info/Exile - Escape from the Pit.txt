@@ -1,0 +1,3 @@
+A "classic" RPG, featuring level-based party advancement in various skills that define the character. Features turn-based combat, lots of enemies, a huge area to explore, and dozens if not hundreds of characters to talk to, with a text-entry method.
+
+Exile is the name of a huge system of underground caverns, used by an oppressive surface empire as a place to toss the undesired, those who just "don"t fit in" to the status quo that the empire loves to enforce. In addition to trying to stay alive, your party (recent arrivals in Exile) must scour the rocky lands and assist the people and king of Exile by fighting off rival armies, species, and an underground evil barely contained until now.

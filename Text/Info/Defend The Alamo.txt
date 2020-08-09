@@ -1,0 +1,3 @@
+Defend The Alamo is a tactical simulation of the Battle of the Alamo (February 23 - March 6, 1836), a turning point of the Texas Revolution. The player takes command of Texian defenders in Alamo Mission (only a handful of riflemen and cannons), trying to fend off general Santa Anna"s Mexican army, while conserving precious ammo and men.
+
+The game offers optional alternate set-ups for the battle (giving more chances to doomed defenders). Messengers can be sent with requests for reinforcements. You not only have top-down view of the mission, but also viewpoints in the four cardinal directions from the walls, where you can spot advancing troops or artillery pieces and react accordingly.

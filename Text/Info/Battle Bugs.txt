@@ -1,0 +1,1 @@
+A very unique real-time strategy game. It"s only semi-real-time, because it"s possible to pause the action at any moment. The player commands 22 different insects in a long campaign (56 missions) against the computer-AI or a human opponent.

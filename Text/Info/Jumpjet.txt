@@ -1,0 +1,1 @@
+This is a nice and simple game. You pilot a plane, and you just blow other planes up, while performing your mission of blowing other things up.  For those familiar with old-school arcade games, think of Jumpjet as a combination of Defender and Scramble.

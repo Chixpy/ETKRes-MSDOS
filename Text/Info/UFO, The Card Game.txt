@@ -1,0 +1,6 @@
+A high powered UNO clone with VGA graphics and digital talking alien opponents! Adlib, SoundBlaster, and Internal Speaker supported for digital playback. VGA and 286 required. 640k RAM, SoundBlaster, and 386 or better recommended. External aliens available to expand UFO, as well as replacement desktops. Many configurable options.
+
+"The author has generously released the following registration code to use with this game:
+
+UserName: Unregistered User
+Password: 41301"

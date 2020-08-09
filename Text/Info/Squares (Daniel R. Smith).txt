@@ -1,0 +1,5 @@
+"I am sure at one time or another you have all played a variation of this game with a piece of paper and a pencil. It has been around for a long time. I used to play it a lot to keep myself awake during many a boring chemistry class. Perhaps you did too.
+
+Originally, I made this program to amuse my five year old sister. It worked great! She would stay plugged in for hours, making designs and watching the letters of her name appear on the computer screen. Soon, however, I caught my father and brother playing this game and decided to modify it for public use. Well, here it is, made entirely for your amusement!
+
+I was only sixteen years old when I made Squares. It was written in Turbo Pascal version 5.5. This is the first program that I have ever written as shareware. I hope that you enjoy it."

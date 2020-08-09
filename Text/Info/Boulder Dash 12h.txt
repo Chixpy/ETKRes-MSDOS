@@ -1,0 +1,1 @@
+A simple Boulderdash clone without scrolling. The levels are stored in text files. There are some objects that weren"t in the original Boulder Dash, such as random teleporters and bombs. You can create your own levels with an Ansi editor. See the Boulder.txt file for more information.

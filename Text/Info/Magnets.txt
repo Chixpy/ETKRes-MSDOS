@@ -1,0 +1,3 @@
+"The object of this game is to destroy the magnets as they fall down the screen before they reach and wipeout the valuable data stored on your disks located at the bottom of the screen.
+
+To destroy the magnets, you must launch energy balls so that one intercepts the trajectory of the falling magnet. You begin with three tubes located on either side of the screen. Pressing the left or right arrow keys will fire an energy ball from the respected side..."

@@ -1,0 +1,18 @@
+In the first-person role-playing adventure, Tera: La Cité des Cr\u00e2nes (Tera: The City of Skulls), you should bring order and harmony to the world on the planet Amarande the Black. Once prosperous, it is now divided among three forces: technology, which incorporates all that was invented by engineers; transcendence, whose power relies on priests and vestal; and magic, whose temple is buried in the depths of the City of Skulls. 
+
+To do this you should perform four quests, exploring:
+ - the depths of a vast dungeon known as the City of Skulls,
+ - a space base on a small nearby planet named Alfol,
+ - a parallel world populated by crystal-telepaths controlled by Méduz,
+ - the temple of Seth. 
+These places are filled with dangerous and frightening creatures such as tarantulas, demigods, cyborgs, spirits, vampires, necromancers, or demon-prince.
+
+The player begins the game from character"s generation, determining his/her various skills by assigning points to each of 9 attributes: strength, endurance, agility, intelligence, determination, charm, luck, vitality, dexterity. Second attribute is a skill: action, astronaut, D system, magic, PSY power, negotiation, exorcism, casting, shooting. 
+
+Each type of enemy is vulnerable to certain attacks. At the beginning of the game, the player does not have sufficient skills to defeat all types of enemies. Fortunately he may be joined by 3 other companions, whose skills will complement those of the player. Moreover, the companions of the player will automatically teach him their skills. You can find a total of 9 characters (one per jurisdiction), who could join the team, but there can be only 4 people, including the player in the team at a given moment. The teammates may be abandoned at any time to be replaced. 
+
+As the player explores the world and basements of the City of Skulls, he discovers the clues teaching him how to accomplish his quests and how certain objects will help. There are also many boxes (often trapped or kept by dangerous creatures) containing gold or powerful artifacts. 
+
+The entire world and dungeons as well as the usefulness of some magical objects are randomly generated at the beginning of the game. Orders are completely given with keyboard. A list of orders appears on press of "?" key. 
+
+The game is originally made in French and it is possible to save and then resume a party.

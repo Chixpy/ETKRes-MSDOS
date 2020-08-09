@@ -1,0 +1,12 @@
+Here is your basic arcade style game consisting of three levels. 
+
+No one has finished level 3!
+
+This game supports AdLib. To use it, run the SOUND.COM driver (supplied with your AdLib board) before playing.
+
+To adjust the play speed to your liking, use the plus and minus keys. When you exit the game, it will save this "configuration" so you won"t have to adjust it again.
+
+To stop your spaceship from moving, press INSERT (although it"s not really necessary).
+
+This game was a fun project... and it turned out to actually be a fun game to play. Although I write this document in September 1990 and the game was written in December 1989, I still find myself playing it when I have a few minutes!
+

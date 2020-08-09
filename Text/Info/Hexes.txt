@@ -1,0 +1,4 @@
+"HEXES is similar to Othello/Reversi/Iago but is played on a hexagonal board. It requires Hercules monochrome, VGA, or EGA graphics. A mouse is strongly recommended although the keyboard can be used for everything with somewhat less convenience. The graphics and mouse motion are fast on my 286-25. Your mileage may vary.
+
+The computer player is not particularly good. For experienced Othello-type game players the challenge will be not to just win but to see by how many points you can do it."
+

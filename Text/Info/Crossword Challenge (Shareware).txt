@@ -1,0 +1,2 @@
+"Crossword Challenge is a collection of fun and challenging electronic crossword puzzles for the IBM PC. Puzzles are displayed in sharp, high-resolution VGA graphics and can be solved ""on-screen"" interactively without a pencil or paper. On-screen feedback tells the user whether their letter and word solutions are correct and can even provide letter clues when the user is stumped on a word."
+

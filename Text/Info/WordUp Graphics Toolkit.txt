@@ -1,0 +1,10 @@
+The WordUp Graphics Toolkit is a library of routines that are callable from C language under the MS-DOS operating system.  The library was compiled under Turbo C++ v1.0, therefore a compatible compiler is needed to use this library.  Any version of Borland"s Turbo C++ or Borland C++ (except v4.0) is compatible with WGT.  Currently, the library is available for the large memory model only.
+
+WGT contains over 200 routines for graphics, input devices, sound effects, and EMS memory management.  While other graphics libraries provide you with the most basic graphics commands, WGT offers many complex routines, including a sprite system, tiled background scrolling, a fully operational
+file selector, and animation player.  This means you can spend more time on programming your application and less time working on the low level routines required.
+
+The WordUp Graphics Toolkit gives you more than just a library for linking routines.  The WGT Sprite Editor and WGT Map Maker are two utilities which are an integral part of the development process.
+
+The WGT Sprite Editor is a fully featured paint program for managing sprites, fonts, mouse cursors, and background screens.  It uses a graphic user interface and a mouse, allowing you to design images quickly and effortlessly.  It is the most essential tool in creating graphics applications, yet other graphics libraries fail to provide a utility such as this.
+
+The WGT Map Maker is needed to create background maps for use with the tiled background scrolling library.  It uses a windowing environment to keep your tiles, sprites, and maps organized. It also includes a SVGA viewing mode, tile templates, sprite placement, and even generates source code for your particular maps.

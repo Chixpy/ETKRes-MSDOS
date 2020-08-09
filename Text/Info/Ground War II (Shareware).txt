@@ -1,0 +1,4 @@
+"Ground War is a two-player tank game, that involves both hand-eye coordination and strategy. Find a friend and take a position at the controls, then try to outfight and outsmart your opponent! One player takes the position of the Allies, while the other takes the position of the Iraqis.
+
+This version is much enhanced over version 1.00. Enhancements include a digitized playing field, variable tank speeds, communication towers, and more sprites! In addition, we have completed the modem feature, which allows you to play your opponent over either a null-modem cable or a standard phone line. Through some careful optimizations, we have been able to make game play identical when connected by modem even at 1200 baud! That means you can play someone across town or across the nation and feel like he"s sitting right next to you."
+

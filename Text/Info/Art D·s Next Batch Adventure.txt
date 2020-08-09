@@ -1,0 +1,4 @@
+An unusual game setup where the game is composed of several different batch files.
+
+NOTA: Desconectar la opción "Salir al finalizar" de DOSBox o su frontend para poder jugar.
+

@@ -1,0 +1,11 @@
+"Zonker is a one or two player game.
+
+The two player game has three main objectives.
+
+1. Stay alive as long as possible. The player stays alive by not running into the games" boundary walls, not running into his/her own trail, not running into the other players" trail, and not running into any obstacles which may be on the game board.
+
+2. Try to capture more area than your opponent. Try to maneuver so that your opponent has less area available to capture. While also trying to make sure that you are not maneuvered into a corner yourself.
+
+3. Attain the highest possible score. 25 points are awarded for each zone captured.
+
+The one player game is pretty much the same, other than there are no other players" trails to contend with. The player plays against a previous high score."

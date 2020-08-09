@@ -1,0 +1,22 @@
+Siempre resulta complicado empezar a hablar de un programa como el que nos ocupa, editado en su país de origen prácticamente como una demo más, junto a una revista del sector y, curiosamente, explotado comercialmente fuera.
+
+Scrylis, en España fue lanzado en uno de los disquetes que acompañaban al número 9 de la revista PC MANIA, siendo presentado como una versión simplificada de lo que sería Super Scrylis (publicado a la postre por Topo Soft). Mientras, en otros países de Europa, fue publicado dentro de un pack comercial llamado "Triple Action Volume 2.-" de la mano de Prism Leisure (compañía dedicada por aquellos tiempos, sobre todo, a publicar series budget).
+
+En cuanto al programa en sí, decir que el concepto de Scrylis está claramente inspirado en el archiconocido cubo de Rubik.
+
+De este modo, nuestro cometido consistirá en recomponer, en cada nivel del juego, una figura poligonal 3D dada por el ordenador, en base a una muestra, rotando las caras de la figura. Evidentemente, dispondremos de un tiempo limitado. Así, cuanto menor sea el tiempo que empleemos en resolver la figura, mayor puntuación se nos otorgará.
+
+Por otro lado comentar que, al cargar el programa deberemos introducir el nivel del juego desde el que deseemos comenzar (hasta, máximo, el nivel 5).
+
+Durante la partida, contaremos con la nada despreciable cantidad de 9 vidas, y con la no menos considerable cuantía, al menos en los primeros niveles, de 999 segundos para superar cada puzzle.
+
+Si entramos a valorar el aspecto gráfico del programa, mentar que, pese a presentar una evidente simpleza, cumple convenientemente.
+
+Scrylis presenta 3 modos gráficos (CGA, VGA y HERCULES). El modo VGA, como no podía ser de otro modo, es el más recomendado, con unos gráficos coloristas y agradables. Los modos CGA y HERCULES, pese a la escasez de su paleta, están bien adaptados, distinguiéndose perfectamente las distintas tonalidades de las caras de la figura.
+
+En el apartado sonoro, sólo contamos con un pequeño conjunto de efectos, que suenan a través del altavoz interno, siendo éste, por tanto, un aspecto poco trabajado y meramente testimonial en esta primera versión del juego.
+
+Si hablamos de jugabilidad y adicción, al igual que sucedería con su secuela (o versión final, según se mire), es donde Scrylis muestra todo su potencial. Y es que estamos ante un juego que pondrá a prueba nuestra capacidad lógico-espacial, complicando poco a poco los puzzles, conforme vayamos avanzando en el desarrollo del programa.
+
+En definitiva, nos encontramos ante una competente versión previa de Super Scrylis, con un apartado técnico simple pero correcto (modos gráficos que no se verían en la secuela inclusive) y que cumple sobradamente con su cometido, a saber, proponer un reto desafiante y, por encima de todo, entretener.
+

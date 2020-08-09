@@ -1,0 +1,7 @@
+A rugby league game (rugby league is a sport is a ball sport similar to rugby union, but features set tackles rather than rucks and mauls - once a player is successfully tackled he plays the ball back to a team-mate behind him, with the team losing possession if tackled 6 times). 
+
+The game is viewed with an isometric perspective. Three buttons controls the ability to tackle, pass and kick the ball, sprint, breakout of a tackle and change selected player depending on the whether the team is attacking or defending. A timed gauge system is used for place kicks (restarts and conversion attempts).
+
+The game features the official ARL (Australian Rugby League) licence and so includes all official team names and badges etc. from that league. The State of Origin team competition is also included under the licence. The Super League (Europe) licence was not obtained, and hence that league appears as Europe League in the game, with team names being the town/city where they are based. Also present are a number of international teams and an EA Sports All-Star team. Friendly matches can be set up with any combination of teams.
+
+The game features a team editor, allowing custom player names to be used.

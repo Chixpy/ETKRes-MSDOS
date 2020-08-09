@@ -1,0 +1,1 @@
+Juego de lógica de mecánica arcade, en el que, básicamente hemos de conseguir reconstruir la imagen de fondo de cada nivel, antes de que se agote el tiempo dado. Por cada pieza que desechemos se nos penalizará con una determinada cantidad de tiempo.

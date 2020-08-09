@@ -1,0 +1,2 @@
+Thor is an Othello/Reversi game-playing program. It allows you to play against the computer or to use it as an Othello board. It includes a complete set of functions for the study of the game.
+

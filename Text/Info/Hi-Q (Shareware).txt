@@ -1,0 +1,7 @@
+The game implements the classic game of Hi-Q or Solitaire, which features a cross-shaped board with 33 peg holes in it. You may have seen it before as a wooden or plastic set.
+
+At the start of a game, the board is filled with 32 pegs and only the center hole is empty. You must try to get rid of as many pegs as you can, ideally leaving only one peg in the central hole at the end. A peg is removed if you move an adjacent peg over it into an empty hole.
+
+You select the peg that you want to move by pressing the Enter, Space or Insert key after positioning the cursor over it with the cursor keys.
+
+You cannot select a peg that you can"t move. After selecting a peg, use the cursor keys to indicate in which way it should be moved, and press Enter, Space or Insert. If you don"t give a direction, you will be able to select another peg.

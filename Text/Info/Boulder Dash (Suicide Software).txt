@@ -1,0 +1,4 @@
+A good and accurate clone of the original Boulder Dash. There"s also a level editor to create your own levels. The source code is also included in the package. For more instructions, about the controlling for example, have a look at the help.txt file.
+
+Botón derecho y seleccionar BDE.EXE para el editor de niveles.
+

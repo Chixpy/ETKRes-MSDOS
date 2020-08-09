@@ -1,0 +1,3 @@
+This add-on to Great Naval Battles adds a scenario editor to the game. If the two earlier add-ons (Super Ships and America) are installed, their assets can be used in the editor as well.
+
+In addition, a new game mode is included: In The Captain"s Game, the player begins with only a single destroyer, fighting randomly assigned battles. Success leads to promotions, better and larger ships, and, in the end, control of an entire task force.

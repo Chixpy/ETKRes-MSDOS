@@ -1,0 +1,5 @@
+Subhunt is a single-player shareware submarine game developed at the Laboratory for Recreational Computing at the University of North Texas. The game places the player in control of a Shark-class mini-submarine. The story behind the game has the player as a new recruit to the top secret Special Operations Division.
+
+Working for this organisation and in charge of a refitted Shark-class mini-sub the player will wrestle control of tourist shipping lanes from the terrorist group Nemesis, stop illegal whalers and long-line trawlers decimating marine species, and discover what is decimating commercial shipping.
+
+The full game consists of 12 missions, only one of which was included in the shareware release. Each mission has three levels of difficulty.

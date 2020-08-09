@@ -1,0 +1,7 @@
+The Hollywood Murders is an interactive text / graphic shareware adventure designed for gamers who are new to this type of game.
+
+The game is set in Hollywood in the 1950"s The player takes the role of Jim Novak : private detective, hard-boiled and down on his luck, in the classic film noir tradition.
+
+It"s a hot summers day and business is slow. Jim recalls meeting a dame in a bar. He reads her note and calls her. Later she"s in his office asking him to find her missing husband. Jim has a case and the game begins.
+
+This game"s parser system uses small Verb / Noun sentences such as "take the rope", "wear the glasses", "use the key". At key points a picture is displayed to help set the scene and at certain points there are sound effects such as gunfire.

@@ -1,0 +1,4 @@
+In this game the player is the captain of the "Final Impact" squadron. As the Xarras, an alliance of hostile aliens, conquer the Core sector he accompanies the mothership and perfroms 11 important missions to defeat the Xarras.
+
+At the start of a mission the player has to choose one of three spaceships, the weaponry and ammo. Of course the equipment costs money which is sparse and has to be earned by solving missions. Also there is a weight restriction. The missions itself are old-school vertical shooter action: Everything that moves has to be destroyed. The weapons can be switched during battle and with the right ones the player can shoot in up to eight directions. Besides the enemy waves there are other obstacles which influence the flight properties of the space ship, e.g. magnetic disturbances.
+

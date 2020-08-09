@@ -1,0 +1,2 @@
+A horizontal shooter featuring nine levels with four stages in each level.
+

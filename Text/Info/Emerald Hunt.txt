@@ -1,0 +1,5 @@
+Emerald Hunt is similar in style to Boulder Dash. It is one of those games that is easy to learn, but hard to master.
+
+The object of this game is to collect as many emeralds and diamonds as possible without dying. Once your score reaches the goal amount you then proceed to the exit. You score 1 point for an emerald and 5 points for a diamond.
+
+The game field includes objects that can fall (such as boulders) and explosive objects (such as bombs). Diamonds can be crushed by falling objects. Both emeralds and diamonds can be destroyed by explosions. If too many gems are destroyed, you will be unable to score enough points to exit the level.

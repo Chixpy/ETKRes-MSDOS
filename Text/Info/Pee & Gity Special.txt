@@ -1,0 +1,3 @@
+Pee & Gity Special is a Korean clone of Double Dragon with cartoon characters. The gameplay follows closely the standards of this subgenre of fighting games: up to 2 players fight wave after wave of enemies, clearing the screen to move on, restoring their health by breaking objects that hide energy boosts, until reaching the final portion of each stage that ends with a boss battle. The buttons for each player (attack, jump, and special move) can be remapped at the options screen.
+
+

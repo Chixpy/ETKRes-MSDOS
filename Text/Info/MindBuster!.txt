@@ -1,0 +1,13 @@
+The object of MindBuster is to guess a secret code consisting of colors. In the computer version of the game these colors are shown as colored circles.
+
+Officially, scoring is done by means of smaller black and white key pegs. On the computer, these are represented by small black and white squares.
+
+The standard game has 4 holes and a supply of Red, White, Blue, Green, Yellow, and Black pegs.  Each move is scored, giving feedback on how close the guess was to the hidden pattern.  One can view the game as a struggle between the Maker of the code and the Breaker of the code.  In the solo version, you try to break the code made by the PC.  In the duel form of the game, the PC also tries to guess your code.  The game begins as follows:
+
+(1)  The Maker creates a hidden code by choosing colors for the 4 holes.
+
+(2)  The Breaker makes a guess by placing 4 colored pegs in the first row.
+
+(3)  The Maker then responds with a score.  The score can give some clues as to how close or far a guess is from the hidden pattern.
+
+If the computer is also playing against you, then the roles are reversed for the next turn, play alternating between steps (2) and (3) until the pattern is guessed or 10 guesses have been used.  The PC"s guess is automatically scored for you.  Repeated colors in patterns and guesses are allowed.  Empty holes are allowed in guesses, but not in hidden patterns.

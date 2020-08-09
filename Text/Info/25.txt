@@ -1,0 +1,14 @@
+INSTRUCCIONES
+
+En "25" adoptas el papel de un protagonista innominado, cuyo objetivo es recoger 25 joyas a lo largo de los 4 niveles de que consta el juego.
+
+No busques más teclas que las de desplazarte a izquierda o derecha, pues son las únicas necesarias y previstas para el desarrollo del juego, en el que deberás esquivar multitud de obstáculos, en forma de dinosaurio, de bolas rojas (supongamos que son bolas de fuego) o de manecillas de reloj mortíferas.
+Acabas cada nivel cuando coges todas las joyas distribuidas por él y llegas hasta el muñeco situado en la parte inferior de la pantalla.
+
+COMENTARIO
+
+Un buen juego freeware del grupo Devilish games, en concreto un frenético arcade de plataformas con buenos gráficos, sonido cumplidor (no tiene música) y diversión garantizada, que quizá esté algo falto de extensión (4 niveles se nos antojan bastante pocos), siendo posible completarlo en un corto periodo de tiempo.
+
+El otro aspecto, digamos, raro, es el hecho de que una vez has consumido todas tus vidas, el juego no recomienza, sino que se da por finalizado y, si quieres volver a jugar, has de cargarlo de nuevo.
+
+Por último, sólo queda añadir que "25" fue publicado en la revista DIVMANIA. 

@@ -1,0 +1,1 @@
+A continuation of Bolo Adventures I, this game contains 40 more levels. The objective is the same; escape from each level by moving blocks to cut off laser beams and avoid monsters. Other hazards include water and electrified grates which must be deactivated before you can cross them.

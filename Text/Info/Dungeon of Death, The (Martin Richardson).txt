@@ -1,0 +1,3 @@
+Graphic role playing games like DUNGEON OF DEATH combine elements of both arcade-style games and text adventures.  Like an arcader, the game"s playing screen displays the walls of the maze-like dungeon, the treasures, and your character.  As in text adventures, printed messages describe the world of the adventure; typed commands move you through the dungeon. 
+
+As you move, monsters attack without warning, forcing you to choose between fighting or running away.  How well you pick your battles is the key to the game. 

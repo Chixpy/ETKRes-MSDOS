@@ -1,0 +1,3 @@
+3-D space shooter a la Wing Commander but on shareware.You are some sort of space marshal/cop, and have to complete 10 scenarios (with 10 goals each) of missions that range from asteroid blasting, to pirate elimination, patrols, escorting ships, etc.
+
+The game uses a polygon-based engine, with graphics that put the emphasis on line-drawing and very radical lightsourcing as a way to convey the lack of visibility on space thanks to pockets of darkness created by asteroids, etc. This makes for less dogfighting and more hunting-like action as the main gameplay objective.

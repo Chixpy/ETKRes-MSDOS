@@ -1,0 +1,8 @@
+STORY
+Use your helicopter to land and save civilians in need while destroying any and all enemy hostiles in the vicinity!
+
+GAMEPLAY
+Your helicopter is a fast gunship capable of quick maneuvers (left, up, down, right) and also equipped with a chain-gun (simply put, it can shoot). Your helicopter can also change directions by pressing the CTRL button, which is especially useful if you want to aim at ground targets.
+
+As mentioned, your primary objective is to rescue those helpless civilians running around on the ground. To do so, you must carefully land your chopper on the ground and wait them to board your helicopter. Enemy hostiles may attempt to thrawt your rescue attempts while possibly also killing those civilians. Killed civilians will cause a negative score (indicated by the score board) while rescued civilians will be indicated by a positive score.
+

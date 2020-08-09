@@ -1,0 +1,2 @@
+Outer Ridge combines Asteroids with 3D space viewed from the cockpit, similar to Wing Commander. On each level, there is a certain quota of asteroids to destroy before moving on to the next sector. Controls are similar to asteroids, the player can rotate in 720 degrees of direction, and can thrust or fire the weapon. Destroying items releases power-ups such as shield restore, shield doubling, cannons, rockets, Super-S and the Exit (needed to get to the next level). Along with dealing with asteroids, alien enemies show up and must be destroyed.
+

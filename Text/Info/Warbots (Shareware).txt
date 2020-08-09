@@ -1,0 +1,8 @@
+"The scientists gathered in the top secret briefing room. All was quiet except for the speaker. The words rolled slowly out of his mouth:
+
+""Iraq has started to use massive chemical warfare on our American troops! They"re dying by the thousands, but we"ve been able to keep that a secret from the American public. What we need to defeat the Iraqis is a war robot. Something that can be brought in to save countless lives. We at the Pentagon have chosen you, the top military robotic engineers, to built this war machine. This mission is to be known as OPERATION WARBOTS and it will be absolutely TOP SECRET!""
+
+The scientists swiftly run to their labs to conduct testing.
+
+This game was created for people to learn the basics of programming while having fun and excitement. With this program you can build a mighty ""Warbot"" and program it with many instructions."
+

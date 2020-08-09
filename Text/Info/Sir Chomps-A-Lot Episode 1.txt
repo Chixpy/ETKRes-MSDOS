@@ -1,0 +1,2 @@
+Very basic text adventure. There is no parser so you don"t type full commands.
+

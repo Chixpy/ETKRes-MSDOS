@@ -1,0 +1,2 @@
+Fly for either the Japanese or the United States on December 7, 1941. This is a fully playable stand alone air combat simulation program. Commercial quality graphics, support for joystick, sound cards, and mouse.
+

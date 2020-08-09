@@ -1,0 +1,5 @@
+"This is yet another version to this well known subject, but it has got some features which aren"t as well known as the game itself (such as 3D view,
+stability tests, ...).
+
+The game is written for IBM compatibles and requires at least a 286 based machine equipped with a standard VGA adapter."
+

@@ -1,0 +1,3 @@
+"Yes, this is yet another tetris spinoff. I originally wrote this for a friend of mine, who being like most other tetris freaks, spent entirely too much time playing tetris clones and needed a new challenge.
+
+Basically you can think of this game as 4 tetris playing fields rotated 90 degrees apiece and superimposed together into one playing field. Rows are completed in the normal way, but since the bottoms of all of the fields converge at the center, blocks from one field may complete a row in another."

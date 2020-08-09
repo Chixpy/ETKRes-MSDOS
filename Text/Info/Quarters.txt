@@ -1,0 +1,3 @@
+"The object of the game is to bounce the ball (quarter) into the glass. Each time you make a shot you get to shoot again. If you miss then you lose your turn. The first player to make 10 shots wins.
+
+There is also a ""adult"" version of this game you can play with slightly different instructions. In the adult version the other person takes a drink when you make a shot."

@@ -1,0 +1,3 @@
+These are the voyages of the purple ball. Its ongoing mission, to explore the galaxies, and to collect as many dilithium crystals as informed by Starfleet Command.
+
+This is a cute little game. The goal is to roll your ball through a maze (with nasty holes) to collect all the crystals and head to the exit, in not-too-much time. And there are bombs to blow up walls!

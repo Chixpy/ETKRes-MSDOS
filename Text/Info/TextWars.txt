@@ -1,0 +1,5 @@
+"Playing Textwars is easy! When prompted for a letter to fly, press the favorite letter you would like your ""ship"" to be. See if some letters work better than others! In a moment, the screen will change and you will be flying through text space. Use the right and left arrow keys to dodge the oncoming characters rising from the bottom of the screen. Every time you fly past a new line of obstacles, the score in the upper left corner of the screen is increased. As time goes by, the characters come at you faster and faster.
+
+Occasionally, a red block wil present itself. If you fly into one, not only will your score increase, but the game will also slow down a little. Less frequently, you may come across a white block. Hitting one of these will not effect the speed of the game, but you"ll see your score jump by 1,000 points. After hitting five of the other oncoming characters... you"re history!
+
+Fly well and you"ll get a chance to put your name on the Textwars Hall of Fame! Good luck."

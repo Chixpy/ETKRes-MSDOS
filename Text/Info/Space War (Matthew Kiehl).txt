@@ -1,0 +1,1 @@
+Vertical shooter. The main goal of the game is to stay alive and destroy as many enemies as possible.

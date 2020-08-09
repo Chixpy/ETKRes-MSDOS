@@ -1,0 +1,1 @@
+A vastly improved version of Spectrum Holobyte"s widely popular game Falcon, with high-res EGA graphics, better mission planning, and a head to head mode.

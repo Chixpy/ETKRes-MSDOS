@@ -1,0 +1,9 @@
+La versión 4.0 de la primera saga creada por Dinamic Multimedia, supuso un paso adelante en el campo del simulador deportivo. Mientras tanto, la base de datos se mantuvo prácticamente sin alteraciones, dado que no había mucho donde innovar, procediendo a las necesarias actualizaciones de los datos de jugadores y equipos.
+
+Después de los problemas que habían surgido en el anterior 3.0, Dinamic se apretó las tuercas para dar un paso más, en un campo que poco a poco se les iba a poner más difícil, con la aparición de los grandes simuladores americanos.
+
+Así, las novedades fueron notorias: aumento de la resolución (hasta 800x600, que no hubiese estado mal implementar también en la base de datos), un montón de características nuevas que hacían más atractivo el juego (32 nuevos equipos, posibilidad de jugar la Liga Europea, alley-hoops, presencia de los árbitros en la cancha, pases por la espalda, más animaciones...).
+
+El paso adelante sí fue notorio en esta ocasión, proporcionando a los usuarios lo que se esperaba en la anterior versión y no habían podido conseguir. De hecho, el éxito del programa provocó que no se publicase una versión 5.0, y en su lugar se hiciese una ampliación de éste, conocida como "PC Basket 4.5".
+
+Hasta el momento, el mejor de la saga, recuperando la senda que nunca debían de haber perdido. 

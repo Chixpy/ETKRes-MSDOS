@@ -1,0 +1,3 @@
+This Monopoly adaptation is designed to be played intuitively and really should not require any explanation or rules.  Even if you are not familiar with the original board game, it will be simple to catch on from the program.  The computer won"t let you break any rules, and will keep track of all your properties, houses, hotels, rents, and money.  
+
+Two to four players may participate.

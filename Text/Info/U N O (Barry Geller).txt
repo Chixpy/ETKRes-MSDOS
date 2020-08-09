@@ -1,0 +1,3 @@
+"This program is a two player adaptation of the card game ""UNO"". In it, you play against the computer. It is assumed that you are familiar with the game itself. This document explains the operation of the program and the quirks of the program.
+
+The program is non-graphic, and should work on a Mono or CGA adapter. It might work on an EGA system as well, but I have no way of testing that. If run on a color system, the cards displayed are displayed in appropriate colors to make the game much easier than on the Mono display."

@@ -1,0 +1,15 @@
+INTRODUCCI\u00d3N
+
+Carlos Sainz Rally es otra de las incursiones de Zigurat en la programación de simuladores de coches. Ya lo intentó con el París Dakar en 1988, sin lograr un juego demasiado bueno. Carlos Sainz es más bien un producto de marketing lanzado aprovechando la fama que el deportista adquirió por sus merecidas vistorias en el campeonato mundial de rallies. Lo mismo, pero aplicado al mundo del motociclismo, hicieron con Sito Pons, lanzado también por Zigurat en el mismo año, 1990. Anteriormente, en 1988, Dinamic había aprovechado el filón de Aspar para lanzar su producto Aspar Grand Prix Master, fabricando un juego flojo, aunque ciertamente, con un movimiento más suave que éste que analizamos ahora.
+
+EL JUEGO
+
+No es fácil conducir un coche de rallies. Es importante manejar con al misma soltura el freno, freno de mano y acelerador. Aquí no se trata de acelerar al máximo y pasar las curvas derrapando sin que ocurra nada. Cada vez que te salgas de la carretera o choques contra un obstáculo, tu coche perderá toda su velocidad y trayectoria, haciéndote perder un tiempo precioso.
+
+Por eso, ten paciencia y aprende a manejar el coche con soltura. Las vistorias vendrán solas después.
+
+COMENTARIO
+
+El modo en que se ve la pantalla en C.S. Rally, fue estrenado por el juego, anteriormente mencionado, Aspar GP Master. El circuito se ve bastante bien de esta manera, ayudándonos a predecir el giro en las curvas y la velocidad a la que tomarlas.
+
+Lástima que los controles del juego no respondan con la suficiente fidelidad a nuestras órdenes, resultando en un control pesado y, a veces, frustrante. Los gráficos están bien diseñados, pero cuando veas que tu coche rebota contra un matojo de lo que parece hierba, te preguntarás cómo es posible. ¿Existe alguna hierba tan dura? Si es así, puede que a alguien le interese fumársela :-) 

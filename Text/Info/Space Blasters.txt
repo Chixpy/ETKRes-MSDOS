@@ -1,0 +1,27 @@
+Player 1 controls the Klingon bird of prey. He or she must destroy the other player.
+
+Player 2 controls the Federation heavy cruiser. He or she must destroy the other player.
+
+Player 1 control keys are:
+x : turns ship to left
+c : turns ship to right
+z : fires phasers when in range
+a : fires photon torpedoes
+1 : select photon sweep 1
+2 : select photon sweep 2
+3 : select photon sweep 3
+
+Player 2 cotrol keys are:
+. : turns ship to left
+- : turns ship to right
+, : fires phasers when in range
+k : fires photon torpedoes
+9 : select photon sweep 1
+0 : select photon sweep 2
++ : select photon sweep 3
+
+The damage of the ship is shown in the upper part of the screen. 
+
+You can see two ship pictures in there. These pictures have red dots and lines in them. Each dot or line means one ship part. Red part means no damage and when it blackens it is damaged. When it is black the part is destroyed.
+
+You cannot fire again until the chargelight of weapon is red again.

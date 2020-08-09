@@ -1,0 +1,1 @@
+A rendition of the classic game of Master Mind. Try to guess the hidden marbles in the least amount of chances. Uses the 256 color vga/mcga mode!Requires VGA/MCGA and Mouse.

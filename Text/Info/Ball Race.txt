@@ -1,0 +1,3 @@
+A unique CGA 4-color racing game where you control a ball that races on a futuristic racecourse filled with floating "dummy" balls to avoid. Your top speed is affected by the amount of energy you have, and bumping into dummy balls or other competitors negatively affects your energy level.
+
+The game features up to three other competitors, either computer AI or a human opponent via modem. You can bounce into "fuel" balls to recharge your ball, and lay "mine" balls to damage the energy levels of your competitors. (Mind, they can do the same to you).

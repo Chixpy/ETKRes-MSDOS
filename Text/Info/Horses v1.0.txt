@@ -1,0 +1,2 @@
+Horses is a horse racing simulation, where you bet on the first place horse of a race, watch the race in stunning text graphics, and win or lose money.  It"s just like being at a racetrack, except that the money is fake and I don"t take out a percentage of the wagers.  The odds are computed so that you will probably come out even.
+

@@ -1,0 +1,11 @@
+Dark Woods 2 Remake is a small strategy game, based on Jocke The Beast"s Dark Woods 2. The whole game concept is copied, with Jocke"s permission, beside a few additions:
+
+-Graphics (Dark Woods 2 is an ASCI(I) game)
+-Night/Day modes
+-Monster can be displayed as "ghosts" or lighten up, darken...
+-particles
+-A Level-Pack Selector
+-New "You failed/You made it" screens
+-Weather effects
+-A Highscore table
+-A custom level selector (!!!)

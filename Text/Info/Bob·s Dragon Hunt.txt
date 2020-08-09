@@ -1,0 +1,3 @@
+Bob"s Dragon Hunt is an exercise in using filled polygons to simulate a three-dimensional dungeon crawl, wading through all variety of draconic enemies (hence the title) and their various venomous, magical and breath effects, depicted in creative (if non-standard) 16-color effects.
+
+Beneath the glitter and "virtual reality" trappings lies a roguelike in spirit. Unlike Dungeon Hack and its brethren, navigation and control are rather nuanced, though the gameplay remains comparatively simple (hack, slash, repeat).

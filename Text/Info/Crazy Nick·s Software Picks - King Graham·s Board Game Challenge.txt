@@ -1,0 +1,1 @@
+A board game challenge featuring two board games: Checkers and Backgammon. Both are recreated accurately, and with three skill levels. You play against King Graham from the King"s Quest series, and try to see who can win the most games. If you make a mistake, King Graham will give you some tips, and he will tell you when you can do something special in a game.

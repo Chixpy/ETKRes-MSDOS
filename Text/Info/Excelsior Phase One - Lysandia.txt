@@ -1,0 +1,5 @@
+Excelsior is a tile-based RPG (in the vein of the early Ultima games). It places you on the planet of Lysandia with the goal of eliminating the chaotic presence threatening the planet.
+
+The game follows traditional RPG concepts, including character creation, a variety of weapons and magic spells, skill sets (such as swimming, music, and seamanship).
+
+The game provides a number of quests and side-quests designed to bring your character closer to completing the goal of liberating Lysandia.

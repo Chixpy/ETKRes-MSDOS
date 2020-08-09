@@ -1,0 +1,14 @@
+Tras la gimnasia deportiva le tocó el turno al atletismo, algo más tradicional en los ordenadores.
+
+Con el mismo entorno que su anterior producción, en Topo idearon un juego de atletismo con las pruebas más comunes en este tipo de juegos (100m, 110m vallas, salto de longitud, triple salto, salto de altura y salto con pértiga), probablemente las más divertidas de jugar (sólo faltaría, quizá, alguna de lanzamientos).
+
+El manejo del juego es rápido e intuitivo. El típico machaque de teclas que tan buenos recuerdos nos trae a muchos, con una buena respuesta del teclado, es la mejor combinación posible, pues en la mayoría de las pruebas no sería necesario ni consultar el manual.
+
+Los gráficos son una mezcla de digitalizaciones y pixel art. Se nota que era una época de cambio (Topo daba sus últimos latigazos) y la llegada de PCs más potentes incitaba a los grafistas a ir por la vía rápida del escáner.
+Tampoco nos engañemos, en aquella época veías un gráfico digitalizado y se te caía la baba, pero sí es cierto que no acaban de pegar esos fondos con los atletas dibujados a mano a la antigua usanza.
+
+Tres cuartos de lo mismo en el tema del sonido: la música es una digitalización, así como los sonidos. Si bien en lo segundo no hay nada que objetar, por lo que respecta a la melodía sí fue de nuevo algo a lo que se aferraron algunas compañías (Dinamic llevaba haciéndolo bastante tiempo, desde el Navy Moves), y no hubiese estado de más tirar de algún tracker (si la memoria y rapidez del ordenador lo permitiesen) o ir directamente a la utilización de la AdLib (no era una SoundBlaster, pero los chicos de Cryo nos mostraron con Dune que se podían hacer maravillas con ella).
+
+Si os fijáis en las vallas publicitarias de la pista, hay Erbe para dar y tomar. El fondo blanco y el logo de siempre. Eran tiempos en los que se preparaba el cierre de Topo para centrar la atención en exclusiva en la distribución de las consolas de 16 bits, el mercado que se estaba imponiendo... Por suerte o por desgracia.
+
+Algo que desconozco es si Atletismo llegó a ser publicado en solitario, o si ya se lanzó directamente al mercado junto a Gimnasia Deportiva (éste sí se había publicado en solitario previamente), en el pack cuya carátula encabeza esta ficha. Si tenéis cualquier información, el manual o alguna review de revistas (en Micromanía se publicó una amplia preview, pero no recuerdo un comentario con puntuación) no dudéis en comunicárnoslo. 

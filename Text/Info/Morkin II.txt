@@ -1,0 +1,2 @@
+Morkin 2 is a not-too-serious freeware role-playing game, written by two brothers. The game is a simple strategy-RPG mix in which you take the role of one or more wizards, pitted against one or more human/computer enemy wizards. These wizards can cast all sorts of spells (attack, summon etc.), move around the board and all the usual stuff.
+

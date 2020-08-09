@@ -1,0 +1,1 @@
+Play gin rummy against the computer. Saves scores, stats, and config files. Has many other game playing options. Runs great on older 286 computers, as well as the latest Pentium systems. Full features, no annoying nag screens. The shareware fee is whatever you fee like sending. VGA, EGA, MCGA, AT&T, 3270, Hercules graphics required. Use mouse or keyboard to play.

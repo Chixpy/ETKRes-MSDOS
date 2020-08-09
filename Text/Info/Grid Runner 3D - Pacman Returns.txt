@@ -1,0 +1,11 @@
+To say that Namco"s Pacman was a rather sucessful arcade game, would be like saying the Pope is a rather good priest. Now, more than a decade later, the legend of Paccy continues with Grid Runner 3d! GR3D throws you into a first-person 3d environment, in which you play the role of Pacman! Equipped with a pair of speedy roller skates, you must attempt to defeat a hoard of evil (and ugly) blue monsters in a race against time! Sounds pretty exciting, no?
+
+But don"t just take my word for it! Load up your copy of our beloved QB and play this game! Now! ^_^
+
+It"s not unlikely that at this point you"re asking "How the f**k did you come up with a loony idea like this, Matt?!" Heheh. To be perfectly honest, I"m not too sure! I kinda just made it up as I went along, and before I knew it, I was completely out of control! Bwahahahahah! :D
+
+In all honesty, this is just a mini-game, so don"t expect too much from it. It"s still entertaining, none the less. And even if you think the gameplay sucks, at least you can have fun laughing at the crappo storyline ;)
+
+I have included with this game, the raycaster engine with which it was made!
+
+Check it out in ENGINE.ZIP. Feel free to use this engine as you wish! ^_^

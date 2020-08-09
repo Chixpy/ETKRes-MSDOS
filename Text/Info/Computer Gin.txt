@@ -1,0 +1,4 @@
+COMPUTER GIN pits you against the computer in the game of Gin Rummy. 
+
+The computer plays at a level that challenges experienced players. COMPUTER GIN runs on any IBM-compatible computer, requires no special graphics card, and needs only 128K of RAM.
+

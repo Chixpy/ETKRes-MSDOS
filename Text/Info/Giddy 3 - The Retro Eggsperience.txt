@@ -1,0 +1,5 @@
+The world is under attack from robot stompers from beyond the clouds, and the egg-shaped super hero Giddy has to save the day!
+
+Giddy 3 is a freeware clone of Dizzy and its sequels. Intended as parody of that classic series, it also stars an anthropomorphic egg that must collect objects in order to solve puzzles. At the left side of the top of the screen there is the counter for lives and three stars as the energy bar. If the egg touches any of the enemies, this energy bar decreases, and when it is completely drained the egg dies and the player loses a life. On the top-right side there is the accumulated number of coins collected by the character. Giddy can jump and use inventory items. When a light bulb lights up (when Giddy walks over certain spots), pressing enter displays a hint about one of the puzzles.
+
+One of the main differences of this installment compared to the previous ones is the addition of side-scrolling instead of the traditional flip-screen. Also, this is the first time in the series that music and sound effects could be played simultaneously.

@@ -1,0 +1,1 @@
+Wipeout clone. 3D space craft racing game. The 3D engine is very good while the 3D graphics are average. The objects are cool, but they don"t feature textures, only single color surfaces with shade effect. The graphical design could have been be better. The game is rather discouraging but playable. No sound effects or music.

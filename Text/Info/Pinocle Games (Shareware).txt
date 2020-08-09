@@ -1,0 +1,2 @@
+3 variations of 4-handed, single-deck, partnership Pinocle. You play your hand; the computer plays the other 3. Good graphics on most popular systems. Many user controlled game and color variables. This game helps beginners by recommending a card to play.
+

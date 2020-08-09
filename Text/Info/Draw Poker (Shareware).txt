@@ -1,0 +1,2 @@
+Draw Poker is patterned after the Poker machines in Las Vegas. Cards are dealt from a single deck which is shuffled before every hand.
+

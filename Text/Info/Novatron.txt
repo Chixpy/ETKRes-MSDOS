@@ -1,0 +1,1 @@
+Novatron is a PC conversion of an arcade game, which was in turn inspired by the classic movie Tron. Basically you and the computer control motorcycles of sort, that leave a trail of light. Your objective is to make the computer smash into his or your trail of light, thereby winning the round.

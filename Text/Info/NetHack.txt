@@ -1,0 +1,9 @@
+NetHack is a text-only (although some graphical versions exist) roguelike role-playing game. The objective is to find the Amulet of Yendor and sacrifice it to your deity. 
+
+In the beginning, you choose one of the classes - there are some traditional ones, like Priest or Knight, but also unusual ones like Tourist or Caveman. Then, you find yourself on the 1st level of the dungeon, along with your pet that will accompany you and help you in combat. On each level, you have to find an exit to the lower level; on the way, you"ll find countless monsters to fight, as well as items to collect. Sometimes, you come upon a shop, where you can buy or sell items. 
+
+Items you find can be blessed (more effective than normal), but sometimes are cursed (less effective, or outright harmful). Eating the corpses of fallen enemies is an important part of the game, since many creatures give you special abilities or immunities when eaten. 
+
+While the above description might seem brief, NetHack is, in fact, a very complex and merciless game - there are lots of ways to die. 
+
+Since NetHack is a roguelike, everything is represented as a top-down view of the current dungeon level, where the walls, the floor, and all items, characters and monsters are ASCII characters. 

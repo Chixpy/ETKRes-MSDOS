@@ -1,0 +1,5 @@
+Being part of Mindscape"s 4D Sports game series, this program tries to realistically reproduce the game of tennis. Just like all the other games from the series, 4D Sports Tennis offers "true four-dimensional gameplay" by letting the player access advanced replay features.
+
+The game is based on simple, untextured 3D polygon graphics, providing not only a standard fixed camera and freely positionable views, but also a very unique first-person view, in which the player does see nothing of his own character except for the racket, and the view is always following the ball.
+
+Other features include dozens of practice missions, a career mode with the possibility to create a customized player, and a multiplayer mode for 2 players on one PC.

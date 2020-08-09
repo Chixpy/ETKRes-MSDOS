@@ -1,0 +1,17 @@
+De entre todos los lanzamientos de Proein, Averno, es con diferencia el más original y bien planteado\u2026 pero por desgracia y como viene siendo demasiado habitual entre los lanzamientos de las compañias españolas, no es un juego original de PJ Soft ni mucho menos...
+
+La pista nos la encontramos cuando, al revisar \u201clas tripas\u201d de la versión de MSX, leemos que el copyright del juego es \u201c\u00a9 1985 Neptune\u201d.
+
+Por si fuera poco, en Internet me encuentro con que el juego original se había usado en un libro de MCGraw-hill, llamado \u201cMSX JOGOS - Para Aprender e Criar Jogos\u201d, en el que el juego se usa como ejemplo de juego de puzzle.
+
+Entonces... ¿De dónde sale Averno?
+
+Mi teoría es que los avispados de PJ Soft se compraron el libro y modificaron el juego que venía con dicha publicación, pero no se les ocurrió mirar en el código del juego (y por lo visto a los de la editorial tampoco), en el que se ve que el verdadero autor es un tal Takeo Noguchi.
+
+Por lo menos tuvieron el mérito de programar las otras versiones... ¿O las sacaron del mismo libro pero para Spectrum y Amstrad?? Me temo que nos quedaremos con la incógnita.
+
+Polémicas aparte, Averno es un juego muy original y divertido, que nos hará rompernos el coco, como en los mejores tiempos de Sokoban, para lograr que el fantasma recoja todas las llaves sin quedarnos encerrados en el decorado. Un consejo: no os desesperéis; las cosas, a veces, son más fáciles de lo que parecen.
+
+Continuando con la buena racha que llevamos este 2015, ha aparecido la versión PC del juego. Una versión de la que ni siquiera teníamos constancia, por lo que no estaba en la lista de MIAs de este sistema.
+
+Como es habitual, cuenta con gráficos CGA y sonido a través del altavoz, que no mejora a las versiones de 8 bits, aunque sí se diferencia de ellas en la parte del marcador, perdiendo el contador de "fuerza" y añadiendo un gran dibujo del que supongo personaje principal del juego.

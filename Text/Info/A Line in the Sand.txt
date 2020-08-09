@@ -1,0 +1,7 @@
+A Line the Sand is a conversion of the board war game by TSR of the same name.
+
+It depicts a variety of conflicts in the Middle East, including the Gulf War and hypothetical conflicts involving nations like Iran, Israel and Saudi Arabia.
+
+Gameplay is turn-based, with each side being able to deploy a variety of land, air and sea units. Each side can be played by either a human or a computer player.
+
+In addition to the basic mode, in which only military forces are used, there is also a diplomatic mode where players have to make a variety of diplomatic decisions in order to reach certain goals.

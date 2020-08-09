@@ -1,0 +1,1 @@
+A good clone. The gameplay is very similar to the original Boulder Dash. It features an integrated Cave Editor and also a standalone Cave Editor for Windows. It supports original Commodore 64 levels. You can switch between Boulderoid and classic graphics. The game was abandoned after copyright warnings by First Star Software.

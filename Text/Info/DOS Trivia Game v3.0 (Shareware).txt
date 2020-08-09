@@ -1,0 +1,1 @@
+This game is designed to help you become familiar with DOS commands.  You will be asked questions about DOS and you must provide the correct DOS command to answer the question.

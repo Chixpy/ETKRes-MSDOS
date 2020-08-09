@@ -1,0 +1,7 @@
+Combat Tanks is a fun 2D tank combat game. You must destroy all the enemies and go on to the next level. You can play by yourself or against a friend on the same PC.
+
+Enemies include tanks (obviously), bazooka toting infrantry, bomber planes, and death choppers.
+
+Its distributed as shareware, and in the unregistered version the death chopper comes after you until you register the game (see screenshots).
+
+Also see the links for a place to download the game.

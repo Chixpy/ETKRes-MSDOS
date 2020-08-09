@@ -1,0 +1,9 @@
+Full Tilt! Pinball is the first pinball simulation game developed by Cinematronics, LLC.
+
+The game includes three boards:
+
+Dragon\u2019s Keep - Medieval Fantasy theme;Skulduggery - Pirate theme;Space Cadet - Space ship commander theme.
+
+Each board features the usual amount of bumpers, targets, ramps, etc. as well as a big payoff for the successful completion of each table, such as slaying a dragon in Dragon"s Keep, or creating a black hole in Space Cadet. Different sounds and music are incorporated for the individual tables.
+
+The games are played using keyboard keys and include being able to nudge the tables. Being too forceful with a nudge will result in a tilt and end that turn.

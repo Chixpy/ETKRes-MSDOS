@@ -1,0 +1,5 @@
+Fly the F/A-18, F-16, and F-14 in a hypothetical invasion of the U.S. west coast by the Soviet Union.  Missions range from combat air patrols to bombing runs to intercepting cruise missiles.  Plus, carrier launches and landings are also possible.
+
+Graphics include a detailed model of San Francisco -- the Golden Gate Bridge, Transamerica tower/pyramid, and more are all represented.
+
+This game is effectively an enhanced version of F/A-18 Interceptor from the Amiga (same setting, programmers etc) with extra missions and the addition of the F-14.

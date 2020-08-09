@@ -1,0 +1,19 @@
+Worthy Opponent aims to provide just that, dispensing with the problems of computer AI and instead serving up a collection of a dozen low-bandwidth mini-games designed for competitive two-player challenge, some turn-based, some simultaneously, through direct computer connection via modem.  Its ANSI textmode graphical display allows low latency through the internal terminal software (which also permits during-play chat and taunting) even on the relatively slow modems of its era, the late "80s.
+
+The mini-games included in version 1.9 were:
+
+SnakePit, a game in the Nibbles vein;
+CornerStone;
+Quinte (or, for those of you with poor imaginations, "Connect 5" on a 19x19 grid);
+ArmyAnts;
+Checkers, as per the board game classic;
+Backgammon, a parlour staple;
+MissileStrike;
+LazerMaze;
+and CannonBall Express;
+
+Three additional games were added as of version 2.0:
+
+CaveIn;
+TreasureQuest;
+and Miniature Golf.

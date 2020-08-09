@@ -1,0 +1,1 @@
+This was the first Tetris clone to replace tetraminoes with differently sized pieces, mainly the pentaminoes that give the game its name, but some smaller pieces as well, else it would be too difficult.

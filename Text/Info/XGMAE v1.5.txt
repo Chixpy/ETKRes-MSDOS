@@ -1,0 +1,1 @@
+An excellent space shooter with wireframe sprites, but brilliant explosion effects. The gameplay is similar to the one in Asteroids. This demo features 9 levels, multiple weapons, powerups and excellent Sound Blaster sound effects. Multiplayer option in the game menu seems to be defunct. I will check for later versions (if any exists).

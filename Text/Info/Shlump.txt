@@ -1,0 +1,1 @@
+A French Boulderdash game with a strange creature with bulging eyes. Collect hamburgers instead of diamonds. The game has an option for two player cooperative mode. Also, a level editor is included. Use the W, A, S and D keys to control the character.

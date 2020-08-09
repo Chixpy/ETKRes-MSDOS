@@ -1,0 +1,6 @@
+Kerboom! features a criminal who moves randomly across the top area of the screen, raining bombs down upon you.  All you have is your buckets of water to catch the bombs.
+
+At the beginning of the game you have three (3) buckets of water to render-safe the falling bombs.  Every time you miss catching a bomb you lose one of your precious buckets. When all of your buckets are gone, the game is over.
+
+For every 10,000 points of game play you will be awarded a spare bucket, which will replace any bucket you have lost, or any bucket you might lose in the future.  If you are
+playing in extended mode (see below), then the bonuses are spaced every 5,000 points.

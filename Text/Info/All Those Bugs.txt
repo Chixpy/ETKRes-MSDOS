@@ -1,0 +1,18 @@
+"The object of this game is to catch all of the bugs in less than a quarter of the screen. To do this you need to draw a wall to contain the bugs.
+
+> You draw your wall with the arrow keys.
+> Enter turns on and off the wall.
+> If the wall is off, you can erase walls (except bug walls)
+> Pressing the F key attracts the bugs with food.
+(press f again to turn it off)
+> Pressing the K key will set off a bug spray. Some bugs are killed,
+some go crazy. A crazy bug is never killed. You get 15 sprays.
+> Slow things down with the space bar.
+> Sometimes a Bug will multiply.
+> Escape key to Play a new game, or to exit.
+> Sometimes a Bug will multiply.
+> Sometimes the bugs build their own ""X"" walls. You cannot
+go through these, but a borer can.
+> Sometimes a Bug will Bore away your wall.
+(Turn this off and on with the Tab key)
+"

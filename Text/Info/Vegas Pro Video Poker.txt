@@ -1,0 +1,3 @@
+Utilizing simple graphics Vegas Pro Video Poker simulates the popular video poker machines found in Las Vegas. The type of game played here is Five-Card-Draw where five cards are dealt to the player and he/she must choose from these which they would like to discard and re-draw as by default you hold all the cards. You are given $500 to start your game and can bet up to $5 on each hand.
+
+A training and set-up option is available where the player can set rewards given and bets accepted in order to manage money or to simulate different machines one may find in casinos.

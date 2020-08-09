@@ -1,0 +1,5 @@
+Duke Nukem is an arcade platform game featuring huge four-way, dual-scrolling playfields with realistic graphics, and animation.
+
+Duke is an amazing hero, who does flips and clings to ceilings. Help him save the world on his first action-packed adventure.
+
+Based on the same game engine as Crystal Caves, this is the very first part of Duke Nukem series. Duke fights Dr. Proton, an evil genius who created robot army to conquer the world.

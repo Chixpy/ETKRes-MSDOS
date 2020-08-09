@@ -1,0 +1,19 @@
+Uncle"s Casino is a shareware casino simulation.
+
+You can:
+
+- Play 21:
+
+You have to reach 21 with your cards or come nearer to 21 than the dealer. King, Queen and Jack count as 10, an Ace as 1 or 11 and the number cards are worth value. At the beginning you get two cards and must decide if you want another card or not. You have lost your money when you reach more than 21 or when the dealer hits 21 or is nearer to this number than you.
+
+- Go to the bar: 
+
+At the bar you can spend your money with buying drinks.
+
+- Play Dice:
+
+You bet on a number from 1 to 6. Then the dealer dices and when you hit your bet you get your stake bet otherwise you lose it.
+
+- Play Flip-A-Coin:
+
+You bet on heads or tails.

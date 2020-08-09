@@ -1,0 +1,29 @@
+This one looks a whole lot better than the first, with lots of nifty DOS Ansi-windows and stuff. It"s also a lot bigger. Takes place RIGHT where the first SQ left off! 
+
+-Dedication-
+
+This game is dedicated to lint, without which there would be far
+less lint in the world.
+
+-Check This Out!-
+
+Alright...I did a massive format change here. Instead of being a
+pure Zork-esque text adventure parody, this here game uses an ascii-windows
+interface just like all your favorite dos programs! I"ve also added the
+option to PROGRAM YOUR OWN DAMN F-KEYS, since I got so many complaints from
+people who wanted "Kill Lawyer" or whatever. The game load/save thing is
+much easier and doesn"t create a bunch of files. And the coolest thing:
+THERE"S A MENU-DRIVEN BATTLE SEQUENCE! There"s one-handed and two-handed
+weapons, different weapons do greater amounts of damage, and you have the
+ability to BLOCK if you are using a one-handed weapon. What else...oh yeah,
+when you restore your saved games you go RIGHT BACK TO WHERE YOU SAVED THE
+GAME.
+
+-The Plot-
+
+You remember where StupidQuest left off? Of COURSE you do...you
+wouldn"t DARE play SQ2 without first beating the original, would you?
+
+WOULD YOU?!?!?!!?!?!?!?!?!?!?!?!!??!?!
+
+Anyway...this game picks off RIGHT after the end of StupidQuest.

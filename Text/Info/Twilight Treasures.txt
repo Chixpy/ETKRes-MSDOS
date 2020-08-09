@@ -1,0 +1,5 @@
+You guide your frogman down to the chest, grab it, and swim back to your boat. But there are sharks and eels who you should try to avoid. Sharks swim from the right side of the screen to the left side, and eels swim from left to right. On every higher level there will be more sharks and eels. On even higher levels there are also floating mines on chains that you should not touch. To make it even harder you also have a limited supply of air.
+
+DOS version published on Softdisk"s Big Blue Disk #35.
+
+Apple II version published in December 1989 Nibble Magazine

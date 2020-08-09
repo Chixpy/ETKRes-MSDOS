@@ -1,0 +1,1 @@
+Three-O is a board game similar to tic-tac-toe with numbers. The object of the game is to accumulate a score by strategically placing the chips on the screen grid. Three of a player"s numeric chips in line in any direction constitute a basic THREE-O.

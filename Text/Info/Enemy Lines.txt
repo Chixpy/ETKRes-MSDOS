@@ -1,0 +1,9 @@
+Enemy Lines is a single player, freeware, tank based shoot "em up. It is entirely keyboard controlled and has music, sound effects, and a game save feature.
+
+At the end of World War 2 a group of scientists created a being of almost pure evil. Orders were cut to have it destroyed but for some reason they were never carried out. That was a major mistake because that being has now become Zheng, a major warlord who, through biological warfare, has killed most of the Earth"s population and is now the planet"s ruler. There are, however survivors, and the player takes the role of one of these survivors in a tank. They are the last hope. They must break through "Enemy Lines".
+
+So begins a game which sees the player"s single tank battling against many enemy tanks of various types, aircraft, and pill boxes across large levels with minefields, bridges and buildings. The only aid comes from occasional supply drops. A mini map gives the player a sense of where they are and where they are headed.
+
+The player has two weapons, the tanks main gun and a mortar. These must be used with care because these weapons have range. This means it is not enough to point at an enemy and fire, too close and the shell will detonate beyond the enemy, too far away and the shell will not reach them.
+
+The object of the game is to destroy enemy on a given level before leaving, in fact the game will not allow the player to leave a level until all Zheng"s forces on that level have been destroyed

@@ -1,0 +1,4 @@
+The object of the game is to defeat the opposing captain while protecting your captain from attack ("capture the flag".)  There are four kinds of pieces, a board with various kinds of terrain and two rafts which can be used to cross the lake.
+
+Each turn consists of the play of four dice.  For each die, a piece can either move or fight.  Movement is limited by the die value, the movement power of the piece, and the terrain that will be crossed.  Fighting is limited by the the die value and the fighting power of the attacker versus the defender"s die value and fight power.
+

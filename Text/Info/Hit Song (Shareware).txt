@@ -1,0 +1,10 @@
+"You will be shown when a song was a hit and who recorded it.
+
+From a list of provided titles, you are to choose the correct title.
+
+A correct answer will get you 10 points.
+
+An wrong answer will take away 1 point.
+
+There are ten songs per quiz session."
+

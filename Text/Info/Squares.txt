@@ -1,0 +1,1 @@
+In this Tic-Tac-Toe-style game, the player and the computer compete to be the first to make a 2x2 square within a 10x10 grid.  The computer AI has five levels of intelligence, and the player gets to choose who goes first.  It is also possible to save a game and resume it later.

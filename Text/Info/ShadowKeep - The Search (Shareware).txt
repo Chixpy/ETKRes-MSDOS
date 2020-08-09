@@ -1,0 +1,5 @@
+"Welcome to the Land of ShadowKeep. You are a peasant, living in a small town in the once great kingdom of Camelot. One night, the wizard Merlin comes to you in a dream and reveals to you your heritage, that you are the great- grandchild of the one true king himself, Arthur. Merlin has been seized and captured by the Shadow King, a cruel and evil magician who has captured Merlin and has placed the shades of the three greatest knights of the Round- table, Sir Galahad, Sir Guy, and Sir Lancelot, under a spell that keeps their remains from their final rest.
+
+In the first game of ShadowKeep, Merlin tasks you with freeing the spirits of the three knights, and with retreiving the sword Excalibur from the Shadow King himself.
+
+In this demo, your tasks are more limited. You must travel through the Misty Woods, find the entrance to the tomb of Sir Guy, and fight your way through to the catacomb of Sir Guy, defeat his shadow, and retrieve the Emerald which holds him in his tomb."

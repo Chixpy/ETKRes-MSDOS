@@ -1,0 +1,3 @@
+Tie Break Tenis 98 is a tennis game developed in 3D (with 3Dfx support). It gives you the possibility to choose a player and the type of track you prefer (gravel, rapid or synthetic). You can also choose between the modalities of men"s or women"s tennis, to take part either in a single match or a world championship. The game has a large amount of special effects intended to make game as much similar to reality as possible, as for example the curved movement of the ball.
+
+NOTA: Este perfil utiliza la versión de DOSBox de Ykhwong. Funcionará en versiones oficiales de DOSBox, pero será extremadamente lento.

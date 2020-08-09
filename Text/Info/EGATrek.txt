@@ -1,0 +1,8 @@
+This is a 16-color DOS PC shareware clone of the classic "Star Trek" game of 1970"s mainframes. However since Star Trek is a license, several names have been changed to avoid infringing the copyright, but the gameplay remains intact.
+
+The game itself is simple. Each sector of the universe is an 8x8 grid containing planets, starbases, friendly or enemy starships and suns. Within this sector you can navigate to any point on the grid with impulse engines, or venture to a new sector using Warp engines. Your ship is equipped with lasers and torpedos to help defend yourself, and scanners to assess the nearby threats and nearby sectors. Additionally you"ll need to find starbases for quick repairs and to resupply and may also discover new and unusual planets to beam down and explore. A nice touch to EGA Trek over all other clones is a "viewscreen" window which provides a crude graphic view of nearby objects.
+
+Two distinct empires make your enemies list. The Mongols are the forces you"ll run into again and again. Armed battle cruisers of various strengths. The other enemy are the Vandal, seen only in 1 type of ship, but able to cloak and avoid your sensors.
+
+Should your vessel suffer enough damage, various systems will begin to fail and quite possibly you"ll be down to your final reserve power and life support. From this point, sustaining more damage or not being able to repair the ship will result in the deaths of all crew members aboard and the ultimate failure of your mission. Success on the other hand is brought about by clearing the entire galaxy of hostile Mongol and Vandal fleets... with bonuses for discoveries, rescues and living crew members.
+

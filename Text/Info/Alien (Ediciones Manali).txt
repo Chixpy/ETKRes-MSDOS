@@ -1,0 +1,37 @@
+Tras sus peculiares versiones de Teenage Mutant Ninja Turtles (Tortugas pijas), Terminator 2 (Transmuter 2) o Desafío Total (Desafío final), A.G.D. volvió a regalarnos una versión libre y "de baratillo" de un título o saga cinematográfica de éxito. En este caso el "afortunado" fue el universo Alien, aprovechando el estreno en cines de la, todo hay que decirlo, decepcionante tercera entrega de la saga.
+
+Como es fácil suponer (debido a la falta de licencias), en el juego no controlamos a la teniente Ripley, si no, a un "clon" suyo (je, je, anticipándose a los acontecimientos de Alien Resurrection ;)), la teniente Jenny.
+
+El juego en sí, podemos equipararlo por tema, modo y perspectiva a títulos conocidos por todo retrogamer que se precie como son Alien Syndrome o la saga Alien Breed (por buscar títulos contemporáneos al programa que nos ocupa). Eso sí, este Alien contiene bastante menos acción y una población alien con una inteligencia, digamos, más dudosa.
+
+Como hemos mencionado el programa nos mete en la piel de la teniente Jenny. Nos encontramos en el interior de una gran nave, tomada por los aliens, compuesta de 4 niveles, niveles por los que nos podremos mover libremente haciendo uso de plataformas teletransportadoras.
+
+Nuestros objetivos fundamentales son, por una parte localizar y rescatar a los miembros de la tripulación, por otra, una vez concluidas las tareas de rescate, acabar con la reina alien y huir accediendo a la nave auxiliar.
+
+Durante nuestro deambular por la nave, tendremos que vérnoslas con las criaturas alien. Para hacerles frente contaremos con un lanzallamas de munición limitada. Por suerte, dispersos por los pasillos, podremos recoger cargadores con los que reponer nuestro armamento.
+
+Además, a partir del segundo nivel encontraremos puertas, en principio cerradas. Para abrir dichas puertas, previamente deberemos encontrar unas tarjetas llave, que afortunadamente son llaves maestras (cualquier tarjeta-llave sirve para cualquier puerta).
+
+También comentar que en la parte inferior de la pantalla contaremos con una barra de energía que indicará el nivel de vida de nuestra protagonista.
+
+I.A.....A.I.....BAH, ¿PARA QU\u00c9?
+
+Aunque el planteamiento del juego es relativamente interesante, a este título le pasa lo que a la mayoría de títulos del autor, tiene errores de bulto que lo hunden sin remedio.
+
+En este caso, el principal fallo viene, como ya hemos dejado caer en párrafos anteriores de la nula I.A. con la que han sido dotadas las criaturas alien. Estas se mueven "a la suya", importándoles más bien poco que estemos cerca o no. Si nos "atacan" será única y exclusivamente debido a nuestra imprudencia al interponernos en su trayectoria, y, desde luego, no porque los aliens modifiquen la suya al detectarnos.
+
+Además, el programa posee algún que otro fallo menor como es la posibilidad de que nuestra protagonista pueda disparar.... ¡Una vez muerta!
+
+Puestos a pedir, tampoco hubiera estado de más la inclusión de un mapa de los niveles visible "en juego", que nos permitiera guiarnos y localizar con mayor facilidad a la tripulación (al estilo de Alien Syndrome).
+
+ASPECTO T\u00c9CNICO
+
+- GR\u00c1FICOS: La perspectiva adoptada en el juego es cenital. En general los escenarios dan cierta sensación de vacío, en parte por el predominio del color negro debido a la falta de tramas en los pasillos. Los sprites de los personajes resultan un tanto toscos, y los elementos de la decoración tampoco es que destaquen mucho. Con todo, a pesar de no estar al nivel de lo exigible para un juego de PC de 1992 (incluso para uno de quiosco), en este apartado el programa sí que cumple unos mínimos.
+
+- ANIMACI\u00d3N: La animación de los aliens es curiosa. La de nuestra protagonista bastante simplona, y la de los miembros de la tripulación inexistente. El scroll de pantalla está bien implementado, resultando rápido y bastante suave.
+
+- SONIDO: Por lo visto A.G.D. "reciclaba" parte de los efectos sonoros de otros programas suyos, y Alien no es una excepción, haciendo gala de esto. El principal problema estriba en que estos efectos son de una pobreza extrema.
+
+- JUGABILIDAD: Aunque a años luz de las versiones PC de Alien Breed o Alien Syndrome, Alien se deja jugar a pesar de todos sus fallos. El objetivo que propone el juego es atractivo, y el grado de dificultad accesible, debido en gran parte a la estupidez artificial con la que han sido dotadas las criaturas extraterrestres.
+
+Resumiendo, en PC existen juegos contemporáneos a Alien mucho más atractivos a todos los niveles. Con todo, si ya los has jugado todos, y tienes muy claro a que tipo de programa te enfrentas, siempre puedes probar está versión "serie B" de Alien, ¿Quién sabe? Si no eres muy exigente igual te entretiene un rato. 

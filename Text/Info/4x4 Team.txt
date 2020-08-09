@@ -1,0 +1,12 @@
+Antes de comentar el juego que nos ocupa, conviene situarlo en su contexto, y para ello nada mejor que comenzar hablando de su creadora, la empresa catalana Infodisc.
+
+Infodisc, durante finales de los 80 y principios de los 90, fue la encargada de editar una publicación mensual llamada PC DOS DISK MAGAZINE para PC y compatibles, que incluía unos cuantos programas de producción propia en cada número (hasta el número 33, a partir del cual, empezaron a publicar programas de terceros).
+
+4x4 Team fue uno de esos programas propios, producidos, seguramente, de forma rápida, para esta publicación.
+
+4x4 Team no es un juego de conducción al uso, no competimos contra otros conductores, sino que lo hacemos contra el tiempo, y contra los diversos tipos de obstáculos que encontraremos en la calzada. Esto en teoría no es malo (ahí está el clásico Buggy Boy en versión Amstrad CPC, juego divertido dónde los haya, y, sin duda, inspiración para los programadores de éste programa). El problema lo encontramos en cómo se ha llevado esto a cabo.
+
+En un primer vistazo, podríamos pensar que estamos ante un juego bien realizado, a tenor de los primeros gráficos que aparecen en pantalla (dignos para la época). Ahora bien, las cosas se tuercen (y de que manera) en cuanto empezamos a jugar y vemos que el escalado de imágenes tiene fallos garrafales (objetos que parece que están a nuestra izquierda o derecha, y que en cuanto nos acercamos... ¡¡Cambian de lado!!), que las rutinas de detección de impactos son deficientes, que las máscaras de sprites son visibles, que la respuesta al teclado es penosa, etc....
+
+Y es que el juego es prácticamente injugable, siendo la mejor forma de avanzar, cual jugador de Simón, el aprender el lugar por dónde aparecerán los obstáculos (aparecen siempre en el mismo lugar, partida tras partida), para memorizar la combinación de teclas a pulsar. [Agamenon3]
+

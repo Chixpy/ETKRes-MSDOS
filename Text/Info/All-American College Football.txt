@@ -1,0 +1,13 @@
+All-American College Football is a football simulator allowing the player to coach a college football team. The game is officially licensed and features over 140 statistical categories for over 80 teams. There are five game modules included:
+
+College Head-Up Football: Play a game head to head against another person on the same computer or via modem. The players make the calls from the sideline with 198 plays available.
+
+College League Football: This module is for playing league games. The player needs to create a game plan by adjusting the numerous options available such as pass coverage, defensive strength, pass patterns, and so on. The computer will simulate the game based on the game plan, and the results can be analyzed by the player to improve the team for the next game.
+
+General Manager: This module allows the player to view scouting reports on teams in the league as well as view and edit the player roster. Game plans and playbook sheets can be printed out and an automatic game schedule can be set up too.
+
+League Leaders: View and print statistical leaders in all major categories of the current league.
+
+Stats Keeper: This module allows the player to manage, view, and print all of the statistics of the league and provides in depth statistics on the last game played. All time records are also available.
+
+

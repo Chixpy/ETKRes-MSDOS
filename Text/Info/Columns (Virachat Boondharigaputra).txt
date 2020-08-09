@@ -1,0 +1,5 @@
+Columns  is  puzzle games that came around in computer game for a few years.There are many version of Columns in many platforms.
+        
+Such as Mac,X window,or most of game machine.I had playing only on arcade version of Columns.But I never play any Dos version of this game except one running on Windows written by Chris Christensen.
+                
+This version of Columns written by me.It run in text mode on Dos 5.0 or later (I hadn"t try on others version of dos).

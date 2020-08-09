@@ -1,0 +1,5 @@
+A children"s game wherein kids could make their own drawings by butting several parts of a face together. You could choose from a high amount of noses, mouths, ears and eyes, as well some haircuts. 
+
+In version 2 there are double as much tiles to make faces off, as well an option to color (though this is made pretty bad, you could color the game-interface away) and support for some more printers (now we know why we love windows again)
+
+You could also export your pictures to a .pcx file.

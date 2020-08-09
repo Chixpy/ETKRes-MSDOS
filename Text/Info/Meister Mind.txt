@@ -1,0 +1,4 @@
+As you may guess from it"s name, Meister Mind is a remake of the well known MASTER MIND game. Why the name? Because my name is Meister and because I also have a mind...! OK, you may think that is is a rather simple mind, but opinions about this may vary, no? Anyway, this is my first real program I ever wrote, and that"s why I"m so prod about it... I wrote this initially for training purposes, since my girlfriend always bet me playing Master Mind. (See above for small and simple minds...)
+                
+I wrote it entirely in Turbo-C v2.0, using the BGI routines which I appreciated very well.
+

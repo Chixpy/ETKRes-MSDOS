@@ -1,0 +1,3 @@
+In this spaceflight "simulator" / 3D shooter, your race (the Delphins) is sharing a far away planet with the Halons. Your side of the planet is constantly engulfed in total darkness but the Delphins have adapted to this life. The Halons used to live in the light but recent events have caused their side of the planet to fall go dark and now they are attacking you in an attempt to take over your technology.
+
+As a Delphin pilot, your job is to stop them and take down of their attacking ships which is what most of the gameplay consists of: Finding enemy ships and killing them.

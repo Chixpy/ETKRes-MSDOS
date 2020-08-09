@@ -1,0 +1,5 @@
+You play single player or against the computer, flying a sopwith biplane, and trying to shoot down the enemy planes and destroy all the enemy buildings. Sopwith II is an update to Sopwith that adds gravity, smoother graphics, birds and oxen, recording and playback of games, multiple levels, and runs at the right speed on modern machines.
+
+A classic game that has developed a small cult following. 
+
+

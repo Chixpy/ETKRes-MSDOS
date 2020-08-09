@@ -1,0 +1,3 @@
+Ranadin is a graphical fantasy adventure game which engages you in the struggle to free a group of islands from the clutches of evil creatures. The game uses full-screen, color tile graphics to simulate your surroundings. Both combat and sorcery play a major role in your quest.
+
+

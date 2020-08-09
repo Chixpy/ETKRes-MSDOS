@@ -1,0 +1,5 @@
+In Flagger the player must reveal the location of mines by marking them. This is done by revealing cells which contain numbers indicating how many mines are directly adjacent (if no mines are adjacent at all, the cell is completely empty).
+
+If a mine is clicked on, all mines are revealed and the game ends. If all mines are marked, the player wins the game.
+
+Unlike the Windows game Minesweeper, Flagger does not calculate empty blocks, so any cell on the screen must be clicked on (left for revealing, right for setting a flag). Also, the game runs against the clock while playing, not just for highscore reason.

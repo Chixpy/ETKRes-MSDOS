@@ -1,0 +1,3 @@
+Elements is a puzzle game where you use the arrow keys to guide a small green ball (called "Element") through mazes without running out of energy. You lose energy by moving in any direction. Energy is displayed as an orange stripe along the bottom of the screen alongside your score, keys and the number of shards you have collected.
+
+You start with three lives (displayed on the bottom right corner). If you run out of energy or fall into holes, you lose a life and return to the first maze in the current level. There is a square marked X at the end of each level that gives you a password that will allow you to start at the next level the next time you play.

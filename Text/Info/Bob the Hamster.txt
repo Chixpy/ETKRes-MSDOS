@@ -1,0 +1,1 @@
+Clearly inspired by classic arcade games like "Mr. Do!" and "Dig Dug", Bob the Hamster is a decent remake that captures the fun of these old arcade games. The graphics and sounds are decent enough, and the game plays well, although sometimes the intelligence of the enemies isn"t too impressive. (This game was recently GPL"d and is available in DOS, Windows and Linux versions.)

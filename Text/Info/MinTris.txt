@@ -1,0 +1,3 @@
+This is rather a strange Tetris clone. First you will notice that limits of the well are not displayed in any way. Best move one of the first pieces as far to the right as possible to settle that. Then you will notice that the scoring system is rather simplistic. The game keeps track of the number of lines you have cleared and nothing else. There are no points, so there"s no point in trying to clear more than one line at a time.
+
+What really sets MinTris apart is its graphic presentation. When you start it, it randomly chooses one of seven 3D-rendered backgrounds. Most of them are kept in shades of blue and green, and each has a matching block set. While there"s something unfinished about MinTris, it is certainly worth the download.

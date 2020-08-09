@@ -1,0 +1,4 @@
+Howitzer is one of a style of games known as artillery or tank war games. Tanks on a 2-D landscape lob shells at each other; the goal is to be the last tank alive. Tanks can be controlled by humans or the computer. 
+
+NOTA: Este perfil utiliza la versión de DOSBox de Ykhwong y no funcionará con versiones oficiales de DOSBox.
+

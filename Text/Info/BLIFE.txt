@@ -1,0 +1,6 @@
+BLIFE is an implementation of the Life algorithm for MS-DOS machines.
+
+The Life algorithm was developed by someone else a good while ago.  Since then it has seen many (hundreds) of implementations on computers.  This is another one.
+
+Blife started as a personal project to implement a life program with some options I found lacking in other life programs for DOS.  It was originally intended to be an at home, for myself program, but as it began to grow I decided that I would release it into shareware in case anyone was looking for the same thing in a life program.
+

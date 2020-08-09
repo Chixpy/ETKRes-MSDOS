@@ -1,0 +1,2 @@
+This implementation of Conway"s Life simulation was coded using an algorithm hinted at by J. Francis, on the Usenet forum rec.games.programmer on Jan 25, 1988.
+

@@ -1,0 +1,8 @@
+Land of Illusions is a role playing game, similar to that of the Final Fantasy or Dragon Warrior series.
+
+Set in a medievil world, you will travel to many places like caves towns, castles, and across the world of Iffalucia. You will talk to people, make friends, find many legendary items, fight evil, and get drawn into in epic story.
+
+Land of Illusions is my first attempt at programming a game with the RPG 2.1 Engine. Once I finish the RPG 2.1 engine I can really get a lot done with LoI.
+
+Currently the full version of Land of Illusions is about 7% complete
+

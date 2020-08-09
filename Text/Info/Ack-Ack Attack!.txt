@@ -1,0 +1,1 @@
+A game where the object is to shoot down enemy paratroopers as they drop from planes. The player takes control of a turret and can change its angle. It is however fixed in the middle of the screen. There are three difficulty levels.

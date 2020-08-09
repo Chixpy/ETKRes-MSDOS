@@ -1,0 +1,2 @@
+In Gold Hunt, you are in search of a treasure hidden underground. You must try to find the treasure before you run out of energy and in the least number of tries possible.
+

@@ -1,0 +1,2 @@
+Lavacap is an exciting arcade strategy game similar to Soleau Software"s popular game called Oilcap. Race against the clock as you try to construct a series of canals to contain a lava flow from an erupting volcano. Lavacap is packed with new features and is written in beautiful EGA/VGA graphics. This game will test your reflexes and strategy skills to the limit. It"s truly addictive!
+

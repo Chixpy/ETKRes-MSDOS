@@ -1,0 +1,8 @@
+A greatly updated version of the classic Ford Simulator with the newest Ford models.
+
+You can see the Tech Specifications or just drive.
+
+Your Objective is arrive at the Lake Wakatonka.
+
+The cars" performance is realistically modeled; it"s not so easy to drive in high speeds and in curves. 
+

@@ -1,0 +1,3 @@
+A chess game based on T2, featuring sounds and characters from the movie as pieces. Captures are animated a la Battle Chess, but the battles take place off the board, in futuristic wastelands and similar stages
+
+The game offers several difficulties and play styles to choose from, along with time control, ratings on the USCF scale over different time-frames and other niceties. Oddly enough, there"s no 2D board.

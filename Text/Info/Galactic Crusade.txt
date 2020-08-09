@@ -1,0 +1,1 @@
+This is a game for 1 player, with from 1 to 10 computer opponents. The object of the game is to conquer the Galaxy by eliminating all of your opponents.

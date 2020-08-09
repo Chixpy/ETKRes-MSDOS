@@ -1,0 +1,1 @@
+A good looking version of the classic MineSweeper game. (Big surprise, eh?) Nice VGA graphics, however, you can"t customize the game at all, and the sound effects are played through the PC Speaker. (They can be turned off.) Overall, a good alternative to the Windows version. (Note: Also, the author lives/lived in my home town: Mississauga, in Ontario, Canada! ^_^)

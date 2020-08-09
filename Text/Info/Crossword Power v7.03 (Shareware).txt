@@ -1,0 +1,2 @@
+Create crossword puzzles from your words and clues. Words are manually or automatically placed in the puzzle grid. Auto-search can examine over 200 different word arrangements to find the best puzzle. Foreign language characters supported. Puzzles can also be saved as WordPerfect DOS 5.1/6.0 and Windows version 6.0a macros. Requires 512K.
+

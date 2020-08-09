@@ -1,0 +1,1 @@
+A "strategic" football simulation focusing on coaching strategy.  Designed for leagues, players could draft from current or classic teams and build coaching strategies for the computer to run or call game plays themselves.  There is no direct control over the players.

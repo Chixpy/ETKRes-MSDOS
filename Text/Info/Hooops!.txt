@@ -1,0 +1,13 @@
+"Easily enough, press any key except X or Q (which EXIT the game) or P or S (which PAUSE or toggle the MUSIC/SOUND ON/OFF) to shoot the ball.
+
+You have 10 seconds to shoot the ball.
+
+There are three baskets. The lowermost basket scores 1 point, the middle 2, and the highest one on the screen 3 points.
+
+You get 15 shots to begin with.
+
+Every time you miss a basket, you lose a shot. When shots left = 0, the game is over. If the SHOTCLOCK expires (reaches 0), you lose a shot.
+
+There are BONUS ROUNDS. A BONUS ROUND occurs every 15 shots, made or missed. If you make the shot, that"s 10 points added to your score. If you miss a shot during the BONUS ROUND, that does not affect your SHOTS LEFT.
+
+You will not always have a ""clean look"" at the basket: there is the DEFENDER to contend with. As the game progresses, the DEFENDER will intensify his efforts to work down the shot clock and make you take a tough shot."

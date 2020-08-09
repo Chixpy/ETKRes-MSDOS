@@ -1,0 +1,5 @@
+FastBreak Fantasy Basketball brings the exciting world of Fantasy Basketball to your computer. Gone are the hours of pouring over the sports section, armed with reams of paper, several pencils and a five pound box of erasers as you try to get a handle on your league"s statistics. FastBreak will organize your league in a manner that will reduce the time spent entering statistical information to about an hour a week.
+
+FastBreak will conduct your player draft, keep track of team rosters, starting lineups, player contracts, league standings, fees & fines, and print out your league newsletter for you. The program allows rosters of up to 18 players per team and can be played for "big bucks" or "just for fun".
+         
+If the program is set up as an Auction League (the "big bucks"  version) it can re-define the office pool. Players no longer need to sit passively and watch the teams they drew in the pool but can build their own team, wheeling and dealing their way to weekly prizes as well as the season end pot.

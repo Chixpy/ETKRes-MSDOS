@@ -1,0 +1,1 @@
+CATMAR FIVE CARD DRAW is single player poker game. The rules are much like the traditional five card draw poker game where the object is to build the best possible hand by making different card combination"s. After dealing and discarding your winnings are awarded based on your final hand.

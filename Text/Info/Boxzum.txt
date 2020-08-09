@@ -1,0 +1,1 @@
+In this game, the player and several opponents leave trails as they move around an empty black field.  Crashing into one"s own trail or the trail of an opponent causes death; the object is to outmaneuver and outlive all of the enemies.  Starting level, difficulty and game speed are all adjustable.

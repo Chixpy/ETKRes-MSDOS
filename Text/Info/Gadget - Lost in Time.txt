@@ -1,0 +1,3 @@
+The game is a combination of two genres, platformer and quiz game. Gadget, the main character, has invented a time machine and uses it to go back to the dinosaur age. In order to return, he must obtain a crystal to power the time machine. This allows him to go forward in time to the next major age. 
+
+The crystal is only available to collect after answering enough questions. The questions are scattered around each level, in the form of some object from that era and are multiple choice. A question only appears in one location at a time, and answering a question incorrectly results in it moving to the next location. Gadget can stun enemies by jumping on them, and get rid of them by picking them up and throwing them.

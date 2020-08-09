@@ -1,0 +1,1 @@
+A challenging word game that combines famous quotations with the action of the popular Tetris arcade game. The user must piece together a notable quote from the past using random words that steadily descend from above before time runs out. Each word that descends must be fitted into a sentence "skeleton" that consists of dashes and punctuation marks.

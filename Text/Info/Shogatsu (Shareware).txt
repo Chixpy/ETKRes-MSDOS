@@ -1,0 +1,2 @@
+SHOGATSU is solitaire strategy game that requires at least CGA graphics.
+

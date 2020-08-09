@@ -1,0 +1,1 @@
+Balltris is a tetris-type arcade game. A cup is being filled with one, two or three balls which are falling randomly from the top. You have to maneuver the balls by moving them to the right, left or flipping to create chains which will disappear. A chain is a group of balls of the same color that touch each other at least at one point.

@@ -1,0 +1,1 @@
+A nice Boulderdash clone, but without a very fluent gameplay. It includes many objects, like bombs, eggs with diamonds, swamps, etc. Another nice feature is gainable invulnerability and invisibility of the player.

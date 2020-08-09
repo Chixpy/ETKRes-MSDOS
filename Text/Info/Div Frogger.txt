@@ -1,0 +1,11 @@
+EL JUEGO ORIGINAL
+
+Frogger es uno de esos clásicos de toda la vida, que todos conocemos pero que casi nadie sabe quién ideó; en cuanto a "clasicismo" se puede decir que está, casi casi, al mismo nivel que los tradicionales juegos de mesa como el 4 en raya o el Parchís.
+
+La mecánica del juego es más que sencilla. Controlas a una rana que ha de cruzar una carretera y un lago para llegar al extremo superior de la pantalla. Para ello deberás sortear todo tipo de vehículos motorizados, así como evitar caerte al agua con los inestables troncos y ¡tortugas! que intentarán evitar que consigas tu objetivo.
+
+EL REMAKE DE PAKO ROJAS
+
+Pako ha realizado un trabajo técnicamente impecable, valiéndose del Div, una sencillo pero eficaz lenguaje para la creación de videojuegos.
+
+Respetando totalmente la idea original, ha adornado su versión con unos gráficos efectistas y llenos de color, acompañados de un sonido de gran calidad. Se trata, en definitiva, de una muy correcta actualización de uno de esos clásicos que nunca morirán. 

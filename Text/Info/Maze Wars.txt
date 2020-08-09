@@ -1,0 +1,3 @@
+Maze Wars is a strange cross between Wolfenstein 3D and Pacman. You navigate around a 3D maze, shooting and running from enemies that are represented by wireframe pyramids. Once all enemies are dead you can exit the maze and move on to the next one. If you run out of ammo you lose. If you bump into an enemy you lose. If you run out time you also lose. 
+
+There are 11 progressively harder mazes to play through. The game also allows you to modify color of the walls and enemies, depending on your preference.

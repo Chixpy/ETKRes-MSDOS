@@ -1,0 +1,9 @@
+In this strategy game, three to seven players (1-6 humans and at least one computer-controlled) compete to progress from tribe to clan to nation to empire.  
+
+They will face not only each other, but also famine, plague, civil war, insurrection, and earthquakes.  To win, each player will build cities and fleets; do battle; form alliances; produce grain, metal, and trade goods; and barter.
+
+Players must also choose a "basis of law" (Theocracy, Oligarchy, Utopia, or Khanate).  This choice will affect consumption rates, production, and battle strength.  It can also affect the probability and/or severity of the various disasters.  Khanates are nomadic raiders and have some slightly different rules from the other types.
+
+Although the game is turn-based as far as each player giving movement commands, the execution of the commands is random.  After all players have entered their commands, the computer executes them in a random order.  In some cases, this can prevent another player"s orders from being carried out.
+
+In addition to the main game, players can also choose from two shorter scenarios.  The first is called Imperium.  In it, players just build cities and fleets and do not trade.  The winner is the player who defeats the others in battle.  The second scenario is Traders.  In this game, there is no movement or battle, just trade.  The first player to accumulate 1000 trade points wins.

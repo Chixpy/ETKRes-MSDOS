@@ -1,0 +1,2 @@
+"The object of Pegout is to remove all but one peg. The remaining peg must end up in the center hole, or another hole predetermined by you. Pegs are removed by jumping over them with another peg.
+"

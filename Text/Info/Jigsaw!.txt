@@ -1,0 +1,1 @@
+Jigsaw! is a puzzle game in which you can select different pictures to cut up into smaller blocks on screen. It works just like the locked-in slide puzzle boards in that you click to slide the blocks up, down, left, and right. You have to move blocks around and past each other to their rightful locations to finish the puzzle.

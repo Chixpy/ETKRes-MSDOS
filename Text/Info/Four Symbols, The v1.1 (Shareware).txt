@@ -1,0 +1,12 @@
+THE FOUR SYMBOLS was first written for the Amiga in 1992.
+
+This was my first attempt at writing an adventure and at the Adventurers Conference 92 was voted best 16bit text adventure of the year.
+ 
+It has since been converted for the Spectrum (by Larry Horsfield of FSF Adventures).  
+An Amstrad version is also being produced, courtesy of Phil Reynolds and The Adventure Workshop.
+
+This version of the adventure for the PC and the ST has been enhanced with more messages and a larger vocabulary.  Although most of the original puzzles have been left untouched I have made a couple of small additions towards the end, which are not in the other versions.
+
+This version of THE FOUR SYMBOLS was written using TADS.
+
+The Text Development System.

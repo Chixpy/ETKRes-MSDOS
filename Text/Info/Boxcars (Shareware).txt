@@ -1,0 +1,3 @@
+"Make all of the dice boxcars by using the cursor keys to move the red pawn through the logic board with the fewest possible number of moves.
+
+Whenever the pawn is next to any die, the die"s value changes."

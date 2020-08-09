@@ -1,0 +1,2 @@
+Each player starts with a starbase and up to twelve starships, depending on the handicap level selected. Each starship can hold 50,000 energy units, 5 mines, and 20 torpedoes. The starbase can only fill a starship up to 10,000 units of energy. The object is to map the galaxy to discover planets that have energy, inviso, torpedos, mine sweepers, and other useful material while battling enemy ships and attacking the enemy base. The first player to destroy all enemy ships is the victor. Options are available to play in multiple galaxies and play with a time limit on games.
+

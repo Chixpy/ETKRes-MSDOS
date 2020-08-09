@@ -1,0 +1,5 @@
+Offroad is an arcade action game in the style of Moon Patrol.
+
+You drive a four-wheel-drive truck across a one-dimensional desert. You can accelerate, decelerate, fire missiles and jump with your truck. On some levels you can also shoot bombs at enemies in the sky.
+
+The game has 8 levels, you complete a level by surviving long enough. Each level has its own set of obstacles and dangers. Level one has rocks and motorcycles that drive slower than you, so they"re easy to shoot. Level two is the same, except with red cars that can drive faster than you, so you need to slow down and then jump over them. Other enemies include bouncing squares (level 3), fighter jets that drop bombs (level 4), carpet bombing green planes (level 5), helicopters and landmines (level 6), giant squirrel heads (level 7) and finally mini triangular space ships and a giant diamond-shaped head.

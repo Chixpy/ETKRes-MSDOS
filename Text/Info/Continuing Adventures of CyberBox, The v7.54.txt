@@ -1,0 +1,16 @@
+A challenging puzzle where the object is to escape from each of 15 rooms, ideally as efficiently as you can, by pushing and pulling boxes around; Sokoban on steroids! DOS.
+
+CyberBox is a fun puzzle where the object is to move boxes around so you can access the next level (15 in all plus a level editor).
+
+Like Sokoban on steroids, CyberBox is a challenging game with six styles of boxes, each with its own characteristics. Many boxes are mono-directional, some will follow you like a dog, others seems to have a mind of their own (they don"t, they are simply following the rules of the game). Great fun!
+
+This DOS game only requires a VGA monitor and the lack of colors (16 only, as with any VGA game) means that the screen looks a little bland.
+
+Don"t worry about looks though, because within a few minutes you"ll be so involved in trying to solve the various puzzles (each level is different, of course) that you won"t care. Still, we would love to see a Windows version of this game, if only to offer better graphics and a fuller color palette.
+
+Don"t expect to solve these puzzles in a few minutes and the "Save game" option should get well used as you get called away for other things \u2013 like sleeping.
+
+Apart from the clunky DOS interface, we loved CyberBox!
+
+Botón derecho y seleccionar ca-edit para el editor de niveles...
+

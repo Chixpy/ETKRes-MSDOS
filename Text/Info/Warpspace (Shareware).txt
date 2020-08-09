@@ -1,0 +1,3 @@
+"WARPSPACE is a two-player space ship battle game. 
+
+WARPSPACE is played on two computers, using modems. It happens in real time, and has an arcade-game feel to it. The game uses high-resolution EGA graphics."

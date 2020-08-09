@@ -1,0 +1,1 @@
+The object of the game is to reveal every sector on the screen without getting yourself killed!  Once you have opened all of the sectors without bombs and marked the sectors with bombs, you win!  Minesweeper clone

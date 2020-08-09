@@ -1,0 +1,1 @@
+"Hangman for Students" is the classic hangman game with word lists divided by grade levels, from Grade 1 to Grade 5, plus word lists for junior high and senior high. It offers enough chances so that kids can frequently win and stay interested in the game.  Adults may be surprised that they like to play to.  Parents can create their own word lists.

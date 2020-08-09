@@ -1,0 +1,1 @@
+You are Norm, the programmer. Yesterday you made a wee small change to one of your programs. The change was so small that it wasn"t really worth a full test! Well... here you are on Saturday because your program bombed out.

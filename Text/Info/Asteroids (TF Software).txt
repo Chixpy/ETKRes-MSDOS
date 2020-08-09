@@ -1,0 +1,2 @@
+Dodge as many asteroids as you can for as long as you can. The amount of asteroids and their speed will gradually increase. Every asteroid you dodge will gain you a point. Try to get a high score!
+

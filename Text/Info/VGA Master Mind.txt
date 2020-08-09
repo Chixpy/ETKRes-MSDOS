@@ -1,0 +1,3 @@
+VGA_MIND version 1.0 was written October 13th, 1992.  It uses VGA graphics and requires the included Borland Graphics Interface video driver.
+
+The program was coded in Turbo Pascal v6.0  The program was tested only on my 386-33 mhz with the Trident 8900 video card.  Turbo Pascal interprets the video setup as mode=2 & driver=9.  VGA_MIND will not run unless the VGA mode is accessible.  Leave the .BGI driver file in the same directory as VGA_MIND.exe.

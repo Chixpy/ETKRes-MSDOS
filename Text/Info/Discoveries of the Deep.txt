@@ -1,0 +1,1 @@
+Discoveries of the Deep is an underwater exploration game with simulation elements. Using ships and submarines, search for lost treasure, sunken ships (including the Titanic), trenches, etc.

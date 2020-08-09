@@ -1,0 +1,13 @@
+WordSeeker will create wordseeker puzzles for you in a flash. Just tell WordSeeker  your wishes and there"s your puzzle. Ready to  be  solved! These   wordseeker  puzzles  are  rectangles  or  squares  filled  with seemingly  randomly  placed  characters.  But  on  second  sight  these characters  form  normal  words.  You  can read  this  words  in  eight directions:
+
+- horizontal (forwards,backwards)
+- vertical   (upwards,downwards)
+- diagonal (left downwards, left upwards, right downwards, right upwards)
+
+The  words  hidden  in the puzzle belong all to a same  subject.  Which subjects?  That"s all up to you! You can add subjects to WordSeeker  or edit  existing  ones. So every WordSeeker user can create  custom  made puzzles which are composed of his own word selection. In every puzzle there  will be a number of empty cells. These cells will be filled with characters out of words from the same subject.
+
+If you found all the "hidden" words, some characters will remain. These characters  form  one or more words belonging to the subject.  You  are only able to find these words if you complete the puzzle.
+
+For  example,  if you"re a computer fanatic you can create the  subject "Computer  Bits  & Bytes" in which you store as much as possible  words related to computing ("Diskdrive","VDU", "Database","Pascal" and so on, and  so on ....). If you"re done editing, WordSeeker will store them on your  floppy  or  harddisk  unit.  From now on  you  can  make  puzzles consisting  of  words from the subject "Computer Bits &  Bytes".  Every puzzle  will be unique. In other words: if you create 1000 puzzles with the same subject, WordSeeker will make 1000 different puzzles for you! The  more words you add to one subject the more varied your puzzle will be.
+
+

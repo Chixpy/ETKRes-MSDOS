@@ -1,0 +1,5 @@
+"FRAZZLE! is a dice strategy game where the object is to be the first player to reach 10,000 points. It may be played by any mix of up to four human and/or computer opponents.
+
+Players alternate turns rolling the dice and saving scoring combinations. Dice that are saved on one roll may not be used again on the next roll. If all six dice score points, they may all be used again for the next roll and the turn score accumulates. A player may continue to roll as long as he wishes to, or, until he fails to roll at least one scoring die (called a ""zonk""). If a player is zonked, he forfeits his turn and loses his score for that turn.
+
+Alternatively, you may choose to play a 30-turn solitaire game and see how high you can score. The solitaire rules are the same as for the regular game, including special 500+ point first-turn rule (see pg.5), except the game does not end at 10,000 points, but continues on for 30 turns with the object being to achieve as high a final score as possible."

@@ -1,0 +1,3 @@
+Helious is a game where you must maneuver a balloon through levels without popping it.  As you maneuver the balloon, air is released and if too much air is released, you also lose, adding some strategy to the game.
+
+As the levels progress, the levels get various dangers added such as pins, rain, turrets that shoot at you, and more.  Some areas even require your balloon to be small enough to go through which will mean letting out additional air.  You will also be able to get items to throw at any enemies you encounter as you get into higher levels.

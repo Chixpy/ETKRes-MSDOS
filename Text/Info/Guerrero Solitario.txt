@@ -1,0 +1,15 @@
+Guerrero solitario es un juego de acción tremendamente sencillo inspirado, en gran medida, en Robotron: 2084, el clásico de Williams Electronics.
+
+Nuestra misión, a lo largo de la totalidad de los niveles que componen el juego, consiste en recoger 6 (y no 5 como se menciona en las instrucciones) de los proyectiles esparcidos por el área de juego (suele haber alguno más), mientras evitamos a toda costa caer bajo las garras de las tropas enemigas.
+
+Como ayuda contamos con 20 bombas de mano y con 10 "Hipers". Los "Hipers" son unas herramientas francamente útiles en caso de emboscada ya que nos permiten "teletransportarnos" a otra zona indeterminada de la pantalla.
+
+Resulta de vital importancia regular tanto el uso tanto de las bombas como el de los Hipers, ya que únicamente contamos con la cantidad inicial de ambos para toda la partida en curso (no existen cápsulas de recarga, ni nada semejante).
+
+En cuanto a los adversarios, decir que aunque carecen de capacidad de disparo, suelen ser muy "pegajosos". Tal es así, que en cuanto nos detectan, no dudar en lanzarse, cual kamikazes, hacia nuestra posición.
+
+Es altamente recomendable, al inicio de cada nivel, tomar buena nota de la ubicación de sus escondites (representados por una suerte de casillas en forma de "X") a fin de evitar ser atrapados por sorpresa.
+
+Cabe destacar la "vertiente estratégica" del programa, derivada en buena parte del buen o mal uso que hagamos de los diferentes elementos del escenario a la hora de parapetarnos u ocultarnos.
+
+Por lo demás poco que comentar, salvo que la mecánica se mantiene invariable durante todo el juego y que los niveles son generados de forma aleatoria. 

@@ -1,0 +1,3 @@
+GAMEZ.BAS is one of our finest games! It has ASCII graphics and you move with the arrow keys. We"re planning to make alternating versions of GAMEZ very soon!
+
+Your objective in this 5-screen RPG is to find the WOE CRYSTAL, which was stolen by an unknown person. Its power is beyond imagination, and you must find it by exploring every town, destroying monsters, completing impossible tasks, and continuing the mission without pause in between (you can"t save).

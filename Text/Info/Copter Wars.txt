@@ -1,0 +1,4 @@
+You are flying with a helicpoter and destroying enemy wehicles.
+
+When the time is over, or enemy"s missile hits you the game is over. Destroy as many enemies, as you can.
+

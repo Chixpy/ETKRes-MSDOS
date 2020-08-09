@@ -1,0 +1,5 @@
+Zephyr is a futuristic game that combines elements of first-person shooting and racing, set in outer space. The premise of the game is that on the 24th century mankind has overpopulated earth and is forced to settle on different worlds around the galaxy looking for resources and space. The world of the future however, is not a happy one, and it"s ruled by rival ultra-gigantic corporations that struggle against each other for the rights to settle and exploit worlds. The battles for those right are made through organized vehicular combat at the Interplanetary Battle Circuit and the races are fought on hovercraft-like vehicles called "Zephyrs".
+
+You play a Zephyr pilot and proceed through a set of linear plot-related missions fighting for the corporation of your choice. Each offers a customized Zephyr and each has advantages and disadvantages. You have to race around maze-like cyberpunk locations (wastelands, cities, etc.) viewed from a first-person perspective and shoot your opponents with an independent turret-mounted cannon, collecting power-ups such as energy, shields, etc. to win the races.
+
+

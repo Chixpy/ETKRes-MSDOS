@@ -1,0 +1,3 @@
+Phrase Master is a two player game in which each player will take turns trying to guess the phrase. A player can continue his turn as long as he can guess the right letters contained in the phrase. When a letter is guessed that is not in the phrase the next player takes his turn.
+
+There are 500 phrases in ten categories. The player first selects the value of the letter he wants to guess, then he guesses the letter within the time limit. Each player is allowed six missed guesses. A bonus guess is awarded to the player that completes a phrase.

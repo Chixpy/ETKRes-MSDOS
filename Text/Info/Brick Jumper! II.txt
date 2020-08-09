@@ -1,0 +1,5 @@
+This is the sequal to the not quite popular game Brick Jumper! It features better graphics, PC speaker sounds and five different levels of play.
+
+It also has a high score table which unfortunately, contains only one score.
+
+Unlike the first one there is no cheat mode as I"m trying to steer away from cheating in games. This took me about three hours, give or take an hour to make. This is built from the ground up without any code from the first Brick Jumper! which was far too messy anyway.

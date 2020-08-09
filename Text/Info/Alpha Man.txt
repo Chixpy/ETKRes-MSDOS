@@ -1,0 +1,5 @@
+This game will test your problem solving abilities, as you try to solve 25 word puzzles.
+
+Each puzzle has the letters for the word located somewhere on the 7 x 11 grid board. Each letter is contained in a block which when pushed by your man, (Alpha Man), will slide in that direction until it either hits the side of the grid board or another block.
+
+The objective is to push all the letter blocks onto the corresponding letters that are located somewhere else on the game board.

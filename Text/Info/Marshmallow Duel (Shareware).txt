@@ -1,0 +1,3 @@
+A simple platform game. However, this game is ONLY playable with 2 people. There is no single player - But let me tell you, this game is genious. The basic idea is to throw your enemy"s spaceman into the gloppy pile of marshmallow at the bottom of the level. Weapons such as pistols, mines and invisibilty are used to create a unique multiplayer experience.
+
+

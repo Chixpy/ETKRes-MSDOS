@@ -1,0 +1,3 @@
+Destroy everything on the ground (except the bunkers) to move onto the next level.
+
+If you are hit, then you lose fuel.  You get bonus fuel every so often (at the bonus points mark at bottom).

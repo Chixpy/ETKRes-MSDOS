@@ -1,0 +1,3 @@
+One of the last classic SVGA Tetris, and probably the only one to run in TrueColor. It is fully skinnable, the default theme shows continents and landscapes, additionally there is a Britney Spears theme. As far as I know, no other themes have been made.
+
+The author recommends a Pentium 200 to play this game.

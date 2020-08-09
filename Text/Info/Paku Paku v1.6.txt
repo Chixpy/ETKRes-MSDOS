@@ -1,0 +1,3 @@
+This game is an expansion to the demo of my Retrochallenge 2011 Winter Warmup entry, a Turbo Pascal 7 unit to implement the undocumented 160x100 16 color graphics mode on the original CGA card. Since that original demo it has grown into a full fledged game with most of the familiar "Pac-type" elements present in the game. They system requirements have grown slightly though with verticle sync disabled it should at least be playable on an original PC, though on anything less than an 8mhz AT class system with a 16 bit video card there will be a good deal of flickering.
+
+Support has been added for a wide array of early PC sound cards ranging from the simple PC speaker right up through to the Adlib series of sound cards.

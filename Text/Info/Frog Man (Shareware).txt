@@ -1,0 +1,2 @@
+The object of the game is to move Frog Man from the sidewalk at the bottom of the screen to the safety of the five home locations at the top of the screen. Each board is completed when all five home locations at the top of the screen are filled. The game ends when Frog Man has lost all of the allotted Frog Man lives.
+

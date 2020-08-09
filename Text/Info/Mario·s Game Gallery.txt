@@ -1,0 +1,1 @@
+The game is a collection of board games, in which you play with Mario. He talks to you, playing Checkers, Go Fish, Dominoes, Backgammon, Yacht. Most of  games can be played for Yoshis or Koopas - tribes of animals.

@@ -1,0 +1,2 @@
+Four-Handed Euchre lets you play one hand of four-handed Euchre while the computer plays the other three hands. It can be used for learning to play, sharpening skills, or just playing for fun.
+

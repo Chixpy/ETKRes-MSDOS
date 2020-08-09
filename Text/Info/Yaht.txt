@@ -1,0 +1,2 @@
+Yaht is a traditional dice game, popularized by the Milton Bradley company as Yahtzee. Since the Yahtzee version of Yaht is the one which most people know, this computerized version follows the Yahtzee rules.
+

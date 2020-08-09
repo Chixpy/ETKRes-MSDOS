@@ -1,0 +1,3 @@
+A very simple and primitive spaceshooter.
+
+Shoot aliens before they reach your spaceship. The ship is equipped with two weapons: plasma guns and smart bombs. You get more points, if you shoot the aliens immediately after they appear.

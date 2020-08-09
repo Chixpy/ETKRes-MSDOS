@@ -1,0 +1,3 @@
+A Tetris for one or two players that can run in VGA or in 640\u00d7400 (which it does by default, if it finds the necessary graphics hardware). Music is Soundblaster or Gravis Ultrasound. Written by Michael and Ulrich Haar, the founders of Digital Nightmares (that"s what the DN stands for). Ulrich Haar would later become technical director for the MMORPG Neocron.
+
+Other games by Digital Nightmares are 3D-LomTris and Lovely Girls.

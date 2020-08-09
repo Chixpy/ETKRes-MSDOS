@@ -1,0 +1,7 @@
+Tet42 is not a great game, and I might well have passed it over, but there are some details that aroused my interest. First, it is a rather early Tetris clone on the PC. Most came in the early 90s. If you count only those that did not change anything relevant about the original Tetris concept, then only Nyet comes before it.
+
+Along with the rather mysterious Team Tetris, it is the only clone of the (Atari) Tetris arcade machine that I know. Most others have been inspired by the PC game. There are some other, later games that have the two-well two-player, but none tried to mimic the appearance of the coin-op. Tet42 is about as close as you can get on hi-res EGA.
+
+Along with Klotz, it is the first German Tetris clone in my collection. While puzzle games are very popular in Germany, they are usually of the tile matching kind. Additionally, Tet42 is the oldest German game I know that was originally developed for DOS. Except for Russia, it is the oldest European DOS game I know.
+
+As I said, it is not a great game. It forces you to sit through a long shareware marquee every time you start a new game, and with 260k (on the harddrive, the archive is of course smaller), it is rather bloated. But it still is remarkable in its own way.

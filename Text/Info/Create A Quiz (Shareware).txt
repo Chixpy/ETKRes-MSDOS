@@ -1,0 +1,2 @@
+Create A Quiz - Lets you generate your own on-screen interactive quizzes. Great for teachers and students. Quizzes can also be printed out. Can be used in a stand-alone kiosk environment. 1-9 participants may play at the same time - great for games. Supports multiple choice and fill-in-the- blank questions. Can also be used to give and track surveys. Many, many options. Menu driven, easy to use interface.
+

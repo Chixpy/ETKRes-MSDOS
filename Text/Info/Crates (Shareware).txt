@@ -1,0 +1,2 @@
+The object of Crates is to tidy up the disorganized rooms on each floor of a warehouse building. This is accomplished by moving the crates into designated areas which are represented by dots on the floor. You cannot walk through walls or push more than one crate at any one time. Most of all, you can"t pull a crate out of a corner which you might have pushed it into.
+

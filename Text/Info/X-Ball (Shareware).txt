@@ -1,0 +1,2 @@
+To complete each screen in X-Ball, the ball must be guided so that it hits each pair of matching tiles. Once a tile is hit it will be highlighted and when the tile that matches it is hit, both tiles will disappear. However, if an unmatching tile is hit first then all of the tiles will reappear.
+

@@ -1,0 +1,35 @@
+STORY
+You play a rookie boxer trying to fight your way to the top. Fight bouts to win money, to pay for your training and manager. Ultimately fighting you way to the title "Champion".
+
+GAMEPLAY
+TV Sports Boxing introduces many elements within the game, which among others may be categorized as the following:
+
+Character Creation
+The "campaign" version in TV Sports: Boxing allows you to start "a new career" of which you have to create a new "human player". Here you can customize your boxer, generally how he looks but more importantly what stats he begins, what style of boxing (ie. Boxer, Brawler, Dancer, Defensive) and which punch packs the most (ie. Jab, Cross, Uppercut). 
+
+Managing Bouts and Training
+At the "Training Camp" you can meet up with your manager and your trainer. 
+
+The Manager sets up bouts for you to fight in the following month. Managers can only introduce bouts relevant to their "quality" of service. Better managers may be hired as they provide better paying bouts - and higher ranking opponents (though they also ask a higher wage). You must however, fire your current manager first and have adequate funds to hire a new one.
+
+Each bout pays a certain amount of money. Regardless if you win or lose (minus manager cuts, trainer fees and training camp expenses).
+
+The Trainer provides you with additional training per month, depending on his/her specialty stat (ie. Power, Stamina, Footwork, etc.) If you continue a successful career, better trainers will appear offering different types of services (which they also ask a higher fee, of course).
+
+While meeting with the Trainer, you can also purchase equipment to increase your training (stats increase). There are 3 slots available for equipment. Equipment have a certain duration of time (months) expiration before it needs to be replaced.
+
+Additionally, you can also view your character here, to view monthly stats increase, either obtained by training or by bouts (stats increase are automatic).
+
+Round 1 - Fight!
+After you"ve arranged a bout with your manager, you can enter the appointed bout in the following month. The TV commentator gives comments on "Tale-of-the-Tape" of both boxers before the match begins, as well as the rules of the game.
+
+The Ring
+The match starts in a top-down perspective - here you can close in to your opponent and fight face-to-face or you can dance around the ring (usually meant to increase your stamina).
+
+Boxing
+The fight itself enters a 3rd person perspective screen (Player 1 on the left, Computer opponent or Player 2 on the right).
+
+The purpose is of course to weaken your opponent and knock him down! If the stamina bar reaches zero, the opponent falls down. However, if the Head or Body reaches zero, they fall down and don"t stand up! Knock Out!
+
+Being knocked out 3 times in the same round or serious injuries is considered a T.K.O.
+

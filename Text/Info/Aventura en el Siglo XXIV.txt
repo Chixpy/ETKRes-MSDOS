@@ -1,0 +1,8 @@
+Aventura ganadora del I Concurso Nacional de Aventuras organizado por el CAAD.
+
+La historia nos sitúa en el siglo XXIV, al que vamos a parar tras caer en una cápsula de congelación criogénica.
+El mundo que nos encontramos al despertar dista mucho de lo que recordábamos, con ciudades gobernadas por máquinas que deciden nuestro destino.
+
+Precisamente, en la ciudad donde vamos a caer ha habido un terremoto que ha estropeado el ordenador central. Nuestra misión será reparar el ordenador para volver a instaurar el orden.
+
+La historia y el desarrollo son bastante sólidos, contando con unos gráficos simples pero efectivos a la hora de contribuir a la ambientación. 

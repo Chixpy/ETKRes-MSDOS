@@ -1,0 +1,17 @@
+Dinos es un programa que sigue "a pies juntillas" las pautas de juego establecidas por títulos coetáneos como Guillermo Tell (Opera Soft) o Crossbow (Absolute Entertainment).
+
+Para aquellos que no recuerden o simplemente desconozcan los títulos citados, comentar que básicamente son shooters, en los que tomamos el rol de una suerte de francotirador "ángel de la guarda", que ha de mantener a salvo al personaje personaje principal del juego del asedio de toda clase de agresivos seres y peligrosos objetos, mediante el control efectivo de un punto de mira.
+
+Así, en Dinos, nuestro cometido es exactamente ese, proteger a base de certeros disparos, a un pequeño dinosaurio mientras atraviesa cada área de juego. 
+
+Por lo demás, en cuanto a características, no hay mucho más que comentar.... Salvo quizás el hecho de que, antes de comenzar, el programa permita seleccionar la velocidad de juego (y por ende la dificultad) de entre 3 opciones posibles (lenta, media o rápida).
+
+En lo que a factura técnica se refiere Dinos presenta un nivel competente dentro de su simpleza.
+
+Los gráficos, pese a ser exclusivamente CGA, presentan un buen nivel de detalle tanto en lo referente a decorados, como, sobre todo, en lo concerniente a personajes (algunos, como el alien que aparece en niveles como el 2 o el 4, presentan un diseño francamente simpático). Además los distintos personajes en todo momento evolucionan en pantalla de forma ágil y fluida. Por otra parte el programa, hace un inteligente uso de la escueta gama de colores CGA, al emplear dos paletas distintas que se van alternando en cada nivel, "suavizando" así, en parte, la monotonía estética típica de este tipo de producciones.
+
+Sonoramente el programa es muuuuucho más flojo. El bagaje final de Dinos se salda con una desafinada versión de la sonata n\u00ba 13 de Mozart (Eine kleine nachtmusik) en la introducción más un par (contados) de efectos durante el juego.
+
+Jugablemente Dinos es un programa que, parafraseando a Ned Flanders, resulta tan entretenidillo como dificilillo (en parte por la imposibilidad de jugar con ratón)..... Dinos, sin ser imposible, es un juego que requiere de todos los reflejos y atención del jugador. Bien es cierto que siempre tenemos la opción de jugar a velocidad lenta (mucho más fácil) si bien, eligiendo este modo, el juego pierde dinamismo y baja bastante en adicción.
+
+Concluyendo, estamos ante un un simpático shooter que aunque no destaca por su complejidad u originalidad (de hecho, en cuanto a dinámica casi se podría decir que plagia a los títulos citados al comienzo de la review), presenta un acabado digno, una lograda ambientación y, lo que es más significativo, cierto grado de adicción.\u0009

@@ -1,0 +1,1 @@
+A very simple game of racket ball. To control the paddle press Z for left movements or press M or right movements.

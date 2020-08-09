@@ -1,0 +1,7 @@
+Buzzard Bait is a single screen shoot"em up where you have to protect the humans from predatory buzzards.
+
+At the beginning of each round, three pair of buzzards each go into their nests to make sweet love. As soon as they reappear from the nest an egg also emerges, which quickly hatches. After the egg has hatched the parent buzzards swoop down to pick up humans to feed to their young.
+
+The player must protect the humans by shooting the buzzards. When the buzzards manages to pick up a human and feed it to their baby, it will also leave the nest and join the hunt. Sometimes a penguin fly across the screen, first at the top of the screen then the bottom. to avoid the low flying penguin, the player can jump across it which is tricky because then he can crash into a buzzard.
+
+After each round, there is a bonus round where the player can score an extra life. The player must move through a screen filled with penguins while collecting all three parts of the ship to gain an extra life. The penguins are harmless but bumping into them makes the player bounce around like a pinball. At the same time the player must avoid explosive mines which are left by a space ship that randomly appears.

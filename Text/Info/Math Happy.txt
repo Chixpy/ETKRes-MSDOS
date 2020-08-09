@@ -1,0 +1,4 @@
+Description: Teaching kids to have fun with integers: After examining some of the public domain stuff out there for pre-schoolers, I designed a better pre-school interface.  This program is meant to be started by a MS-DOS user but, once that"s done, it requires little in the way of adult supervision.
+                        
+The only adult/parental involvement I"d recommend is that the parent explain (if the child doesn"t know) the numerical *concepts*, esp. multiplying & dividing.
+

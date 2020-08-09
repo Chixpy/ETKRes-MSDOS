@@ -1,0 +1,13 @@
+Electronic Popple is an action/puzzle game. Play as MIN or MAX, two chips who must journey through six levels of a large computer to eventually defeat the evil Overclock King. Two players can play simultaneously. The game is similar in concept to fighting games such as Double Dragon. Players can walk, run, and jump to move around.
+
+The fighting is of the "combo-move" style, where the faster that a player can attack, the more hits they can achieve. The characters have a lot of attack moves: the "tread attack", "gathering power attack", "jump attack", "running attack", "running jump attack", "death blow attack", and "catching attack".
+
+Players must fight against computer components, such as fans, resistors, capacitors, batteries, and floppy disks. Later levels include monitors, screws, and nuts. These later characters have many more hit points and some have special powers, such as the ability of screws to replicate and turn into mines, or the nuts which can roll across the screen very quickly. Some enemies have different attacking styles, which must be mastered in order to defeat them.
+
+Defeated enemies drop special items that can be useful to the player, such as heath restoring or speed punch. Sometimes enemies drop "popple". Popple is the "energy" that has turned all of the components into enemies. However, when the character absorbs the popple, the character becomes stronger. Once a character absorbs enough popple, the character increases in hit-points and fighting power.
+
+The levels are presented in isometric 3D, and the graphics have a cartoonish look, with some very humourous animations (such as the monitors, which look upwards and whistle innocently when a player is facing them, but advance in tip-toe steps and then jump on the player from behind).
+
+Along the way, players must defeat minor bosses, such as "Die HDD" and "Megatron", and there are in-game cut-scenes where friendly characters are introduced and whose dialogue advances the plot or provides hints.
+
+There are telephone boxes at various places through the game, which allows the player to save the state, provided that the phone card has been found first. However, upon reloading the level, all enemies will be resurrected each time, which can lead to some frantic play.

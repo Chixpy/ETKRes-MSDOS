@@ -1,0 +1,3 @@
+BJTables is a program which emulates the game of casino blackjack, and allows the player to play a realistic form of casino blackjack.  The purpose of the program is to help the user develop blackjack skills, particularly as far as card counting abilities are concerned.  Casino blackjack is the only gambling game where a skilled player can actually turn the odds to his advantage, and play a game with favorable odds.  This program is intended to allow a skilled player a way to effectively practice his game before venturing out into the casino.
+
+BJTables software reads in modifiable strategy tables and has a customizable card-counting scheme.  The user can try out different card-counting strategies and decide which is best for him.

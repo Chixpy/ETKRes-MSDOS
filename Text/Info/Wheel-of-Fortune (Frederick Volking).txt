@@ -1,0 +1,3 @@
+"Wheel-of-Fortune for 1 to 5 players. Two phases, be the winner of the regular games and you get to compete in the speed round! 3 levels of difficulty and 26 categories of answers.
+
+Use WOF-ADD to add your own questions! Sound and color are supported but not required."

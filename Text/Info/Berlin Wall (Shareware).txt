@@ -1,0 +1,1 @@
+Welcome to the Berlin Wall. Your task is to create a wall. Each time you create a wall down the center of the screen, it will be removed and you will earn points. The number of points is determined by the speed of the game.

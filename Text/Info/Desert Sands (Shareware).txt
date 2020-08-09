@@ -1,0 +1,2 @@
+Desert Sands is a 3-D virtual reality environment game. You control an SG-027 Phantom Offroad vehicle. The point of the game is to fire at the appropriate switches to open doors as you navigate your way through castles and barren desert. Your goal is to reach the Helipad at the end, and board the Helicopter which will fly you to safety.
+

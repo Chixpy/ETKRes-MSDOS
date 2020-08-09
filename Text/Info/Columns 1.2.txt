@@ -1,0 +1,1 @@
+This is basically a port of Brian Boese"s own Commodore 64 game Stack "Em, which he wrote 1991 for the Loadstar disk magazine, but with some advanced features like bitmaps for those who cannot discern the six colors due to color blindness or a monochrome monitor.

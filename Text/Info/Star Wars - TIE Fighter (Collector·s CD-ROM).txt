@@ -1,0 +1,14 @@
+You are a member of the Imperial Navy, eager to fight the Rebel Alliance and other scum to strengthen the rule of Darth Vader and the Emperor.
+
+The follow up to X-Wing is a space combat simulation set in the Star Wars universe. There are 7 campaigns, taking in over 50 missions. You often have wingmen who can be given orders to help you out. The detailed storyline is driven by cutscenes. You will fly a variety of craft from the lowly Tie Fighter to the speedy Tie Interceptor to the high-powered Tie Advanced. On each of these, balancing engine/laser/shield ratios in real time is crucial to getting the most power and safety.
+
+This compilation includes the campaigns from the original game Star Wars: TIE Fighter, the three campaigns from the add-on Star Wars: TIE Fighter - Defender of the Empire and also three new, never before released campaigns in a second add-on called Enemies of the Empire. In total there are more than 100 missions to fly and survive.
+
+In addition to the new missions, there are also some technical improvements to the game:
+
+Improved screen resolution to SVGA (640*480)
+Added new cut scenes
+Full voice mission briefings and radio calls (the so called "Talkie" version)
+Improved the interactive mission briefing
+
+

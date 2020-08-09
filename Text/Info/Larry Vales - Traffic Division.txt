@@ -1,0 +1,5 @@
+Larry Vales is an officer in the traffic patrol in a little town in Tennessee. Recently a local insane scientist Professor Semprini invented a machine called "Lovely Rita 4200 Parking Enforcement Cyborg".  It was supposed to make people obey the traffic rules, but seemed to have exaggerated quite a bit: every traffic violation, even the smallest one, lead to the death of the poor citizen. You and your partner Charlie have to destroy this horrible invention! But how?
+
+The game is a traditional point-and-click adventure with an interface very similar to Sierra"s VGA games and the game itself reminds of the Police Quest series. There is an inventory and actions to walk, examine, pick up items, and talk. These can be selected from the top of the screen, or switched with the right mouse button. The game is split up in three acts and you can measure your progress by a score system.
+
+There are a few sound effects and the background music contains midi files of famous songs by Dire Straits, Fleetwood Mac, Led Zeppelin, and others.

@@ -1,0 +1,3 @@
+. . . . . A Mystic Force has invaded the land and YOU must stop it. This is a Text Adventure game featuring simple ANSI graphics (add DEVICE=C:\DOS\ANSI.SYS to your config.sys file, or DEVICE=C:\WINDOWS\COMMAND\ANSI.SYS if you are using Windows 95/98). The parser in this game is simplistic (not as nice as my newer Adventures, Breath Pirates and Lunatix: The Insanity Circle).
+
+An ANSI-graphics text adventure game. A Mystic Force has entered the Mystic Realm. Can you find a way to stop it?

@@ -1,0 +1,5 @@
+Ultimate Pinball is an arcade-style pinball game. The game is almost identical in style to the pinball games by 21st Century Entertainment, such as Pinball Dreams.
+
+It includes six different pinball tables to play, all based on generic ideas such as sports, horror, Egypt, space, pirates, and the American west.
+
+The game features smooth scrolling, digitized sound, and local multiplayer capabilities.

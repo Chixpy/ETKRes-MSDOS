@@ -1,0 +1,3 @@
+QBlocks was not, as often incorrectly stated, one of the sample programs that came with QBasic when it was included with MS-DOS 5.0 in 1991. Instead, it seems to have been one of the sample programs in "Learn BASIC Now" by Mike Halvorson and David Rygmyr, a book published by Microsoft Press in November 1989. This book came with the first QuickBASIC interpreter (previously there had only been a compiler), which can be seen as a forerunner of QBasic.
+
+These historical details aside, it is of course fully compatible with QBasic, which you will need to run it.

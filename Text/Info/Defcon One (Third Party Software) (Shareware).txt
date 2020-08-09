@@ -1,0 +1,3 @@
+Hello arcade game lovers!  Third Party Software was started by a couple of guys who love arcade games.  But in a world of boring simulations, we are here to provide high action, good quality arcade type games at a price everyone can afford.  This game is no exception, and we hope you enjoy it.
+
+The game starts by asking how many players will be playing.  Up to 8 (yes I said 8) people can play at one time.  The game will then ask what type of control you will be using, Mouse, Keyboard or Joystick.  Enter the first letter of the control you want to use ( M for mouse ).  You can also change the controls in mid-game by pressing k,j or m.  The gameplay is simple, protect your cities from nuclear missile attack.

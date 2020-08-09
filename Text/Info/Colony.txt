@@ -1,0 +1,1 @@
+Well, here"s Colony, my first game, from 1998. It"s based on Tek"s Tile Engine 3, and features craptastic graphics, a shitty math model, and a couple of secrets. I wish I still had the text-based Colony (v0.5), that was cool.

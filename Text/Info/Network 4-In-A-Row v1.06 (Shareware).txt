@@ -1,0 +1,3 @@
+* Network 4inarow * is a simple game in which the object is to get four of your game pieces in a row, either up, down or diagonally. As is implied in the name, 4inarow requires a network as well as another human player as an opponent.  Play continues until a player is able to get four pieces in a row or puts a piece in the top position of any column.  A player"s pieces are placed in a selected column and stack up from bottom to top.
+
+NOTA: Requiere una conexión de red.

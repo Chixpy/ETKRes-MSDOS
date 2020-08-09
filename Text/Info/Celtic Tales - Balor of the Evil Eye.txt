@@ -1,0 +1,29 @@
+Finally the champion long awaited by the Goddess Danu, has arrived. The people of the island of Eire (Ireland) have long suffered from the curses the evil Formors and their leader Balor, thus are in need of a High King to unite the scattered tribes.
+
+To accomplish this, the player will descend from the heavens to Eire and pick a guise from 9 champions available. Gain respect of the other tribes of Eire through diplomacy and war. Unite them to become High King of Eire and finally defeat Balor once and for all!
+
+Celtic Tales: Balor of the Evil Eye is an isometric turn-based strategy game with various character development elements. Gameplay of this game may be identified as the following: 
+Province Development
+To create a strong army, the player must first create a strong home. The game starts with the player"s province as the main screen. Numbers on the screen indicate how strong or how many provincial elements they have. The player can also access the Fortress and Settlement menus from here. Here the province may be developed by own heroes through the following activities: 
+Farm: To provide grain during autumn harvest; 
+Cowherd: To breed and maintain cattle, an invaluable trade resource in Eire; 
+Mine: Mine rocks to obtain metal used for building and item creation; 
+Chop: Chopping down trees will provide wood for building and item creation. 
+Character and Hero Development
+The role-playing game (RPG) elements of the game start here. A hero comes with a unique portrait, class, statistics, inventory (one item per hero), and skill proficiencies. The land of Eire comes with a unique set of 3 different character classes: The Warrior, the Bard, and the Druid. Only Bards and Druids may cast spells. Spells are used and obtained by using specific orders of runes. Assigning Heroes on specific tasks may lead them to acquire certain skills than allow them to become better in certain roles.
+
+
+Diplomacy and Trade
+The Fortress and the Settlement areas allow the player to conduct diplomacy and barter agreements. In the Fortress section, the player may conduct tributes to open first-contact diplomatic channels with other tribes and further increase relationships by doing so, or may also attack (war) or attempt a cattle raid on neighboring provinces. In the Settlement section, the player may move heroes and resources to another province, send caravans, and resources for barter as well as create unique items through their heroes.
+
+
+War
+War occurs when the player invades or is invaded by enemy heroes. Diplomatic ties are automatically broken when an invasion commences. A maximum of 7 heroes may attack or defend a province. The defending army has the option before-hand to defend or to flee. Fleeing armies takes with them a portion of the province resources. An attack ends when either: 
+The enemy leader is captured or is killed;
+
+The enemy routes;
+
+The attacking enemy stays too long, thus must retreat. 
+The winning army then decides the fate of the captured heroes (if any). 
+
+

@@ -1,0 +1,3 @@
+In this game, you gotta make as much points as possible by navigating the pointer around the base with the mouse.
+
+If you touch a circle, the color of the circle will fill the field you"re at. If the space wasn"t empty then your energy is decreased (the lower your energy, the bigger the blinking middle point will be). If you get three or more fields of one color in a row, they"ll disappear and you get bonus points. The speed will increase depending on your points, if you reach a certain value, you"ll win. If you have no energy left, you"ll lose.

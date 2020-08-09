@@ -1,0 +1,3 @@
+This was the first 32-bit title in the Chessmaster series offers features designed around the processors of the time. Modem and LAN play is available for the first time. Boards are viewed in 2D or 3D, and include many custom sets, with game options selected from surrounding windows and drop-down menus. 
+
+Entering moves is now easier - if you click on a square which only one of your pieces can move to, it will move their automatically. Full games  (including 500 recreated real-life classics) can be analysed from an expert perspective, and a library of common opening move sequences is included. Computer players act in a variety of ability levels and play styles - some are prepared to play for a draw, others are focused on keeping the centre of the board tidy, and so on.

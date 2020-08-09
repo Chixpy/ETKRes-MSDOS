@@ -1,0 +1,2 @@
+Fictionary is a game of obscure words. The program is for one or more players.
+

@@ -1,0 +1,18 @@
+Controles:
+---------------
+
+Q - Subir
+
+A - Agacharse
+
+O - Izquierda
+
+P - Derecha
+
+Z - Patada
+
+, - Puño
+
+Espacio - Salto
+
+Enter - Arrojar bomba

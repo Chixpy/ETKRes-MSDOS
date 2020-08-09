@@ -1,0 +1,1 @@
+This is a medieval era game where each player starts out as a baron. The game takes place in a pseudo-european state where you need to acquire vassals and land. Getting more vassals and land through battling the other barons, you can expand and build castles and towns. Wizards and spells are also available to make this more of a fantasy wargame than anything else.

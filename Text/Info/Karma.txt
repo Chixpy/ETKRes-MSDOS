@@ -1,0 +1,5 @@
+The plot of the game. Space traveler crashes on a distant planet called Karma. Evil completely prevails in this place. But Karma was not like this in the past, technology and nature existed in harmony until something terrible happened. And our hero must find a way to the lost temple to reveal all the truth about what is and was going on here.
+
+Every time you start the game, planet is randomly generated. This makes each walkthrough pretty unique. However, main story characters remain the same. This game combines both adventure and role-playing elements. There are many dialogues with the local inhabitants throughout the game, a lot of planet locations to discover and turn-based battles with a variety of hostile creatures.
+
+Graphically the game is presented in 4-colour CGA palette. It uses the same engine as Tera: La Cité des Cr\u00e2nes. Also, it has a boss key feature for those, who play at work. Simply press "H" button and bar chart will appear on the screen.

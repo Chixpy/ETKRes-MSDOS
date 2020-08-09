@@ -1,0 +1,23 @@
+Excellent DOS clone of this wonderful old game; with accurate gameplay, levels, etc. Requires fast Pentium (200MHz or faster), fast video card fully supporting VESA, Sound Blaster or compatible, and at least 480k of free memory.
+
+This is based off the classic game of the same name which was around when Adam was a boy.
+
+It is a full screen DOS game that is very accurate to the original with virtually identical gameplay, levels, etc.
+
+Sounds are PC speaker only, and you have an audible 10 second warning before you run out of time.
+
+There is a certain attraction in those old games which seem to hang around much more than the modern crop of gee-whizz shoot-em-ups. They have a playable quality which transcends fancy graphics and other modern innovations.
+
+Try Boulder Dash. The download is a tiny 14kB, the instructions virtually non-existent (start the game by pressing the right-hand Shift key, exit the game by using the Esc key) but the game is all fun.
+
+Update:\u0009 July 11, 2001
+
+Boulder Dash has been updated so that it can be played on modern computers (the old version was not suitable for fast computers). The name has been changed to Boulder Dash 2000.
+
+This version requires a fast Pentium (200MHz or faster), fast video card fully supporting VESA, Sound Blaster or compatible, and at least 480k of free memory.
+
+While it is not specifically designed for playing under Windows, we found that it played OK under Windows ME (which does not have an MS-DOS mode).
+
+If you want an exact copy of the original "Boulder Dash II" then grab this game.
+
+Note: both the original 1993 Boulder Dash clone (mentioned above) and this new version are available for download.

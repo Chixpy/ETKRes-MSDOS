@@ -1,0 +1,5 @@
+Flight simulator for the Soviet SU-25 attack jet. A wide range of bombs and munitions are included (from cluster bombs to rockets to guns).
+
+Includes three sets of missions (each set takes place in a year, from 1991 to 1993). Missions range from attacking tanks and troops to attacking bridges and other buildings. Although the missions can be played separately, played in order they form a storyline about the crumbling Soviet regime.
+
+This simulator uses a true 3D engine, but the flight model is not 6DOF.

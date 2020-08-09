@@ -1,0 +1,2 @@
+Match up colors in the falling blocks to earn points and have the blocks disappear. Blocks can be matched vertically, horizontally, or diagonally. You must have at least 3 blocks of the same color for them to count.
+

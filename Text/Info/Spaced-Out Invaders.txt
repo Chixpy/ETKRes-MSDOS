@@ -1,0 +1,14 @@
+"Shoot all the Invaders while hiding behind the bunkers to help protect you. You have a total of four laser cannons (""lives"").
+
+Each time you shoot all the Invaders in a given attack wave, a fresh attack wave will appear.
+
+Each new wave features slightly faster Invaders, and they start a little closer to your planet each time.
+
+If any aliens touch down on your planet, you have been INVADED, and you lose the game at that point.
+
+Saucers appear from time to time and can have VERY high score values, depending on your skill in shooting them. Remember how the original game did it? :) Just don"t get too distracted shooting at the Saucers...
+
+Some higher attack waves will bombard your planet"s visual sensors and make it difficult for you to see the Invaders. Be careful!"
+
+In 2007 the author made this game freeware (was previously shareware).
+

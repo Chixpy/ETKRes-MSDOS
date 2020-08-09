@@ -1,0 +1,24 @@
+Created during the golden age of the Mortal Kombat franchise, Pong Kombat is a freeware parody of the game combining it with the low-tech Pong. There"s even a storyline revolving around the ancient powerful white paddle (remember him?) and the multi-coloured younger paddles who would challenge him. There"s even talk of a mysterious Monolith, secret character of great power, hidden somewhere in the tournament.
+
+Player 1:
+
+                         +---+
+         FIRE          | W |   UP
+    +------------+   +---+
+    | Left Shift  |    +---+
+    +------------+    | X |   DOWN
+                           +---+
+
+     Now, fire alone does diddley.  However, fire in combination
+with up and down can shoot projectiles, do fatalities, and other
+fun things which are more or less secret.
+
+     Player two, on the right, uses these keys.
+
+                          +--------------+
+         FIRE           | UPARROW  |    UP
+    +------------+    +-------------+
+    | RightShift |    +-----------------+  
+    +------------+    | DOWNARROW |  DOWN
+                           +-----------------+
+

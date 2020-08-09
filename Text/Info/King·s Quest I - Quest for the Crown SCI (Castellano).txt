@@ -1,0 +1,3 @@
+A complete rework of the original King"s Quest, using Sierra"s 16-color SCI game interpreter. Graphics were remade, and new music was added.
+
+Fans" opinions of the results vary.

@@ -1,0 +1,4 @@
+LetterSlide is a word/puzzle game based loosely on Sokoban. Each puzzle screen contains a number of letter blocks which you may push left, right, up, or down. You may not push blocks diagonally. Your job is to push these blocks so that they form words at least three letters long. The words may be vertical or horizontal, backwards or forwards. By creating words you will be able to collect jewels and advance to the next level. As an aid, you may also collect bombs which allow you to destroy any block. Thats all there is to it - sound simple? You"ll find it to be quite challenging! The game comes with a 16,000+ word dictionary, so it will be capable of recognizing many words you may choose to create. An editor is also included so you may create your own levels.
+
+Botón derecho y seleccionar LEVELEDI.EXE para el editor de niveles...
+

@@ -1,0 +1,1 @@
+The object of LYNQ is to match up the colored shapes on the different pieces so they all match.  Every time you match up a shape, you form a "Link."  When you "link" all the shapes, you win!

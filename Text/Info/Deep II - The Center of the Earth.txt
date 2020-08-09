@@ -1,0 +1,5 @@
+Aliens: go figure!  Years ago Zybonians installed a control-center in the middle of planet Earth, so that years later, they could wrench the planet out of its orbit and bring it to their home system.  (As the introduction notes: <tt>Why they want that?  We don"t know</tt>, but why let that get in the way of enjoying the game?)
+
+A sequel to their bottomless pit game Deep, written in Turbo Basic 1, Turbo Pascal 4 affords Deep II subtler structure and nuance.  Both games follow the same basic premise -- as the documentation states: <tt>It"s the same idea as Deep: you fall in a very deep pit</tt>.  (Nothing is as simple as it seems: the computer randomly draws meandering cavern walls and you must direct your tethered stickman"s descent so as to not collide with them, at the cost of shields.)
+
+50 levels later, after picking up money and shield bonuses, avoiding mines, blasting through more than a little rock, and getting boosted with power-ups at automated pit stops, you too will arrive at the centre of the earth and discover the secret behind the Zybonian control-center.

@@ -1,0 +1,5 @@
+"Welcome to Cell Quest! One of the few games that takes place on a microscopic scale, within the human body! There are several key concepts you will need to be familiar with before proceeding.
+
+There are 12 enzymes in the game, each with it"s own purposes and effects. Certain creatures can only be killed with very specific enzymes. You will have to try doing various things with each one to figure out exactly what it is for.
+
+Some enzymes protect you from a certain type of creature, in which case you need not select it. Simply possessing the enzyme is sufficient. However, to fire at other creatures, you must select the enzyme you wish to use."

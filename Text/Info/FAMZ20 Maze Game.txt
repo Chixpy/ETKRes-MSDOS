@@ -1,0 +1,6 @@
+Generate and solve mazes on your VGA (or better) display.
+
+The mazes are displayed in three dimensions.
+
+You will be prompted for the number of columns, the tilt, and a random number seed.
+

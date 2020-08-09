@@ -1,0 +1,43 @@
+Prospector takes place in a mine deep in the depths of
+the earth. The prospector is searching for nuggets of gold
+while avoiding the many creatures in the mine and navigating
+the various machines found there.
+
+Occupying every level of the mine are creatures called
+snarfs, odd creatures consisting mostly of a big mouth. They
+stake out a platform as their territory and patrol it
+diligently. Fortunately, they cannot move up and down the
+ladders or jump across the gaps between the platforms.
+
+Found on some levels is a giant rat, affectionately
+known as Ratty. Unlike the snarfs, he can climb up and down
+the ladders. Luckily for the prospector, the gaps between
+the platforms are too wide for Ratty to attempt to jump
+across.
+
+However, the creature with the odd stalk-like eyes,
+known as Igor, cannot only climb up and down, he also can
+jump between platforms.
+
+Among the other creatures are the grofs, which lay their
+eggs in mining carts and come leaping out when they hatch,
+falling into the depths of the mine. Lastly, there are the
+giant bats, which are relatively harmless, as long as the
+prospector doesn"t bump into them or walk across an occupied
+nest.
+
+Contact with any of the creatures is fatal to the
+prospector. Aside from the creatures, there are the various
+machines within the mine, including elevators, teleportation
+platforms, floating platforms, conveyor belts, and jets of
+flame.
+
+The prospector does have a few weapons to use against
+these obstacles. His great jumping ability allows him to
+leap over the creatures, across the gaps between platforms,
+and onto elevators and other machinery. Scattered around
+each level of the mine are gas bombs. When the prospector
+touches one of these bombs, it goes off, normally knocking
+out all the creatures on the current level. (Only Igor is
+unaffected by the gas.) However, bumping into a stunned
+creature is as fatal as bumping into an unstunned one.

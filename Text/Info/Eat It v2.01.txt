@@ -1,0 +1,6 @@
+I"m sure you"ve seen quite a lot of games that have the same idea as this one. In short the purpose is to eat as many candies as you can before the monsters get you (eventually, they will). There is also a super-candy in each of the corners which gives you a chance to eat the monsters for a while. The monsters turn white when you eat a super-candy. When the effect of super-candy is about to end, the monsters begin to blink. You may eat the monsters while they blink, but beware! It may turn out that the monster eats you if the effect ends before you get  it. When you have eaten all the candies and super-candies, you are taken to the next level and the speed of the game is increased a bit.
+
+You get one point for each candy you eat. By eating a super-candy you get 5 points, and after that first monster gives you 10 points, second 20, third 40 and the fourth monster 80 points. You get an extra eater every 1000 points you get.
+
+The monsters aren"t too smart, so they may occasionally turn away from you just when they are about to get you. But don"t trust on it - it doesn"t happen too often. Anyway the game is difficult enough even this way. 
+

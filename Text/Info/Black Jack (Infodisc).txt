@@ -1,0 +1,35 @@
+Probablemente, al que más al que menos, y aunque solo sea por referencias cinematográficas o literarias, le resultará familiar un juego de naipes, típico de casino, denominado BlackJack. 
+
+Pues bien, el programa protagonista de la presente ficha no es, ni más ni menos, que una (austera) adaptación a PC de este popular juego creada por José García para Infodisc allá por 1989.
+
+Llegados a este punto conviene recordar algunas de las reglas básicas de este juego.
+
+En el Black Jack gana el primer jugador que logra aproximarse más con sus cartas a 21, sin pasarse. 
+
+El valor de cada carta viene determinado por su número. La "K", la "Q" y la "J" computan por valor 10, mientras que el "As" en su función de "comodín" puede tomar como valor 1 u 11 en función de si vamos a superar los 21 puntos o no.
+
+Como hemos dejado caer, en el momento en el que un jugador sobrepasa los 21 puntos, pierde automáticamente la partida.
+
+Huelga decir que siempre podemos plantarnos antes de llegar a tal cifra, en espera de que sea el rival el que se pase. En tal caso corremos el riesgo de que el adversario (en esta versión la banca, únicamente) se aproxime más a la mencionada cifra y se proclame ganador de la partida.
+
+Antes de jugar cada tanda debemos realizar nuestra apuesta. Partimos con 100000$ mientras que la banca parte con una cifra algo mayor, 200000$. Ganamos el juego en el momento en que logramos agotar por completo los fondos de la banca. 
+
+No existe límite alguno a la hora de realizar apuestas, salvo el impuesto por la cantidad de efectivo de que dispongamos.
+
+Hasta aquí la exposición de los fundamentos básicos de juego, pero... ¿Cual es el problema con la versión que nos ocupa? (Si es que lo hay... Que lo hay :)). Pues... Básicamente, el mismo de siempre en los juegos creados en exclusiva para publicaciones quiosqueras. La "escasez" generalizada.
+
+De hecho, de opciones esta versión de Blackjack anda más que justita. Solo podemos jugar contra la banca. No resulta posible la participación de más jugadores, ni simulados por la CPU, ni controlados por otros participantes. Todo ello a pesar de que en el BlackJack real se suelen permitir hasta 7 jugadores simultáneos. 
+
+Además, al contrario de lo que sucede en otros simuladores de BlackJack, tanto contemporáneos como pretéritos, esta versión de Infodisc carece de la posibilidad de introducir variante alguna en las reglas de juego.
+
+En cuanto a temas técnicos el programa sigue la misma línea de austeridad.
+
+El apartado gráfico muestra lo justo. A saber, marcos y cartas de sencillo diseño sobre un fondo negro. 
+
+En su haber es justo reconocer que a nivel estético resulta tremendamente similar a los juegos de cartas publicados por diversos autores en las diferentes entregas del Big Blue Disk de Softdisk Publishing.
+
+A nivel sonoro, nada destacable, ya que el programa se limita a reproducir los típicos pitiditos y ruidillos. Algo, por otra parte y para desgracia de muchos usuarios de compatibles, bastante común en los juegos de aquella época (incluso en los 100% "retail").
+
+En términos jugables, hemos de reconocer que estamos ante un programa que en un primer momento logra entretener. Ahora bien, los grandes lastres que suponen tanto la carencia de opciones como la de modos de juego, hacen que el interés por el juego decrezca (muy) rápidamente.
+
+En definitiva, ya concluyendo, podemos definir a Black Jack como a una adaptación no muy afortunada del juego homónimo a PC, solo apta para partidas rápidas y ocasionales.\u0009

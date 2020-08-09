@@ -1,0 +1,11 @@
+This DEMO program requires a 2 button mouse (Mircosoft will do), DOS and a VGA.
+
+If the game runs too fast on your machine (we use ultra fast code) type shooter <n> where n is a number. (do not type brackets <>).
+
+Larger numbers slow game down more.
+
+Press space to bypass screens.
+
+This is but one of many examples of Team Infinity"s DOS Games.
+
+Others include Scrollers, Parallax, and platform games.

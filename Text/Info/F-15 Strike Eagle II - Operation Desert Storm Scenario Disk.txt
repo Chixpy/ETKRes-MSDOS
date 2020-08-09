@@ -1,0 +1,3 @@
+Add-on disk for F-15 Strike Eagle II, capitalizing on the Persian Gulf war. 
+
+The disk includes 8 all-new missions and a random mission generator as well as including the North Cape and Central Europe scenarios from F-19 (this time without the need for replacing your F-15 II scenarios).

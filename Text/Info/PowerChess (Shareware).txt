@@ -1,0 +1,6 @@
+PowerChess is a single player shareware chess program that runs in DOS. It is entirely keyboard operated; the arrow keys are used to move a cursor around the board. Once this has been placed over the required piece the Enter key is used to select that piece and the arrow keys move a second cursor to the position to which the piece is to be relocated. The Enter key is then used to complete the move.
+
+PowerChess uses standard international chess rules such as en"passant and 50 move drawing rule among others. It allows the player to set up positions and to save games to be played / replayed at any time. Other features include a ten game library of chess problems, the ability to print the current game and a hint function.
+
+Wanna play some chess? Power Chess might be the game for you. It does a decent job of simulating the chess playing experience, and you can play against a tough computer opponent. (At least, I assume it"s tough. Let"s just say that my limited skills are no match for it.) The presentation is nothing really exciting but chances are that if you want to play chess you aren"t too worried about that. There does seem to be a nice selection of options, statistics, and other things that may interest a chess affascinato.
+

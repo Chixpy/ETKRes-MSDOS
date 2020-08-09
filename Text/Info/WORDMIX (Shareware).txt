@@ -1,0 +1,8 @@
+"When you guess a word, the program compares it with the puzzle words. If it does not find a matching word, it tells you the word is wrong. Wrong guesses don"t count, so you can just make another guess.
+
+If your guess is right, WORDMIX moves the letters from the mixed letter area to the right side word display. When you solve all the words, the program will tell you the elapsed time.
+
+HINT: Use your knowledge of English language letter combinations to find the words in the array of mixed letters.
+
+WORDMIX 1.2 has more than 900 puzzle words and 41 clues.
+"

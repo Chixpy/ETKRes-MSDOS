@@ -1,0 +1,5 @@
+Remake de "Pooyan", juego de Konami de 1982. 
+
+Dispara a los globos de los lobos para defender a tu prole, pero ten en cuenta que sólo puedes disparar una flecha cada vez, y que cada lobo que escape quedará fuera de tu alcance. 
+
+Demasiados lobos y la partida terminará.

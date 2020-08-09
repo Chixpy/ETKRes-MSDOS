@@ -1,0 +1,4 @@
+Dark Woods clone on German. It features the same concept and 27 levels (plus 9 tutorial levels). I has all the fun of the original and it looks like a well designed game. The package comes with a level editor. You can play the game without knowing German, but I don"t recommend it (a lot of text is present in the game, like level descriptions).
+
+Botón derecho y seleccionar editor.exe para el editor de niveles.
+

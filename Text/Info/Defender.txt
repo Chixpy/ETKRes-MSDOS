@@ -1,0 +1,3 @@
+The purpose of the game is like the "real" Defender (or any clone) game; don"t let the Aliens land on the surface of your planet. To reach that goal you have to shoot "em back to the black, dark space. In the game there are two special items: the Alien-Lunchbox, that will fall down if you shoot it. If you catch it, various things can happen; the area will be partially cleared, your firepower or speed will increase, you can get extra lives or bonus points et cetera. The other item is the Alien-Mother-In-Law. It you shoot her, the Aliens are so pleased that they move up one level.
+
+Sometimes, probably when the Alien-Boss is watching, they"re very diligent and start a full speed attack. Just watch the message box.

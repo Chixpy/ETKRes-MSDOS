@@ -1,0 +1,22 @@
+OBJECTIVE
+
+The objective of Wall Pipe is to try to keep the water flowing
+as long as possible by placing down pipe links to direct its flow.
+
+
+
+GAME PLAY / CLOCK
+
+On the left side of the screen, you will see 4 different shaped
+pipes.  The mouse cursor will be on top of the bottom pipe.
+Clicking the mouse button will make the pipe disappear and the
+mouse cursor will then appear on the game board itself.  Clicking
+the mouse button again, will place that pipe onto the game board.
+
+When the game begins, there is a clock located on the left side
+of the screen.  At the first level, you will have 40 seconds to
+place pipes before the water starts to begin flowing from the
+Water Well which is light blue.  Once the water has begun to flow,
+you can still keep placing pipes down on the game board in order
+to keep ahead of the onrushing water.
+

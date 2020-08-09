@@ -1,0 +1,3 @@
+Spy Hunter is an action/driving game with the player in the role of a spy driving an armed sportscar. The object of the game is to travel the freeway destroying as many enemy vehicles as possible while protecting civilian vehicles. The game is a top-down vertical scroller.
+
+Early versions of the game used the James Bond theme by Monty Norman, but the inability to obtain the rights to use the music forced Midway to change this theme.[citation needed] As a result, an electronic arrangement of Henry Mancini"s theme to Peter Gunn plays throughout.

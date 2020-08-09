@@ -1,0 +1,1 @@
+Classic blackjack game in DOS. Objective beat the dealer by getting as close as possible to 21. Has mouse support.

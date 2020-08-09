@@ -1,0 +1,7 @@
+Mission Cobra 98 is a single player, side scrolling, freeware shooter which plays like Defender only without the rescuing people part.
+
+The player controls a small space ship that flies through a cave system shooting enemy craft as they go. In some sections the way ahead is blocked and the player has to blast through. There is a mini map in the top right which shows the way ahead, this is essential as contact with the walls of the cave is just as deadly as being shot by, or colliding with, an enemy ship.
+
+Along the way there are power ups, such as triple fire, to collect.
+
+The game is entirely keyboard controlled and has both music and sound effects.

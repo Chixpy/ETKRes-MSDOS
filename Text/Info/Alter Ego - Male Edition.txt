@@ -1,0 +1,7 @@
+Alter Ego is a game which tries to simulate life itself. The player creates his own character with different personality statistics, either randomly assigned or by answering a few introduction questions. Then the player guides this character through the seven life phases, representing the time as newborn to old age.
+
+The gameplay consists of a series of situations which require a decision to take. This is done by choosing one of multiple answer possibilities, sometimes accompanied with a mood. Then he gets presented with the outcome and goes on to the next situation - well, it is not that easy. Every decision has long-time consequences and influences the personality, health and which situations await further down the road. Some decisions may even result in an early death or instant game over.
+
+Every life phase is represented by a life tree where the situations are lined up; the motive of the situation card shows the general theme of the situation. After reaching a certain age, additional life options can be undergone at any time. Here the player can change his lifestyle and manage his love and professional life.
+
+The game exists in two variations which depict a male or female life.

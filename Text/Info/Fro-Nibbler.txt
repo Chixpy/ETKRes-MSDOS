@@ -1,0 +1,2 @@
+Level-based game play where you need to survive for two minutes in each level while eating food. As you eat food the snake gets longer.
+

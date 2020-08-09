@@ -1,0 +1,2 @@
+The Ford Simulator is an advertisement for Ford. It presents their 1987 model line and gives you a chance to drive each one in a simulation. You can also fill out a form to get more information about each car.
+

@@ -1,0 +1,15 @@
+In the year 2012, Foreign Terrorists led by the infamous Victor Baloch have taken control of the Twin "U.N towers" in the United States of America, capturing the leaders of the world who were holding a summit at the time.
+
+As a member of the Governments "Elite Force", trained to take out terrorists when the talking stops, you must enter one of the towers through its maintenance area, which can be accessed through the sewers.
+
+OBC has 40 levels with the first 5 taking place in the sewers where the player, strangely, fights off giant rats and mutants the manual calls Sludge Minions before they enter the first tower to take on the terrorists.
+
+The weapons available to the player include a shotgun with infinite ammo, an Uzi, Galil, Flame Thrower and Grenade Launcher (though it functions like a Rocket Launcher).
+
+The aim of each level in OBC is to kill a certain number of terrorists on a map before using one of several elevators or stairs to go up to the next floor.
+
+OBC pioneered many features including controllable allies (the other members of your squad that join you once you enter the tower). You can order them to follow you or to roam the floor killing all they find. The player can also freely jump between their bodies in the games take on a lives system; as long as the team member they are in isn"t killed there is no limit on this.
+
+OBC also features a near fully destructible environment; the Flame Thrower can set bad guys, scenery and the level itself on fire, which could make movement extremely hazardous for the player, especially as the fire randomly spreads. The Grenade launcher meanwhile can destroy any wall (with some hard coded exceptions).
+
+Like Blake Stone OBC also features textured floors and ceilings. Though unlike Blake, OBC could have several different floor textures on the same map. However OBC"s floor/ceiling graphics were partially parallax meaning they appeared to "warp" as the player moves around.

@@ -1,0 +1,3 @@
+"TIC-TAC-TOE is a clone of the game we all know and love. The game has been brought up to date by adding exciting VGA graphics and Sound Blaster ( and compatible cards ) support.
+
+The object of TIC-TAC-TOE is to get three X"s or O"s diagonally, vertically, or horizontally. When in the 1 player mode, the computer is always ""O"". You can switch play modes ,levels , and toggle the sound at any time in the game. At the right of the screen you will see the total wins for each piece. The totals can be reset by pressing the ""ZERO"" button."

@@ -1,0 +1,7 @@
+"This archive includes Pirada I, II, and III.
+
+In Pirada I you uncover cards in each row to try and make 21.
+
+In Pirada II you uncover cards to try and make a better hand in each row.
+
+Finally, in Pirada III you pick 1 to 20 numbers and then select the boxes where you believe your numbers are hidden."

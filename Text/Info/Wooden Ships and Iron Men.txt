@@ -1,0 +1,7 @@
+Wooden Ships & Iron Men is a turn-based game that allows you to recreate naval battles from the 18th and 19th centuries, based upon the successful boardgame by Avalon Hill.
+
+You may choose from a list of scenarios or play a campaign. Choosing the Scenario option allows to select a series of set battles from the American Revolutionary War, the French Revolutionary War, the Napoleonic Wars or the War of 1812, where you will have the choice of commanding American, British or French ships. In campaign mode, you take command of a selection of US ships during the War of 1812, where your task is to sink as many British ships as possible during your career. 
+
+Ships are controlled with the mouse, enabling you to change course, load cannons, reassign your crew to stations and grapple. The game allows for a computer opponent, a human opponent or play by e-mail.
+
+A Scenario Editor is also available, allowing you to create your own missions.

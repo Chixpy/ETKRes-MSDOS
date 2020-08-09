@@ -1,0 +1,7 @@
+Jonny Quest is an action-adventure game with beat-em-up sequences.
+
+This game is based on the Hanna-Barbera animation series The Adventures of Jonny Quest of 1964. Jonny is a bright young fellow with a talent for judo-fighting, defeating evil creatures and generally doing heroic things normally not suited for 14-year-old boys. When mayan idols disappear in the South American rain forest, the Team Quest sets out to comb through the jungle and a couple of temples.
+
+Gameplay is divided into two parts: On the top-down map of the forest and the temples, Jonny and his friend Hadji search for useful items and solve puzzles. If they encounter an adversary, the game switches to a side-view. Jonny\u2019s then got to defeat his opponent in classical beat-em-up-style with a variety of punches and kicks. After a short time, Hadji and the dog Bandit appear on the scene and help Jonny by casting spells (Hadji) and dragging the enemy around (Bandit). If you lose, you\u2019ll get two additional chances; after that, the game is over.
+
+All main actions (talk, look around, access inventory) are performed via the F-keys; more sophisticated possibilities like using items involve strings of F-key/direction key usage. The puzzles in the game are inventory-based.

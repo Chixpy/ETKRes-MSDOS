@@ -1,0 +1,9 @@
+E.S.S. (European Space Simulator) challenges the player to manage a space shuttle trip starting with 200,000 coins in cash. Successful actions will lead to an increase of the cash, while unsuccessful and preparation actions will lead to its decrease.
+
+Set in the future, events of the game start on New Year"s day 2010 with a preparation phase, when the player allocates fuel and energy for the trip, assigns scientific and technical crew members, takes part of orbital station and satellites. The shuttle has limited space to carry and the player needs to choose the equipment and crew wisely. Every effort costs a certain amount of money.  
+
+After the shuttle is prepared, it is launched and set to orbit around Earth. It is possible to build and manage a space station docking with it and send up and maintain satellites. It is also possible to take the role of an astronaut and exit the shuttle to outer space in a EVA suit. Control of the shuttle and the astronaut in space is performed from a first-person perspective.
+
+After all research were made, shuttle has to be landed on a "shuttle carrier". It is performed manually from a third-person behind-the-shuttle perspective. Invalid landing will also cost money.
+
+Game is localized to English, French, German, Italian, and Spanish. It has a sequel: E.S.S Mega.

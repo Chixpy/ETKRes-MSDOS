@@ -1,0 +1,9 @@
+This game is intended to entertain. It"s not designed to be very professional nor good-looking. It"s made for the sole purpose of literally having a blast and generally a good time. It is nowhere near finished yet, but at least now it is at a stage where it is playable! You might want to fiddle around with the constants in it a bit, but it is as working as it could be. Bombs do blow away more than just themselves, and the bad dudes are actually bad. And, of course, you earn high scores by incinerating them and collecting treasures!
+The latter can give you special bonuses like more bombs and bigger explosions.
+
+Basically, it"s all like Bomberman, if you"ve ever played it which am more than sure that you have.
+
+The code is not commented. I never actually gave any comments a single thought. I just wrote the code. Don"t expect it to look tidy, as it"s all basically written from scratch in the course of 10 hours non-stop programming.
+
+The graphics I drew before I started out and altered the original graphics more
+than ten times since I began this.

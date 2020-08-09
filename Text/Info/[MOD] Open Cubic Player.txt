@@ -1,0 +1,1 @@
+A music file player for Linux, Unix, DOS and Windows 95-ME, XP.

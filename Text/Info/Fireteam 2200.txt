@@ -1,0 +1,5 @@
+Fireteam 2200 is a tactical wargame set in the 23rd century. You take the role of the leader of a taskforce (or "Fireteam") tasked with undergoing a series of missions. 
+
+As with most war games you get to assemble your crew and select your scenario, while the action itself takes place in a top-down map from which you view your deployed units and issue orders such as movement commands, weapon assignations and, of course, who to fire at. You can build a squadron of up to 16 units starting with a base budget that allows you to choose from 30 different combat units and 25 different weapon types.
+
+Features modem head-to-head multiplayer gameplay for up to two players across platforms (meaning an Amiga player can show a DOS player how it"s done).

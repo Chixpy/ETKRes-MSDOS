@@ -1,0 +1,21 @@
+Goal 94, the game of International soccer management, includes the new rule changes introducedin World Cup 94, along with the addition of several new features to the game:  The updated team squads now allow player ages, goals, caps and skills to be changed by the user.  Also, a printed manual is also supplied with the registered version the game. 
+
+New features over the older version include:
+
+3 points for a win. 
+
+Substitute keeper allowed. 
+
+Commentary available for entire game. Commentary can also be printed. 
+
+Better crossing and more effective centre forwards ages, caps, goalsand skills can be customised. 
+
+New Animation. 
+
+Speed introduced into player details. 
+
+Keeper stats include goal conceded. 
+
+Option to begin game with World Cup or Continental Championship. 
+
+The features in "Goal 1" and Goal 2 are also found in Goal 94.

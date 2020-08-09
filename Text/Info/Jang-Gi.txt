@@ -1,0 +1,4 @@
+Jang-gi simulates the Korean two-player board game similar to Chinese Chess and is unofficially called Korean Chess.
+
+The game is played on 9x10 point board, without the Chinese river in the middle. Jangi-gi board rules allows the player to select a unit, examine the place, where it may move, make a move, and win the game by capturing as much opponent"s units as possible. During the game, a list of captured pieces may be examined, move may be replayed, and other options may be adjusted. Game progress may be saved, restored, replayed, and printed.
+

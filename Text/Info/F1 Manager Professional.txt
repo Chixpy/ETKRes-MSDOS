@@ -1,0 +1,7 @@
+F1 Manager Professional is the successor of F1 Manager, keeps its main structure and offers subtle changes in the game mechanics. It is still a managerial game which simulates a racing team in the Formula One.
+
+One part of the team success lies in the financial side. Money is gained by getting companies to sponsor the team and by getting good results in the races. The budget limits the quality of the driver and the other employees. Besides the driver the most important part of the athletic success comes from the used car. Like in the real world it needs to be constantly evolved and tuned. If the player doesn"t want to do this part himself he can hire engineers which take this job on. This part of the game is played in several menus in a 1st person view which are reached by a main menu.
+
+The actual race is shown in real time and 3D and can be watched with several camera angles. There the player can see if his preparations and pit stop strategies were useful. The preparations are optimisations referring to the course and the expected weather, e.g. using the right tires or fuel. Pit stop strategies can be changed during the race. 
+
+During the multiplayer mode the time which every player has to his disposal can be chosen freely. The game has no official licenses so all names are alienated but can be changed with the editor. Registered owners of the predecessor can buy an upgrade version for less money.

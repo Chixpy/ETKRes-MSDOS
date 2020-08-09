@@ -1,0 +1,5 @@
+A tactical wargame focusing on air-to-air combat. You take the commander"s seat and are given control of a squad of 2 to 30 planes from 100 possible planes. There is no specific scenario to fight in, instead the game cover the last 30 years of air combat with every possible engagement from Korea to Desert Storm and even throws some "possible" scenarios on the near future. There are two modes of play, basic and advanced, with the advanced throwing in more rules, and the game is turn-based and each turn is divided into an order and execution phase (plus and "advantage" phase). You issue orders such as maneuvers, targets, what weapon to use, etc. in the order phase and watch the execution in the execution phase.
+
+Game modes available include a set of pre-designed missions, 6 campaigns, and a random mission generator as well as e-mail and hotseat multiplayer support.
+
+The game also includes a set of reference material regarding every plane and engagement in it.

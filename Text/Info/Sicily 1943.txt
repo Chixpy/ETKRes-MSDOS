@@ -1,0 +1,1 @@
+Sicily 1943 is a historical wargame on the W.W.II invasion of Sicily. New (relative to Blitzwar) are routines for stacking, exploitation movement, limited intelligence, reinforcement placement and hold back, map control, and (attack) supply. The game"s Order of Battle and combat result tables are included as external text files that can be edited to create game variations.

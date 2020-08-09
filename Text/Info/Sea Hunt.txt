@@ -1,0 +1,9 @@
+Sea Hunt is a computerized version of the classic board game, "Battleship", for PC-DOS or MS-DOS.  
+
+The player is pitted against the computer A.I.  There is no two-player option.  
+
+There are ten difficulty levels.  Each player"s fleet consists of eight ships, compared to the five featured in the board game version.  These include an aircraft carrier, battleship, destroyer, cruiser, mine sweeper, submarine, spy ship and patrol boat.  Because of the larger number of ships, the game also features a larger playing grid which measures 15 x 19 squares compared to the standard 10 x 10.
+
+Grid squares are selected by moving a cursor over the grid, either with the cursor (arrow) keys or using a joystick.  There is no mouse support.  When placing ships on the player"s grid, they can be pivoted so that they are oriented either vertically or horizontally using the space bar.
+
+The computer A.I. elicits a personality of sorts, gloating every time it sinks a ship, and protesting when one of its ships is sunk.  This can be turned off by those who find it annoying.

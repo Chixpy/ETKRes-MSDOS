@@ -1,0 +1,4 @@
+Vertical shooter
+
+Botón derecho y seleccionar nosound.bat para jugar sin sonido.
+

@@ -1,0 +1,3 @@
+In this game you are a commander of a Base Ship cruising around Indonesia and a pilot of four helicopters available on it. These helicopters are Kamov Ka-50 Hokum (assault), MIL Mi-8 Hip (assault/transport), Westland Lynx (anti-ship assault/transport), and Bell AH-1 Cobra (assault).
+
+You are planning the schedule of your missions and complete them with appropriate helicopter. Planning of missions is based on your previous recce flights. Missions vary from intercept pirate boats, escort ship through pirate waters, and provide air support, to unload battalion of jungle commandos, rescue ejected pilot, and annihilate the village. During the mission player also may switch back to Base Ship to plan another mission.

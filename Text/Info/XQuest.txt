@@ -1,0 +1,3 @@
+XQuest is a Crystal Quest variant, where you pilot a little spaceship and collect gems. The game is mouse controlled, but you don"t control the ship directly. Rather, you thrust the ship in any direction and it retains its inertia.
+
+Once you collect all the gems, the exit at the top of the screen opens and you can fly through to the next level. There are obstacles like mines and bad guys of increasing difficulty that come out of the sides. You can collect power-ups such as rapid fire and spread fire.

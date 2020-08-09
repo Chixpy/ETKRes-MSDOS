@@ -1,0 +1,3 @@
+"FBCOACH is a game in which you can pit your coaching skills against another player or against the computer. The game features some thirty-eight offensive plays and sixteen different defensive plays.
+
+Once play begins the interaction should be self explanatory for those who understand the game of football. The clock will run on each play (unless time out is called). The amount of time used for each play is somewhat random but will largely depend upon the type of play called. As in the actual game, running plays will generally consume more time than passing plays."

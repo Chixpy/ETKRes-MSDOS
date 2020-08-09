@@ -1,0 +1,1 @@
+The original Hextris got its name from the hexagonal pieces. This game got its name because its pieces\u2014which do not fall down, but have to be dropped manually\u2014can consist of up to six blocks. For more details of the rather unconventional gameplay, read the original documentation at the "more about" link below.

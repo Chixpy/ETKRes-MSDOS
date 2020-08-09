@@ -1,0 +1,1 @@
+Kentris is a Freeware Tetris clone made by build engine creator Ken Silverman.  As usual for a Tetris game, you rotate and move falling blocks of various shapes so as to arrange them into complete lines without gaps. A few amusing sound effects are added by Silverman.

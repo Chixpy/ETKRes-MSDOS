@@ -1,0 +1,2 @@
+Play dealers choice poker against 5 other computer oponents. FNP has 13 differant poker games available including 5 card stud and draw, 7 card stud, high Chicago, no peek, acey ducey, 3 toad pete, 2 and 3 card gut, and 7/27. Options include use of wild cards, mouse/keyboard, custimize player names and tracks high scores such as best pot racked in, high hands, ect... Req"s VGA. Great graphics !!!
+

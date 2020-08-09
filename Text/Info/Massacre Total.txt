@@ -1,0 +1,6 @@
+Arcade para dos o tres jugadores en el que tienes que acribillar (literalmente) a tus adversarios, para lo que contarás con cantidades ingentes de munición.
+
+El juego se desarrolla en pantallas estáticas con multitud de objetos distribuídos en ellas, tras los que podrás parapetarte para evitar los disparos de tus enemigos.
+
+Puedes pasar un rato divertido si cuentas, al menos, con un amigo con quien jugar. Sin mayores pretensiones.
+

@@ -1,0 +1,7 @@
+The game is a very improved version of SubLOGIC"s Jet.
+
+Improvements is made for overall speed, flight characteristics, higher precision calculations, smooth zooming, game menu, video modes support, and system functions. Mouse control and landing gear was added. 
+
+This time, game may be loaded via scenery files (no longer only scenery disks). Scenery disks of previous versions of the game may be converted to the files of new format also.
+
+New 10-minute demonstration includes sample aerobatics, target strike simulation, parachute ejection, positioned text messages as demo progresses, and sampling scenes from the best of scenery disks. Demo scenery is also available for free flight mode.

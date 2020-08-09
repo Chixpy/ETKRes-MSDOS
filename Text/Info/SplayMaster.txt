@@ -1,0 +1,11 @@
+"SplayMaster is a tournament style space combat game in which you must 
+destroy your opponent before your opponent destroys you.
+
+* Choose from eight ships with different flight/weapons characteristics.
+
+* 256 color VGA graphics with smooth panning/zooming and real-time
+sprite scaling and rotation.
+
+* SoundBlaster support for digitized sounds and music.
+
+* For 1 or 2 players; three skill levels."

@@ -1,0 +1,7 @@
+Prototype is a side-scrolling shooter. Controlling a cutting-edge prototype craft, you must save the world from an alien attack.
+
+The ship has 4 different, always available, weapon systems. This makes the game a little bit more tactical than other shooters. Some enemies leave energy pills. These pills are necessary to upgrade your weapon systems four times.
+
+The game has 5 different (and long) levels, including mountain and forest settings plus another planet.
+
+In Prototype there are no extra lives. You have only one life, but you can always save your game.

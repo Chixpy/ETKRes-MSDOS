@@ -1,0 +1,3 @@
+"The idea of the game is to pick up as many diamonds as you can. To exit the level pick up the key and go to the exit. In shareware version there is only three levels and one live.
+
+The player dies if the energy runs out or the player gets caught."

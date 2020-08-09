@@ -1,0 +1,1 @@
+Trail-burners is a multi-player arcade game where you burn a trail around the screen & dodge other trails. It supports up to 4 players (mind you, 4 sharing the keyboard is a little awkward, but great fun) as well as 25 or so computers. A log of each player"s progress is kept during the game.

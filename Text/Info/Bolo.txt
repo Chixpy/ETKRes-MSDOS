@@ -1,0 +1,6 @@
+This is a remake of the game Bolo for Atari ST. It is a Breakout variant with a twist: Your paddle is not restricted to the bottom of the screen -- it can move all around the screen. Your goal is still to destroy all the blocks on the game field.
+
+There are a lot of gimmicks in the 50 levels: lack of gravity, ice levels with slippery controls or various paddle forms. Sometimes a rubber band is used to tie the ball to the paddle, to a block or even combinations of the two. Even the blocks offer a big variety of effects: magnetising the ball, teleport the ball, obscuring the game field or the summoning of killer paddles are just a few of them.
+
+You can only save one game which gets deleted if you load it. Every level has a illustrated background. When scoring a highscore of 50,000 points or more you get access to a training mode where you can choose the levels directly.
+

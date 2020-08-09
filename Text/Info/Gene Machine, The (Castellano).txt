@@ -1,0 +1,7 @@
+The Gene Machine is a point-and-click 2D adventure game with background images that give the perspective of 3D.
+
+The story begins in the 1880s in London. British gentleman Piers Featherstonehaugh (pronounced "fanshaw")  and his faithful servant, Mossop, arrive back home to discover a talking cat on their doorstep. The cat tells them of an outlandish plot concerning genetic mutations gone haywire.  It then becomes Fanshaw"s goal to stop this ghastly activity and to catch the fiends behind it.
+
+Players step into the shoes of Piers as he and Mossop travel around the globe... and beyond. He will meet many unusual characters and talk with them during his quest .. including talking animals as well as people.
+
+Exploration is in 3rd person perspective and most puzzles involve the multitude of inventory items that can be found while exploring.

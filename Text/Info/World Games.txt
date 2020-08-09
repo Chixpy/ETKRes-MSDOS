@@ -1,0 +1,16 @@
+World Games is a sports video game developed by Epyx for the Commodore 64 in 1986. Versions for the Apple IIGS, Amstrad CPC, ZX Spectrum, SEGA Master System and other contemporary systems were also released. The NES version was released by Milton Bradley, and ported by Rare Ltd..
+
+The game was a continuation in the Epyx sports line that previously released extremely successful titles such as Summer Games and Winter Games.
+
+The events available vary slightly depending on the platform, and may include:
+
+    Weightlifting (Russia)
+    Slalom skiing (France)
+    Log rolling (Canada)
+    Cliff diving (Mexico)
+    Caber toss (Scotland)
+    Bull riding (United States)
+    Barrel jumping (Germany)
+    Sumo Wrestling (Japan)
+
+The game allowed you to compete in all of the events sequentially, choose a few events, choose just one event, or practice an event.

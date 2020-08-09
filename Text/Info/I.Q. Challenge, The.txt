@@ -1,0 +1,2 @@
+The I.Q. Challenge consists of twenty word puzzles. Each puzzle will be displayed one at a time giving you the opportunity to respond correctly. You are given three tries to input the correct answer.
+

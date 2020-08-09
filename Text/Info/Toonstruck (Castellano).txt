@@ -1,0 +1,7 @@
+Toonstruck is a point-and-click adventure in the style of Monkey Island. It uses a one-icon system, and the protagonist is a motion-captured actor against an animated environment.
+
+Like an adventure game in the Roger Rabbit style. Drew Blanc, the main character, is played by Christopher Lloyd, whom you may know as the professor in Back to the Future and Fester in The Addams Family movies. He ventures through the animated world consisting of very weird cartoon characters. The land is being overrun by an evil doctor, and you, as Drew, must stop him.
+
+NOTA: Para cambiar de CD cuando el juego lo pida pulsar CTRL+F4.
+
+

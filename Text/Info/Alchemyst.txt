@@ -1,0 +1,2 @@
+The object of this game is to turn all the blue bricks in the lower strips to gold as many times as possible, in the least amount of turns possible.
+

@@ -1,0 +1,1 @@
+The MS DOS version of XBD (for Unix). XBD 2 has simple graphics and only a few animations. Moving the character goes intermittently. The game has a few sounds. There is also a time limit. But the game is funny to play.

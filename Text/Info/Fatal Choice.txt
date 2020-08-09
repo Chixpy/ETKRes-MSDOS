@@ -1,0 +1,12 @@
+Shoot with space and move around with the arrow keys.
+
+Pause and resume the game with P.
+
+Quit during gameplay with Q.
+
+To activate switches, simply move near them. A door will open somewhere...
+
+Find out the rest yourself!
+
+Botón derecho y seleccionar EDITOR.EXE para editar tus propios niveles.
+

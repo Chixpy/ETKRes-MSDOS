@@ -1,0 +1,5 @@
+The sequel to NovaLogic"s Comanche is actually two games in one: Werewolf and Comanche 2.0. Both are action-based helicopter sims very similar to the original Comanche. A notable difference is that in some missions you are allowed to land and refill your helicopter with fuel and ammo. The only real difference between the two games is the helicopter you fly: either the RAH-66 Comanche or the Ka-50 Hokum. There"s an option to link both games to play over a network. 
+
+They use the voxel graphics engine made by NovaLogic in 1993.
+
+Both games were later released on their own in budget versions.

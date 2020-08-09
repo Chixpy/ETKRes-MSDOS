@@ -1,0 +1,5 @@
+Aquarius: An Aquatic Experience is a freeware, open-source arcade game created with custom tools made by fans to develop new games using the venerable SCI engine that was used for many years in several classic Sierra titles. In this simple and short game, the player guides a swimming goldfish with the mouse, carefully moving it around the restrict space of an aquarium to avoid all the environmental dangers and survive a week (with the day cycle occurring every half a minute or so).
+
+The available energy for movement and survival is displayed as a green bar at the bottom, slowly depleting when the creature is in motion, when it"s exposed to the bright lights at the top for too long or when it stands too close to the heater at the left side. The fish heals when standing motionless and resting under shadows and out of harm"s way. A line with a fishing hook keeps moving from one side to the other, capturing the fish automatically when touching it. A small purple fish keeps coming out from the decorative castle model at random intervals, and is capable of swallowing the larger goldfish after touching it.
+
+

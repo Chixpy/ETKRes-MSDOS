@@ -1,0 +1,5 @@
+"K K Poker is free shareware. You are encouraged to copy and distribute the game to your friends as long as no modification is made on the program.
+
+The game is similar to the video poker of Las Vegas style. However, it was not written for gambling purpose. This game is a complete version. No limitation on the access to any part of this program was made.
+
+Mouse is supported in K K Poker. You can also use all the arrow keys and ENTER key to control the action."

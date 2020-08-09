@@ -1,0 +1,4 @@
+Super Mario clone. 2 levels
+
+NOTA: Este perfil utiliza la versión de DOSBox de ykhwong.
+

@@ -1,0 +1,9 @@
+Solo es otro gran juego creado por \u00d3pera soft para su uso exclusivo con la pistola óptica "Gun Stick".
+
+Salió al mercado al mismo tiempo que Trigger, y posee la misma calidad que aquél. Unos gráficos muy bien hechos y un frenético ritmo eran los elementos básicos de estos dos juegos, que dejaron un buen sabor de boca entre los usuarios de la pistola.\u0009
+
+Destaca por encima de todas la versión Spectrum, que parece ser la original. La versión Amstrad CPC está hecha en modo 4 colores alta resolución -conversión directa de Spectrum-, mientras que la de MSX cuenta con una estupenda pantalla de presentación y unos gráficos "in game" con gran predominio del color rojo.
+
+La de PC, por su parte, tiene gráficos CGA -también 4 colores, con una paleta más fea que la de CPC, y también conversión más o menos directa-.\u0009
+
+NOTA: Este juego requiere una versión de DOSBox con soporte para Gunstick, la pistola óptica desarrollada por MHT Ingenieros.

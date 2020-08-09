@@ -1,0 +1,12 @@
+Bluppo is a 1-2 player arcade game in which you have to collect fish.
+
+The story is that Bluppo loves to cook. A rich relative will buy him a restaurant but only if Bluppo cooks him a spacial meal. After much research Bluppo finds the recipe, the special dish requires the sweat of 3000 rare fish! Undaunted he dons his SCUBA gear and goes in search of the fish needed for the dish and hence his restaurant.
+
+On screen are fish swimming in pockets of water. Around them is either earth, mud or stone. Bluppo can travel through the earth but not through stone, though some stones can be blown up with bombs. Hazards include falling rocks, bombs, exploding fish, sharks and other nasties but there are friendly fish who will eat Bluppo"s enemies if given the chance and some levels have additional oxygen tanks to prolong the game play.
+
+To complete a level Bluppo must collect the number of fish specified at the bottom of the screen and enter the exit gate. If Bluppo has not collected the correct number of fish, say because one died, then he will not be allowed to enter the exit gate and he will perish.
+
+All puzzles are timed and last as long as Bluppo"s oxygen. There are six save game slots.
+
+The registered game has 60 one player levels, 60 two player levels, and Soundblaster support.
+

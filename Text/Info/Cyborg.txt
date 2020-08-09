@@ -1,0 +1,1 @@
+A science fiction text adventure game in which an artificial intelligence is electronically merged with your body as the result of a scientific experiment.  Your mission is to find a source of energy to keep you alive.  The game uses a text parser, except for character interaction, during which you choose a question from a predetermined list.

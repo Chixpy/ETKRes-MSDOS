@@ -1,0 +1,3 @@
+Rocket Fuel Mayhem is one screen, spaceship battle game.
+
+Two teams consisted of same number of ships fight each other on one screen arenas until complete destruction of one team. This game features 8 ships, animated pilots, extra modes, tournament, large database, 6 arenas, music (MIDI) and much more.

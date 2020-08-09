@@ -1,0 +1,9 @@
+Welcome to the game of STARDUEL!  This game is inspired by an old arcade style game which some of you might remember.  It was always one of my favorites, and discovering that nothing like it was available for a PC, I proceeded to create it myself.  I hope you enjoy it as much as I enjoyed writing it.
+
+This is a two player game in a space setting.  You and your opponent are each piloting a warship, pitted in mortal combat with each other.  The object of the game is to destroy the other players ship (really original, huh?).  Each ship is armed with a finite amount of ammunition, fired from a weapon in the front of the ship, and with a finite amount of fuel, used to move the ship around.
+
+There is one obstacle during game play:  A small star in the center of the screen.  It cannot be destroyed by firing at it, and a collision with it would most certainly be fatal, so watch your step!
+
+The bottom of the screen shows game statistics, including the time left in the game, each players scores, and remaining fuel and ammo for each player in a bar graph form.  When the timer reaches zero, the game is over.
+    
+At that point the player with the highest score wins.  A point is scored for the destruction of the other player.  If the ships collide, each player receives a point.

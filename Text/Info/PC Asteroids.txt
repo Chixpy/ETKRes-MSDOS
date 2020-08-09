@@ -1,0 +1,13 @@
+Tenía ganas de comentar este juego, pero por unas u otras razones no era capaz de ejecutarlo (creía recordar que era para Windows, y en DOSBox no funcionaba), por lo que no había podido jugar a él desde su creación, hace ya nueve años.
+No sé si es porque lo había ejecutado en versiones anteriores, pero hoy ha funcionado perfectamente en DOSBox (así que ya sabéis, ejecutadlo con él).
+
+Su autor, Robe, era un habitual del antiguo canal de IRC (chat) de CEZ, y pasamos muchas tardes y noches charlando en aquella época tan lejana que constituye los inicios de nuestra página.
+
+Si mal no recuerdo, PC Asteroids está realizado con un lenguaje para la creación de juegos llamado Div. Robe estaba experimentando con él, y decidió que un clon del archiconocido Asteroids sería el banco de pruebas perfecto.
+
+El resultado no es profesional, pero capta a la perfección la adicción del original de Atari. Mezcla gráficos vectoriales con unos disparos dibujados (o digitalizados), y cuenta con una interesante música (seguro que digitalizada), que desconozco si es o no original.
+
+Los efectos de la nave están muy bien conseguidos, y se mueve con soltura, lo que deriva en una gran jugabilidad.
+
+Pasaréis un buen rato con él.
+

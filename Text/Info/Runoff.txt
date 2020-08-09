@@ -1,0 +1,2 @@
+The object of the game is quite simple, yet very challenging.  You are trying to create a path through the woods for marathon runners to race through.  You have 30 seconds in which to start creating your track before the runoff begins.  You have to keep laying down paths so that the runners don"t end up getting lost in the thick forest.
+

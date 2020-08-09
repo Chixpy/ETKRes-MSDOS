@@ -1,0 +1,2 @@
+This is a small sample adventure.  It will demonstrate some of the things you can do with the Adventure Game & Interactive Fiction Generator, version 2.
+

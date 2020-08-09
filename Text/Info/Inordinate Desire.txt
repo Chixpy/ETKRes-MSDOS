@@ -1,0 +1,5 @@
+Inordinate Desire is a turn-based strategy game with action elements. As commander of a spaceship carrier you have to conquer foreign planets.
+
+Every day is represented by a round. In the beginning of a round you are in your carrier and have these options: Buy new units, send pilots on patrol, repair ships and look at statistics. When this is taken care of you use your spaceship and fly to the planet. There you can give orders to your units and tell them to move or shoot. Yes, move or shoot - a unit can"t do both in one round. Because you can"t see the condition of the hostile units  you have to act blindly. Additionally you can build deposits and radar units on the planet. The deposits are used to repair damaged units and with the radar units you start air strikes - but the radius is low, so you are more likely to kill your own troops.
+
+At the end of the round all your orders get evaluated. Sometimes your carrier gets attacked by one hostile spaceship. Then you have to kill the attacker in a simple action sequence similar to Wing Commander: You sit in a spaceship and shoot rockets.

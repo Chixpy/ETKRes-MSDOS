@@ -1,0 +1,5 @@
+A Quake II add on with a few new weapons, monsters, and levels.  The Earth fleet attacking Stroggos is stranded in orbit due to a Strogg gravity well. The player has landed on the planet with one mission: destroy the gravity well.
+
+New weapons include the chainsaw, the ETF (explosive-tipped flechette) rifle, the proximity mine launcher and the plasma beam.  New power-ups include tesla mines, the defender sphere, the vengeance sphere, the hunter sphere, and the doppleganger.
+
+New monsters include the turret and the stalker.  Enhanced enemies are the medic commander and the daedalus. The medic commander can revive fallen monsters or attack with a hyperblaster.  The daedalus features twin blasters and a power shield. All monsters have better AI.

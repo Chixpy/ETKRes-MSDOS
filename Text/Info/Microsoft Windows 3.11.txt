@@ -1,0 +1,27 @@
+Windows 3.x es el nombre genérico con el que se suele conocer a las versiones 3.0, 3.1 y 3.11 de la Interfaz gráfica de usuario del sistema Microsoft DOS (MsDOS) (Microsoft Windows nunca fue realmente un Sistema Operativo con verdadero entorno gráfico hasta Windows 95).
+
+Con estas versiones Microsoft consiguió vender Windows a un público mayor mientras que las versiones anteriores no habían sido muy bien acogidas. Unas de las razones era el soporte de "True type" y el manejo más avanzado de la memoria. Funciona en modo protegido (para procesadores 80286 o superior) con soporte de memoria grande o large memory. Podía abrir múltiples sesiones MS-DOS en modo real. A esta versión se le agregó un administrador de programas y de archivos además de los controles comunes de Windows (Combo Boxes, Menús Jerárquicos, Diálogos...) y archivos de configuración (extensión .ini) para cada aplicación (que más tarde dio lugar al Registro del sistema de Windows).
+
+Windows 3.1 se originó en 1989, cuando un grupo de programadores de Microsoft, de forma independiente decidió desarrollar un nuevo Windows en modo protegido, como un experimento. Se armó un prototipo en bruto y fue presentado a los ejecutivos de la empresa, quienes se impresionaron lo suficiente para su aprobación como proyecto oficial.
+
+Windows 3.1 tuvo un gran éxito, el cual incluía una interfaz de usuario mejorada significativamente, con respecto a las versiones anteriores de windows, así como las mejoras técnicas para hacer un mejor uso de las capacidades de gestión de memoria de 80286 y 80386 procesadores de Intel.
+
+Los programas escritos para modo texto se pueden ejecutar dentro de una ventana MS-DOS(una característica ya disponible en una forma más limitada con Windows/386 2.1), haciendo que el sistema se pueda usar como una base cruda multitarea para los programas heredados. Sin embargo, esta era de uso limitado para el mercado interno, donde la mayoría de los juegos y programas de entretenimiento siguen necesitando acceso crudo.
+
+El archivo de MS-DOS Ejecutivo encargado / programa fue reemplazado por el Administrador de programas basado en iconos y el Administrador de archivos basado en listas, lo que simplifica la puesta en marcha de aplicaciones. El Ejecutivo de MS-DOS también se incluye como una alternativa a estos. El panel de control, previamente disponible como un applet de aspecto normal, fue remodelado después de la de Mac OS. Se centralizó la configuración del sistema, incluyendo un control limitado sobre el esquema de color de la interfaz.
+
+Windows 3.0 incluye un modo protegido / mejorada que permite a las aplicaciones de Windows utilizar más memoria de una manera más dolorosa que sus contrapartes DOS podía. Se puede ejecutar en cualquiera de los modos mejorados Real, Estándar o 386, y es compatible con cualquier procesador de Intel desde el 8086/8088 hasta 80286 y 80386. Windows 3.0 intenta detectar automáticamente el modo de rodaje, aunque puede ser obligado a correr en un modo específico medio de los interruptores: / r (modo real), / s ("estándar" 286 modo protegido) y 3 / (386 mejorada modo protegido), respectivamente. Desde Windows 3.0 (y versiones posteriores de Windows 3.1) se ejecuta en 16-bit 286 modo protegido y no de 32-bit 386 modo protegido, las aplicaciones aún deben trabajarse con 64k segmentos de memoria como en DOS, aunque instrucciones de 32 bits puede estar contenida en el código (Ami Pro fue la primera aplicación de Windows que requiere un 386). Debido a esto, Windows 3.0 sólo se puede acceder a 16 MB de memoria RAM total de 386, incluso en las CPU que tienen la capacidad teórica de la utilización de 4 GB.
+
+Entre las principales características de Windows 3.0 se encuentran:
+
+-Modo estándard (286), con soporte de memoria grnade (large memory). 
+
+-Modo Mejorado 386, con memoria grande y soporte de múltiples sesiones DOS. 
+
+-Se agregó en Administrador de Programas y de Archivos 
+
+-Soporte de Red 
+
+-Soporte para más de 16 colores. 
+
+-Soporte para combo boxes, menús jerárquico y los archivos INI privados para capa aplicación ----empezaron a cobrar más valor.

@@ -1,0 +1,7 @@
+Alex the Allegator 2 is a simple board game that can be played against the computer or a friend.  This fully functional game was the author"s contribution to Allegro Speedhack 2001.  At first glance the game appears to be an Othello clone, two players take turns placing colored tiles on an 8x8 board.  Beyond that the rules and objectives differ.  
+
+The objective is to end the game with the highest score once either opponent has cleared all their tiles. Each turn a player may either place one of their colored tiles or slide any row/column by one unit.  The row/column may not be moved again for one turn.  When a group of four tiles forming a square is made, they are cleared from the board.  If a player manages to remove 6 tiles in a rectangle they are awarded a special yellow tile which acts as a wild card allowing a square to be completed for any color.  To make things even more interesting gray tiles will periodically appear on the board at random unfilled spots; a gray tile can only be removed with 3 yellow tiles although it"s unlikely a player will use them in this way.
+
+What makes this game interesting is that you can score points by completing squares of either color; for example, if your opponent slides a row and completes a square with your colored tiles he gets the points instead of you.
+
+The game also has two levels of challenge for the human vs computer mode, a high score table, sounds, and music. Not bad for 72 hours!

@@ -1,0 +1,4 @@
+"TREK-N is ""the Nth iteration"" of the classic Star Trek game started by Mike Mayfield and others clear back in 1972.
+
+The goal of the game is to rescue Tribbles from the Klingons. Along the way you will also need to occasionally pickup dilithium crystals to refuel the matter/antimatter reaction chamber."
+

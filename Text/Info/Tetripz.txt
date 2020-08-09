@@ -1,0 +1,5 @@
+Imagine playing tetris under influence of LSD, but without the LSD :) This version of Tetris imitates the effect of various drugs, which causes a most interesting gameplay.
+
+This game won the Wired"98 Game Compo.
+
+This game supports multiplayer against friend or computer.

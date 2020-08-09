@@ -1,0 +1,15 @@
+"Welcome to CAMPAIGN, a strategy game for two players.
+
+CAMPAIGN was formerly known as ARMY. It is now thoroughly rewritten and updated with many new features.
+
+CAMPAIGN has two opposing armies, the West (blue) Army and the East (red/grey) Army. When the dice are presented on the left side of the screen it is West"s (blue) turn, when the dice are on the right side of the screen it is East"s (red) turn.
+
+Each player begins with playing pieces consisting of infantry, calvary and cannons commanded by one Captain on a board of over 900 locations containing forests, roads, plains, rivers, walls, and a large lake with an island and two rafts which can be used for crossing. A few mines may be placed randomly on the field (presumably by a third party since neither player can see them.) If you are lucky, you may receive reinforcements during the game. 
+
+The object of the game is to defeat the opposing Captain in battle while protecting your Captain from attack. If you lose your last Captain, you lose the game.
+
+Each kind of playing piece has its own movement power, fighting power and fighting range. For example, cannons are powerful but slow, can shoot over blocking pieces, break walls and blow up bridges, but can"t go in the water (though they can ride the rafts.)
+
+Each turn consists in the play of four dice. For each die, a piece can either move or fight. Movement value is determined by the die value, the movement power of the piece, and the terrain that will be crossed. Fight outcome is determined by the die value and the fighting power of the attacker versus the defender"s die value and fight power.
+
+It"s pretty much that simple, either MOVE or FIGHT for four pieces per turn, so the novice can play instantly. You will find out right away, however, that defeating an intelligent opponent is no easy matter!"

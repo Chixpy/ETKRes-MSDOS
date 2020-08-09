@@ -1,0 +1,23 @@
+3D ocean action as the USS New Jersey (player 1) and the USS Iowa (player 2) battle it out in this split-screen simulator for one or two players; features Harpoon cruise missles, 50mm guns, 16 inch shells, aeroplanes, music, etc. DOS.
+
+BigGuns is a fabulous 3D battleship game as the USS New Jersey (player 1) and the USS Iowa (player 2) battle it out in this split-screen simulator.
+
+Designed for either one or two players, it features Harpoon cruise missiles, 50mm guns, 16 inch shells, aeroplanes, music, demo mode, etc. The game also features various radar views, extensive information about each ship"s armament, remaining resources (ammunition, fuel, etc), and more.
+
+You can control the speed of the game (important because it could need slowing down when played on very fast computers), who has use of the joystick (either player 1 or 2), the number of kills required to finish the game, speed of the other ships, gunfire interval, whether you can collide with other ships, etc.
+
+The 3D aspect of the game is excellent, with seagulls flying across in front of the screen (with associated sounds), and aeroplanes buzzing around (both yours and the oppositions).
+
+This game has so many features and controls it is almost unwieldy and requires some familiarization with the controls to get the best from it. Printing out the basic instructions will at least allow you to have them beside you as you go through the learning curve prior to mastering the game.
+
+We found this to be a superb game, with good quality 3D graphics, terrific sounds, lots of user control, and highly addictive gameplay. This is one of those games you can start playing just after breakfast and still find yourself playing late that night.
+
+Spend some time learning BigGuns and you will wonder where the hours, er, days, er, weeks went.
+
+We accept no responsibility for players forgetting to eat or sleep...
+
+Update:\u0009 June 16, 2000
+
+BigGuns has been updated to version 3.3.
+
+The author advises that the new version has a new help screen with keyboard commands, has 300 feet streaming vapor trails behind harpoon missiles, has new radar aid to prevent collisions and do intercepts, all ships now make random turns, new zoom ship (move fast) in grid option for Practice mode, and a new option in the menu to turn missiles off.

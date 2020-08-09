@@ -1,0 +1,3 @@
+Apples & Oranges is an Othello/Reversi game, only for pawns, it uses... you guessed it - apples and oranges! You can choose one of the sides: Apples or Oranges (Apples always go first) and play with the computer or with another player. A "hint" option is available which will tell you the best move. 
+
+On the screen, the left side is taken up by the playing board while on the right side you can see the count of every side"s fruits and the menu buttons.

@@ -1,0 +1,4 @@
+First of all: why make a tetris game in DOS TEXTMODE? Well I might ask: why not? Some people might think that a game looks nicer in for example 256 color graphic mode, but I ask myself a different question: what is needed for this particular program? Tetris is a simple game with simple graphics, so I find no need to drown its simplicity in unnecessary highlights or 3D-effects.
+
+Secondly one might ask: why make a tetris game at all? I think I"ve dreamt of writing my own tetris game ever since I started programming (three years ago), maybe it"s just a stage all programmers go through...
+

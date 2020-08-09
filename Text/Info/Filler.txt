@@ -1,0 +1,5 @@
+In this two-player board game, players start from opposite ends of a board, filled with rectangular diamonds of seven different colors. Players select one of these colors by turns. As a result of selection, all diamonds of selected color adjacent to player"s territory are annexed, expanding the borders. Chosen color is locked for the opponent for one turn. The winner is a player who first controls more than half of the terrain.
+
+The game may be played against the computer or a human opponent. Board size and time limit may be adjusted.
+
+The game was originally made in Russian, but later it was localized in English, enhanced, and released outside the U.S.S.R. as 7 Colors by Infogrames.

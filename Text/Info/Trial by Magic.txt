@@ -1,0 +1,3 @@
+A lone adventurer descends into a dungeon filled with vicious monsters and deadly traps. His goal is simple: survive. If he manages to traverse the perilous dungeon and leave it safely, he will prove himself worthy to the Trial Master, and receive a reward of 50,000 gold coins.
+
+Trial by Magic is a "dungeon-crawling" action RPG reminiscent of The Summoning. The player character fights monsters in action-oriented combat using melee weapons or bows with limited arrows. He can also find runes and combine them in order to create and cast magic spells. The dungeon has many traps; these can be used against the enemies, by luring the monster towards the trap and then activating it.

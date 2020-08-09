@@ -1,0 +1,2 @@
+CLUB 500 BID is a computerized version of the classic 500 card game. The four-player version is implemented here, played as two teams. The standard rules and scoring schedule are used, with some tournament rules also implemented. The game can be customized to play the way you wish. The options screen lists many popular options which can be toggled to match the dialect which you are most familiar.
+

@@ -1,0 +1,5 @@
+Winner of the Inform category of the First Annual Text Adventure Authorship Competition. This is one short but difficult game.
+
+Set in the present day, during a picnic with some new companions you find yourself wishing for some time alone. So you leave the picnic, cross over a stream, and explore the nearby hills, but as the day ends there comes the "change in the weather" to which the title alludes. With the change in weather comes a change in the tempo of the game, from now on timing is paramount and any mistake will be catastrophic.
+
+The goal of the game becomes apparent during play, but suffice to say there is no treasure or civilisation to save, instead it is rather mundane. Nevertheless the challenge is greater than many a game with a more impressive goal, so remember the oft repeated advice for adventurers, "save early, save often."

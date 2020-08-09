@@ -1,0 +1,10 @@
+While Bill Kratzer"s Colors is a standard Columns, Jim Bonczyk"s is a variant with elements of Dr. Mario. The pieces falling down are made up out of only one or two blocks. When five blocks of the same color touch, they vanish. Everything directly on top then falls down, but you"ll still have enough blocks hovering in mid-air and getting in the way. To advance to next level, you have to remove all instances of the goal color. Then there are four "toys" you can buy with points you earn during the game:
+
+        jackhammer [J]: causes blocks below it to fall
+        color [C]: gives you one square in your goal color
+        bomb [B]: destroys the eight blocks surrounding the bomb
+        inflator [I]: causes the block it touches to expand down, left and right
+
+Colors is an interesting variant that forces you to rebuild a strategy from scratch, experiences with other Tetris and Columns variants won"t help you much. It seems to be Jim Bonczyk"s only game.
+
+Note: In DOSBox, the game throws a (fatal) runtime error 002 at levelup. Runtime error 002 means that the program can"t write to a file, usually because the file is missing or write protected. I have no idea what causes this error.

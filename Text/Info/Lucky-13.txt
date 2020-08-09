@@ -1,0 +1,5 @@
+For explicit information on LUCKY-13, run the program LUCKYDOC.COM, which should be included in this archive.
+
+A winning score in LUCKY-13 is 1000 or better.  This is extremely difficult to achieve.  My own high score is 1550 after 300+ moves and has never been repeated.
+
+

@@ -1,0 +1,1 @@
+A poor platform game with few annoying bugs. The graphics are below average and the design is very sloppy. Quite few changes had to be done to make this game playable (I"ve provided the altered source code compiled). The game is playable and the levels are challenging, but the poor look and design of the game prevail.

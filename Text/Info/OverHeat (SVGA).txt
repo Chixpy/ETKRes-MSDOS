@@ -1,0 +1,3 @@
+Overheat es un juego de carreras de coches y persecuciones que sigue la tradición de títulos como Crazy Cars 2 o Cisco Heat. Así deberemos tratar de alcanzar nuestra meta corriendo por trazados plagados de policías a los que, obviamente, deberemos "dar esquinazo".
+
+Este programa se publicó comercialmente allá por 1997. En 2003 sus autores, los chicos de Microforum Italia, lo relanzaron como freeware a través de su página oficial.

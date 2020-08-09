@@ -1,0 +1,4 @@
+Despite the nice looking graphics, this is a very poor breakout type of game (Arkanoid clone). The physics are very poor, movement is poorly handled and the keyboard controls not very responsive. Also, there are no powerups! That"s like...crazy! Poor PC Speaker sound effects.
+
+Botón derecho y seleccionar EDITOR.EXE para el editor de pantallas.
+

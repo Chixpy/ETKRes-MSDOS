@@ -1,0 +1,6 @@
+Based on the best-selling chess-book of the same name by Bobby Fischer.
+
+The educational course, illustrated history of chess and 500 chess matches of amazing Bobby are presented in this game.
+
+Window-interface, 3D view, feedback of any depth, match recording and replaying are present. The strength of the engine is similar to Chessmaster 2000.
+

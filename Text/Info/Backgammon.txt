@@ -1,0 +1,1 @@
+This is a standard Backgammon board game that makes use of the "short" variation where opponent"s stones can be taken. The only option is top play against the computer AI opponent. There is only one level of play. Moves are made with the corresponding letters on the keyboard.

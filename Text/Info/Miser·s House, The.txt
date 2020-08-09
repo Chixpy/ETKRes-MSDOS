@@ -1,0 +1,5 @@
+The Miser"s House is a text adventure in which the player explores the Miser"s House. The game is low on text and features relatively simple puzzles which makes it accessible to first time adventurers. There are no initial goals given other than the urge to explore the house and the fact that points are rewarded for solving puzzles. There"s a total of hundred points to be accumulated.
+
+Your mission is to enter the house of the miser, find the
+treasures and get out alive.
+

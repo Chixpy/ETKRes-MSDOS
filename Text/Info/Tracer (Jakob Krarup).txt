@@ -1,0 +1,3 @@
+This game is a clone of the once popular TRON.
+
+The objective is to outlast your opponent by outmaneuvering him/her and being the last to hit an obstacle. Obstacles include the boundaries of the battlegrounds, your opponents track and (in future versions) moving objects.

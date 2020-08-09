@@ -1,0 +1,6 @@
+Destroy all planets by knocking out gun turrets. When all guns have been destroyed leave the planet and it will be demolished. Destroying all three normal planets in solar system will transport player to next system.          
+
+Destroying the reactor in the reactor planet (upper left corner) will have the same effect. Suck fuel from fuel depots by hovering near one and pressing Ctrl. Crtl will also activate the shields system. Ship gun cannot be fired when the shields are up.  
+
+Original game idea by ATARI INC.
+

@@ -1,0 +1,4 @@
+A nice Snakes/Nibbles clone where you control (steer) a snake while collection numbers and avoiding obstacles. Below average Sound Blaster sound effects. Nice graphics and very good gameplay. 9 levels and a save game option is available. A note that this is not a complete game. The designer released it with few missing features, but this version is close to a complete product.
+
+Botón derecho y seleccionar levedit.exe para el editor de pantallas.
+

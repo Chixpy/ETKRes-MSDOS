@@ -1,0 +1,1 @@
+This is more of a simulation then a fighting game, it has my friends in it and it is just for fun.  Last quarter in school at North Hennepin Community College, I took a class in Qbasic.  That was so SLOW!  So the second day into it I started on this.  I decided it could be released just for fun so people could see the beginning and end of my Qbasic career.

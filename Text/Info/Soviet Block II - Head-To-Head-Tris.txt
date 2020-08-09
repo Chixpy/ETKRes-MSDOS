@@ -1,0 +1,9 @@
+"Head-To-Head-Tris is a two player game of skill and strategy. The game is played in rounds. Each round, the players drop pieces from both ends of a sideways pit. The pieces move towards a middle bar, where they stop falling and a new piece tumbles in.
+
+Eventually, the pieces form complete vertical columns. These vertical columns, when filled, will disappear, moving the blocks on that side of the pit towards the middle. This gives greater maneuverability at the top of the playing field. You have the ability to maneuver pieces by rotating them and moving them left and right.
+
+After you clear several vertical columns, the game adds a twist. There is a middle bar that will move left or right. If you are the player on the left, the bar will move right, and all the blocks will move along with it. This has the effect of giving the player on the left more space to maneuver. As well, it gives the player on the right less space.
+
+The round ends when the middle bar reaches one of the two goal lines, indicated by the two upper arrows and two lower arrows. Like a tug-of-war, if you push the middle bar to the opponent"s goal line, you win the round. The game then continues with another round - a clear pit with faster pieces, and farther goal lines.
+
+A player loses the game when his portion of the pit is filled to the top."

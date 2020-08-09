@@ -1,0 +1,7 @@
+Fleet Sweep is a space shoot"em-up. There are eight different aliens, each with a different  attack pattern. When you clear the screen you move to the next zone, 10 zones is called a fleet. After each fleet the game gets more difficult.
+
+In the first zones you face four of the same aliens, then alien types are combined. Starting  from zone 30, the attack patterns are repeated only faster and with five aliens. You can start the game at four difficulty settings.
+
+Beginner - Start at zone 0 with 0 points. Novice - Start at zone 10 with 2000 points. Advanced - Start at zone 20 with 4000 points. Expert - Start at zone 30 with 6000 points. 
+
+As an extra gameplay element, you have a limited amount of fuel, if it runs out you die. The fuel is slightly refilled every time you shoot an alien. There are also bonus ships that  sometimes appear at the top of the screen which (if shot properly) will drop a fuel ball. Catch it to refill the fuel bar. You also have torpedoes to kill all onscreen aliens, useful to skip the more difficult zones.

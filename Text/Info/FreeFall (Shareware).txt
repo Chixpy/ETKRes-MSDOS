@@ -1,0 +1,1 @@
+FreeFall is a simple two-player game. One player tries to land his paratrooper while under fire from the other player"s cannon. And if you can land your paratrooper between the flags a cool bonus game offers you the chance to earn extra points. There are many different levels to choose from and a variety of options are available to customize gameplay.

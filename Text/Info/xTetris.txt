@@ -1,0 +1,2 @@
+xTetris is a video game much like the popular TETRIS, but shapes are composed not only of squares, but of tirangles, as well. If a triangle fits against another triangle, as to complete a square, the triangle will slide off the second if it can. The x particle which falls periodically is your gift; it will destroy the first particle it touches. Use it to clean up after yourself.
+

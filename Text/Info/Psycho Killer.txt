@@ -1,0 +1,5 @@
+One of the plethora of multimedia video-streaming games that came out upon the advent of the CD-drive, Psycho Killer casts the player into the role of an unnamed male protagonist, who was one day driving through the countryside on a cold autumn day, and suddenly saw an escaped killer chasing a woman. Now the hero must figure out a way to find the killer and stop him.
+
+Psycho Killer is an adventure game with the interaction restricted to "jumping" from picture to picture, occasionally clicking on the screen in order to find objects that are possible to interact with. As in other interactive movies, some parts presented as video sequences, during which the player has to make the correct action quickly in order to succeed.
+
+NOTA: Este perfil utiliza la versión de Ykhwong de DOSBox y no funcionará con versiones oficiales.

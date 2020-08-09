@@ -1,0 +1,3 @@
+Alien Virus is a point-and-click adventure with a sci-fi setting and SVGA graphics. The player uses the command bar (with the four verbs "use", "take", "use" and "close") to interact with the environment. The puzzles are inventory based. Conversations take a minor role.
+
+The player is cast as starship pilot Joshua Stone, who is returning to the space station Zeus to meet his girlfriend Cara after delivering some cargo. Upon arrival, he finds the station to be completely abandoned. Hence curious and bewildered, he wants to find out what happened.

@@ -1,0 +1,13 @@
+Replay the 1994 National Football League season or draft your own teams. Play your favorite team against computer or human opponents. Play the entire schedule or individual games. You can make trades, design plays, make on the field decisions. Select Coach mode for a strictly strategic game or Action mode to play a game that has both strategy and player control. The game can be controlled by mouse or joystick. Other options at your control are:
+
+Quarter length - set for five, ten or fifteen minutes.
+Stadium detail - set for Outdoor Grass, Outdoor Artificial, or Domed.
+Game Time - set for Daytime, Evening or Nighttime.
+Weather - divided into two sections, precipitation and temperature. Precipitation can be set for Snow, Rain or Clear.
+Temperature - can be set for Very Hot, Hot, Warm, Cool, Cold or Frigid.
+Wind Speed - set for No Wind, Slight Wind, Moderate Wind and Gusting Wind.
+Wind Direction - can be set for Cross Wind, Swirling Wind, Northerly Wind or Southerly Wind.
+Sound - turn the digital or analog sound on and off.
+Film Saves - use this option to instruct the Game Films to save All Plays, No Plays, or only the Big Plays.
+
+Ultimate Football "95 also provides a Team Editor. Here any team can have its players, coaches and lineups changed. Create that unstoppable team.

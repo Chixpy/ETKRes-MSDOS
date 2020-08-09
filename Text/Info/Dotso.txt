@@ -1,0 +1,5 @@
+Based on a pen and paper game often called Squares, your objective in Dotso is to create squares by completing lines between dots.
+
+The game creates a random board of dots and lines for you to start with.  On your turn, you can create a single line between two dots either vertically or horizontally.  If you are able to complete a square with that line, then you get to place another line.  Every time you create a square, you get to place another line.  When you cannot create another square, your opponent takes a turn.
+
+In the beginning, you are mostly just placing lines here and there where you feel it is best.  Once you can no longer place more lines without giving your opponent the opportunity to create a square, then the game gets challenging as you must find out how to let your opponent get as few squares as possible while getting as many squares as you can for yourself.

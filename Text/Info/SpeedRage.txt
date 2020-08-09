@@ -1,0 +1,3 @@
+SpeedRage is an arcade racing game with shooter elements. You can choose between two different racing types (water and land): Speed Boat or Dune Buggy. As in many earlier racing games, you view your vehicle from behind.
+
+The game is multi-player capable and the box includes a second CD-ROM for this purpose.

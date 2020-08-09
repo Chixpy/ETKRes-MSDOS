@@ -1,0 +1,1 @@
+NRMaze is a variant of the classic Windows puzzle game Minesweeper. The twist is that you cannot start the puzzle just anywhere. You start at the top left corner of the board, and must systematically work your way to the other side of the board. This makes the game more challenging. I personally perfer the original, but some may like this variant better.

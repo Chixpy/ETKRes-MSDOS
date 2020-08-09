@@ -1,0 +1,1 @@
+Xonix is a version of the arcade game QIX. The objective of the game is to draw rectangles in the space that occupies the main section of the screen while you avoid the enemies, both in the margins and on the drawable section, which can kill you on contact. Filling a percentage of the drawable area grants the player access to the following level.

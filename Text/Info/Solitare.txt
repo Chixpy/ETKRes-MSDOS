@@ -1,0 +1,3 @@
+Solitare (sic) is a simulation of Klondike Solitaire with some variations in gameplay.  Up to 5 players can play, and the computer can be one of those players.  Since a "score" is kept, you can also pit each player against each other by forcing all players to start with the same cards/deck/shuffle.  
+
+Klondike Solitaire, of course, is a game of moving cards of alternate suits onto each other in an effort to move them off the tableau.  This particular version allows you to play by standard or casino rules.

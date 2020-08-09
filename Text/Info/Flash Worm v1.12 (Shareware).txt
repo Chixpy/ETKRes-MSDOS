@@ -1,0 +1,1 @@
+This is a game you can play SOLO or through the modem. You are a worm on a game board of seeds and poison. As you eat a seed you gain an inch of length. The object is to grow to 200 inches, but be careful not to eat the poison. This is a beta test version, and is not guaranteed to be free of bugs.

@@ -1,0 +1,3 @@
+In Alien Incident you play the role of a teenager called Benjamin who is visiting his uncle"s house at Halloween. His uncle, a home-grown scientist, attempts to activate his latest invention, the wormhole spawner. Amazingly enough, it works and rips open a wormhole to another galaxy, transporting an alien spacecraft to Earth. The aliens kidnap your uncle and, surprisingly, your mission is to rescue him (and the world, but you knew that already).
+
+This is a humorous 2D point-and-click adventure game which consists of traditional inventory based puzzles and multiple-choice conversations. When clicking on an object with the left mouse button the game automatically chooses the appropriate action, e.g. collecting or using the item.

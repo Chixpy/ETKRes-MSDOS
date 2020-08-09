@@ -1,0 +1,2 @@
+A clone of the ever popular game of Hangman - 100"s of words in it"s data bank to contend with, how many guesses will you take to get the word?
+

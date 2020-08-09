@@ -1,0 +1,3 @@
+Pac-Man clone in ASCII.
+
+Your deck of cards is missing four cards. Try to find them while avoiding the crazy cardsharks. There"s four powerups, one in each corner of the maze, get them to make the cardsharks vulnerable for a short time.

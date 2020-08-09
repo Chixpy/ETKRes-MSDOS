@@ -1,0 +1,11 @@
+Based on the famous animation series by Disney.
+
+In the game the player controls Chip helped by Dale (automatically controlled by computer), who break through the obstacles made by one of their archvillains, Professor Norton Nimnul. The Rescue Rangers go through 9 levels to save the Monterey Jack caught by mouse-trap in Nimnul"s castle.
+
+On the first 3 levels, Rangers must get to Nimnul"s castle jumping in and out of pits, avoiding the running dogs and falling acid drops thrown by Nimnul himself.
+
+On the second 3 levels, Chip must avoid fire throws from candles, collect screws, and give them to Dale as he runs away from dogs.
+
+On the third 3 levels, Chip must avoid the machine with hands, collect screws, and give them to Dale running away from dogs.
+
+Between levels the animation is shown on how the player progresses in the game, such as, for example, Zipper transfer the screws collected by Rangers for the flying machine to repair it by Gadget.

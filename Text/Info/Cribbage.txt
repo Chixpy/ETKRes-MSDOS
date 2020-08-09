@@ -1,0 +1,5 @@
+An adaptation of the traditional card game, for one player against a computer rival, where each side attempts to beat the opponent to the goal of 121 points.
+
+To start with, the deck is cut and the lowest card determine who deals first.  Each side receives six cards, discards two to the crib, then both take turns playing their hand to the board - attempting to score by bringing the total value to 15 or 31, and by completing certain card combinations that score additional points. "Go" is called if no cards can be played without going over a total of 31, and the attempt is transferred to the opponent; the last player to place a card gets an additional point.
+
+When all cards have been played, both hands are scored according to their contents and special combinations, and the score for the crib goes to its owner (each side gets the crib on alternating turns).  A new round begins, and so on until one of the players hits a total 121 or above - winning the game.

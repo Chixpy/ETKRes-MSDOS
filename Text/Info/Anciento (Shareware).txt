@@ -1,0 +1,10 @@
+"Anciento is a form of ""solitaire"" game, not played with cards and it is based on a game called Ishido. The goal is to achieve high(er) scores. Very little luck, great deal of thinking is involved. Not for the intellectually challenged.
+
+A bit of history:
+=================
+I wrote this game almost 20 years ago. I bought a Gameboy at the time, I had several games and played them quite a bit. When I bought the game called Ishido, my wife, who otherwise dislikes computer games, somehow noticed that one game and took my Gameboy for several hours just to play Ishido. One day I got really pissed and decided to write an Ishido to the PC, so I can have my Gameboy back. I sat down one Saturday morning, started to write the program and some ""unknown power"" propelled me to go on and on......until Sunday noon and the entire program was DONE. So, what you see here is the product of a 36 hours uninterrupted programming (no sleep). It paid off however, I had my Gameboy back, my wife became a total Ishido (Anciento) addict, played way over thousand games over the next decade. She also became a master of the game. I seriously doubt that anyone ever will beat her high score which is 49,330 with 11 Quatro. If anyone dares to try to match her achievment, use option 2 from the Main Menu and type in the number 1599. You will get the exact same sequence of pieces. Don"t feel bad if you can"t match her score, she made that in 2002, 11 years after started playing the game. Than again, she scored over 40,000 ten times, one in 1993 (after 2 years of playing).
+
+The game was written entirely in Microsoft QuickBasic 4.0 by me. I never learned computer programming in any school, or read any actual computer language book. I used QuickBasic built in help (F1) and learned the commands from there.
+
+Have fun.
+Gabor"

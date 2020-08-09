@@ -1,0 +1,3 @@
+Animal Quest is an educational game for all ages. Players become animals in four different game groups with the following titles: Forest Animals, Ocean Animals, Jungle Animals, and Young Lion.
+
+The game is played on a grid field on which the animals, the environment and other obstacles are randomly placed. The player"s goal is to catch its prey (other animals or plants). Each animal has its own difficulty level; a prey animal has a harder time than a lion. The game features detailed information about the animals.

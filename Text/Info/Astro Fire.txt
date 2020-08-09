@@ -1,0 +1,3 @@
+Astro Fire is basically a run-of-the-mill Asteroids clone, but with a few twists: instead of asteroids you"ve got monsters of sorts to shoot at, there are power ups (two kinds of weapons) and shields (which means a single blow doesn"t kill you), and you can also set whether or not you want momentum enabled, which gives an interesting edge to the game.
+
+The full version of Astro Fire includes three different episodes with too many levels to mention.

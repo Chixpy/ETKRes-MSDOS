@@ -1,0 +1,3 @@
+This is a simple program which generates addition, subtraction, multiplication and division problems.  With the various options, it should be useful for grades 1 - 4.
+
+I wrote it because my first-grader hates being quizzed on math facts.  Instead, I print one or two sheets of problems and give her a time limit to complete them.  If she finishes the sheets on time, I don"t quiz her.  If not, well, it just shows that she needs the work.

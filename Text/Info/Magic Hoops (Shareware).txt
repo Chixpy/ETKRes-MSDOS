@@ -1,0 +1,2 @@
+Magic Hoops - is a deceptivly simple puzzle game which requires you to rotate the colors in two interlinked circles so they will match a pattern displayed on the screen.
+

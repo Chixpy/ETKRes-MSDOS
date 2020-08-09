@@ -1,0 +1,4 @@
+Quinn is an apprentice thief in the city of Cairn, who needs to prove himself worthy of being admitted to the guild. The problem is, Quinn is just too honest to steal anything of value. When the Duke of Cairn is murdered, the treacherous master of the thieves guild frames the naive Quinn for the crime. Quinn escapes from his holding cell, but is now all alone in the city and the surrounding mountains, hunted by guards and his former comrades. He must find a way to prove his innocence, and bring the real murderers to justice.
+
+Shadows of Cairn is an action game with platform elements. The player navigates Quinn over side-scrolling environments, either sneaking past enemies, or engaging them in combat. Quinn can jump and climb, which are essential abilities for bypassing the traps found in the game. When in combat, the player can have Quinn execute high, medium, and low punches and kicks.
+

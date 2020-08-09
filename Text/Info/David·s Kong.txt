@@ -1,0 +1,7 @@
+David"s Kong is a Donkey Kong clone. The game consists of two parts, both played in the same level layout.
+
+First, you have to climb to the top to rescue your girlfriend while a gorilla throws barrels that roll down the ramps. When you get to the top, the gorilla throws one barrel down the middle of the platforms. This creates extra gaps in the platforms you will have to jump across. Also, a house appears at the bottom of the screen. In the second part, you have to carry your girlfriend down to the house. This time, flaming barrels move up the ramps and the gorilla throws flaming barrels aimed directly at you, in a straight line.
+
+The player can move left and right or up and down ladders with the cursor keys and jump by pressing F1. But when holding down a cursor key the player character doesn"t move smoothly, so in order to manoeuvre quickly enough to avoid the barrels, you have to keep tapping the cursor keys. Also, if you jump while standing on a ladder it"s instant death.
+
+The game was programmed in GW-BASIC by an unknown author, and distributed as a compiled executable.

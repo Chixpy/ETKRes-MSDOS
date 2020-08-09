@@ -1,0 +1,2 @@
+A strategic war game with 130 territories for you to conquer. You go through yearly cycles where you must control your economy to feed your troops, buy weapons (tanks, planes, nuclear bombs), or develop farms and factories. At the end of each year you can attack a limited number of the enemy territories controlled by the computer. There are 23 levels of difficulty and no limit to the number of years the game can take.
+

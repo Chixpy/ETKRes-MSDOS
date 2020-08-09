@@ -1,0 +1,3 @@
+TARGET WORD is a word game, with the objective of finding the "target word" that the computer has chosen from a list of words in a data file. The player uses carefully chosen "probe words" and logical analysis to eventually find out the identity of the target word.
+          
+This game was an original creation of Anatol Holt, and was described in the "Mathematical Games" section of Scientific American, April, 1969.

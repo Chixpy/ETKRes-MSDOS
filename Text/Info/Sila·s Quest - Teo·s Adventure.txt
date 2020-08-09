@@ -1,0 +1,25 @@
+Allá por los años 96/97 la compañía mallorquina Island Dream Games & Soft se especializó en lanzar pequeños juegos de plataformas, probablemente destinados al público infantil, muy parecidos entre sí (me vienen a la cabeza títulos como "Kome Bumb", "The Last Knight" o la saga "Eco-Kid"). Una gran parte de ellos se comercializaron directamente en quioscos y Sila"s Quest no fue la excepción.
+
+Sila"s Quest es un juego de plataformas de desarrollo muy simple. Tomamos el rol de un orondo y simpático personaje, que debe eliminar a todos los seres que circulan por cada nivel. Para ello deberemos hacer uso de nuestra especial habilidad en el salto, ya que la única forma de acabar con nuestros adversarios será de un certero salto sobre sus cabezas.
+
+Al eliminar a cada uno de los seres que circulen por el área de juego, aparecerán en pantalla elementos comos frutas, tartas, etc., que al ser recogidas nos otorgarán puntos extra.
+
+Una vez fulminados todos los seres del nivel correspondiente, entraremos en una fase de bonus, cuya duración será de 60 segundos y en la que deberemos recoger el mayor número de estrellas posible.
+
+Esta mecánica de juego se repetirá nivel tras nivel hasta llegar al final, con el obvio incremento en el nivel de dificultad conforme vayamos avanzando.
+
+Echando un ojo al apartado técnico del programa hay que decir que desde la perspectiva de 1997, Sila"s Quest era un juego totalmente superado. Afortunadamente, el paso del tiempo hace que a día de hoy lo analicemos con mayor amplitud de miras, con lo que a pesar de no contar con complejos scrolls o efectos dignos de mención, Sila"s Quest presenta una apariencia colorista y simpaticona, que lo hace, cuanto menos, agradable.
+
+Así a nivel gráfico Sila"s Quest muestra, por una parte unos personajes caricaturescos tipo "cartoon", aceptablemente definidos. Por otra, unos escenarios que, pese a su corrección no dejan de dar una cierta sensación de vacio.
+
+La animación de los personajes es muy fluida, sin complicaciones. El scroll de pantalla es correcto, sin más.
+
+A nivel sonoro el juego resulta bastante simple. De este modo encontramos los típicos FX de los juegos de plataformas, oidos una y mil veces en gran parte de los juegos del género. La banda sonora está compuesta en base a MODS de tracker, y acompaña perfectamente.
+
+En cuanto a su jugabilidad, hemos de decir que Sila"s Quest es un juego bastante repetitivo, ya que una fase tras otra las acciones a realizar son las mismas. Además, los niveles son totalmente lineales (nada de fases laberínticas que pongan a prueba nuestra capacidad de orientación).
+
+Por contra hay que mencionar que la dificultad está bien ajustada, y que va incrementándose paulatinamente, lo que permite mantener viva, partida tras partida, la expectativa de llegar al siguiente nivel.
+
+Además la complejidad a la hora de controlar al protagonista es nula, ya que simplemente deberemos preocuparnos de caminar a izquierda o derecha y saltar.
+
+Resumiendo, podemos definir a Sila"s Quest, como un juego sencillo, creado con el público infantil en mente (aunque apto también para un público más talludito), y que pese a ser algo repetitivo, es lo suficientemente simpático y atractivo para que queramos volver a echar otra partidita... ¿Juegas? 

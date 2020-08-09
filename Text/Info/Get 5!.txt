@@ -1,0 +1,1 @@
+A "get 5 marbles in a row" game. (Duh!) In this game you play against the computer (it"s tough!). The graphics are pretty good, and there are some SB sound effects and music. Nothing fancy here but goot at what it is.

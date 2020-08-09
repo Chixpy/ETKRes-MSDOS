@@ -1,0 +1,2 @@
+BrainStorm is a strategic puzzle game for one player; concerning tiles colors and different gravity forces. Your job in each of the levels is to make all of the tiles disappear. Requires: mouse 400K RAM VGA. Adlib/Soundblaster or compatible card is recommended.
+

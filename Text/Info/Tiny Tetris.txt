@@ -1,0 +1,7 @@
+In 1988, a few students of the Moscow High Technical School founded RedRat"s Club. They met in a small but well-equipped room (their computing arsenal included four 286 with amber monitors and a 386 with VGA) to drink, smoke and write software.
+
+Their first project was an anti-virus program called BASTION. It turned out quite good, they even sold it, but then they decided to make games instead. This was their first game, written on a single Saturday afternoon.
+
+Tiny Tetris is exceptional in the use of the extended character set. At the time, no other game made ANSI look as good. Even later, few games matched it, hardly any surpassed it. Unfortunately, it is also very reliant on processor speed. I had to turn DOSBox down to 54 cycles to make it playable.
+
+Assembly sources included in the archive.

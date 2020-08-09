@@ -1,0 +1,3 @@
+A classic Tetris with excellent graphics and some sound effects. By the same authors as Bang.
+
+There are no fancy non-tetramino pieces, there is no music, but there are bombs, and when you level up, a sort of blind comes down and you start anew, with some obstacles in the well. Gameplay graphics are good too, they do not distract, only when you get a Quadro\u00efd (clear four rows in one) the background becomes animated, and the pieces are color-coded.

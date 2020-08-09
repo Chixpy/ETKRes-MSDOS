@@ -1,0 +1,7 @@
+Lawn Mower is a text-only action game, in which you play, well, a lawn mower. Of course, this is not too interesting in itself, so there are some catches. 
+
+First of all, you have to mow the entire lawn in a certain time. Furthermore, you earn money for mowing, and the less time you need, the more you earn. To save time, you can change the mowing speed, but be careful: if you go too fast, you"ll hit some things not intended to mow, thereby getting a time penalty and damaging the mower. After ten "hits", you must replace the blades of the mower by returning to the starting shed.
+
+The whole thing is further complicated by different obstacles. A gopher appears randomly and leaves holes, and at advanced levels, a dog begins to chase you -- all destroy your mower on touch. Every destroyed mower costs you 10 dollars, and you only have a limited number of mowers at your disposition.
+
+The first levels may seem easy, but don"t get fooled: it soon gets pretty hard. The game ends when all your mowers are gone, and if mowed well enough, you get the possibility of getting into a high score list.

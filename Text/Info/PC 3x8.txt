@@ -1,0 +1,4 @@
+3x8, el juego del saber es un juego de preguntas y respuestas, divididas en 8 categorías, donde nos irán realizando preguntas aleatoriamente entre los diferentes temas.
+Cada vez que acertemos una pregunta mantendremos nuestro turno, sumando puntos a nuestro casillero.
+
+Típico juego de tablero que te hará pasar un buen rato sin mayor pretensión. 

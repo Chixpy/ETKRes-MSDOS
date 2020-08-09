@@ -1,0 +1,19 @@
+Guzzle is an entertaining mix of drinking and trivia games for 2 to 4 players.The game is meant to be an "electronic companion" when you and a few friends get together for a drinking competition. Basically each player (or, more appropriately, "drinker" in this case) takes turn tossing die on a Monopoly-style board. The player"s piece may land on one of the following possibilities: 
+
+A DRINK square (e.g. "2 DRINKS"), in which case you must guzzle the specified number of drinks.
+
+A GIVE square (e.g. "GIVE 3"), in which case you  must pick a victim, and make he/she guzzle the specified number of drinks. 
+
+DETOX MANSION or GOTO DETOX MANSION, in which case you are trapped (not unlike "GO TO JAIL" in Monopoly), and the only way you can escape is by rolling a 3 or a 6. 
+
+GUZZLE, in which case all  players not  in DETOX MANSION must take one drink. 
+
+ROLL AGAIN, which is self-explanatory.
+
+GO, in which case nothing happens and you move on to the next player. 
+
+?, in which case the player must answer a multiple-choice trivia question. If you get it right, you get to give a victim one drink. But if you blow it, you have to take one drink. 
+
+The fun of Guzzle, like all drinking games, lies in seeing who will be the last person to get drunk. But this game requires knowledge as well - it won"t help your luck if you can"t remember Star Trek episodes, "70s songs, or Stanley Kubrick movies. The winner, as the manual wryly describes, is determined as follows: "How do you win?  Well, if by the time some  player gets  disgusted and chooses EXIT, you"re still awake and in control of your extremities, then congratulations: yer a winner.  But if you wake up the next day with puke all over yer pants and spend the afternoon asking people, "Hey, what asshole threw up all over me?", well, then, yer a loser.  At the  end of the game a score sheet comes up with each player"s total drinks noted.  So it is kinda like golf: the lowest score wins.  Of course, as is the  case in all drinking games, the losers have all the fun." So if you can gather a few beer buddies around, check out this neat little underdog that is a great party companion. 
+
+Note: Like other BSX games I reviewed, this is actually marketed as "shareware" but since the registered version is identical to the shareware one (except for the absence of "nag screen"), I have labelled it freeware here.

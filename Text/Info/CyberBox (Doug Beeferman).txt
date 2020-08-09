@@ -1,0 +1,1 @@
+CyberBox is a game of thinking ahead. Given the simple challenge of getting from one point to another, you will find yourself anticipating the effects of every move you make in between. There are 16 levels (rooms) for you to solve. The object of the game is to solve each room in the minimum number of moves, so as to attain the highest possible score.

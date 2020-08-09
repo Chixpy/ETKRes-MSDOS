@@ -1,0 +1,1 @@
+Dynamo Draughts is the European version of Draughts, a variant of checkers. Draughts is played on a 10x10 board, although this program allows you to resize the board. One major difference between Draughts and Checkers is the way a king moves.

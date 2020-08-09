@@ -1,0 +1,1 @@
+This demo is meant as a compatibility test only, although it does contain a fair chunk of the story and character development. A LOT of work still needs to be done to balance the gameplay and some of the graphics are incomplete, especially in the cutscenes.

@@ -1,0 +1,2 @@
+PC-Gammon 6.0, the LampLighter edition, is a WARP-SPEED full screen backgammon game for PC clones. This edition, now with COLOR, has pleasant sound effects and takes full advantage of the IBM standard screen characters. You may alter any or all of the colors/attributes to suit your own taste, and PC-Gammon distinguishes between CGA and Monochrome.
+

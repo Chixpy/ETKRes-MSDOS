@@ -1,0 +1,3 @@
+OUTBURST is a game of topics.  Each question has a Topic CATEGORY and ten TARGET ANSWERS.  This demo version is for one or two players, but the registered version is for up to four players.  You can also play in teams, if you like.
+
+The object is for you or your team (hereafter referred to as just "you") to attempt to guess as many of the TARGET ANSWERS as possible.  You receive one point for each TARGET ANSWER you give.

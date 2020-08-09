@@ -1,0 +1,3 @@
+Invaders 1978 is a clone of Taito"s Space Invaders, modeled to closely resemble the original arcade version. The player is at the bottom of the screen facing upwards, moving left and right to shoot the row of aliens as they move left and right. Aliens at the top of the screen are worth more points.
+
+This version has wider graphics than the original, and is a little quieter, reflecting the "no frills" design philosophy. To make it a carbon copy, there is no high score table and keys cannot be remapped. The game was originally available through mail order, and later became freeware.

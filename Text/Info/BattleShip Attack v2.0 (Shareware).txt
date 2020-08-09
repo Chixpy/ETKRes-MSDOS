@@ -1,0 +1,2 @@
+Battleship game which requires two players, allows diagonal placement, and allows the use of two "scatter bombs" per game.
+

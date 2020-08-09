@@ -1,0 +1,1 @@
+Football Challenge is a game designed to test players abilities to pick the winners of professional football game matchups each week.  The game also tests players abilities to recognize close matchups each week.  Football Challenge should be used for entertainment purposes only.

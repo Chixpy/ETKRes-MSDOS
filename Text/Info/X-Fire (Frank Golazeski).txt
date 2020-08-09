@@ -1,0 +1,2 @@
+Simple action game where you move your ship around the grid and shoot at the enemies.
+

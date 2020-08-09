@@ -1,0 +1,23 @@
+"Binary Armageddon is a game in which you write battle programs, and pit them against each other in a fight to the death. The programs are placed in the memory core in random locations, and none of them know where the others are. Some will be offensive, bashing everything, others may be more defensive and move out of the way of an oncoming rampant program...
+
+The idea of programs battling one another within a computer is by no means a new idea. A number of years ago, some researchers from the Massachusetts Institute of Technology were working on artificial intelligence at AT&T"s Bell Laboratories and at the Xerox Corporation research center. These programmers would on occasion rewrite various programs to eat each other, after their colleagues had left for the day.
+
+This was the beginning of what is now called ""Core Wars"". Here programmers would match wits by writing programs that would do battle with one another in the core of the mainframe. Eventually, Core Wars were banned in the workplace after a Xerox 530 became infested with these programs, and thus was the first computer to have a serious virus problem.
+
+But this was not the end, for in 1983, in a speech the ideas came forth, and in 1984 an article appeared in Scientific American containing information on viruses and Core Wars, and offered more details on writing them for a small fee of $2.
+
+At this point A. K. Dewdney and his friend David Jones started developing the game of Core Wars. They devised a system that would allow for writing simplistic programs in an assembly like language, and to have them battle within a simulated mainframe on a personal computer. They developed a programming language for it called Redcode, and a simulator called MARS (Memory Array Redcode Simulator).
+
+Now where does Binary Armageddon come in? Well, a few weeks before I wrote this, I had come across some information pertaining to Core Wars, the original mainframe battles. I thought it would be fantastic to be able to simulate this on an IBM compatible computer, and set forth to create Binary Armageddon. But I had some difficulties in the design, there were holes in my plan. At this point I discovered Dewdney"s Core Wars, and Redcode, and so forth. After seeing what they had done, it was a simple matter to incorporate a few of the ideas and finish Binary Armageddon.
+
+Binary Armageddon is being developed with the idea that programs written in it"s language can compete against programs written in Redcode. This feature is now fairly well implemented, and should work. If you spot any problems, please contact me. To run a redcode program in BACS, you must insert a line at the top of the Redcode program that says ""-Redcode"". For more details, consult the file REDCODE.TXT.
+
+In BACS (pronounced ""backs""), the programming language (BABL, which is pronounced ""Babble"") is a cross between PC assembly, ATRA (pronounced ""Ay-truh"", stands for Advanced T-Robots Assembly), and Redcode. The language is considerably different from Redcode in it"s syntax, but all Redcode"s commands are supported, and thus with a simple re-wording of them, most redcode programs can be converted to BACS. The programs DWARF.BA, IMP.BA, GEMINI.BA, and MEGAMOVE.BA were all originally written in Redcode, and have been converted in this manner.
+
+Now just what is all this? Binary Armageddon is the name of the game, and the game could feasibly be implemented in various manners, using different simulator programs. BACS is the name of the program itself for which this documentation was written. BACS is a program that allows you to play Binary Armageddon.
+
+In Binary Armageddon, you will write programs that will battle one another in a fight to the death. The programming language is very similar to assembly language, with some major differences. If you don"t already know a fair amount about programming, you should stop here.
+
+You can pit up to 16 programs against each other at a time, and the graphic display on the screen shows all 8000 memory locations at once. These memory locations are color coded, and the colors can represent either the commands that are contained at those locations, or they can represent which program they belong to. You can switch between the two color options during the battle, thus allowing for a massive amount of flexibility, and provides for the maximum informative output possible during runtime.
+
+"

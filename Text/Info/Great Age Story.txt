@@ -1,0 +1,3 @@
+Juego de estrategia por turnos ambientado durante las guerras entre comunistas y nacionalistas por el dominio de China, y también contra Japón durante la Segunda Guerra Mundial.
+
+La interfaz es parecida a la de las primeras entregas de "Romance of the Three Kingdoms" de Koei.

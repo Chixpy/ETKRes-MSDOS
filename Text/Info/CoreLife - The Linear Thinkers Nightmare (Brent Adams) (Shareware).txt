@@ -1,0 +1,5 @@
+CoreLife is a training program designed to improve the skills used in a multitasked environment.  It is, however, just a game. (don"t blame me if it can"t do your taxes)
+    
+The CORE is a simulated 2 dimensional parallel processing computer with language and addressing modes similiar to conventional assembled code.  The programs in memory compete for system resources (namely space), while conserving energy.  This is accomplished by accumulating space as fast as possible while minimizing the number of logical threads. (parallel paths) Conflicts for space (ie. moving a new command into an opponents territory) are resolved using a dice roll based on the strength of the opponents.
+    
+STRENGTH = (AREA accumulated)/(Number of logical threads) Programs are considered dead if net area ever falls below zero.  The winner is the last program that survives.

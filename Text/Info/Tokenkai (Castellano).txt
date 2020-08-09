@@ -1,0 +1,1 @@
+TOKENKAI was a commercial game made in "DIV language", by the company "Hammer Technologies", being an example (and sold as such) of the ability to make commercial Games of fresh out of the oven "DIV2 Games Studio". In fact, in "DIV2" came the source code of the Demo of the Game, so you could see how it was done, get ideas, or even try to improve it.

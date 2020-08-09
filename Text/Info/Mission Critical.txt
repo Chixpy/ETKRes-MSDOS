@@ -1,0 +1,9 @@
+Mission Critical is a first-person graphic adventure.  It is 2134, and the human race has been at war for 50 years since the Alliance declared independence from the stifling rule of the UN and its anti-technology policies.  The Alliance is losing the war to the UN"s greater numbers, but recently, Alliance scientists discovered an alien artifact on the planet Persephone.
+
+You are onboard the USS Lexington on its top-secret mission to investigate the artifact, and hopefully change the course of the war to the Alliance"s favor.  But the UN"s spies are everywhere, and before the introductory movie is over, the Lexington has been ambushed and Captain Dayna has been forced to sacrifice almost the entire crew of the Lexington to destroy the attacking cruiser Dharma, leaving only you behind, unconscious.
+
+When you awaken, you discover yourself alone on a damaged ship.  You"ll have to patch the holes, prevent reactor overload, and bring the ship"s computer back on-line before you can attempt to successfully complete the Lexington"s original mission.  
+
+Until the Lexington"s condition is stabilized, there"s a real-time clock ticking away (you get several hours).  There are lots of  inventory-based puzzles to be solved.  You"ll also have to defend the Lexington from UN attacks in a simple 3D real-time strategy game (which has an adjustable difficulty level if you have trouble).
+
+Eventually, you"ll be able to land on Persephone, investigate the artifact, and use its power to save mankind.

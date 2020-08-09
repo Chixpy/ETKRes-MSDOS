@@ -1,0 +1,5 @@
+A one-on-one, real time strategy war game.  Conquer the world or fight smaller battles.  Choose your time period/scenario (1918, 1942, 1986, 2023, or ????); the later the date the more advanced the game.  The 1918 games provide only land and sea units.  1942 adds air units and carriers.  1986 and beyond add nukes, satellites, oil considerations, and foreign aid.
+
+You can create custom layouts (scenarios).  Games can also be saved to "film" so you can watch them again.  You can even watch the game up to a certain point and then start playing it.
+
+As for opponents, you can play five different levels of computer opponent or a friend on another computer.  Two person play requires a modem or serial link.

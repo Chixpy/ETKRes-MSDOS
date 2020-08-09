@@ -1,0 +1,16 @@
+What happens when a computer has no programming? What if there is nothing stopping it from using its systems to do whatever it wants? It would probably be something like BAD_MACHINE.
+
+The game deviates from traditional interactive fiction in the fact that you see from the perspective of a robot. Literally. Everything you see is from the exact perspective of a modern, totally inhuman computer. That means you don"t get any rational description of what you see. It"s all in code. To better describe it, here is an exact quote from the game:
+
+"Dir ALT{ER}DDDisplace-: 2 [east -> north]
+Reclamation Sector (1)
+   (clear*space) open -> bare floor. (insersection / entrance?) line delimiter cross=north: wider space. south: rec. seccttoor.
+   Sector->Content_list: a disabled climber-class machine
+   Salvager-class machine is here.
+Salvager #231 :: Mover #005 | [Salvager-class machine * Serial 14-231 * Power: 250 * GOOD MACHINE]
+   Salvager #231 detach()e()s leg {type #0274} frOm disabled climber-class machine
+   Salvager #231 picks the leg {type #0274} up."
+
+Now, with nothing but a broken compass, a corrupted database, and a dangerously low level of compliance, you must guide Mover #005 to safety...wherever that may be.
+
+BAD_MACHINE is made with TADS.

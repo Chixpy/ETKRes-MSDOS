@@ -1,0 +1,1 @@
+Xixit is a Columns-inspired action puzzler developed by demosceners. Groups of three blocks fall into a pit; control and drop them to create horizontal, vertical or diagonal groups of three or more, which are removed and scored.  The registered version adds a two-player mode to the standard solitaire game.

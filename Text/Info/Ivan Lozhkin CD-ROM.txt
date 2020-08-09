@@ -1,0 +1,1 @@
+This Russian adventure game is relatively obscure even in the Motherland and is a ripoff of Space Quest. It was written in Turbo Pascal and even used graphics and music from the VGA version of Leisure Suit Larry in a failed attempt at an in-joke. You play as cadet Ivan Lozhkin who has crashlanded his spaceship on a planet.

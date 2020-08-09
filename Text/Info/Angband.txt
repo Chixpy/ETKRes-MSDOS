@@ -1,0 +1,1 @@
+Angband is an updated version of the game Moria, adding more monsters, character races and classes; deepening the dungeon from 50 levels to 100; and including such new features as monster pits and unique items.  The object of the game is to become powerful enough to defeat a difficult unique monster, Morgoth, at the bottom of the dungeon.

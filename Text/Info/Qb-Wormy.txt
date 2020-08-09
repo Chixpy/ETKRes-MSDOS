@@ -1,0 +1,3 @@
+Qb-Wormy is probably one of the better Qbasic "Wormy" clones out there.
+
+It is reminiscent of such games as Nokia"s Snake, Rattler Race, Nibbles, and of course, the game it is based on, Wormy. Wormy was a game made for the Apple IIe"s, and the object was to run around the screen and collect blinking boxes, all the while growing longer. Back in grade school, I played Wormy constantly; it was my first game, my favourite game. So here is my build on it. I started this game around Dec 13th, but school and work have kept me from it, so it took longer to finish. Besides, I spent more time playing the game than developing it :) I have written a very poor Wormy v1 as my first game ever, that may be floating around the net somewhere... but it is not as good as this one.

@@ -1,0 +1,7 @@
+Peter Cluster es un personaje creado por Jaume Medina. La serie Peter Cluster en Europa ha sido escrita por Jesús Manuel Montané. Programación: Oscar y Enrique Vives. Diseño Gráfico: Evo. 
+
+Peter Cluster fue una serie de tres capítulos que fueron distribuidos con la revista PC Players. 
+
+Para seleccionar las acciones usamos los cursores. El menú está en la última acción de la lista, Salir. 
+
+Para usar un objeto hay que situarse con los cursores en la acción Usar y en el objeto, y pulsar Enter, luego se selecciona el destino de donde vas a usar el objeto, pudiendo combinar dos a la vez. 

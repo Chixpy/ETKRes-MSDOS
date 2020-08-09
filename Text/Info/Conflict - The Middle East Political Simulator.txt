@@ -1,0 +1,3 @@
+Conflict is a political/strategy simulator, inspired by a prediction of how events in the Middle East could unfold in the 1990s. In this 1997, the Israeli prime minister dies (either by assassination or by bomb blast), and you"re appointed as the new prime minister.
+
+In the game you have to make and follow political policies regarding other countries in the Middle East, control intelligence and purchase arms, try to beat the other countries in the nuclear race and keep peace with the Palestinians and, of course, conduct battles with other countries.

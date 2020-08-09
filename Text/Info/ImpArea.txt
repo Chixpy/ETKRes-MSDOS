@@ -1,0 +1,7 @@
+In this arcade game you visit ImpArea, an area occupied by small imps running and jumping all around in random and continuous way. They are very busy with transportation of  the souls of sinners. Your task is to free with your magic glass as many lost souls as possible from their terrible fate for a limited amount of time. 
+
+The game is flown on static screen, where you choose the place to put your glass. Once the glass is placed, some imps are captured and souls are set free. You get the points for each saved soul. Your score may be increased by pinching the tails of imps with the glass.
+
+The best scores are stored in Hi-scores table, which may be managed as well. 
+
+The game is available for single player and for two players in cooperative mode and supports English, Russian, and German interface languages.

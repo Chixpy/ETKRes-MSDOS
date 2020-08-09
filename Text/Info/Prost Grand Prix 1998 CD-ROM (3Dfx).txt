@@ -1,0 +1,7 @@
+Prost Grand Prix is a Formula One racing game endorsed by the team owned by the four times World Champion Alain Prost, formerly Ligier.
+
+The game includes all teams and drivers from the 1997 season, and while only PGP is licensed, all others circuits can be edited to their real counterparts inside the game. Not only the name and colours can be changed, but also how fast and reliable the cars and pilots are.
+
+It"s possible to run a championship, single race, private testing and set driver aids and realism settings.
+
+NOTA: Necesita la versión de DOSBox de Ykhwong.

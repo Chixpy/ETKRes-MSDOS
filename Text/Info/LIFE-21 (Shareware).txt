@@ -1,0 +1,7 @@
+"What the heck is this game of Life, and who is J. H. Conway?
+
+John Horton Conway is an outstanding mathematician and a creator of mathematical games. He created his game of Life in the late "60s at the University of Cambridge. Life is a simulation game which uses a harshly Spartan set of rules to generate a lavish universe of unlimited possibilities.
+
+The simulation in Life is played out (theoretically) on an infinite two-dimensional grid where each square of the grid can either be occupied by a ""live"" cell or be empty; a truly binary landscape.
+
+The rules of Life were chosen so that, imagining living cells in a two-dimensional universe, the simulation would resemble birth, growth and death patterns."

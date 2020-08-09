@@ -1,0 +1,3 @@
+Animal Math is an educational game that uses pictures of animals to teach counting, sequences, addition and subtraction.  For example, you choose addition and have to complete eight sums.  When you have completed the eight correctly the game displays the congratulations screen with a fun little tune and then you move onto more difficult equations.
+
+Aimed at junior school age children the game is simple enough for them to use.  The text and pictures are big and easy to read.

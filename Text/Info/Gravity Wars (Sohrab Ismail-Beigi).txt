@@ -1,0 +1,4 @@
+"Gravity Wars is a two-player game (or one-player if he plays against himself.) The players choose ships (one the Enterprise, the other Klingon) and try to shoot down each other by specifying angles and initial velocities for the missiles.
+
+Missiles move under the influence of the gravitational fields of the various planets in the Gravity Wars universe. The planets are the spherical and colored (Red, Green, or Blue) with each color representing a density: Red=1.0, Green=1.5, Blue=2.0. The force of gravity is the well known inverse square law, namely F=GMm/(r^2) (where ^ means exponent.)"
+

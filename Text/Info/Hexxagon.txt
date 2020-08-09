@@ -1,0 +1,3 @@
+Hexxagon is a board-game. You have a table which contains a hexagon fields, 58 in total, and each player/computer starts with having three of them. You can move one or two fields in any direction. If you move one, you get the new one and the one you have filled stays untouched. If you jump two spaces, you loose the first one, and get only the second one. Every field that borders to the one you just came onto becomes yours. The winner is the one who has the most fields at the endgame, or the one that stand alone, in which case he gots all 58 fields.
+
+(Editor"s Note:  This game is very similar to Ataxx, except with a hexagon grid instead of a square grid.)

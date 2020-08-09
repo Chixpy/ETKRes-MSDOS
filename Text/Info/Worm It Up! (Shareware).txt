@@ -1,0 +1,4 @@
+Worm It Up ! is an arcade game where you are a worm.  This worm does what all the worms in the world do : it looks for food.  A little mushroom appears somewhere in the screen and you (the worm) are supposed to eat it.
+
+When you do manage to eat it, your digestive system is so good that you"ll  leave a remembrance of the mushroom that was...  Do not try to eat that, it"s poisonous and you"ll die from it.  But you can clean it up by spitting on it.  Spitting on a wall won"t do anything.  You have a limited amount of spitting balls (10), but you can actually collect more when you eat a blinking ball that appears once in a while...  When you have eaten thirty mushrooms at a certain level, a blinking exit will appear in the middle of the screen,  you can choose to continue eating mushrooms at the same level or when entering the blinking exit to pass on to the next level.
+

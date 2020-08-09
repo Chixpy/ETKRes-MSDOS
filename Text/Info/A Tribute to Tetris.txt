@@ -1,0 +1,3 @@
+A Tribute to Tetris was one of the entries to the X2 Support Group 1995 Programming Contest, winning the Tetris category (Prize was a 3D Game Creation System by Pie in the Sky Software, and a copy of Doom II). C Sources are included in the archive.
+
+This is a clone of the Atari arcade version of tetris which you could have played in your local pinball arcade in about 1986 or there abouts. I know for sure that the first 12 or so levels are historicly correct but after that I had to improvise. The scoring system is the same as the one used for Stygian Tetris.

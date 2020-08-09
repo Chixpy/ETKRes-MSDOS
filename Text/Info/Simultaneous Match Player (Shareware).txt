@@ -1,0 +1,16 @@
+All the very good Chess players are fond of playing a roomful of opponents simultaneously.  It sharpens their game (and their egos).
+
+SIMULtaneous Player is a roomful of world-class players ready to test your ability to handle the intricacies of the opening game.
+
+"SIMUL" is quite intuitive and doesn"t need detailed explanations
+ to get you airborne.  You will get the hang of it very quickly.
+
+"SIMUL" uses lines played over-the-board in important tournaments staged within the last few years.  This is the rough-and-tumble of actual tournament play.   See if you can survive the openings!
+
+The program gives you the choice of White or Black and random or pre-selected opening moves.  Just like the real exhibition match.
+
+If you falter, you will be told what the experts actually played.
+
+And when the smoke clears you can get a printout of how you did.
+
+Some of you will no doubt feel that you have discovered a hitherto unknown line or two.  Check it out by hitting the books and if you think it deserves more investigation then test it against a better player.  That"s how Chess players learn!

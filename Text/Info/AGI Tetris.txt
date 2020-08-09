@@ -1,0 +1,5 @@
+AGI Tetris, not to be confused with the 1998 game of the same name, is a Tetris variant which was programmed with Sierra"s Adventure Game Interpreter engine.
+
+The basic playing principle follows the standard by the book: blocks of varying forms fall down from the top of the screen. The player is able to rotate them and as soon as they hit the ground, they become stationary and the next piece (which is shown in a preview field) falls down. The goal is to create complete lines which then are removed from the playfield. The game is lost when the stack reaches the top.
+
+Each level (before starting the game, the player can set the beginning level between one and five) requires to clear a certain amount of lines. Then the screen is wiped and the next level begins. Those levels progress in difficulty and introduce a higher falling speed or pre-arranged blocks which hinder the player"s ability to create lines. There is no reward for clearing multiple lines at once (no high-score) and the background images are taken from Sierra"s AGI adventures.

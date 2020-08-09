@@ -1,0 +1,4 @@
+A game that"s very similar to Boulderdash - the basic idea of collecting things while avoiding being crushed is the same. Additions include things such as bombs which destroy things when dropped.
+
+
+

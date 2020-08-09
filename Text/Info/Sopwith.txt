@@ -1,0 +1,1 @@
+Sopwith is a game where the player flies a sopwith biplane, trying to shoot down enemy planes and destroy all enemy buildings. It can be played in single player or in skirmishes against the AI.

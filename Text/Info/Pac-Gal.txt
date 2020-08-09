@@ -1,0 +1,1 @@
+An 80"s clone of namco"s Pac-Man. You play a square block, traveling around a maze of 468 pellets to eat. You have to also try to avoid the Ghosts, who in this game are shaped like a heart, a clover, a diamond and a petal. The game has a number option for how fast you want the game to be 0=fastest and 30000=slowest.

@@ -1,0 +1,9 @@
+Each player in turn must create one or more words consisting of 2 or more letters. The first word must intersect the center of the board, which is the square with the star in it. All other words must be created so that at least one tile is placed adjacent to a tile already on the board. All tiles must be placed in a straight line, 
+either horizontally or vertically, and when added to tiles already on the board must form one complete word in this direction. Any perpendicular words formed by adjacent tiles must be complete and legal words. Blanks may be used as any letter, but once played their value can not be changed.
+
+If you can"t make a word, you have the option of exchanging some or all of your letters. If you choose to do this, you will get no points for your turn, and play will pass to the next player.
+
+The game is over when all the tiles have been exhausted, and at least one player has an empty rack, or no more words can be made, and each player passes his turn. Any tiles remaining in the rack will be 
+counted against the player. The winner is the player with the highest score.
+
+Scramble will determine the point value for words played and keep track of the score. A tile on a bonus square will result in a bonus of two or three times the value of the letter, or two or three times the value of the word.

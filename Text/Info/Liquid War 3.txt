@@ -1,0 +1,11 @@
+Excellent multi-player fully configurable battle game. DOS.
+
+Liquid War 3 was the first truely playable version of Liquid War. It was released at the beginning of Summer 1995.
+
+Splash screen
+The Liquid War 3 splash screen.
+In fact, after several implementations of Liquid War in Pascal by Thom-Thom, I coded the game in standard C, with a bunch of assembly code for performance. Point was that on one hand Thomas Colcombet had a very good idea for a game, but not necessarly the motivation or time to code it, and on the other hand I had programming skills but no brilliant idea of what to implement. So in a way I coded Thom-Thom"s game, and the result was Liquid War 3.
+
+It"s much more playable than Liquid War 2 since it"s not required to compile the game each time you want to change a parameter, but compared to Liquid War 5 it"s totally unusable, the GUI being horrible. Compared to Liquid War 3, Liquid War 5 is so convenient to use you might wonder why everyone on earth does not use the same interface yet (LOL).
+
+Most of the documentation about Liquid War 3 is in French , and there"s no good reason for me to translate it in English, at least as long as there"s some interesting work needed on the more recent versions of the game.

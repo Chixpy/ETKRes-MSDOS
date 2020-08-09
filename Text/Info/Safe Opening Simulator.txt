@@ -1,0 +1,13 @@
+Safe Opening Simulator is quite accurately described by its title: This program is a simulation that lets you open safes.
+
+At first, you"ll have to identify the safe, guessing the manufacturer, model and class of the safe and the lock. For each identification item, you have three attempts; after the third unsuccessful attempt, the program identifies it for you.
+
+Once identified, your task is to open the safe. The program provides an on-line help that gives you some guidelines as to how safes work, what tools to use, and how to use them. To open the safe, you can choose between different methods; their success depends on the current safe, which may or may not be broken due to broken drive pins or stuck levers inside the lock etc.
+
+The simplest method of opening a safe is dialing: This lets you turn the combination wheels while listening for the sounds inside the lock that give you hints about the wheels" positions and the correct combination. 
+
+In some situations, for example when the lock is broken, dialing fails; then you"ll have to drill the lock, either to cut the fence of, or to have a look at the wheels. You"ll have to take great care about the correct position and angle when drilling. 
+
+If all fails, you can resort to blow the safe open using explosives. The program then gives you hints about what was wrong with the safe, and how you could have opened it.
+
+After you have opened a safe, the next safe is presented to you -- there is no story, and you get no points. Safe Opening Simulator is an unusual and, as far as I understand (I"m no expert ;-), quite realistic simulator with educational value for wannabe safe crackers...

@@ -1,0 +1,1 @@
+A maze game like Enigma. Your goal in each level is to find the exit, but a wall will reveal only when you bump into it. Boring graphics and poor design (no score displayed, no number of movement displayed). No challenge value since the levels don"t have a time limit. The game is only a test of patience.

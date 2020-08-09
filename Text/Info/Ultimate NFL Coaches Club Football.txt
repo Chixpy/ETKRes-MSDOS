@@ -1,0 +1,7 @@
+Second edition of MicroProse"s "Coaches Corner" football simulations.
+
+This is a football simulation that puts the emphasis on management and coaching rather than arcade action. Includes completely editable statistics for every NFL team and player of the 1994 season, but you can create new teams, players, etc. to update it constantly. Also included is a comprehensive playbook editor.
+
+Gameplay modes include single games and league play. The action progresses by plays, you stop to select the one you want, or make substitutions or whatever, and then watch the action get carried out in the screen. You also have the choice to listen to a computer coach for advices on every play, or if you don"t want to be bothered you can opt. for the computer to simulate the encounter by itself before the game begins.
+
+Graphics use 2d-sprites for players over 9 pre-set camera views, and the game includes one-on-one multiplayer modem support.

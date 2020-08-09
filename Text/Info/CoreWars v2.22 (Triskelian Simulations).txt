@@ -1,0 +1,5 @@
+The enclosed files are released (again) into the public domain.
+
+The original program was written by Kevin A. Bjorke in May 1984. Mr. Bjorke"s version was targeted at Unix machines and used the Small-C dialect.
+
+The program itself is based on several Scientific American "Computer Recreations" articles written by A.K.Dewdney.  These articles appeared in the May 1984, March 1985, and January 1987 issues.  Check these articles at your local library for the gory details.

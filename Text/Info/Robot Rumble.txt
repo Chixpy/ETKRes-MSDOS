@@ -1,0 +1,2 @@
+As of now, in the art department, I have three bots finished, three hazards done, and about twenty different arenas done. The basic control scheme is done as far as coding goes. Basically all you can do right now is start the game, choose Arcade mode, enter a random arena and drive a bot around. I plan to have a two-player mode which you know is very seldom seen in QB games. Hey? Wouldn"t it be awesome if I could make online...yeeeaaah right!? As if! I wouldn"t know where to begin. Woops, I"m off track. Well actually I guess that"s all I have to say for now.
+

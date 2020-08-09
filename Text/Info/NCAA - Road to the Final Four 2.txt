@@ -1,0 +1,3 @@
+Basketball game focussed on the NCAA college tournament and sequel to the previous Road to the Final Four. In this one you get the entire 64 teams NCAA tournament teams and all the season stats for 1991, 92 and 93. Gameplay modes include exhibition and tournament modes (where you can play in any of the aforementioned seasons) with the choice to play in arcade or coaching modes where you call the plays while the game proceeds sans your direct interaction.
+
+Graphic modes available include vga and svga with graphics consisting of digitized sprites for players over a polygonal court and basket.

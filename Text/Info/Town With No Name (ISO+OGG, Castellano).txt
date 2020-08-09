@@ -1,0 +1,3 @@
+Town With No Name is an interactive cartoon arcade game, using a 3D modelling technique and set in the Old West. You must be ready to enter perilous places and confront dangerous people. Your path will take you to The-Hole-In-The-Wall gang and you"ll have to figure out a way to pass through them.
+
+NOTA: Necesita la versión de DOSBox de Ykhwong.

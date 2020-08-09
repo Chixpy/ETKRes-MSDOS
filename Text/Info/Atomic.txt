@@ -1,0 +1,9 @@
+Atomic is a strategic boardgame for one or two players. It is played on a 8 x 8 board (chess board).
+
+Your goal is to turn all the atoms of the opposit player to your color.
+
+A atom can only be placed in a square that doesn"t contain atom(s) of the opposit color.
+
+The cornersquares can take 2, sidesquares 3 and centersquares 4 atoms before they explode. When a square explodes it throw its atoms into the nearby squares possibly causing new explotions. Atoms tossed into a square causes the atoms allready in that square to change to the tossed atoms color.
+
+When one player has lost all his atoms the game is over.

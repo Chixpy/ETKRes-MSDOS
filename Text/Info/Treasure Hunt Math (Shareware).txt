@@ -1,0 +1,1 @@
+Elementary math (grades 1-6) in arcade-style game for home & school. Basic math operations, fractions and decimals. Prints certificates of achievement & math tests. Record keeping. Editor to add or customize math problems. Registered version ($19.95) includes MathTris a falling-blocks style game & printed doc.

@@ -1,0 +1,7 @@
+Versión amateur del conocido Tetris. Parece programada en BASIC.
+
+Controles:
+
+Jugador 1: QWEA
+
+Jugador 2: IOPL

@@ -1,0 +1,5 @@
+"Adam was designed as a Virtual Reality game for my nephew. His dad bought a computer in 1992, and as you know computers tend to soak up funds quite quickly and computer games for the kids were not high on the list. Adam is your typical 2nd grader with interests in Rubber bands, Bicycles, and Calvin-and-Hobbs type adventures, so this game was based on those interests.
+
+Object of the game: You start out armed with a rubber band shooter, and an unlimited supply of rubber bands. Your mission is to destroy the rubber band shooters before they destroy you, and find your way home before dinner.
+
+Written using Virtual Reality Studio by Incentive Software"

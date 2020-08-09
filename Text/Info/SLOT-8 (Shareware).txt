@@ -1,0 +1,3 @@
+"SLOT-8 is a simulation of an 8-way pay slot machine. An EGA or VGA graphics adapter is required to play the game.
+
+You are given a bankroll of $100 to start with. If you loose it all, then the game is over and you will probably be insulted. A Top Ten all time scoreboard is maintained. You will only see it if your score is good enough to get there."

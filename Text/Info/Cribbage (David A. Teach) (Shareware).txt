@@ -1,0 +1,13 @@
+"When Sir John Suckling created cribbage in the 17th century, little did he know how popular cribbage would become in the centuries to follow. Part of the appeal of the game is that the rules offer a variety of ways for the two players to score points. There is the strong competition to out smart your opponent when playing the cards, along with the suspense of finding out the starter card to add value to your hand.
+
+The Crib
+
+After the cards have been dealt, the player & computer select 2 cards each to make up the crib. The crib is always the dealer"s and is not looked at until the hands have been played out. If the player is the dealer, the four cards will appear in the upper right hand corner of the cribbage window. After both players hands have been scored the dealer scores all points contained in the crib, combined with the starter.
+
+The Starter
+
+After both players have discarded into the crib, the pone then cuts the deck and the top card is turned face up. This turned up card is called the Starter, and is not used during the playing of the hands. It is counted however, with each hand and the ""Crib"" on the final count. If the Starter card is a JACK, the dealer is given two points.
+
+Object of the Game
+
+The object of the game is to be the first player to reach 121 points. The current point totals are shown in two different ways. The values are shown in the ""Computer"s Score"" and ""Player"s Score"" score box. These same values are also represented as pegged values on the cribbage board. The computer"s pegs are yellow and the player"s pegs are blue. The pegs always go up the outside and down the inside. If the winner reaches 121 before the opponent gets 91, this is called a skunk and is considered as two games won (and double the money). If the opponent doesn"t reach 61 this is considered a Double Skunk and is quadruple(four times the money). The players obtain points by forming various counting combinations as pairs, triplets, fours, sequences and fifteens. Combinations can be formed when playing the cards, or when counting the hands and crib in conjunction with the starter card."

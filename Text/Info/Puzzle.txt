@@ -1,0 +1,1 @@
+Puzzle is a simple jigsaw puzzle game. The game includes 9 different puzzles, with 10 difficulty levels for each picture. The player can see how much time has passed since he or she started and the amount of moves made.

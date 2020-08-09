@@ -1,0 +1,2 @@
+This game collection is not compiled. Included is Tic Tac Toe, a number guessing game, and a Pac-Man clone.
+

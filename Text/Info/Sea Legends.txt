@@ -1,0 +1,3 @@
+Sea Legends is pirate simulation game similar to Sid Meier"s Pirates!. 
+
+As Richard Gray, a young captain, the player has to master ship navigation, sword fighting, trading, sea and land warfare, and crew recruiting in order to progress in what begins as a simple story but will evolve into a plot with many characters with a few twists and turns. This game features many different weapons (cannons, rifles, swords, etc.) and goods to trade. Colony buildings include a tavern, a governor house, an armory, in addition to a church, which allows the player to save games. One of the most important features in this game is sea warfare, incorporating a 3D voxel engine making combat more realistic.

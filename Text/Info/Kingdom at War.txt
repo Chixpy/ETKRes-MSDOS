@@ -1,0 +1,2 @@
+Kingdom at War is a turn based strategy game in which you control a medieval country and set out to conquer all other countries. You can raise armies, improve your castle and its defenses, conduct diplomacy, and improve your economy. Set scenarios, and randomly generated maps allow for varied replay options. Many factors can be randomized to create new worlds to dominate.
+

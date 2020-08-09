@@ -1,0 +1,6 @@
+In this game you are Bomboy, a small mutant boy who was born underground.  You must reach the exits to continue on to the overworld.
+
+You have a limited amount of different kinds of bombs at your disposal.  Pushing the appropriate function key activates them.  Holding the key down will put more power into the shot.
+
+The ? bomb is not available in this demo version.
+

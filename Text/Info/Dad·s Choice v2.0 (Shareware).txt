@@ -1,0 +1,3 @@
+An easy-to-use and fun math and graphics program for kids age 4 and up.  Has tutorials and arcade type games.  The tutorials have multiple learing levels so your child will never outgrow them.  Has instruction for addition, subtraction, multiplication, division, and prealgebra math.  Also has a graphics module that can be used to draw lines, boxes, circles, arcs, text and macros.
+    
+These drawings can be painted, edited, copied, stored and even animated.  Requires 256K RAM and color graphics (CGA).  A mouse is optional but recommended for the graphics module.

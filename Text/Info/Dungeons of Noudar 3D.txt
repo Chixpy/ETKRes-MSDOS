@@ -1,0 +1,7 @@
+This is my modest entry into a venerable genre of RPGs  and also is a new 3D interpretation into my roguelike engine.
+
+It is a simple game, made deliberately to fit into a single 1.44MB floppy disk uncompressed. In fact, I test it on a 486Sx 33Mhz with 8MB and without a hard drive.
+
+It"s a game for old farts like me, but I hope you could wear old fedoras and suspenders, put yourself into the right mindset and enjoy it as well.
+
+DOS is back with a vengeance. This is only the first blow.

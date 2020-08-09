@@ -1,0 +1,9 @@
+"Konnect Four is a 2 player strategy game.
+
+You must have at least a CGA video display to run this game. The game should also work fine on EGA/VGA/SVGA displays that have CGA compatability. The game requires just 128K of free RAM to operate. It should work with any DOS version. To start the game, just enter K4 at the DOS prompt.
+
+Once in the game, note the blue or red box at the top right of the screen. This box shows who"s turn it is (the blue player or the red player).
+
+Also notice the command ""Choose Column (1-7)"". This corresponds to the 7 columns on the game board. Simply press a number key (1, 2, 3, 4, 5, 6, or 7) to drop your game color game piece into the corresponding column.
+
+The first player to get four of his/her color in a row (up, down, or diagonally) wins the game. The computer will automatically detect the winner. In case of a tie, the game board will be cleared so you can continue."

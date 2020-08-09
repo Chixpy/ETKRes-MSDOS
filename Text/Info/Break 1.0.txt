@@ -1,0 +1,7 @@
+You move the club using arrow-keys (left and right). "Enter" starts and pauses the game and if you wish to quit playing, just press the arrow-up -key when the ball is moving.
+
+You gain points on every bar you hit and also a bonus if you remove all bars. The size of the bonus is defined by the count the ball hit your club; the more hits the smaller is your bonus.
+
+At this moment I"ve made 7 screens. You can modify then easily by using some text editor: 25 rows and 10 columns, 0 is an empty place and 1 is a bar. Just be sure that the names of the files (scr.?) 
+remain same, and the files are in the same directory with brk.exe.
+

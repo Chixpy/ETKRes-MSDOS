@@ -1,0 +1,7 @@
+Although subtitled "A Text Adventure Game", Zyll is actually a revolutionary text-only RPG that introduces many concepts that have not since been seen together in one game.The basic plot: you have been transported to a distant land to recover the black orb and at least 4 treasures from Zyll, the evil sorcerer who destroyed your homeland. 
+
+So what makes the game so revolutionary and unique? C.E. Forman said it all in his synopsis of the game: ?Jim Leonard of MobyGames called this one "a MUD before MUDs existed." It"s an all-text RPG (even going so far as to include three classes of character to choose from), it"s real-time, it allows two people to play at once (cooperatively or competitively), and it"s highly randomized for replay value: Objects and monsters are placed differently in every game, much like the sample adventures in Delton T. Horn"s excellent book Golden Flutes and Great Escapes. 
+
+The screen is divided into ASCII-border windows, and play is driven by single keystrokes rather than a parser (a necessity for the two-player simultaneous option), but there are lots of long text descriptions. 
+
+With three different types of characters to choose from (Warrior, Thief, and Wizard), high replayability, and some excellent fantasy writing, Zyll is a classic fantasy RPG that is well worth a slot in our hallowed Hall of Belated Fame.

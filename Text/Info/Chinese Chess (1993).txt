@@ -1,0 +1,6 @@
+I am the packager of this ZIP file, CCHESS.ZIP, and am also known on the thousands of Fidonet BBSs that carry SDN files as the editor of ShareDebate International (more about that in the separate file, ABOUT_SI.TXT).
+        
+I put this package together to introduce others to the incredible fun of Chinese Chess which is my favorite game.  My wife of 17 years is Chinese and I spend about a month a year in Hong Kong where I picked up the game.
+        
+There are two public domain/freeware versions of Chinese Chess included in this file, CCHESS and XQ. CCHESS works fine for PC"s and the HP 100 (a palmtop MSDOS MCGA computer) but if you can spend $35 (not to me but to the author of the game), the Xian for DOS game is far superior.  XQ works fine on a color PC (as does CCHESS) but XQ doesn"t look good at all on the HP100 --no matter what screen shading/inversions I did.
+

@@ -1,0 +1,3 @@
+Starquest is a simple space game in which survival is your only goal.
+
+Do you have what it take to become a legend of the galaxy? You start the game with a small mining ship, it doesn"t have much, but just enough to get you going. As you play, you can slowly build up your ship and extend your technology to help you along in your quest for fame. If you run out of FOOD or FUEL, you will find yourself stranded in space, thus losing the game. as your ship develops, your crew will grow. You must pay the crew every 14 days, and as the responsibilities increase, so will their payrate.

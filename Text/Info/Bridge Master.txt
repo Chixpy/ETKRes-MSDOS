@@ -1,0 +1,3 @@
+Bridge Master is a Bridge simulation allowing you either to improve your game play (by playing against the computer or against on-line friends), or to learn how to play Bridge completely from scratch. An on-screen assistant can give you tips on your strategy, or suggestions for the current move.
+
+The game is highly customizable, supporting different bidding conventions, game types, and several "player personalities" - meaning you can set the game style of your computer opponents (active, passive, trump-waster, etc.).

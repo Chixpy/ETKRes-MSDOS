@@ -1,0 +1,7 @@
+Sid Meier"s Civilization II is a turn-based strategy video game designed by Brian Reynolds, Douglas Caspian-Kaufman and Jeff Briggs. Although it is a sequel to Sid Meier"s Civilization, neither Sid Meier nor Bruce Shelley was involved in its development. The game"s working title was Civilization 2000. Civilization II was first released in 1996 for the PC and later ported to the Sony PlayStation. In 2002, Atari re-released the game for newer operating systems, such as Windows 2000 and Windows XP. The Multiplayer Gold Edition was included in the Civilization Chronicles box set released in 2006.
+
+Civilization II is similar to the first Civilization, with some changes to the various units, civilizations, world wonders, tile "specials" and technologies. The graphics were changed from a top-down view to an isometric representation. Rivers no longer occupy the whole of each tile along its length, as it is just part of each topography square it flows through, adding productive value, defensive bonuses and movement ability. The AI was improved as well, including the elimination of most random events by now making the computer player go through the same production requirements as the human player.
+
+The game features entirely new concepts, such as firepower and hit points, and changes to some units" abilities and strengths. For instance, engineers and settlers can be automated to improve surrounding areas, but no longer ignore enemy zones of control. Some new units are added such as stealth aircraft.
+
+NOTA: Usa Windows 3.11 

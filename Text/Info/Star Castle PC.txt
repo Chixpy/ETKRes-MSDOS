@@ -1,0 +1,7 @@
+"The object of the game is simple. You control a space fighter and do battle with an incredibly powerful space battleship.
+
+This battleship is equipped with a mighty arsenal of weapons including a plasma cannon that will destroy anything in its path as well as smaller homing torpedoes that lock onto your ship and relentlessly pursue you.
+
+The battleship is surrounded with three spinning walls of energy. Your ship must shoot holes through the spinning walls and break through all three walls to clear a path to the center of the walls where the battleship awaits.
+
+Once you have cleared a path the battleship will fire its cannon at you as you try to get a clear shot and destroy it."

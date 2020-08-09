@@ -1,0 +1,3 @@
+Medieval Lords is a strategic political/war simulator starting in 1028AD and continuing for up to 100 turns / 500 years. Up to 10 players can take part, with the computer controlling up to 6. Limits can be set on how many actions can be performed in each turn, so be wary of over-expanding if there is not much time to give orders. Gameplay takes place in Europe, North Africa, and the Middle East, in a world full of conquests, diseases and change. 
+
+You are an adviser to a King, Caliph, Sultan or other leader, and must first manage domestic issues such as the economy and political stability, before attempting to conquer or form alliances with other regions. Random events such as plagues and religious orders ensure that each game is different.

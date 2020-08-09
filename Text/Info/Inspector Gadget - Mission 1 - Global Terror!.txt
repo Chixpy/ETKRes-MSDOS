@@ -1,0 +1,9 @@
+Dr. Claw has kidnapped UN members and replaced them with his robots. Your mission is to find and rescue these UN members, who are being held captive around the globe, then return to the UN building to save the world.
+
+This is an adventure game made for children, so its difficulty level is low and the missions" structure is always the same.
+
+The player can choose to play as Penny, Inspector Gadget"s niece, or her dog Brain, and will frequently switch characters during the game. Brain is kidnapped early on in the game, but Penny manages to help Brain escape. Penny will be locked away somewhere, and the player must find some of her uncle"s gadgets and clues to where she is kept captive. Switching characters again, the player must then disguise himself and rescue Penny. After this the player  rejoins Uncle Gadget, gives him back the gadgets found with Penny and rescues the UN member, using the gadgets, which can be activated through Penny"s book.
+
+When this is done for every kidnapped UN member the player can go to stop Claw"s plan at the UN building.
+
+The gameplay is the same as a point-and-click adventure interface, the player moves Penny and Brain around and has at his disposal the classic take-look-talk-etc. icons in the bar at the bottom of the screen, plus an icon to switch from Penny to Brain, and another to use Penny"s book (which gives access to gadgets and various information).

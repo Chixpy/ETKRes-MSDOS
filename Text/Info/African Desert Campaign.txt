@@ -1,0 +1,5 @@
+The Allied forces take on the forces of Germany to gain control of the Suez Canal in African Desert Campaign. Keyboard controls are used to select the unit you"d like to move and when your turn is finished you must await the enemy to make their move.
+
+Playing somewhat like Risk  the game is won by taking over enemy chips. When your chip is next to an enemy unit you must attack and try to take over their forces. The outcomes of the battles depend on the munitions and supplies available to the attacking and defending unit. When an enemy unit is defeated their supplies become yours. Certain types of terrain will block or hinder the amount of moves you can make while others will make you start the moves from the beginning altogether. When your units get large enough you may choose to split them by using the Separate command and select the unit you"d like to apply it to. The command Reinforce is used to move supplies around within your units.
+
+The game units are controlled with keyboard controls utilizing a menu at the top of the playing field while the graphics are rendered using ASCII graphics.

@@ -1,0 +1,2 @@
+Complete Chess System is a Chess game that allows you to play a match against your computer. The game comes with a set of historical games played by pros. With a skill level similar to those of national champions the game is meant for professional chess players. The game of chess is played in top-down 2D with icons depicting the various pieces or in 3D from the player"s perspective.
+

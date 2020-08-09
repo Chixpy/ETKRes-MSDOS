@@ -1,0 +1,1 @@
+STRATEGY is a strategic wargame for two players. The computer will take one side, and you the other. It is based on the rather well-known STRATEGO boardgame. (Well anyway, thats what it"s called in Denmark.)

@@ -1,0 +1,5 @@
+Whereas the original NetWars was developed by Novell to be bundled with their Personal NetWare program to show off NetWare"s IPX capabilities, this update with more advanced graphics and new features was released with OpenDOS.
+
+The main idea of Advanced NetWars is much like the original: you are placed in the cockpit of a space fighter and sent out into the vast reaches of space to shoot down your enemies or be killed yourself. You are given plasma guns, missiles, and turbo boosters to help you on your mission.
+
+Your 3D radar is also very important to you, as it shows where other fighters are relative to your position, but also how far "above" or "below" you they are.

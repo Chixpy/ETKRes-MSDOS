@@ -1,0 +1,1 @@
+Xyphr is a sci-fi shooter reminiscent of Space Harrier. The player controls a space craft from a third-person perspective, adjusting the altitude while automatically moving through pseudo-3D environments. The gameplay is rather simple: many hostile ships and other enemies are there to stop the hero, and constantly shooting at them is the only way to survive.

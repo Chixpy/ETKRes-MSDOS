@@ -1,0 +1,3 @@
+A simple tactical combat simulation for two players, set upon a hex grid map.  The conflict takes place in the Cold War, with six Soviet Red Army units on the offensive against a triad of cities, defended by four US Army units.  
+
+Obeying certain rules, e.g. according to the type of terrain and the placement of enemy units, each side gets a movement phase and an attack phase per game turn.  Combat will either eliminate one of the sides or force it to retreat; cities and woods provide a defense bonus.  Both sides must meet their respective goals within 10 game turns: the Soviets win if they can occupy and hold at least two of the cities; otherwise, victory goes to the Americans.  PCjr Cartridge BASIC is required to run the game.

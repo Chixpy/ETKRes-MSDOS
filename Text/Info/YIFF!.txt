@@ -1,0 +1,2 @@
+Basic game play is as such: you get a grid of 6 columns by 4 rows. Two players (red and blue foxes) take turns placing pieces on the board. When a square is critical, one more fox will cause the foxes to YIFF! and scatter to adjoining squares, and all turn the color of the current player. This may lead to a chain reaction.
+

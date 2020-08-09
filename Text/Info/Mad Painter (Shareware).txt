@@ -1,0 +1,5 @@
+"The objective of MAD PAINTER is to paint all the streets in town with your new painting truck, while avoiding the crazed car drivers. To paint, simply drive. The truck paints automatically. If you drive over fresh paint it doesn"t matter. What does matter, however, are the cars! Avoid them at all costs. A collision with one of them ends the game. They are more plentiful and vicious as you progress through the levels.
+
+Occasionally, a cloud will come from out of the north and drift through town. When this cloud passes over a section of street you"ve painted it washes the paint away (turns it gray) and that section must be repainted.
+
+When you"ve completely painted the town, you advance a level and begin again in a new area."

@@ -1,0 +1,2 @@
+"Robix is another logic puzzle game from Soleau Software. The objective of this pure strategy game is to get your colored blocks to the bottom of the game board by pushing entire rows either left or right. Written in beautiful EGA/VGA graphics, it is both addictive and challenging for all 
+ages!"

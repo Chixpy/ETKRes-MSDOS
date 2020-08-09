@@ -1,0 +1,7 @@
+Football Masters 99 allows the player to control over 50 teams from 15 countries from all around Europe, each with their own different league system, such as the straight four divisions in England, Scotland and Denmark to the the nationwide leagues with a third regional tier in Germany, Italy, Spain and Portugal. All squads are editable before starting a game, and up to eight players can compete at the same time.
+
+Managers have the usual ability to set player bonuses and ticket prices, plan training at both global (a weekly 40-hour pool to be distributed between gameplay, fitness, set plays and skills) and individual (the manager can insist in one of the ten individual skills) levels, sign, sell and loan players and set formations and tactics (setting wingbacks, pack defense or offside trap. among others).
+
+Performing well will give the chance to coach a higher ranked club, but always on the same league. It"s possible to select a top-ranking team, but start on the lowest division, as well as randomizing player stats, which can all be edited to suit your tastes.
+
+The game engine features a top down radar (which you can click anytime and change the position of any player) which follows the action by the minute, plus text information on key events such as goals, fouls and cards.

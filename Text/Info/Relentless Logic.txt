@@ -1,0 +1,9 @@
+Relentless Logic (also called RLogic) can be considered a fore-runner of the mighty Windows application Minesweeper, with some differences.
+
+For once, Relentless Logic actually has a bombastic patriotic background story: You play a private of the US marines who must get an important message over a mine field. The future of America is in your hands -- handle with care.
+
+As in Minesweeper, the game is played on a rectangular grid. Several mines are hidden on the grid, and from the displayed number of mines in the neighboring fields, you need to guess where the mines actually are. Unlike the Windows game, however, the task here is not to clear the whole field, but to trace a path from the upper left to the lower right of the field. You also can not set markers to remember the position of identified mines, which makes the game somewhat harder.
+
+The game is always played on a fixed field, but you can choose the number of hidden mines. Time is counted in seconds, not steps, and this is the base of your "Skill Rating" when successfully finishing the game.
+
+When stepping on a mine, your character is blown to bits by a sequence of ASCII explosions and PC beeper bleeps, which adds some lovely cheesy gore.

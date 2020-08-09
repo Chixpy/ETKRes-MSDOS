@@ -1,0 +1,2 @@
+DEAD END is a game for 1 through 6 players. The game is played by choosing a path through the streets and avenues of the board and marking each step of the path with an arrow. The object of the game is to be the last player on the board to reach a DEAD END.
+

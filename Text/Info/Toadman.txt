@@ -1,0 +1,2 @@
+You control a toad and your goal is to kill the other toad. Two players only and includes a level editor.
+

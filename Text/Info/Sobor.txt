@@ -1,0 +1,7 @@
+One of the first games produced in Russia after the collapse of the Soviet Union, Sobor is a beat-em-up featuring Russian peasants engaging in bitter hand-to-hand combat through their quest to defeat "Evil Forces", protecting the knowledge that was found contained in ancient scrolls describing Russian Sobor combat system.
+
+The game is broken into stages alternating object courses and combat. The player controls the group of five fighters. In the very first stage they are trained in a sparring session, the player"s performance defining their toughness for the rest of the game.  
+
+Obstacle stages involve passing by the Baba Yaga and other characters of the Russian folklore, or navigating a grid of lightning-shooting skulls.
+
+The core of the game, however, is five-on-five brawls, where the player controls one of the fighters while other four are controlled by AI. The player can switch the controlled fighter at any time.

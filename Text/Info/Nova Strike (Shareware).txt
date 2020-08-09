@@ -1,0 +1,2 @@
+Nova Strike is a space flight simulation combat game. The object of the game is to develop the flying skills and tactics necessary to destroy all the enemy ships. You are given only one ship which has superior performance and weapons to accomplish this. Among the changes in this new version are: improved radar range, better flight stick response and support of the mouse buttons. This game requires a 286 or greater, 240k available memory, VGA graphics and a mouse.
+

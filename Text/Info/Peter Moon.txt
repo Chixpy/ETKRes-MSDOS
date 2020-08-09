@@ -1,0 +1,23 @@
+Peter Moon es una videoaventura de planteamiento marcadamente clásico, de esas en las que a lo largo y ancho de un amplio mapeado hemos de ir encontrando una serie de "objetos" en un determinado orden, mientras evitamos el contacto con la "fauna" del lugar.
+
+En Peter Moon los objetos principales a encontrar toman la forma de letras, más concretamente de las que forman la palabra "SCHONBERG". Estas solo pueden ser recogidas de forma correlativa según su ubicación en la palabra.
+
+Evidentemente, además de las mentadas letras hay más objetos dispersos por el mapeado. Estos funamentalmente son:
+
+- Llaves: Abren candados que dan acceso a nuevas zonas del mapeado.
+- Pócimas: Permiten pasar sobre ciertos hongos tóxicos y así tener acceso a lugares en principio inaccesibles.
+- Pollos asados: Reponen la energía de nuestro rechoncho y pixelado alter ego.
+
+En cuanto a los enemigos, comentar que estos son de lo más variado, que siguen rutas prefijadas y que cualquier contacto con ellos supondrá una merma importante de nuestro exiguo nivel de energía.
+
+Entrando ya en cuestiones técnicas decir que el juego se presenta en una perspectiva pseudo-cenital muy similar a la ofrecida por clásicos como Babaliba.
+
+En lo estético, Peter Moon presenta unos escenarios bien elaborados, unos personajes correctamente definidos, dotados de un diseño de lo más simpático y un uso afortunado de las poco agradecidas paletas CGA (el juego va combinándolas).
+
+Además, no existe ralentización alguna, todo fluye en pantalla.
+
+El nivel sonoro es algo más reprochable ya que resulta bastante parco. Aún así (dentro de su contexto) resulta razonablemente bueno.
+
+En el ámbito jugable cabe destacar el elevado nivel de dificultad de ciertos lances del juego, cosa que por suerte se compensa con una buena respuesta del personaje principal a nuestras órdenes y con un desarrollo siempre interesante, que invita a seguir jugando.
+
+En conclusión, con Peter Moon nos topamos ante una clara muestra de buen hacer en CGA. Estamos ante un programa bien resuelto a casi todos los niveles, dotado de un divertido y a la vez clásico desarrollo, capaz de mantener ocupado "al personal" durante bastante tiempo. Interesante. 

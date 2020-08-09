@@ -1,0 +1,3 @@
+Object of the game is to move around the screen completing three sides of a box and not being hit be the meanies. If you complete it the box will fill and you are ready to start again. The cursor keys control direction.
+
+Idea borrowed from a pass arcade favorite of mine called Quixx. I don"t see it anywhere.

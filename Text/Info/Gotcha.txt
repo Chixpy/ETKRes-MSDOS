@@ -1,0 +1,2 @@
+The object of the program is to see how many times you can open doors without getting caught by the Gotcha. The Gotcha is randomly hidden behind one of the doors each time you press a key. He may or may not be behind the same door two times in a row. You"ll get one or the other. (grin)
+

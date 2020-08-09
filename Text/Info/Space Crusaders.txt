@@ -1,0 +1,11 @@
+Classic remake of the old \u2018Space Invaders\u2019 game using many of the original elements but offering better sound, graphics and animation.
+
+Space Crusaders is an excellent remake of the old "Space Invaders" classic which retains much of the charm of the original but uses enhanced sound, graphics and animation.
+
+The credits are a bit long though some of the animation is excellent. Just press the spacebar if you want it to hurry it up a bit.
+
+The game features multi-levels (we didn"t go through to the end so we don"t know how many and the author doesn"t say) and a high score.
+
+Sounds are good and require SoundBlaster compatibility.
+
+Very playable game.

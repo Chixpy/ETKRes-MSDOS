@@ -1,0 +1,2 @@
+A vertical shooter featuring 45 levels, multiple weapons, story, and a save game option.
+

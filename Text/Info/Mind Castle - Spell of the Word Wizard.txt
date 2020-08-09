@@ -1,0 +1,3 @@
+Word/vocabulary learning game for ages 8 and up. You enter the Word Wizard"s castle and take on a series of quiz challenges by clicking on different parts of each room in the castle. The game runs against a clock, and each correct answer grants you bonus time to play and thus you get the chance to take on more challenges. Graphics are 2D vga depictions of each room with score and time indicators onscreen and challenges popping up on windows.
+
+

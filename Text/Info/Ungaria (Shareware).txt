@@ -1,0 +1,6 @@
+"Ungaria is a challenging game of strategy, skill and a bit of luck, adapted from ancient traditions of the Magyar people.Requiring concentration and speed, it is a wonderful pastime, that can be played with various levels of complexity and different time demands, allowing the players to keep a record of their evolution.
+
+Points are awarded for any domino placed on the board.The higher the numer of edge fits and/or the faster you play and/or the more dominoes already on board,the higher the points. Games configured with smaller boards and/or with more colors reward more points.
+
+Moves that do not fit or to occupied cells, as well as passed dominoes, a penalized with fines that are discounted from the score. Mirrored dominoes are awarded lower points."
+

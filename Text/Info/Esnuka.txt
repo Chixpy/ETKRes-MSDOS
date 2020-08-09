@@ -1,0 +1,12 @@
+Esnuka (supone un servidor que el nombre viene de la palabra "snooker") es un juego de billar que...
+
+Mejor dicho, Esnuka es una representación de la teoría de la evolución de las especies que...
+
+¡Ops! Esnuka, en realidad, son las dos cosas en un solo programa.
+La intención del autor es representar las teorías (o su teoría; lo siento, me estaba costando leerme el manual) de la evolución a través de un juego de billar.
+
+Puedes elegir entre dos opciones: billar clásico y Esnuka. El primero es el simulador de billar sin más. Si escoges la segunda opción será cuando te adentres en este curioso juego-teoría.
+
+Ciñéndonos a lo que nos interesa en una página de videojuegos, como simulador de billar se queda un poco corto. A pesar de darte varias opciones, como la posibilidad de jugar al billar inglés o americano, los gráficos son muy simples, el sonido simplemente está ahí y el abanico de posibilidades a la hora de jugar no son muy amplias.
+
+Suponemos que el autor no quería hacer el simulador definitivo de billar, por lo que hemos comentado anteriormente, pero un poquillo más de calidad no le hubiese venido nada mal. 

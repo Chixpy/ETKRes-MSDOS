@@ -1,0 +1,2 @@
+Addictive logic/drawing puzzle game for the IBM PC! Figure out what the picture is using logical deduction. Requires mouse & EGA/VGA. Different puzzles save/restore. Interesting!
+

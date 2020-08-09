@@ -1,0 +1,1 @@
+Most Tetris clones running in text mode use two characters for a block, or one character in 40-column mode. Hector Noriega"s TetraFix has the largest blocks, made out of eight characters each. His pieces are all the same color, but change it when they reach the bottom.

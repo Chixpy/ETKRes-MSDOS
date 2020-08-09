@@ -1,0 +1,2 @@
+A variation on the classic link game. Can only be played against the computer.
+

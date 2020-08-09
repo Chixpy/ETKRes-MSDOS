@@ -1,0 +1,6 @@
+This is a platform game with ASCII charecters as display. This doesn"t mean that the quality of the game is marginalised; this game still boasts fluid movement, flickerless scrolling, a colourful display, and a suitable level of challenge. What"s more, it"s in pure QB =). It is completed, with 5 acts or 20 levels, or 46 maps!
+
+-What is my aim?
+
+Travel upwards until you find the crystal. You may have to travel through a few portals and various obstacles, not to mention clearing some monsters or mazes, to get the crystal. At some levels, you even have to fight a boss to get the crystal
+
