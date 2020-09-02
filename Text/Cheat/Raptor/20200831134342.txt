@@ -1,0 +1,6 @@
+## Many Credits
+
+Edit CHAR000?.FIL saved game file with hex editor:
+
+Byte 24 = 31
+Byte 25 = BB

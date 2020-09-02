@@ -1,0 +1,14 @@
+Finish Moves:
+
+* Maybe P must be pushed together last direction.
+* Maybe soft motions work: qcf, hcb, etc.
+
+Jaguar: d, d, u, P
+Thorn: b, b, f, P
+Electra: d, f, P
+Katana: 360cw, P
+Shredder d, f, P
+Flail: f, f, P
+Cronos: d, d, f, P
+Nova: b, f, d, b, P
+Gargola: 360ccw, P

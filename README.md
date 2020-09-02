@@ -5,7 +5,15 @@ Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chi
 
 ## About Images
 
+### Screenshot, Titles
+
+All images are png format at original resolution...
+
 **TO DO**: Take a decision about resolutions wich are not 4:3 (320x200; 640x350; etc); In MSDOS era, screens were 4:3. So pixels were not squares; 6x5 rectangle make a square in 320x200/640x400; 48x35 in 640x350 (11x8 and 37x27 are valid approximations). In the other hand some games seem to be aware of this; and in the worse case have mixed aspect relations it its elements.
+
+### Front, Back, Spine
+
+Escaned .jpg;
 
 ### About Icons
 
