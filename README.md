@@ -21,13 +21,19 @@ Escaned .jpg; with a maximum of 2048x2048, don't enlarge artificially (if larger
 
 Rule #1: Only 1 image for group or game. No folders with multiple images.
 
-Icons are mainly extracted from game screenshots at original resolution. Usually they are protagonist frames or lives icons (if they are similar to protagonist).
+Icons are mainly extracted from game screenshots at original resolution. Usually they are protagonist frames, lives icons or recognizable icon.
+
+Logos are usually extracted from Title or Main Menu screens.
 
 All images are .png format. Width and Height are variable, using it's original size without resizing to a fixed size or adding more border to make it square. Emuteca handle they automatically.
 
 The only time that the image will be scaled is when all 'icon pixels' are 2x2, 3x3, etc. pixels.
 
-After extracting the icon image with transparent background, a border is added: Middle grey, half transparency (128, 128, 128, 128). Emuteca has a GIMP's script in its distribution, that can add the border automatically after transparent background is created.
+After extracting the icon image with transparent background, a border is added: Middle grey, half transparency (128, 128, 128, 128). 
+
+[Emuteca](https://github.com/chixpy/emuteca) has [ETKIconBorder](https://github.com/Chixpy/Emuteca/blob/master/bin/Tools/ETKIconBorder.exe) tool in its distribution. A simple image editor to cut, extract, make transparency in images and apply filters to original image.
+
+Altenatively, there is a GIMP's script too, that can add the border automatically after transparent background is created. But it's slooooow.
 
 **TO DO**: As with images; think what to do about not 4:3 resolutions.
 

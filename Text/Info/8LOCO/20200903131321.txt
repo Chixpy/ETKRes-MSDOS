@@ -1,0 +1,2 @@
+Exciting card game with VGA graphics and mouse 
+control

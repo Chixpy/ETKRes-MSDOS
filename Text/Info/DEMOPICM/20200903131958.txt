@@ -1,0 +1,23 @@
+This program, ABC, is intended to teach the 
+alphabet to the user. There are a series of exercises 
+the user may go thru in order or via the menu may 
+access any individual exercise.  Those exercises are 
+listed below:
+        Matching Letters:
+             Matching 'upper case' letters to 'upper case 
+letters'
+             Matching 'lower case' letters to 'lower case 
+letters'
+             Matching 'lower case' letters to 'upper case 
+letters'
+             Matching 'upper case' letters to 'lower case 
+letters'
+        Matching letters to a word with a picture of 
+the word' (4 screens of 13 pictures)
+        Concentration game with letter and word 
+cards and picture cards (5 screens of 20 cards)
+
+The only system requirement is a VGA monitor.  
+However, if you copy all files to your hard disk the 
+program runs much quicker and is generally more 
+enjoyable.
