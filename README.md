@@ -3,6 +3,12 @@ Resources for Emuteca: Microsoft MSDOS
 
 Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chixpy/Emuteca).
 
+## Download
+
+Use GIT to clone the repository or download it in zip:
+
+https://github.com/Chixpy/ETKRes-MSDOS/archive/master.zip 
+
 ## About Images
 
 ### Screenshot, Titles
@@ -11,7 +17,7 @@ Rule #1: No filters to screenshots.
 
 All images in .png format at original resolution... if it is 4:3 (320x240; 640x480; 800x600; 1024x768; 512x384; etc.)
 
-**TO DO**: Take a decision about resolutions wich are not 4:3 (320x200; 640x350; etc). In MSDOS era, screens were 4:3. So pixels were not squares; 5x6 rectangle make a square in 320x200/640x400/1280x800; 35x48 in 640x350 (11x8 and 37x27 are valid approximations). In the other hand some games seem to be aware of this; and in the worse case have mixed aspect relations it its elements.
+**TO DO**: Take a decision about resolutions wich are not 4:3 (320x200; 640x350; etc). In MSDOS era, screens were 4:3. So pixels were not squares; 5x6 rectangle make a square in 320x200/640x400/1280x800; 35x48 in 640x350 (8x11 is a valid approximation). In the other hand some games seem to be aware of this; and in the worse case have mixed aspect relations it its elements.
 
 ### Front, Back, Spine, Manual, Media, Maps, Reviews, Ads, Other
 
@@ -34,7 +40,7 @@ For Magazine texts:
 For Maps (or magazine game guides):
 
   * If it's a magazine game guide: Same as Magazine texts.
-  * If it's a digital map (made of screenshot or similar): Better .png and keep as is (do not remove author, or other info; and if it's bigger than 2048px too)
+  * If it's a digital map (made with screenshots or similar): Better in .png format and keep as is (do not remove author, or other info; and if it's bigger than 2048px keep the size too).
 
 ### Icons, Logos
 
@@ -56,8 +62,11 @@ Altenatively, there is a GIMP's script too, that can add the border automaticall
 
 **TO DO**: As with images; think what to do about not 4:3 resolutions.
 
-## Download
+## About Texts
 
-Use GIT to clone the repository or download it in zip:
+Raw text .txt.
 
-https://github.com/Chixpy/ETKRes-MSDOS/archive/master.zip
+Better if:
+
+  * Empty line between paragraphs.
+  * No new line inside paragraphs (Textbox has wordwrap activated).
